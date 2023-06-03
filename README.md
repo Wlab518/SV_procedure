@@ -6,16 +6,25 @@ This is a pipeline combining Nanopore long reads and Illumina short reads to ana
 Installation
 
 1.To install Miniconda on a typical Linux/Unix system run the following commands:
+
 wget https://repo.anaconda.com/miniconda/Miniconda3-py38_4.9.2-Linux-x86_64.sh
+
 chmod 755 Miniconda3-py38_4.9.2-Linux-x86_64.sh
+
 sh Miniconda3-py38_4.9.2-Linux-x86_64.sh
+
 2.To download all scripts and example results of our pipeline run the following commands:
+
 git clone https://github.com/Wlab518/SV_procedure.git
+
 3.To install dependencies of our pipeline to Miniconda3 according to the “SV_procedure-new/config.ini” file  
 
 minimap2: 
+
 wget https://github.com/lh3/minimap2/releases/download/v2.17/minimap2-2.17_x64-linux.tar.bz2
+
 tar -jxvf minimap2-2.17_x64-linux.tar.bz2
+
 cd minimap2-2.17_x64-linux/
 
 metaspades:
@@ -27,22 +36,30 @@ mumandco:
 git clone https://github.com/SAMtoBAM/MUMandCo.git
 
 opera_ms:
+
 git clone https://github.com/CSB5/OPERA-MS.git
+
 cd OPERA-MS
+
 make
+
 perl OPERA-MS.pl check-dependency
 
 diamond:
+
 wget http://github.com/bbuchfink/diamond/releases/download/v0.9.25/diamond-linux64.tar.gz
+
 tar xzf diamond-linux64.tar.gz
 
 Other conda environments, such as metawrap:
+
 conda create -y -n metawrap1.2 python=2.7
+
 conda activate metawrap1.2
+
 conda install -y -c ursky metawrap-mg=1.2.0
 
 Usage
-
 1.To prepare the table of the data information according to the “SV_procedure/test/sample_info.txt” file
 cd $outdir && vi sample_info.txt
 2.To prepare the configuration file as the pipeline input according to the “SV_procedure/test/config.ini” file
