@@ -29,10 +29,13 @@ cd minimap2-2.17_x64-linux/
 
 metaspades:
 wget http://cab.spbu.ru/files/release3.13.0/SPAdes-3.13.0-Linux.tar.gz
+
 tar -xzf SPAdes-3.13.0-Linux.tar.gz
+
 cd SPAdes-3.13.0-Linux/bin/
 
 mumandco:
+
 git clone https://github.com/SAMtoBAM/MUMandCo.git
 
 opera_ms:
@@ -60,10 +63,15 @@ conda activate metawrap1.2
 conda install -y -c ursky metawrap-mg=1.2.0
 
 Usage
+
 1.To prepare the table of the data information according to the “SV_procedure/test/sample_info.txt” file
+
 cd $outdir && vi sample_info.txt
+
 2.To prepare the configuration file as the pipeline input according to the “SV_procedure/test/config.ini” file
+
 3.To run the pipeline on the dataset, simply use the following command (we recommend using nohup to run the command in the background):
+
 python SV_procedure-new/call_SVs_procedure.py config.ini 
  
 Output
