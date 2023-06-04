@@ -4,63 +4,8 @@ Introduction
 This is a pipeline combining Nanopore long reads and Illumina short reads to analyze SVs in the microbial genomes from gut microbiome, and further identify differential SVs that can be reflective of metabolic differences. The pipeline integrates multiple software tools and its core mission consists of 13 steps, including the creation of soft links, quality control and sequence statistics, removal of host reads, metagenome assembly and evaluation, extraction of high-quality draft genomes (bins) and de-replication, species taxonomy and gene models of bins, detection and visualization of SVs, and KEGG enrichment analyses. The pipeline gives researchers easy access to SVs and relevant metabolites in the microbial genomes without the requirement of specific technical expertise, which is particularly useful to researchers interested in metagenomic SVs but lacking sophisticated bioinformatic knowledge.
 
 Installation
+We are uploading test data, all scripts and dependencies of our pipeline to Baidu Cloud, please wait....
 
-1.To install Miniconda on a typical Linux/Unix system run the following commands:
-
-wget https://repo.anaconda.com/miniconda/Miniconda3-py38_4.9.2-Linux-x86_64.sh
-
-chmod 755 Miniconda3-py38_4.9.2-Linux-x86_64.sh
-
-sh Miniconda3-py38_4.9.2-Linux-x86_64.sh
-
-2.To download all scripts and example results of our pipeline run the following commands:
-
-git clone https://github.com/Wlab518/SV_procedure.git
-
-3.To install dependencies of our pipeline to Miniconda3 according to the “SV_procedure-new/config.ini” file  
-
-minimap2: 
-
-wget https://github.com/lh3/minimap2/releases/download/v2.17/minimap2-2.17_x64-linux.tar.bz2
-
-tar -jxvf minimap2-2.17_x64-linux.tar.bz2
-
-cd minimap2-2.17_x64-linux/
-
-metaspades:
-wget http://cab.spbu.ru/files/release3.13.0/SPAdes-3.13.0-Linux.tar.gz
-
-tar -xzf SPAdes-3.13.0-Linux.tar.gz
-
-cd SPAdes-3.13.0-Linux/bin/
-
-mumandco:
-
-git clone https://github.com/SAMtoBAM/MUMandCo.git
-
-opera_ms:
-
-git clone https://github.com/CSB5/OPERA-MS.git
-
-cd OPERA-MS
-
-make
-
-perl OPERA-MS.pl check-dependency
-
-diamond:
-
-wget http://github.com/bbuchfink/diamond/releases/download/v0.9.25/diamond-linux64.tar.gz
-
-tar xzf diamond-linux64.tar.gz
-
-Other conda environments, such as metawrap:
-
-conda create -y -n metawrap1.2 python=2.7
-
-conda activate metawrap1.2
-
-conda install -y -c ursky metawrap-mg=1.2.0
 
 Usage
 
