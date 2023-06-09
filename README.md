@@ -38,15 +38,13 @@ Password: L518
 
 ##Test data is stored in the “data” folder. The “sample_info.txt” and “config.ini” files are sample information of test data and the configuration file (including a set of the main parameters that control pipeline execution), respectively.
 
-##All dependencies of our pipeline are packaged into “miniconda3_env” folder. All file saved in the folder need to be merged and then extracted.
+##All dependencies of our pipeline are packaged into “miniconda3_env.tar.gz” file and need to be extracted to "$conda_path/". 
 
 ##All scripts (written in Python 3) of our pipeline are packaged into “SV_procedure.tar.gz” file, and should be extracted to the "$conda_path/envs/mySVenv_python3/" path as follows: 
 
-cat miniconda3_envs/miniconda3_envs.tar.gz.* | tar -zxv > envs 
+cd $conda_path/ && rm -r envs
 
-#the “$miniconda3_envs_path” means the “envs” path, for example, miniconda3_envs_path=/data/envs
-
-conda config --add envs_dirs $miniconda3_envs_path
+nohup tar zxvf miniconda3_envs.tar.gz &
 
 cd $conda_path/envs/mySVenv_python3
 
