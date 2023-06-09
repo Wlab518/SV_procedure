@@ -44,7 +44,7 @@ Password: L518
 
 cd $conda_path/ && rm -r envs
 
-nohup tar zxvf miniconda3_envs.tar.gz &
+tar -xzf miniconda3_envs.tar.gz -C envs
 
 cd $conda_path/envs/mySVenv_python3
 
