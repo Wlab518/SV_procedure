@@ -24,23 +24,23 @@ sh Miniconda3-py38_4.9.2-Linux-x86_64.sh
 
 conda info  #View the default conda environment path
 
-vi ~/.condarc  #To modify “envs_dirs” and “pkgs_dirs”
+vi ~/.condarc  #To modify "envs_dirs" and "pkgs_dirs"
 
-#the “$conda_path” means the install path of miniconda3, for example, conda_path=/use/bin/miniconda3
+#the "$conda_path" means the install path of miniconda3, for example, conda_path=/use/bin/miniconda3
 
-vi ~/.bashrc # To add “export PATH="/use/bin/miniconda3/bin:$PATH"”
+vi ~/.bashrc # To add `export PATH="/use/bin/miniconda3/bin:$PATH"`
 
-2.To download test data, all scripts and dependencies of our pipeline from the Baidu Cloud:
+2.To download test data, there are the two ways. 
+
+1> all scripts and dependencies of our pipeline from the Baidu Cloud:
 
 Click the link: https://pan.baidu.com/s/1ErKeJ0_2D-XEwGWWbq1O_A
 
 Password: L518 
 
-##Test data is stored in the “data” folder. The “sample_info.txt” and “config.ini” files are sample information of test data and the configuration file (including a set of the main parameters that control pipeline execution), respectively.
-
-##All dependencies of our pipeline are packaged into “miniconda3_env.tar.gz” file and need to be extracted to "$conda_path/". 
-
-##All scripts (written in Python 3) of our pipeline are packaged into “SV_procedure.tar.gz” file, and should be extracted to the "$conda_path/envs/mySVenv_python3/" path as follows: 
+##Test data is stored in the "data" folder. The "sample_info.txt" and "config.ini" files are sample information of test data and the configuration file (including a set of the main parameters that control pipeline execution), respectively.
+##All dependencies of our pipeline are packaged into "miniconda3_env.tar.gz" file and need to be extracted to "$conda_path/". 
+##All scripts (written in Python 3) of our pipeline are packaged into "SV_procedure.tar.gz" file, and should be extracted to the "$conda_path/envs/mySVenv_python3/" path as follows: 
 
 cd $conda_path/ && rm -r envs
 
@@ -50,13 +50,28 @@ cd $conda_path/envs/mySVenv_python3
 
 tar -xzf SV_procedure.tar.gz
 
+2>all scripts and dependencies of our pipeline from the Terabox:
+
+Click the link: https://1024tera.com/s/1zgl2ywN2ZsNBxSptc5USww 
+
+##Test data is stored in the "data" folder. The "sample_info.txt" and "config.ini" files are sample information of test data and the configuration file (including a set of the main parameters that control pipeline execution), respectively. Note: the TD5, TD59 and TD7 samples need to be merged, respectively. such as `cat data/TD7/TD7.fq.gz.* > ../TD7.fq.gz`
+##All dependencies of our pipeline are packaged into "miniconda3_envs" folder and need to be merged and extracted to "$conda_path/".
+##All scripts (written in Python 3) of our pipeline are packaged into "SV_procedure.tar.gz" file, and should be extracted to the "$conda_path/envs/mySVenv_python3/" path as follows: 
+
+cd $conda_path/ && rm -r envs
+
+cat miniconda3_envs/miniconda3_envs.tar.gz.* | tar zxv
+
+cd $conda_path/envs/mySVenv_python3
+
+tar -xzf SV_procedure.tar.gz
 
 
 Usage
 
-1.To prepare the table of the data information according to the “$conda_path/envs/mySVenv_python3/SV_procedure/test/sample_info.txt” file
+1.To prepare the table of the data information according to the "$conda_path/envs/mySVenv_python3/SV_procedure/test/sample_info.txt" file
 
-##“sample_info.txt” file used to save the table of sample information, including 4 columns separated by TAB
+##"sample_info.txt" file used to save the table of sample information, including 4 columns separated by TAB
 
 #sample_IDs: sample names
 
@@ -66,17 +81,17 @@ Usage
 
 #group: the group names of the sample
 
-##the $outdir means the working path of the project, which should correspond to the outdir parameters of the “config.ini” file
+##the $outdir means the working path of the project, which should correspond to the outdir parameters of the "config.ini" file
 
 cd $outdir && vi sample_info.txt
 
-2.To prepare the configuration file as the pipeline input according to the “$conda_path/envs/mySVenv_python3/SV_procedure/test/config.ini” file
+2.To prepare the configuration file as the pipeline input according to the "$conda_path/envs/mySVenv_python3/SV_procedure/test/config.ini" file
 
-##the following parameters in config.ini” file must be modified:
+##the following parameters in "config.ini" file must be modified:
 
-#conda, datapath, infotable, outdir, group_name(based on the information of “sample_info.txt” file)
+#conda, datapath, infotable, outdir, group_name(based on the information of "sample_info.txt" file)
 
-3.To run the pipeline on the dataset, simply use the following command (we recommend using the “nohup” command to run the pipeline in the background):
+3.To run the pipeline on the dataset, simply use the following command (we recommend using the "nohup" command to run the pipeline in the background):
 
 $conda_path/bin/python $conda_path/envs/mySVenv_python3/SV_procedure/call_SVs_procedure.py config.ini 
  
@@ -90,7 +105,7 @@ The output includes the source code, the running process and the running results
 
 Error
 
-when the program failure occurs due to a variety of corruption or bugs (such as file, network or disk issues), the program execution does not simply exit but enters the next execution using an identical scripting code. After the loop executes three times, if the failure still exists, the program will exit and errors in during this step will be stored in the “$outdir/shell/run_step*/*.e*” files. After troubleshooting, we can delete the “*.1o*, *.1e*, *.2o*, *.2e*, *.3o*, *.3e*” files or this “run_step*” folder, and then rerun the pipeline:
+when the program failure occurs due to a variety of corruption or bugs (such as file, network or disk issues), the program execution does not simply exit but enters the next execution using an identical scripting code. After the loop executes three times, if the failure still exists, the program will exit and errors in during this step will be stored in the "$outdir/shell/run_step*/*.e*" files. After troubleshooting, we can delete the "*.1o*, *.1e*, *.2o*, *.2e*, *.3o*, *.3e*" files or this "run_step*" folder, and then rerun the pipeline:
 
 $conda_path/bin/python $conda_path/envs/mySVenv_python3/SV_procedure/call_SVs_procedure.py config.ini
 
