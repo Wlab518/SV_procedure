@@ -12,6 +12,7 @@ docker pull wanglab518/metasvs:latest
 Databases
 In addition to the Docker installation, you will need to configure the paths to some databases that you downloaded onto your system according to the following guide.
 | Database | Size |	Used in module |
+| -------- | ---- | -------------- |
 | CheckM_db |	1.4G |	binning, de-replication |
 | gtdbtk_db	| 49G	| taxonomy |
 | kobas_db |	54G	| KEGG enrichment |
