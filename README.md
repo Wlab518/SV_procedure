@@ -4,16 +4,6 @@ MetaSVs is a pipeline combining Nanopore long reads and Illumina short reads to 
 
 ![image](https://github.com/Wlab518/SV_procedure/blob/main/fig/fig1.png)
 
-# Installation
-
-To install with Docker, run:
-
-`# Docker installation`
-
-`docker pull wanglab518/metasvs:latest`
-
-![image](https://github.com/Wlab518/SV_procedure/blob/main/fig/fig2.png)
-
 # Databases
 
 In addition to the Docker installation, you will need to configure the paths to some databases that you downloaded onto your system according to the following guide.
@@ -56,9 +46,21 @@ In addition to the Docker installation, you will need to configure the paths to 
 
 `rm sqlite3.tar.gz seq_pep.tar.gz`
 
+
+# Installation
+
+To install with Docker, run:
+
+`# Docker installation`
+
+`docker pull wanglab518/metasvs:latest`
+
+![image](https://github.com/Wlab518/SV_procedure/blob/main/fig/fig2.png)
+
+
 # Usage
 
-1.To create a working directory
+1.To create a working directory：
 
 `mkdir -p $workpath && cd $workpath`
 
@@ -70,7 +72,7 @@ In addition to the Docker installation, you will need to configure the paths to 
 
 `docker exec -it sv_project /bin/bash`
 
-3.To prepare the table of the data information according to the “SV_procedure/test/sample_info.txt” file
+3.To prepare the table of the data information according to the “SV_procedure/test/sample_info.txt” file：
 
 ##“sample_info.txt” file used to save the table of sample information, including 4 columns separated by TAB
 
@@ -84,7 +86,7 @@ In addition to the Docker installation, you will need to configure the paths to 
 
 `vi sample_info.txt`
 
-4.To prepare the configuration file as the pipeline input according to the “SV_procedure/test/config.ini” file
+4.To prepare the configuration file as the pipeline input according to the “SV_procedure/test/config.ini” file：
 
 `vi config.in  #including the path of database downloaded above, raw sequence data and so on`
 
