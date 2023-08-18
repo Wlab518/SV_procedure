@@ -5,8 +5,8 @@ MetaSVs is a pipeline combining Nanopore long reads and Illumina short reads to 
 
 Installation
 To install with Docker, run:
-# Docker installation
-docker pull wanglab518/metasvs:latest
+“# Docker installation”
+“docker pull wanglab518/metasvs:latest”
 
 
 Databases
