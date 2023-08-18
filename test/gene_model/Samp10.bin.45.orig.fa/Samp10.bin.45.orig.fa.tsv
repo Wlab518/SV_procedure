@@ -1,0 +1,2531 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LOINPIBM_00001	CDS	777	rhaR_1			HTH-type transcriptional activator RhaR
+LOINPIBM_00002	CDS	5151				hypothetical protein
+LOINPIBM_00003	CDS	429	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+LOINPIBM_00004	CDS	924	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+LOINPIBM_00005	CDS	2286	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+LOINPIBM_00006	CDS	267				hypothetical protein
+LOINPIBM_00007	CDS	195				Ferredoxin
+LOINPIBM_00008	CDS	681	ywaC_1	2.7.6.5	COG2357	GTP pyrophosphokinase YwaC
+LOINPIBM_00009	CDS	840	folD		COG0190	Bifunctional protein FolD protein
+LOINPIBM_00010	CDS	1338	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+LOINPIBM_00011	CDS	546	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+LOINPIBM_00012	CDS	483	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+LOINPIBM_00013	CDS	483				hypothetical protein
+LOINPIBM_00014	CDS	1242	baiN_1	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+LOINPIBM_00015	CDS	669	cmk_1	2.7.4.25	COG0283	Cytidylate kinase
+LOINPIBM_00016	CDS	873	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+LOINPIBM_00017	CDS	1098	rpsA_1		COG0539	30S ribosomal protein S1
+LOINPIBM_00018	CDS	783	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+LOINPIBM_00019	CDS	1005	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+LOINPIBM_00020	CDS	699	rnc	3.1.26.3	COG0571	Ribonuclease 3
+LOINPIBM_00021	CDS	3564	smc		COG1196	Chromosome partition protein Smc
+LOINPIBM_00022	CDS	924	ftsY		COG0552	Signal recognition particle receptor FtsY
+LOINPIBM_00023	CDS	1221	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+LOINPIBM_00024	CDS	1227	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+LOINPIBM_00025	CDS	639	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+LOINPIBM_00026	CDS	1311	hisD	1.1.1.23		Histidinol dehydrogenase
+LOINPIBM_00027	CDS	348	rplS		COG0335	50S ribosomal protein L19
+LOINPIBM_00028	CDS	660				hypothetical protein
+LOINPIBM_00029	CDS	864	rbgA		COG1161	Ribosome biogenesis GTPase A
+LOINPIBM_00030	CDS	459		3.6.1.25	COG2954	Inorganic triphosphatase
+LOINPIBM_00031	CDS	1335	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+LOINPIBM_00032	CDS	909				hypothetical protein
+LOINPIBM_00033	tRNA	75				tRNA-Arg(ccg)
+LOINPIBM_00034	CDS	894	hslO		COG1281	33 kDa chaperonin
+LOINPIBM_00035	CDS	735				hypothetical protein
+LOINPIBM_00036	CDS	723	rluF	5.4.99.-	COG1187	Dual-specificity RNA pseudouridine synthase RluF
+LOINPIBM_00037	CDS	1965	ligA	6.5.1.2		DNA ligase
+LOINPIBM_00038	CDS	1488	spoVB		COG2244	Stage V sporulation protein B
+LOINPIBM_00039	CDS	2121				hypothetical protein
+LOINPIBM_00040	CDS	1191	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+LOINPIBM_00041	CDS	825	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+LOINPIBM_00042	CDS	1779	rqcH		COG1293	Rqc2 RqcH
+LOINPIBM_00043	CDS	879				hypothetical protein
+LOINPIBM_00044	CDS	234	remA		COG2052	Extracellular matrix regulatory protein A
+LOINPIBM_00045	CDS	630	gmk_1	2.7.4.8	COG0194	Guanylate kinase
+LOINPIBM_00046	CDS	648	sipS	3.4.21.89	COG0681	Signal peptidase I S
+LOINPIBM_00047	CDS	249	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+LOINPIBM_00048	CDS	309	yneA			Cell division suppressor protein YneA
+LOINPIBM_00049	CDS	2223				hypothetical protein
+LOINPIBM_00050	CDS	1062	xerC_1		COG4974	Tyrosine recombinase XerC
+LOINPIBM_00051	CDS	378	blaI_1		COG3682	Penicillinase repressor
+LOINPIBM_00052	CDS	933	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+LOINPIBM_00053	CDS	507	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+LOINPIBM_00054	CDS	1029				hypothetical protein
+LOINPIBM_00055	CDS	768				hypothetical protein
+LOINPIBM_00056	CDS	504	sepF			Cell division protein SepF
+LOINPIBM_00057	CDS	690			COG0325	Pyridoxal phosphate homeostasis protein
+LOINPIBM_00058	CDS	1386				hypothetical protein
+LOINPIBM_00059	CDS	195				hypothetical protein
+LOINPIBM_00060	CDS	399	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+LOINPIBM_00061	CDS	1158	mrdB_1	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+LOINPIBM_00062	CDS	276	minE			Cell division topological specificity factor
+LOINPIBM_00063	CDS	789	minD		COG2894	Septum site-determining protein MinD
+LOINPIBM_00064	CDS	666	minC		COG0850	Septum site-determining protein MinC
+LOINPIBM_00065	CDS	2853	mrdA	3.4.16.4		Peptidoglycan D,D-transpeptidase MrdA
+LOINPIBM_00066	CDS	507				hypothetical protein
+LOINPIBM_00067	CDS	876	mreC		COG1792	Cell shape-determining protein MreC
+LOINPIBM_00068	CDS	993	mreB_1			Cell shape-determining protein MreB
+LOINPIBM_00069	CDS	699				hypothetical protein
+LOINPIBM_00070	CDS	1290				hypothetical protein
+LOINPIBM_00071	CDS	957	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+LOINPIBM_00072	CDS	1812	mutL			DNA mismatch repair protein MutL
+LOINPIBM_00073	CDS	2646	mutS_1		COG0249	DNA mismatch repair protein MutS
+LOINPIBM_00074	CDS	771				hypothetical protein
+LOINPIBM_00075	CDS	615	lexA	3.4.21.88	COG1974	LexA repressor
+LOINPIBM_00076	CDS	354	rsfS		COG0799	Ribosomal silencing factor RsfS
+LOINPIBM_00077	CDS	1197	nadD	2.7.7.18		nicotinate-nucleotide adenylyltransferase
+LOINPIBM_00078	CDS	309	yhbY		COG1534	RNA-binding protein YhbY
+LOINPIBM_00079	CDS	1332	obg	3.6.5.-		GTPase Obg
+LOINPIBM_00080	CDS	288	rpmA			50S ribosomal protein L27
+LOINPIBM_00081	CDS	321				hypothetical protein
+LOINPIBM_00082	CDS	309	rplU		COG0261	50S ribosomal protein L21
+LOINPIBM_00083	CDS	3309				hypothetical protein
+LOINPIBM_00084	CDS	897	gspA		COG1442	General stress protein A
+LOINPIBM_00085	CDS	1152	rng	3.1.26.-	COG1530	Ribonuclease G
+LOINPIBM_00086	CDS	723				hypothetical protein
+LOINPIBM_00087	CDS	1887				hypothetical protein
+LOINPIBM_00088	CDS	876				hypothetical protein
+LOINPIBM_00089	CDS	1641	murJ_1			lipid II flippase MurJ
+LOINPIBM_00090	CDS	1107	yerB			Putative lipoprotein YerB
+LOINPIBM_00091	CDS	498	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+LOINPIBM_00092	CDS	1017			COG1702	PhoH-like protein
+LOINPIBM_00093	CDS	1179				hypothetical protein
+LOINPIBM_00094	CDS	258				hypothetical protein
+LOINPIBM_00095	CDS	177	rpsU		COG0828	30S ribosomal protein S21
+LOINPIBM_00096	CDS	801	pdaA	3.5.1.-	COG0726	Peptidoglycan-N-acetylmuramic acid deacetylase PdaA
+LOINPIBM_00097	CDS	300				hypothetical protein
+LOINPIBM_00098	CDS	702	ygaZ		COG1296	Inner membrane protein YgaZ
+LOINPIBM_00099	CDS	1338	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+LOINPIBM_00100	CDS	699	walR_1		COG0745	Transcriptional regulatory protein WalR
+LOINPIBM_00101	CDS	1029	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+LOINPIBM_00102	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+LOINPIBM_00103	CDS	348	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+LOINPIBM_00104	CDS	1128	alr1	5.1.1.1	COG0787	Alanine racemase 1
+LOINPIBM_00105	CDS	1506	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+LOINPIBM_00106	CDS	375	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+LOINPIBM_00107	CDS	606				hypothetical protein
+LOINPIBM_00108	CDS	633	rex1		COG2344	Redox-sensing transcriptional repressor Rex 1
+LOINPIBM_00109	CDS	348				hypothetical protein
+LOINPIBM_00110	CDS	1950	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+LOINPIBM_00111	CDS	1281	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+LOINPIBM_00112	CDS	816	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+LOINPIBM_00113	CDS	1128	hemW		COG0635	Heme chaperone HemW
+LOINPIBM_00114	CDS	1845	lepA	3.6.5.-	COG0481	Elongation factor 4
+LOINPIBM_00115	CDS	783				hypothetical protein
+LOINPIBM_00116	CDS	1239	agaA_1	3.2.1.22		Alpha-galactosidase A
+LOINPIBM_00117	CDS	1395	trkA		COG0569	Trk system potassium uptake protein TrkA
+LOINPIBM_00118	CDS	1470	trkG		COG0168	Trk system potassium uptake protein TrkG
+LOINPIBM_00119	CDS	1011				hypothetical protein
+LOINPIBM_00120	CDS	705				hypothetical protein
+LOINPIBM_00121	CDS	666	glmU	2.7.7.23		Bifunctional protein GlmU
+LOINPIBM_00122	CDS	1134				hypothetical protein
+LOINPIBM_00123	CDS	936				hypothetical protein
+LOINPIBM_00124	CDS	816				hypothetical protein
+LOINPIBM_00125	CDS	390				hypothetical protein
+LOINPIBM_00126	CDS	336				hypothetical protein
+LOINPIBM_00127	CDS	2823				hypothetical protein
+LOINPIBM_00128	CDS	1773				hypothetical protein
+LOINPIBM_00129	CDS	699				hypothetical protein
+LOINPIBM_00130	CDS	1089				hypothetical protein
+LOINPIBM_00131	CDS	282				hypothetical protein
+LOINPIBM_00132	CDS	1329				hypothetical protein
+LOINPIBM_00133	CDS	1530	pknD_1	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_00134	CDS	2721				hypothetical protein
+LOINPIBM_00135	CDS	2067	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+LOINPIBM_00136	CDS	642				hypothetical protein
+LOINPIBM_00137	CDS	1239	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+LOINPIBM_00138	CDS	1272	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+LOINPIBM_00139	CDS	624	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+LOINPIBM_00140	CDS	1032	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+LOINPIBM_00141	CDS	2568				hypothetical protein
+LOINPIBM_00142	CDS	978		4.1.3.39		4-hydroxy-2-oxovalerate aldolase
+LOINPIBM_00143	CDS	354				hypothetical protein
+LOINPIBM_00144	CDS	1419	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+LOINPIBM_00145	CDS	1641				hypothetical protein
+LOINPIBM_00146	CDS	1539				hypothetical protein
+LOINPIBM_00147	CDS	900				hypothetical protein
+LOINPIBM_00148	CDS	987	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+LOINPIBM_00149	CDS	1029	aroH	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive
+LOINPIBM_00150	CDS	561				hypothetical protein
+LOINPIBM_00151	CDS	546	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+LOINPIBM_00152	CDS	1365				hypothetical protein
+LOINPIBM_00153	CDS	273				hypothetical protein
+LOINPIBM_00154	CDS	798	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+LOINPIBM_00155	CDS	1773				hypothetical protein
+LOINPIBM_00156	CDS	2175	ftsA			Cell division protein FtsA
+LOINPIBM_00157	CDS	591	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+LOINPIBM_00158	CDS	2700	polA	2.7.7.7	COG0258	DNA polymerase I
+LOINPIBM_00159	CDS	2463				hypothetical protein
+LOINPIBM_00160	tRNA	85				tRNA-Leu(caa)
+LOINPIBM_00161	CDS	1344				hypothetical protein
+LOINPIBM_00162	CDS	1449		2.7.4.-	COG2326	Polyphosphate:AMP phosphotransferase
+LOINPIBM_00163	CDS	450	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+LOINPIBM_00164	CDS	1455	pbpA		COG0768	Penicillin-binding protein A
+LOINPIBM_00165	CDS	1359	mrdB_2	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+LOINPIBM_00166	CDS	2208				hypothetical protein
+LOINPIBM_00167	CDS	405	zapA			Cell division protein ZapA
+LOINPIBM_00168	CDS	999	ruvB_1	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+LOINPIBM_00169	CDS	603	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+LOINPIBM_00170	CDS	1584	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+LOINPIBM_00171	CDS	1092				hypothetical protein
+LOINPIBM_00172	CDS	852			COG1307	DegV domain-containing protein
+LOINPIBM_00173	CDS	1080				hypothetical protein
+LOINPIBM_00174	CDS	1413				hypothetical protein
+LOINPIBM_00175	CDS	1926	spk1_1	2.7.11.1		Serine/threonine-protein kinase PK-1
+LOINPIBM_00176	CDS	735	prpC_1	3.1.3.16	COG0631	Protein phosphatase PrpC
+LOINPIBM_00177	CDS	1305				hypothetical protein
+LOINPIBM_00178	CDS	630				hypothetical protein
+LOINPIBM_00179	CDS	861				hypothetical protein
+LOINPIBM_00180	CDS	3498				hypothetical protein
+LOINPIBM_00181	CDS	660				hypothetical protein
+LOINPIBM_00182	CDS	225				hypothetical protein
+LOINPIBM_00183	CDS	870				hypothetical protein
+LOINPIBM_00184	CDS	849				hypothetical protein
+LOINPIBM_00185	CDS	1245				hypothetical protein
+LOINPIBM_00186	CDS	774	stp_1	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+LOINPIBM_00187	CDS	1212				hypothetical protein
+LOINPIBM_00188	CDS	1071				hypothetical protein
+LOINPIBM_00189	CDS	138				hypothetical protein
+LOINPIBM_00190	CDS	186	rpmF			50S ribosomal protein L32
+LOINPIBM_00191	CDS	1191	ackA	2.7.2.1	COG0282	Acetate kinase
+LOINPIBM_00192	CDS	948				hypothetical protein
+LOINPIBM_00193	CDS	885	ylbJ		COG3314	Sporulation integral membrane protein YlbJ
+LOINPIBM_00194	CDS	675				hypothetical protein
+LOINPIBM_00195	CDS	555	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+LOINPIBM_00196	CDS	2037	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+LOINPIBM_00197	CDS	510				hypothetical protein
+LOINPIBM_00198	CDS	831	argF_1	2.1.3.3	COG0078	Ornithine carbamoyltransferase, anabolic
+LOINPIBM_00199	CDS	933				hypothetical protein
+LOINPIBM_00200	tmRNA	363	ssrA			transfer-messenger RNA, SsrA
+LOINPIBM_00201	CDS	222				hypothetical protein
+LOINPIBM_00202	CDS	1008	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+LOINPIBM_00203	CDS	675	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+LOINPIBM_00204	CDS	1326	der_1		COG1160	GTPase Der
+LOINPIBM_00205	CDS	354				hypothetical protein
+LOINPIBM_00206	CDS	285				hypothetical protein
+LOINPIBM_00207	CDS	762	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+LOINPIBM_00208	CDS	2715				hypothetical protein
+LOINPIBM_00209	CDS	573				hypothetical protein
+LOINPIBM_00210	CDS	486				hypothetical protein
+LOINPIBM_00211	CDS	2193				hypothetical protein
+LOINPIBM_00212	CDS	1029				hypothetical protein
+LOINPIBM_00213	CDS	747				hypothetical protein
+LOINPIBM_00214	CDS	1656				hypothetical protein
+LOINPIBM_00215	CDS	774	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+LOINPIBM_00216	CDS	471				hypothetical protein
+LOINPIBM_00217	CDS	1218	epsF		COG1459	Type II secretion system protein F
+LOINPIBM_00218	CDS	1137	pilT_1		COG2805	Twitching mobility protein
+LOINPIBM_00219	CDS	1701				hypothetical protein
+LOINPIBM_00220	CDS	144				hypothetical protein
+LOINPIBM_00221	CDS	1242	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+LOINPIBM_00222	CDS	588	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+LOINPIBM_00223	CDS	705	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+LOINPIBM_00224	CDS	513	rimM			Ribosome maturation factor RimM
+LOINPIBM_00225	CDS	228				hypothetical protein
+LOINPIBM_00226	CDS	246	rpsP		COG0228	30S ribosomal protein S16
+LOINPIBM_00227	CDS	1356	ffh		COG0541	Signal recognition particle protein
+LOINPIBM_00228	CDS	363				hypothetical protein
+LOINPIBM_00229	CDS	2076	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+LOINPIBM_00230	CDS	1152				hypothetical protein
+LOINPIBM_00231	CDS	1413	oadA	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+LOINPIBM_00232	CDS	1119	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+LOINPIBM_00233	CDS	381	gcdC	7.2.4.5	COG0511	Glutaconyl-CoA decarboxylase subunit gamma
+LOINPIBM_00234	CDS	360	oadG	7.2.4.2		oxaloacetate decarboxylase gamma chain
+LOINPIBM_00235	CDS	1377	pccB_1	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+LOINPIBM_00236	CDS	1233	dacF_1	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+LOINPIBM_00237	CDS	2112	glnA_1	6.3.1.2		Glutamine synthetase
+LOINPIBM_00238	CDS	654		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+LOINPIBM_00239	CDS	2124				hypothetical protein
+LOINPIBM_00240	CDS	1422	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+LOINPIBM_00241	CDS	918	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+LOINPIBM_00242	CDS	894	truB	5.4.99.25		tRNA pseudouridine synthase B
+LOINPIBM_00243	CDS	936	nrnA_1	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+LOINPIBM_00244	CDS	378	rbfA		COG0858	Ribosome-binding factor A
+LOINPIBM_00245	CDS	2652	infB			Translation initiation factor IF-2
+LOINPIBM_00246	CDS	342	rplGA		COG1358	putative ribosomal protein YlxQ
+LOINPIBM_00247	CDS	273				hypothetical protein
+LOINPIBM_00248	CDS	1062	nusA		COG0195	Transcription termination/antitermination protein NusA
+LOINPIBM_00249	CDS	495	rimP			Ribosome maturation factor RimP
+LOINPIBM_00250	CDS	1704	xynY_1	3.2.1.8		Endo-1,4-beta-xylanase Y
+LOINPIBM_00251	tRNA	73				tRNA-Glu(ctc)
+LOINPIBM_00252	CDS	222				hypothetical protein
+LOINPIBM_00253	CDS	4377	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+LOINPIBM_00254	CDS	1053	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+LOINPIBM_00255	CDS	1137				hypothetical protein
+LOINPIBM_00256	CDS	1161	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+LOINPIBM_00257	CDS	813				hypothetical protein
+LOINPIBM_00258	CDS	714	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+LOINPIBM_00259	CDS	549	frr			Ribosome-recycling factor
+LOINPIBM_00260	CDS	708	pyrH	2.7.4.22	COG0528	Uridylate kinase
+LOINPIBM_00261	CDS	852				hypothetical protein
+LOINPIBM_00262	CDS	927				hypothetical protein
+LOINPIBM_00263	CDS	1923	purR_1			HTH-type transcriptional repressor PurR
+LOINPIBM_00264	CDS	513				hypothetical protein
+LOINPIBM_00265	CDS	936	tsf		COG0264	Elongation factor Ts
+LOINPIBM_00266	CDS	732	rpsB		COG0052	30S ribosomal protein S2
+LOINPIBM_00267	CDS	516				hypothetical protein
+LOINPIBM_00268	CDS	717				hypothetical protein
+LOINPIBM_00269	CDS	306				hypothetical protein
+LOINPIBM_00270	CDS	1599				hypothetical protein
+LOINPIBM_00271	CDS	765	sigD		COG1191	RNA polymerase sigma-D factor
+LOINPIBM_00272	CDS	327				hypothetical protein
+LOINPIBM_00273	CDS	486	cheD	3.5.1.44	COG1871	Chemoreceptor glutamine deamidase CheD
+LOINPIBM_00274	CDS	471	cheW_1		COG0835	Chemotaxis protein CheW
+LOINPIBM_00275	CDS	2103	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+LOINPIBM_00276	CDS	1116	cheB_2	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+LOINPIBM_00277	CDS	711				hypothetical protein
+LOINPIBM_00278	CDS	888	ylxH		COG0455	Flagellum site-determining protein YlxH
+LOINPIBM_00279	CDS	1248	flhF		COG1419	Flagellar biosynthesis protein FlhF
+LOINPIBM_00280	CDS	2037	flhA		COG1298	Flagellar biosynthesis protein FlhA
+LOINPIBM_00281	CDS	1107	flhB		COG1377	Flagellar biosynthetic protein FlhB
+LOINPIBM_00282	CDS	777	fliR		COG1684	Flagellar biosynthetic protein FliR
+LOINPIBM_00283	CDS	273				hypothetical protein
+LOINPIBM_00284	CDS	864				hypothetical protein
+LOINPIBM_00285	CDS	345				hypothetical protein
+LOINPIBM_00286	CDS	363	cheY_1		COG0784	Chemotaxis protein CheY
+LOINPIBM_00287	CDS	1218				hypothetical protein
+LOINPIBM_00288	CDS	978	fliM		COG1868	Flagellar motor switch protein FliM
+LOINPIBM_00289	CDS	516				hypothetical protein
+LOINPIBM_00290	CDS	894	pal			Peptidoglycan-associated lipoprotein
+LOINPIBM_00291	CDS	816	pomA		COG1291	Chemotaxis protein PomA
+LOINPIBM_00292	CDS	189	swrD		COG1582	Swarming motility protein SwrD
+LOINPIBM_00293	CDS	1452	flgE		COG1749	Flagellar hook protein FlgE
+LOINPIBM_00294	CDS	363				hypothetical protein
+LOINPIBM_00295	CDS	819				hypothetical protein
+LOINPIBM_00296	CDS	1386				hypothetical protein
+LOINPIBM_00297	CDS	765				hypothetical protein
+LOINPIBM_00298	CDS	450				hypothetical protein
+LOINPIBM_00299	CDS	1332	yscN	7.1.2.2		putative ATP synthase YscN
+LOINPIBM_00300	CDS	828				hypothetical protein
+LOINPIBM_00301	CDS	1026	fliG		COG1536	Flagellar motor switch protein FliG
+LOINPIBM_00302	CDS	1629				hypothetical protein
+LOINPIBM_00303	CDS	327	fliE		COG1677	Flagellar hook-basal body complex protein FliE
+LOINPIBM_00304	CDS	441	flgC		COG1558	Flagellar basal-body rod protein FlgC
+LOINPIBM_00305	CDS	390	flgB		COG1815	Flagellar basal body rod protein FlgB
+LOINPIBM_00306	CDS	780	codY			GTP-sensing transcriptional pleiotropic repressor CodY
+LOINPIBM_00307	CDS	2064	topA	5.6.2.1		DNA topoisomerase 1
+LOINPIBM_00308	CDS	1074				hypothetical protein
+LOINPIBM_00309	CDS	1533	comM		COG0606	Competence protein ComM
+LOINPIBM_00310	CDS	465	nrdR		COG1327	Transcriptional repressor NrdR
+LOINPIBM_00311	CDS	261	ylmC		COG1873	putative sporulation protein YlmC
+LOINPIBM_00312	CDS	780	sigG		COG1191	RNA polymerase sigma-G factor
+LOINPIBM_00313	CDS	1605	por	1.1.1.-	COG0246	Polyol:NADP oxidoreductase
+LOINPIBM_00314	CDS	1071	uxuA	4.2.1.8	COG1312	Mannonate dehydratase
+LOINPIBM_00315	CDS	1968	aguA	3.2.1.131		Xylan alpha-(1->2)-glucuronosidase
+LOINPIBM_00316	CDS	1434				hypothetical protein
+LOINPIBM_00317	CDS	993				hypothetical protein
+LOINPIBM_00318	CDS	915				hypothetical protein
+LOINPIBM_00319	CDS	2592				hypothetical protein
+LOINPIBM_00320	CDS	666				hypothetical protein
+LOINPIBM_00321	CDS	1488				hypothetical protein
+LOINPIBM_00322	CDS	864				hypothetical protein
+LOINPIBM_00323	CDS	936				hypothetical protein
+LOINPIBM_00324	CDS	3120				hypothetical protein
+LOINPIBM_00325	CDS	1578		3.2.1.55	COG3507	Non-reducing end alpha-L-arabinofuranosidase BoGH43A
+LOINPIBM_00326	CDS	747	sigE		COG1191	RNA polymerase sigma-E factor
+LOINPIBM_00327	CDS	834	spoIIGA	3.4.23.-		Sporulation sigma-E factor-processing peptidase
+LOINPIBM_00328	CDS	525	ppiB	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+LOINPIBM_00329	CDS	1449	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+LOINPIBM_00330	CDS	1161				hypothetical protein
+LOINPIBM_00331	CDS	1134	pheA		COG0077	Bifunctional chorismate mutase/prephenate dehydratase
+LOINPIBM_00332	CDS	822	sulD		COG0801	Bifunctional folate synthesis protein
+LOINPIBM_00333	CDS	810	folP	2.5.1.15		Dihydropteroate synthase
+LOINPIBM_00334	CDS	555	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+LOINPIBM_00335	CDS	498	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+LOINPIBM_00336	CDS	1287	fpgS	6.3.2.17		Folylpolyglutamate synthase
+LOINPIBM_00337	CDS	435				hypothetical protein
+LOINPIBM_00338	CDS	2394				hypothetical protein
+LOINPIBM_00339	CDS	1167	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+LOINPIBM_00340	CDS	1083	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+LOINPIBM_00341	CDS	1689	ilvG	2.2.1.6		Acetolactate synthase isozyme 2 large subunit
+LOINPIBM_00342	CDS	1659	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+LOINPIBM_00343	CDS	1086	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+LOINPIBM_00344	CDS	870				hypothetical protein
+LOINPIBM_00345	CDS	1056				hypothetical protein
+LOINPIBM_00346	CDS	876	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+LOINPIBM_00347	CDS	600	thrH	3.1.3.3	COG0560	Phosphoserine phosphatase ThrH
+LOINPIBM_00348	CDS	1674				putative protein
+LOINPIBM_00349	CDS	357				putative protein
+LOINPIBM_00350	CDS	252				hypothetical protein
+LOINPIBM_00351	CDS	186	rpmB		COG0227	50S ribosomal protein L28
+LOINPIBM_00352	CDS	384				hypothetical protein
+LOINPIBM_00353	CDS	822				hypothetical protein
+LOINPIBM_00354	CDS	339				hypothetical protein
+LOINPIBM_00355	CDS	1386				hypothetical protein
+LOINPIBM_00356	CDS	3999				hypothetical protein
+LOINPIBM_00357	CDS	900				hypothetical protein
+LOINPIBM_00358	CDS	927				hypothetical protein
+LOINPIBM_00359	CDS	444				hypothetical protein
+LOINPIBM_00360	CDS	4218				hypothetical protein
+LOINPIBM_00361	CDS	1638				hypothetical protein
+LOINPIBM_00362	CDS	690	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+LOINPIBM_00363	CDS	762	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+LOINPIBM_00364	CDS	609	hisH	4.3.2.10		Imidazole glycerol phosphate synthase subunit HisH
+LOINPIBM_00365	CDS	1476				hypothetical protein
+LOINPIBM_00366	CDS	909	cheV		COG0784	Chemotaxis protein CheV
+LOINPIBM_00367	CDS	129				hypothetical protein
+LOINPIBM_00368	CDS	711				hypothetical protein
+LOINPIBM_00369	CDS	1557	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+LOINPIBM_00370	CDS	672	srrA_1		COG0745	Transcriptional regulatory protein SrrA
+LOINPIBM_00371	CDS	552				hypothetical protein
+LOINPIBM_00372	CDS	1107	tig_1	5.2.1.8	COG0544	Trigger factor
+LOINPIBM_00373	CDS	1341		2.8.3.-	COG0427	Butyryl-CoA:acetate CoA-transferase
+LOINPIBM_00374	CDS	357				hypothetical protein
+LOINPIBM_00375	CDS	492	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+LOINPIBM_00376	CDS	1266	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+LOINPIBM_00377	CDS	447	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+LOINPIBM_00378	CDS	531	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+LOINPIBM_00379	CDS	2127	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+LOINPIBM_00380	CDS	1065	mutY	3.2.2.31	COG1194	Adenine DNA glycosylase
+LOINPIBM_00381	CDS	768	sigA_1		COG0568	RNA polymerase sigma factor SigA
+LOINPIBM_00382	CDS	1170	adh2	1.1.1.192	COG1979	Long-chain-alcohol dehydrogenase 2
+LOINPIBM_00383	CDS	1008	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+LOINPIBM_00384	CDS	1392	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+LOINPIBM_00385	CDS	210				hypothetical protein
+LOINPIBM_00386	CDS	237				hypothetical protein
+LOINPIBM_00387	CDS	777	glcR		COG1349	HTH-type transcriptional repressor GlcR
+LOINPIBM_00388	tRNA	74				tRNA-Gly(gcc)
+LOINPIBM_00389	CDS	747	tpiA	5.3.1.1		Triosephosphate isomerase
+LOINPIBM_00390	CDS	132				hypothetical protein
+LOINPIBM_00391	CDS	1197	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+LOINPIBM_00392	CDS	492	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+LOINPIBM_00393	CDS	1068				hypothetical protein
+LOINPIBM_00394	CDS	1356				hypothetical protein
+LOINPIBM_00395	CDS	2145				hypothetical protein
+LOINPIBM_00396	CDS	1290	eno_1	4.2.1.11	COG0148	Enolase
+LOINPIBM_00397	CDS	1134	dnaJ_1		COG0484	Chaperone protein DnaJ
+LOINPIBM_00398	CDS	1899	dnaK		COG0443	Chaperone protein DnaK
+LOINPIBM_00399	CDS	591	grpE			Protein GrpE
+LOINPIBM_00400	CDS	1032	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+LOINPIBM_00401	CDS	345				hypothetical protein
+LOINPIBM_00402	CDS	777				hypothetical protein
+LOINPIBM_00403	CDS	1440	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+LOINPIBM_00404	CDS	1446	gatA	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A
+LOINPIBM_00405	CDS	294	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+LOINPIBM_00406	CDS	1332	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+LOINPIBM_00407	CDS	1440				ISLre2 family transposase ISClsp4
+LOINPIBM_00408	CDS	450	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+LOINPIBM_00409	CDS	2634				hypothetical protein
+LOINPIBM_00410	CDS	1107				hypothetical protein
+LOINPIBM_00411	CDS	891	rlmL_1	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+LOINPIBM_00412	CDS	204				hypothetical protein
+LOINPIBM_00413	CDS	1455	purB	4.3.2.2		Adenylosuccinate lyase
+LOINPIBM_00414	CDS	1437	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+LOINPIBM_00415	CDS	1227	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+LOINPIBM_00416	CDS	225				hypothetical protein
+LOINPIBM_00417	CDS	171				hypothetical protein
+LOINPIBM_00418	CDS	225				hypothetical protein
+LOINPIBM_00419	CDS	798				hypothetical protein
+LOINPIBM_00420	CDS	1440				ISLre2 family transposase ISClsp4
+LOINPIBM_00421	CDS	504				hypothetical protein
+LOINPIBM_00422	CDS	1140				hypothetical protein
+LOINPIBM_00423	CDS	2160				hypothetical protein
+LOINPIBM_00424	CDS	300				hypothetical protein
+LOINPIBM_00425	CDS	228				hypothetical protein
+LOINPIBM_00426	CDS	831				hypothetical protein
+LOINPIBM_00427	CDS	201				hypothetical protein
+LOINPIBM_00428	CDS	2067				hypothetical protein
+LOINPIBM_00429	CDS	1245				hypothetical protein
+LOINPIBM_00430	CDS	1206				hypothetical protein
+LOINPIBM_00431	CDS	486				hypothetical protein
+LOINPIBM_00432	CDS	972				hypothetical protein
+LOINPIBM_00433	CDS	594				hypothetical protein
+LOINPIBM_00434	CDS	468				hypothetical protein
+LOINPIBM_00435	CDS	591				hypothetical protein
+LOINPIBM_00436	CDS	156				hypothetical protein
+LOINPIBM_00437	CDS	315				hypothetical protein
+LOINPIBM_00438	CDS	837				hypothetical protein
+LOINPIBM_00439	CDS	807				hypothetical protein
+LOINPIBM_00440	CDS	1689				hypothetical protein
+LOINPIBM_00441	CDS	384				hypothetical protein
+LOINPIBM_00442	CDS	1074				hypothetical protein
+LOINPIBM_00443	CDS	1650				hypothetical protein
+LOINPIBM_00444	CDS	2235				hypothetical protein
+LOINPIBM_00445	CDS	1437				hypothetical protein
+LOINPIBM_00446	CDS	2130				hypothetical protein
+LOINPIBM_00447	CDS	105				hypothetical protein
+LOINPIBM_00448	CDS	471				hypothetical protein
+LOINPIBM_00449	CDS	1380				hypothetical protein
+LOINPIBM_00450	CDS	597				hypothetical protein
+LOINPIBM_00451	CDS	6261				hypothetical protein
+LOINPIBM_00452	CDS	690				hypothetical protein
+LOINPIBM_00453	CDS	333				hypothetical protein
+LOINPIBM_00454	CDS	1149				hypothetical protein
+LOINPIBM_00455	CDS	6264				hypothetical protein
+LOINPIBM_00456	CDS	480				hypothetical protein
+LOINPIBM_00457	CDS	1260				IS110 family transposase ISCsa3
+LOINPIBM_00458	CDS	3093				hypothetical protein
+LOINPIBM_00459	CDS	963	tri1	3.2.2.19	COG1397	ADP-ribosylarginine hydrolase Tri1
+LOINPIBM_00460	CDS	627	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+LOINPIBM_00461	CDS	1107	aroC	4.2.3.5	COG0082	Chorismate synthase
+LOINPIBM_00462	CDS	870				hypothetical protein
+LOINPIBM_00463	CDS	360	cheY_2		COG0784	Chemotaxis protein CheY
+LOINPIBM_00464	CDS	768				hypothetical protein
+LOINPIBM_00465	CDS	1206	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+LOINPIBM_00466	CDS	477	cheW_2		COG0835	Chemotaxis protein CheW
+LOINPIBM_00467	CDS	984	prfB			Peptide chain release factor 2
+LOINPIBM_00468	CDS	2550	secA		COG0653	Protein translocase subunit SecA
+LOINPIBM_00469	CDS	528	hpf			Ribosome hibernation promotion factor
+LOINPIBM_00470	CDS	1533				hypothetical protein
+LOINPIBM_00471	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+LOINPIBM_00472	CDS	720				hypothetical protein
+LOINPIBM_00473	CDS	843	cvfB			Conserved virulence factor B
+LOINPIBM_00474	CDS	414				hypothetical protein
+LOINPIBM_00475	CDS	729				hypothetical protein
+LOINPIBM_00476	CDS	2244	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+LOINPIBM_00477	CDS	345				hypothetical protein
+LOINPIBM_00478	CDS	810	flgG_1		COG4786	Flagellar basal-body rod protein FlgG
+LOINPIBM_00479	CDS	777	flgG_2		COG4786	Flagellar basal-body rod protein FlgG
+LOINPIBM_00480	CDS	1002	mreB_2		COG1077	Cell shape-determining protein MreB
+LOINPIBM_00481	CDS	1404	moaA			GTP 3',8-cyclase
+LOINPIBM_00482	CDS	141				hypothetical protein
+LOINPIBM_00483	CDS	372				hypothetical protein
+LOINPIBM_00484	CDS	846	yciV	3.1.13.-	COG0613	5'-3' exoribonuclease
+LOINPIBM_00485	CDS	630	thiE_1	2.5.1.3		Thiamine-phosphate synthase
+LOINPIBM_00486	CDS	1146				hypothetical protein
+LOINPIBM_00487	CDS	765				hypothetical protein
+LOINPIBM_00488	CDS	1197				hypothetical protein
+LOINPIBM_00489	CDS	3543				hypothetical protein
+LOINPIBM_00490	CDS	1095	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+LOINPIBM_00491	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+LOINPIBM_00492	CDS	1461				IS1182 family transposase ISClbo1
+LOINPIBM_00493	CDS	381				hypothetical protein
+LOINPIBM_00494	CDS	852				hypothetical protein
+LOINPIBM_00495	CDS	1884			COG1132	putative ABC transporter ATP-binding protein
+LOINPIBM_00496	CDS	1755			COG1132	putative ABC transporter ATP-binding protein
+LOINPIBM_00497	CDS	483				hypothetical protein
+LOINPIBM_00498	CDS	1233				hypothetical protein
+LOINPIBM_00499	CDS	1200	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+LOINPIBM_00500	CDS	897	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+LOINPIBM_00501	CDS	1020	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+LOINPIBM_00502	CDS	888	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+LOINPIBM_00503	CDS	600				hypothetical protein
+LOINPIBM_00504	CDS	753	artM		COG1126	Arginine transport ATP-binding protein ArtM
+LOINPIBM_00505	CDS	711	artQ		COG0765	Arginine transport system permease protein ArtQ
+LOINPIBM_00506	CDS	885	mltF_1	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+LOINPIBM_00507	CDS	735				hypothetical protein
+LOINPIBM_00508	CDS	582	agrB_1	3.4.-.-		Accessory gene regulator protein B
+LOINPIBM_00509	CDS	135				hypothetical protein
+LOINPIBM_00510	CDS	1275				hypothetical protein
+LOINPIBM_00511	CDS	336				hypothetical protein
+LOINPIBM_00512	CDS	972				hypothetical protein
+LOINPIBM_00513	CDS	1203				hypothetical protein
+LOINPIBM_00514	CDS	1413	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+LOINPIBM_00515	CDS	498				hypothetical protein
+LOINPIBM_00516	CDS	1074				hypothetical protein
+LOINPIBM_00517	CDS	486				hypothetical protein
+LOINPIBM_00518	CDS	264				hypothetical protein
+LOINPIBM_00519	CDS	804				hypothetical protein
+LOINPIBM_00520	CDS	354	fliU			Flagellar biosynthetic protein FliU
+LOINPIBM_00521	CDS	669		3.-.-.-		putative metallo-hydrolase
+LOINPIBM_00522	CDS	843	fmt_1	2.1.2.9		Methionyl-tRNA formyltransferase
+LOINPIBM_00523	CDS	117				hypothetical protein
+LOINPIBM_00524	CDS	222				hypothetical protein
+LOINPIBM_00525	CDS	231				hypothetical protein
+LOINPIBM_00526	CDS	726	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LOINPIBM_00527	CDS	786				hypothetical protein
+LOINPIBM_00528	CDS	1068	fabH_1	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+LOINPIBM_00529	CDS	1005				hypothetical protein
+LOINPIBM_00530	CDS	1521	dltA	6.2.1.54	COG1020	D-alanine--D-alanyl carrier protein ligase
+LOINPIBM_00531	CDS	720	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LOINPIBM_00532	CDS	1662				hypothetical protein
+LOINPIBM_00533	CDS	216				hypothetical protein
+LOINPIBM_00534	CDS	1029	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+LOINPIBM_00535	CDS	681	neuA	2.7.7.82	COG1083	CMP-N,N'-diacetyllegionaminic acid synthase
+LOINPIBM_00536	CDS	1041	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+LOINPIBM_00537	CDS	1152	siaA	3.2.1.183	COG0381	UDP-N-acetylglucosamine 2-epimerase
+LOINPIBM_00538	CDS	669				hypothetical protein
+LOINPIBM_00539	CDS	816	hag		COG1344	Flagellin
+LOINPIBM_00540	CDS	201				hypothetical protein
+LOINPIBM_00541	CDS	1563				hypothetical protein
+LOINPIBM_00542	CDS	489				hypothetical protein
+LOINPIBM_00543	CDS	378	fliS		COG1516	Flagellar secretion chaperone FliS
+LOINPIBM_00544	CDS	2151				hypothetical protein
+LOINPIBM_00545	CDS	414				hypothetical protein
+LOINPIBM_00546	CDS	225	csrA		COG1551	Translational regulator CsrA
+LOINPIBM_00547	CDS	456	fliW		COG1699	Flagellar assembly factor FliW
+LOINPIBM_00548	CDS	1488				hypothetical protein
+LOINPIBM_00549	CDS	1881				hypothetical protein
+LOINPIBM_00550	CDS	1824				hypothetical protein
+LOINPIBM_00551	CDS	516				hypothetical protein
+LOINPIBM_00552	CDS	270				hypothetical protein
+LOINPIBM_00553	CDS	2283	gyrA_1	5.6.2.2	COG0188	DNA gyrase subunit A
+LOINPIBM_00554	CDS	1929	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+LOINPIBM_00555	CDS	876	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+LOINPIBM_00556	CDS	1269	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+LOINPIBM_00557	CDS	2220				hypothetical protein
+LOINPIBM_00558	CDS	1446				hypothetical protein
+LOINPIBM_00559	CDS	1284	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+LOINPIBM_00560	CDS	831	lgt_1	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+LOINPIBM_00561	CDS	405				hypothetical protein
+LOINPIBM_00562	CDS	312				hypothetical protein
+LOINPIBM_00563	CDS	654	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+LOINPIBM_00564	CDS	1734	proS	6.1.1.15		Proline--tRNA ligase
+LOINPIBM_00565	CDS	480				hypothetical protein
+LOINPIBM_00566	CDS	435	fabZ	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+LOINPIBM_00567	CDS	1236	fabF_1	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+LOINPIBM_00568	CDS	744	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LOINPIBM_00569	CDS	933	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+LOINPIBM_00570	CDS	231	acpP_1		COG0236	Acyl carrier protein
+LOINPIBM_00571	CDS	297				hypothetical protein
+LOINPIBM_00572	tRNA	73				tRNA-Thr(cgt)
+LOINPIBM_00573	CDS	2043	htpG		COG0326	Chaperone protein HtpG
+LOINPIBM_00574	CDS	450				hypothetical protein
+LOINPIBM_00575	CDS	192				hypothetical protein
+LOINPIBM_00576	CDS	1857	glgX	3.2.1.196		Glycogen debranching enzyme
+LOINPIBM_00577	CDS	645				hypothetical protein
+LOINPIBM_00578	CDS	1452	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+LOINPIBM_00579	CDS	1143				hypothetical protein
+LOINPIBM_00580	CDS	894	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+LOINPIBM_00581	CDS	1032	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+LOINPIBM_00582	CDS	1515	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+LOINPIBM_00583	CDS	2061	ppk	2.7.4.1		Polyphosphate kinase
+LOINPIBM_00584	CDS	588				hypothetical protein
+LOINPIBM_00585	CDS	696	rsuA	5.4.99.19	COG1187	Ribosomal small subunit pseudouridine synthase A
+LOINPIBM_00586	CDS	585	lytC	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase LytC
+LOINPIBM_00587	CDS	837	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+LOINPIBM_00588	CDS	759				hypothetical protein
+LOINPIBM_00589	CDS	1041				hypothetical protein
+LOINPIBM_00590	CDS	624				hypothetical protein
+LOINPIBM_00591	CDS	867	PSD2	4.1.1.65		Phosphatidylserine decarboxylase proenzyme 2
+LOINPIBM_00592	CDS	1617	ptsI	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+LOINPIBM_00593	CDS	258	ptsH		COG1925	Phosphocarrier protein HPr
+LOINPIBM_00594	CDS	2049	fruA		COG1299	PTS system fructose-specific EIIABC component
+LOINPIBM_00595	CDS	915	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+LOINPIBM_00596	CDS	747	lacR			Lactose phosphotransferase system repressor
+LOINPIBM_00597	CDS	321				hypothetical protein
+LOINPIBM_00598	CDS	1533		3.2.1.-		Beta-xylosidase
+LOINPIBM_00599	CDS	1098				hypothetical protein
+LOINPIBM_00600	CDS	1119				hypothetical protein
+LOINPIBM_00601	CDS	936				hypothetical protein
+LOINPIBM_00602	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+LOINPIBM_00603	CDS	1227	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+LOINPIBM_00604	CDS	648	ribE	2.5.1.9	COG0307	Riboflavin synthase
+LOINPIBM_00605	CDS	1098	ribD		COG0117	Riboflavin biosynthesis protein RibD
+LOINPIBM_00606	CDS	462				hypothetical protein
+LOINPIBM_00607	CDS	486				hypothetical protein
+LOINPIBM_00608	CDS	936				hypothetical protein
+LOINPIBM_00609	CDS	624				hypothetical protein
+LOINPIBM_00610	CDS	216				hypothetical protein
+LOINPIBM_00611	CDS	249				hypothetical protein
+LOINPIBM_00612	CDS	597				hypothetical protein
+LOINPIBM_00613	CDS	2745				hypothetical protein
+LOINPIBM_00614	CDS	678	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+LOINPIBM_00615	CDS	1008	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+LOINPIBM_00616	CDS	669	regX3_1		COG0745	Sensory transduction protein regX3
+LOINPIBM_00617	CDS	1407	xylA			Xylosidase/arabinosidase
+LOINPIBM_00618	CDS	1572	rny	3.1.-.-	COG1418	Ribonuclease Y
+LOINPIBM_00619	CDS	1182				hypothetical protein
+LOINPIBM_00620	CDS	912				hypothetical protein
+LOINPIBM_00621	CDS	924				hypothetical protein
+LOINPIBM_00622	CDS	993	pknD_2	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_00623	CDS	1458				hypothetical protein
+LOINPIBM_00624	CDS	585				hypothetical protein
+LOINPIBM_00625	CDS	498				hypothetical protein
+LOINPIBM_00626	CDS	360				hypothetical protein
+LOINPIBM_00627	CDS	603				hypothetical protein
+LOINPIBM_00628	CDS	498				hypothetical protein
+LOINPIBM_00629	CDS	1461				IS1182 family transposase ISClbo1
+LOINPIBM_00630	CDS	1026	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+LOINPIBM_00631	CDS	639	eda		COG0800	Putative KHG/KDPG aldolase
+LOINPIBM_00632	CDS	744	kdgR		COG1414	Transcriptional regulator KdgR
+LOINPIBM_00633	CDS	639				hypothetical protein
+LOINPIBM_00634	CDS	390				hypothetical protein
+LOINPIBM_00635	CDS	306				hypothetical protein
+LOINPIBM_00636	CDS	2151				hypothetical protein
+LOINPIBM_00637	CDS	459				hypothetical protein
+LOINPIBM_00638	CDS	1059				hypothetical protein
+LOINPIBM_00639	CDS	489				hypothetical protein
+LOINPIBM_00640	CDS	585	yfbR	3.1.3.89	COG1896	5'-deoxynucleotidase YfbR
+LOINPIBM_00641	CDS	2835	uvrA			UvrABC system protein A
+LOINPIBM_00642	CDS	1995	uvrB_1		COG0556	UvrABC system protein B
+LOINPIBM_00643	CDS	129				hypothetical protein
+LOINPIBM_00644	CDS	228				hypothetical protein
+LOINPIBM_00645	CDS	189				hypothetical protein
+LOINPIBM_00646	CDS	477	crtK-2		COG3476	Tryptophan-rich protein TspO
+LOINPIBM_00647	CDS	858	nudC	3.6.1.22		NADH pyrophosphatase
+LOINPIBM_00648	CDS	1326	yeeO_1		COG0534	putative FMN/FAD exporter YeeO
+LOINPIBM_00649	CDS	2145				hypothetical protein
+LOINPIBM_00650	CDS	276				hypothetical protein
+LOINPIBM_00651	CDS	171				hypothetical protein
+LOINPIBM_00652	CDS	291				hypothetical protein
+LOINPIBM_00653	CDS	174				hypothetical protein
+LOINPIBM_00654	CDS	321				hypothetical protein
+LOINPIBM_00655	CDS	303				hypothetical protein
+LOINPIBM_00656	CDS	306				hypothetical protein
+LOINPIBM_00657	CDS	228				hypothetical protein
+	repeat_region	3665				
+LOINPIBM_00658	CDS	672				hypothetical protein
+LOINPIBM_00659	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+LOINPIBM_00660	CDS	873	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+LOINPIBM_00661	CDS	4086	cas9	3.1.-.-	COG3513	CRISPR-associated endonuclease Cas9
+LOINPIBM_00662	CDS	1125				hypothetical protein
+LOINPIBM_00663	CDS	837	mscS		COG0668	Small-conductance mechanosensitive channel
+LOINPIBM_00664	CDS	2250	glgB_1	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+LOINPIBM_00665	CDS	672				hypothetical protein
+LOINPIBM_00666	CDS	1236				hypothetical protein
+LOINPIBM_00667	CDS	501				hypothetical protein
+LOINPIBM_00668	CDS	630	pdg			Ultraviolet N-glycosylase/AP lyase
+LOINPIBM_00669	CDS	597	engB		COG0218	putative GTP-binding protein EngB
+LOINPIBM_00670	CDS	2355	lon1	3.4.21.53	COG0466	Lon protease 1
+LOINPIBM_00671	CDS	1314	clpX_1		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+LOINPIBM_00672	CDS	606	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+LOINPIBM_00673	CDS	1317	tig_2	5.2.1.8	COG0544	Trigger factor
+LOINPIBM_00674	CDS	1143		3.2.1.156	COG3405	Reducing end xylose-releasing exo-oligoxylanase
+LOINPIBM_00675	CDS	1347	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+LOINPIBM_00676	CDS	507	recX		COG2137	Regulatory protein RecX
+LOINPIBM_00677	CDS	1068	recA		COG0468	Protein RecA
+LOINPIBM_00678	CDS	1569				hypothetical protein
+LOINPIBM_00679	CDS	1383	apeA	3.4.11.-	COG1362	putative M18 family aminopeptidase 1
+LOINPIBM_00680	CDS	240				hypothetical protein
+LOINPIBM_00681	CDS	741	truA_1	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+LOINPIBM_00682	CDS	543				hypothetical protein
+LOINPIBM_00683	CDS	1197				hypothetical protein
+LOINPIBM_00684	CDS	1785				hypothetical protein
+LOINPIBM_00685	CDS	909	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+LOINPIBM_00686	CDS	1287	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+LOINPIBM_00687	CDS	855	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+LOINPIBM_00688	CDS	534	nadR		COG1827	Transcription repressor NadR
+LOINPIBM_00689	CDS	396				hypothetical protein
+LOINPIBM_00690	CDS	1041				hypothetical protein
+LOINPIBM_00691	tRNA	76				tRNA-Pro(cgg)
+LOINPIBM_00692	CDS	1224	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+LOINPIBM_00693	CDS	2097				hypothetical protein
+LOINPIBM_00694	CDS	261				hypothetical protein
+LOINPIBM_00695	CDS	1332	rarA		COG2256	Replication-associated recombination protein A
+LOINPIBM_00696	CDS	678				hypothetical protein
+LOINPIBM_00697	CDS	2547	mrcA		COG5009	Penicillin-binding protein 1A
+LOINPIBM_00698	CDS	1839				hypothetical protein
+LOINPIBM_00699	CDS	1872	uvrC		COG0322	UvrABC system protein C
+LOINPIBM_00700	CDS	813		3.1.3.-		Putative phosphatase
+LOINPIBM_00701	CDS	1935	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+LOINPIBM_00702	CDS	1608	pyrG	6.3.4.2		CTP synthase
+LOINPIBM_00703	CDS	624	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+LOINPIBM_00704	CDS	135				hypothetical protein
+LOINPIBM_00705	CDS	2529	der_2			GTPase Der
+LOINPIBM_00706	CDS	219				hypothetical protein
+LOINPIBM_00707	CDS	213				hypothetical protein
+LOINPIBM_00708	CDS	369	mntR		COG1321	Transcriptional regulator MntR
+LOINPIBM_00709	tRNA	76				tRNA-Arg(acg)
+LOINPIBM_00710	CDS	1992	leuA	2.3.3.13		2-isopropylmalate synthase
+LOINPIBM_00711	CDS	2358				hypothetical protein
+LOINPIBM_00712	CDS	1137	sleL	3.2.1.-	COG3858	Cortical fragment-lytic enzyme
+LOINPIBM_00713	tRNA	88				tRNA-Leu(taa)
+LOINPIBM_00714	tRNA	76				tRNA-Asp(gtc)
+LOINPIBM_00715	tRNA	74				tRNA-Met(cat)
+LOINPIBM_00716	tRNA	73				tRNA-Glu(ttc)
+LOINPIBM_00717	CDS	1956				hypothetical protein
+LOINPIBM_00718	CDS	1473				hypothetical protein
+LOINPIBM_00719	tRNA	73				tRNA-Asn(gtt)
+LOINPIBM_00720	rRNA	2838				23S ribosomal RNA
+LOINPIBM_00721	rRNA	96				5S ribosomal RNA
+LOINPIBM_00722	rRNA	1545				16S ribosomal RNA
+LOINPIBM_00723	CDS	2418				hypothetical protein
+LOINPIBM_00724	CDS	855	rhaR_2			HTH-type transcriptional activator RhaR
+LOINPIBM_00725	tRNA	91				tRNA-Ser(gga)
+LOINPIBM_00726	tRNA	88				tRNA-Ser(tga)
+LOINPIBM_00727	CDS	1023	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+LOINPIBM_00728	CDS	603				hypothetical protein
+LOINPIBM_00729	CDS	921	rbn	3.1.-.-	COG1234	Ribonuclease BN
+LOINPIBM_00730	CDS	249				hypothetical protein
+LOINPIBM_00731	CDS	717	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+LOINPIBM_00732	CDS	429	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+LOINPIBM_00733	CDS	477				hypothetical protein
+LOINPIBM_00734	CDS	2154				hypothetical protein
+LOINPIBM_00735	CDS	1134				hypothetical protein
+LOINPIBM_00736	CDS	2142	yhgF		COG2183	Protein YhgF
+LOINPIBM_00737	CDS	2637	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+LOINPIBM_00738	CDS	837			COG1307	DegV domain-containing protein
+LOINPIBM_00739	CDS	3225	carB_1	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+LOINPIBM_00740	CDS	1659				hypothetical protein
+LOINPIBM_00741	CDS	468	mutX	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+LOINPIBM_00742	CDS	195				hypothetical protein
+LOINPIBM_00743	CDS	495	sigW_1		COG1595	ECF RNA polymerase sigma factor SigW
+LOINPIBM_00744	CDS	1440				hypothetical protein
+LOINPIBM_00745	CDS	399				hypothetical protein
+LOINPIBM_00746	CDS	513				hypothetical protein
+LOINPIBM_00747	CDS	450				hypothetical protein
+LOINPIBM_00748	CDS	156				hypothetical protein
+LOINPIBM_00749	CDS	363				hypothetical protein
+LOINPIBM_00750	CDS	1344	mepA_1			Multidrug export protein MepA
+LOINPIBM_00751	CDS	708	btsR_1		COG3279	Transcriptional regulatory protein BtsR
+LOINPIBM_00752	CDS	1278				hypothetical protein
+LOINPIBM_00753	CDS	1695				hypothetical protein
+LOINPIBM_00754	CDS	624	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+LOINPIBM_00755	CDS	591				hypothetical protein
+LOINPIBM_00756	CDS	903				hypothetical protein
+LOINPIBM_00757	CDS	231				hypothetical protein
+LOINPIBM_00758	CDS	2031	feoB		COG0370	Fe(2+) transporter FeoB
+LOINPIBM_00759	CDS	2253				hypothetical protein
+LOINPIBM_00760	CDS	678				putative protein
+LOINPIBM_00761	CDS	249				hypothetical protein
+LOINPIBM_00762	CDS	495	sigW_2		COG1595	ECF RNA polymerase sigma factor SigW
+LOINPIBM_00763	CDS	1275				hypothetical protein
+LOINPIBM_00764	CDS	240				hypothetical protein
+LOINPIBM_00765	CDS	4602				hypothetical protein
+LOINPIBM_00766	CDS	1056				hypothetical protein
+LOINPIBM_00767	CDS	996				hypothetical protein
+LOINPIBM_00768	CDS	960				hypothetical protein
+LOINPIBM_00769	CDS	135				hypothetical protein
+LOINPIBM_00770	CDS	771	ycdX	3.1.3.-		phosphatase YcdX
+LOINPIBM_00771	CDS	633				hypothetical protein
+LOINPIBM_00772	CDS	702	bceA_1		COG1136	Bacitracin export ATP-binding protein BceA
+LOINPIBM_00773	CDS	2724				hypothetical protein
+LOINPIBM_00774	CDS	474				hypothetical protein
+LOINPIBM_00775	CDS	783				hypothetical protein
+LOINPIBM_00776	CDS	498				hypothetical protein
+LOINPIBM_00777	CDS	2901	mtgA	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+LOINPIBM_00778	CDS	486				hypothetical protein
+LOINPIBM_00779	CDS	966				hypothetical protein
+LOINPIBM_00780	CDS	2406	xpkA	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+LOINPIBM_00781	CDS	699	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+LOINPIBM_00782	CDS	1194	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+LOINPIBM_00783	CDS	426	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+LOINPIBM_00784	CDS	1101	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+LOINPIBM_00785	CDS	741	fabG_4	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LOINPIBM_00786	CDS	1119				hypothetical protein
+LOINPIBM_00787	CDS	738		2.4.1.187		N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+LOINPIBM_00788	CDS	849				hypothetical protein
+LOINPIBM_00789	CDS	1113	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+LOINPIBM_00790	CDS	1392	mepA_2			Multidrug export protein MepA
+LOINPIBM_00791	CDS	1308				hypothetical protein
+LOINPIBM_00792	CDS	1089				hypothetical protein
+LOINPIBM_00793	CDS	717	ftsE		COG2884	Cell division ATP-binding protein FtsE
+LOINPIBM_00794	CDS	912	ftsX		COG2177	Cell division protein FtsX
+LOINPIBM_00795	CDS	1194				hypothetical protein
+LOINPIBM_00796	CDS	1206		3.4.21.-		putative CtpA-like serine protease
+LOINPIBM_00797	CDS	3981	mdtC			Multidrug resistance protein MdtC
+LOINPIBM_00798	CDS	804	racE	5.1.1.3	COG0796	Glutamate racemase 1
+LOINPIBM_00799	CDS	834				hypothetical protein
+LOINPIBM_00800	CDS	555				hypothetical protein
+LOINPIBM_00801	CDS	945	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+LOINPIBM_00802	CDS	558	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+LOINPIBM_00803	CDS	540	recU	3.1.22.4		Holliday junction resolvase RecU
+LOINPIBM_00804	CDS	201	sspC2			Small, acid-soluble spore protein C2
+LOINPIBM_00805	CDS	810	rhaR_3			HTH-type transcriptional activator RhaR
+LOINPIBM_00806	CDS	1962		2.7.8.-		Cardiolipin synthase
+LOINPIBM_00807	CDS	1086	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+LOINPIBM_00808	CDS	456				hypothetical protein
+LOINPIBM_00809	CDS	1287	pyrC	3.5.2.3		Dihydroorotase
+LOINPIBM_00810	CDS	921	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+LOINPIBM_00811	CDS	819	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+LOINPIBM_00812	CDS	909	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+LOINPIBM_00813	CDS	1284			COG1167	Putative aminotransferase/MSMEI_6121
+LOINPIBM_00814	CDS	681	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+LOINPIBM_00815	CDS	813				hypothetical protein
+LOINPIBM_00816	CDS	1275				hypothetical protein
+LOINPIBM_00817	CDS	1059				hypothetical protein
+LOINPIBM_00818	CDS	852				hypothetical protein
+LOINPIBM_00819	CDS	321				hypothetical protein
+LOINPIBM_00820	CDS	375				hypothetical protein
+LOINPIBM_00821	CDS	1308				hypothetical protein
+LOINPIBM_00822	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+LOINPIBM_00823	CDS	912				hypothetical protein
+LOINPIBM_00824	CDS	2325	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+LOINPIBM_00825	CDS	621	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+LOINPIBM_00826	CDS	1437	hemZ	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein HemZ
+LOINPIBM_00827	CDS	1251	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+LOINPIBM_00828	CDS	1797	aspS_1	6.1.1.12		Aspartate--tRNA ligase
+LOINPIBM_00829	CDS	1041	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+LOINPIBM_00830	CDS	450				hypothetical protein
+LOINPIBM_00831	CDS	1356	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+LOINPIBM_00832	CDS	5295				hypothetical protein
+LOINPIBM_00833	CDS	681				hypothetical protein
+LOINPIBM_00834	CDS	1155	fabV	1.3.1.9	COG3007	Enoyl-[acyl-carrier-protein] reductase [NADH]
+LOINPIBM_00835	CDS	669				IS3 family transposase ISEnfa5
+LOINPIBM_00836	CDS	678				hypothetical protein
+LOINPIBM_00837	CDS	1320	yclM	2.7.2.4	COG0527	Aspartokinase 3
+LOINPIBM_00838	CDS	273				hypothetical protein
+LOINPIBM_00839	CDS	1083	yeiR	3.6.-.-	COG0523	Zinc-binding GTPase YeiR
+LOINPIBM_00840	CDS	954				hypothetical protein
+LOINPIBM_00841	CDS	519				hypothetical protein
+LOINPIBM_00842	CDS	1209	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+LOINPIBM_00843	CDS	789	pgdA	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+LOINPIBM_00844	CDS	618				hypothetical protein
+LOINPIBM_00845	CDS	1452				hypothetical protein
+LOINPIBM_00846	CDS	285	ziaR			Transcriptional repressor SmtB 
+LOINPIBM_00847	CDS	219				hypothetical protein
+LOINPIBM_00848	CDS	1869	cadA	3.6.3.3	COG2217	Cadmium, zinc and cobalt-transporting ATPase
+LOINPIBM_00849	CDS	1377	prpC1	2.3.3.5	COG0372	2-methylcitrate synthase 1
+LOINPIBM_00850	CDS	780				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+LOINPIBM_00851	CDS	1455	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+LOINPIBM_00852	CDS	2286		3.2.1.31		Putative beta-glucuronidase
+LOINPIBM_00853	CDS	1410	yjmB		COG2211	putative symporter YjmB
+LOINPIBM_00854	CDS	363	lrgA		COG1380	Antiholin-like protein LrgA
+LOINPIBM_00855	CDS	693	yohK		COG1346	Inner membrane protein YohK
+LOINPIBM_00856	CDS	654	pdhR		COG2186	Pyruvate dehydrogenase complex repressor
+LOINPIBM_00857	CDS	1347	mepA_3		COG0534	Multidrug export protein MepA
+LOINPIBM_00858	CDS	846				hypothetical protein
+LOINPIBM_00859	CDS	1161	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+LOINPIBM_00860	CDS	621				hypothetical protein
+LOINPIBM_00861	CDS	1791	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LOINPIBM_00862	CDS	1728			COG1132	putative ABC transporter ATP-binding protein
+LOINPIBM_00863	CDS	957				hypothetical protein
+LOINPIBM_00864	CDS	315				hypothetical protein
+LOINPIBM_00865	CDS	504				hypothetical protein
+LOINPIBM_00866	CDS	438				hypothetical protein
+LOINPIBM_00867	CDS	372				hypothetical protein
+LOINPIBM_00868	CDS	429				hypothetical protein
+LOINPIBM_00869	CDS	1092				hypothetical protein
+LOINPIBM_00870	CDS	2091				hypothetical protein
+LOINPIBM_00871	CDS	723	yxlF	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+LOINPIBM_00872	CDS	1368				hypothetical protein
+LOINPIBM_00873	CDS	303				hypothetical protein
+LOINPIBM_00874	CDS	411				hypothetical protein
+LOINPIBM_00875	CDS	450	rppH_1	3.6.1.-		RNA pyrophosphohydrolase
+LOINPIBM_00876	CDS	375				hypothetical protein
+LOINPIBM_00877	CDS	498	hcaR_1			Hca operon transcriptional activator HcaR
+LOINPIBM_00878	CDS	1101	murJ_2			lipid II flippase MurJ
+LOINPIBM_00879	CDS	876	yvgN_1	1.1.1.-	COG0656	Glyoxal reductase
+LOINPIBM_00880	CDS	195				hypothetical protein
+LOINPIBM_00881	CDS	789	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+LOINPIBM_00882	CDS	1872				hypothetical protein
+LOINPIBM_00883	CDS	438				hypothetical protein
+LOINPIBM_00884	CDS	1356	mepA_4			Multidrug export protein MepA
+LOINPIBM_00885	CDS	351	evgS	2.7.13.3	COG0784	Sensor protein EvgS
+LOINPIBM_00886	CDS	96				hypothetical protein
+LOINPIBM_00887	CDS	291				hypothetical protein
+LOINPIBM_00888	CDS	639	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+LOINPIBM_00889	CDS	909				hypothetical protein
+LOINPIBM_00890	CDS	696	walR_2		COG0745	Transcriptional regulatory protein WalR
+LOINPIBM_00891	CDS	1119	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+LOINPIBM_00892	CDS	2283				hypothetical protein
+LOINPIBM_00893	CDS	102				hypothetical protein
+LOINPIBM_00894	CDS	168				hypothetical protein
+LOINPIBM_00895	CDS	624				hypothetical protein
+LOINPIBM_00896	CDS	267				hypothetical protein
+LOINPIBM_00897	CDS	237				hypothetical protein
+LOINPIBM_00898	CDS	321				hypothetical protein
+LOINPIBM_00899	CDS	411				hypothetical protein
+LOINPIBM_00900	CDS	678				hypothetical protein
+LOINPIBM_00901	CDS	762	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+LOINPIBM_00902	CDS	1164	iscS_3	2.8.1.7		Cysteine desulfurase IscS
+LOINPIBM_00903	CDS	1188	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+LOINPIBM_00904	CDS	234				hypothetical protein
+LOINPIBM_00905	CDS	1296	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+LOINPIBM_00906	CDS	1389	mgtE		COG2239	Magnesium transporter MgtE
+LOINPIBM_00907	CDS	3420	lacZ	3.2.1.23		Beta-galactosidase
+LOINPIBM_00908	CDS	462				hypothetical protein
+LOINPIBM_00909	CDS	1083	exuR_1		COG1609	putative HTH-type transcriptional repressor ExuR
+LOINPIBM_00910	CDS	990				hypothetical protein
+LOINPIBM_00911	CDS	762	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+LOINPIBM_00912	CDS	759	ribX			Riboflavin transport system permease protein RibX
+LOINPIBM_00913	CDS	786				hypothetical protein
+LOINPIBM_00914	CDS	2739	rcsD	2.7.2.-		Phosphotransferase RcsD
+LOINPIBM_00915	CDS	1905	purR_2			HTH-type transcriptional repressor PurR
+LOINPIBM_00916	CDS	762				hypothetical protein
+LOINPIBM_00917	CDS	1764				hypothetical protein
+LOINPIBM_00918	CDS	2223				hypothetical protein
+LOINPIBM_00919	CDS	267				hypothetical protein
+LOINPIBM_00920	CDS	423	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+LOINPIBM_00921	CDS	273				hypothetical protein
+LOINPIBM_00922	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+LOINPIBM_00923	CDS	360	mltG	4.2.2.-		Endolytic murein transglycosylase
+LOINPIBM_00924	CDS	684	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+LOINPIBM_00925	CDS	1239				hypothetical protein
+LOINPIBM_00926	CDS	978	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+LOINPIBM_00927	CDS	1239	hflX		COG2262	GTPase HflX
+LOINPIBM_00928	CDS	771		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+LOINPIBM_00929	CDS	1293	apeB	3.4.11.-	COG1362	putative M18 family aminopeptidase 2
+LOINPIBM_00930	CDS	714				hypothetical protein
+LOINPIBM_00931	CDS	1179	purH	3.5.4.10		Bifunctional purine biosynthesis protein PurH
+LOINPIBM_00932	CDS	957	bioB	2.8.1.6		Biotin synthase
+LOINPIBM_00933	CDS	387				hypothetical protein
+LOINPIBM_00934	CDS	279				hypothetical protein
+LOINPIBM_00935	CDS	435	cymR_1			HTH-type transcriptional regulator CymR
+LOINPIBM_00936	CDS	927	cysK_1	2.5.1.47	COG0031	Cysteine synthase
+LOINPIBM_00937	CDS	966				hypothetical protein
+LOINPIBM_00938	CDS	1164	roo	1.-.-.-		Rubredoxin-oxygen oxidoreductase
+LOINPIBM_00939	CDS	1161				hypothetical protein
+LOINPIBM_00940	CDS	1272				hypothetical protein
+LOINPIBM_00941	CDS	279				hypothetical protein
+LOINPIBM_00942	CDS	318				hypothetical protein
+LOINPIBM_00943	CDS	660	sigK			RNA polymerase sigma-28 factor
+LOINPIBM_00944	CDS	1734				hypothetical protein
+LOINPIBM_00945	CDS	1419	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LOINPIBM_00946	CDS	798	potB_1		COG1176	Spermidine/putrescine transport system permease protein PotB
+LOINPIBM_00947	CDS	792				hypothetical protein
+LOINPIBM_00948	CDS	1392	spuE_1		COG0687	Spermidine-binding periplasmic protein SpuE
+LOINPIBM_00949	CDS	363				hypothetical protein
+LOINPIBM_00950	CDS	591				hypothetical protein
+LOINPIBM_00951	CDS	1149	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+LOINPIBM_00952	CDS	1605	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+LOINPIBM_00953	CDS	1362	mepA_5			Multidrug export protein MepA
+LOINPIBM_00954	CDS	2253	pflB	2.3.1.54		Formate acetyltransferase
+LOINPIBM_00955	CDS	756	pflA	1.97.1.4		Pyruvate formate-lyase-activating enzyme
+LOINPIBM_00956	CDS	1281		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+LOINPIBM_00957	CDS	468				IS200/IS605 family transposase ISEnfa200
+LOINPIBM_00958	CDS	168				hypothetical protein
+LOINPIBM_00959	CDS	423				hypothetical protein
+LOINPIBM_00960	CDS	588				hypothetical protein
+LOINPIBM_00961	CDS	765				hypothetical protein
+LOINPIBM_00962	CDS	603				hypothetical protein
+LOINPIBM_00963	CDS	300				hypothetical protein
+LOINPIBM_00964	CDS	105				hypothetical protein
+LOINPIBM_00965	CDS	2631	GFM1			Elongation factor G, mitochondrial
+LOINPIBM_00966	CDS	306	trxA_1		COG0526	Thioredoxin
+LOINPIBM_00967	CDS	2052				hypothetical protein
+LOINPIBM_00968	CDS	1677				hypothetical protein
+LOINPIBM_00969	CDS	2265	glgP_1	2.4.1.1	COG0058	Glycogen phosphorylase
+LOINPIBM_00970	CDS	900	aprX	3.4.21.-	COG1404	Serine protease AprX
+LOINPIBM_00971	CDS	2079	ydfJ		COG2409	Membrane protein YdfJ
+LOINPIBM_00972	CDS	1992				hypothetical protein
+LOINPIBM_00973	CDS	603				hypothetical protein
+LOINPIBM_00974	CDS	2325	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LOINPIBM_00975	CDS	543				hypothetical protein
+LOINPIBM_00976	CDS	2220	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LOINPIBM_00977	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+LOINPIBM_00978	CDS	1734			COG1132	putative ABC transporter ATP-binding protein
+LOINPIBM_00979	CDS	2439	cbpA	2.4.1.20	COG3459	Cellobiose phosphorylase
+LOINPIBM_00980	CDS	1011	exuR_2		COG1609	putative HTH-type transcriptional repressor ExuR
+LOINPIBM_00981	CDS	1401				hypothetical protein
+LOINPIBM_00982	CDS	978	lacF			Lactose transport system permease protein LacF
+LOINPIBM_00983	CDS	879	araQ		COG0395	L-arabinose transport system permease protein AraQ
+LOINPIBM_00984	CDS	486	hndA	1.12.1.3	COG1905	NADP-reducing hydrogenase subunit HndA
+LOINPIBM_00985	CDS	1890				hypothetical protein
+LOINPIBM_00986	CDS	1728	hndD	1.12.1.3	COG3383	NADP-reducing hydrogenase subunit HndD
+LOINPIBM_00987	CDS	1482				hypothetical protein
+LOINPIBM_00988	CDS	870	rhaS_1			HTH-type transcriptional activator RhaS
+LOINPIBM_00989	CDS	1275				hypothetical protein
+LOINPIBM_00990	CDS	543				hypothetical protein
+LOINPIBM_00991	CDS	672	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+LOINPIBM_00992	CDS	1551				hypothetical protein
+LOINPIBM_00993	CDS	1131				hypothetical protein
+LOINPIBM_00994	CDS	1128				hypothetical protein
+LOINPIBM_00995	CDS	174				hypothetical protein
+LOINPIBM_00996	CDS	1224				hypothetical protein
+LOINPIBM_00997	CDS	924	arcC1	2.7.2.2		Carbamate kinase 1
+LOINPIBM_00998	CDS	687				hypothetical protein
+LOINPIBM_00999	CDS	1608		3.1.-.-	COG1236	Ribonuclease
+LOINPIBM_01000	CDS	1779				hypothetical protein
+LOINPIBM_01001	CDS	1545				hypothetical protein
+LOINPIBM_01002	CDS	657	tal	2.2.1.2	COG0176	Transaldolase
+LOINPIBM_01003	CDS	837	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+LOINPIBM_01004	CDS	942	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+LOINPIBM_01005	CDS	534	sigV		COG1595	RNA polymerase sigma factor SigV
+LOINPIBM_01006	CDS	714				hypothetical protein
+LOINPIBM_01007	CDS	582				hypothetical protein
+LOINPIBM_01008	CDS	555				hypothetical protein
+LOINPIBM_01009	CDS	1086				hypothetical protein
+LOINPIBM_01010	CDS	1221				hypothetical protein
+LOINPIBM_01011	CDS	666	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+LOINPIBM_01012	CDS	855				hypothetical protein
+LOINPIBM_01013	CDS	1005				hypothetical protein
+LOINPIBM_01014	CDS	723				hypothetical protein
+LOINPIBM_01015	CDS	1116				hypothetical protein
+LOINPIBM_01016	CDS	780				hypothetical protein
+LOINPIBM_01017	CDS	876				hypothetical protein
+LOINPIBM_01018	CDS	642	bcrA			Bacitracin transport ATP-binding protein BcrA
+LOINPIBM_01019	CDS	1314	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+LOINPIBM_01020	CDS	1770	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+LOINPIBM_01021	CDS	1320				hypothetical protein
+LOINPIBM_01022	CDS	1311				hypothetical protein
+LOINPIBM_01023	CDS	561				hypothetical protein
+LOINPIBM_01024	CDS	1095	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+LOINPIBM_01025	CDS	1215	aroD	4.2.1.10		3-dehydroquinate dehydratase
+LOINPIBM_01026	CDS	558	efp		COG0231	Elongation factor P
+LOINPIBM_01027	CDS	312	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+LOINPIBM_01028	CDS	2256	copA	7.2.2.8		putative copper-importing P-type ATPase A
+LOINPIBM_01029	CDS	1308		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+LOINPIBM_01030	CDS	810	moeZ_1		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+LOINPIBM_01031	CDS	915	oxyR			Hydrogen peroxide-inducible genes activator
+LOINPIBM_01032	CDS	780				hypothetical protein
+LOINPIBM_01033	CDS	591	dpaB	1.3.1.-	COG0452	Dipicolinate synthase subunit B
+LOINPIBM_01034	CDS	1854	asnO	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 3
+LOINPIBM_01035	CDS	204				hypothetical protein
+LOINPIBM_01036	CDS	1188	gltS		COG0786	Sodium/glutamate symporter
+LOINPIBM_01037	CDS	957				hypothetical protein
+LOINPIBM_01038	CDS	561				hypothetical protein
+LOINPIBM_01039	CDS	462				hypothetical protein
+LOINPIBM_01040	CDS	669				IS3 family transposase ISEnfa5
+LOINPIBM_01041	CDS	678				hypothetical protein
+LOINPIBM_01042	CDS	765	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+LOINPIBM_01043	CDS	897				hypothetical protein
+LOINPIBM_01044	CDS	519	spoIIIAB			Stage III sporulation protein AB
+LOINPIBM_01045	CDS	195				hypothetical protein
+LOINPIBM_01046	CDS	381				hypothetical protein
+LOINPIBM_01047	CDS	1125				hypothetical protein
+LOINPIBM_01048	CDS	483				hypothetical protein
+LOINPIBM_01049	CDS	534				hypothetical protein
+LOINPIBM_01050	CDS	651				hypothetical protein
+LOINPIBM_01051	CDS	375			COG1302	Alkaline shock protein 23
+LOINPIBM_01052	CDS	417	nusB		COG0781	Transcription antitermination protein NusB
+LOINPIBM_01053	CDS	1215	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+LOINPIBM_01054	CDS	216	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+LOINPIBM_01055	CDS	900		2.5.1.10		Farnesyl diphosphate synthase
+LOINPIBM_01056	CDS	1881	dxs_1	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+LOINPIBM_01057	CDS	831	tlyA	2.1.1.226	COG1189	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+LOINPIBM_01058	CDS	831	nadK	2.7.1.23	COG0061	NAD kinase
+LOINPIBM_01059	CDS	444	argR		COG1438	Arginine repressor
+LOINPIBM_01060	CDS	738			COG0217	putative transcriptional regulatory protein
+LOINPIBM_01061	CDS	777	lipC	3.-.-.-	COG2755	Spore germination lipase LipC
+LOINPIBM_01062	CDS	672		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+LOINPIBM_01063	CDS	1635		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+LOINPIBM_01064	CDS	1530	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+LOINPIBM_01065	CDS	1164	agaA_2	3.2.1.22		Alpha-galactosidase A
+LOINPIBM_01066	CDS	225				hypothetical protein
+LOINPIBM_01067	CDS	408				hypothetical protein
+LOINPIBM_01068	CDS	816				hypothetical protein
+LOINPIBM_01069	CDS	663	dnaJ_2			Chaperone protein DnaJ
+LOINPIBM_01070	CDS	528				hypothetical protein
+LOINPIBM_01071	CDS	975	fabH_2	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+LOINPIBM_01072	CDS	1782				hypothetical protein
+LOINPIBM_01073	CDS	882				hypothetical protein
+LOINPIBM_01074	CDS	1110				Bifunctional xylanase/deacetylase
+LOINPIBM_01075	CDS	168				hypothetical protein
+LOINPIBM_01076	CDS	1020	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+LOINPIBM_01077	CDS	2439	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+LOINPIBM_01078	CDS	486				hypothetical protein
+LOINPIBM_01079	CDS	330				hypothetical protein
+LOINPIBM_01080	CDS	795				hypothetical protein
+LOINPIBM_01081	CDS	645				hypothetical protein
+LOINPIBM_01082	CDS	1485	thrC	4.2.3.1	COG0498	Threonine synthase
+LOINPIBM_01083	CDS	774	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+LOINPIBM_01084	CDS	489				hypothetical protein
+LOINPIBM_01085	CDS	1671	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+LOINPIBM_01086	CDS	846				hypothetical protein
+LOINPIBM_01087	CDS	720				hypothetical protein
+LOINPIBM_01088	CDS	288				hypothetical protein
+LOINPIBM_01089	CDS	2799				hypothetical protein
+LOINPIBM_01090	CDS	228				hypothetical protein
+LOINPIBM_01091	CDS	1254	yegI_1	2.7.-.-	COG4248	Protein kinase YegI
+LOINPIBM_01092	CDS	903				hypothetical protein
+LOINPIBM_01093	CDS	654				hypothetical protein
+LOINPIBM_01094	CDS	480				hypothetical protein
+LOINPIBM_01095	CDS	624				hypothetical protein
+LOINPIBM_01096	CDS	2388				hypothetical protein
+LOINPIBM_01097	CDS	303				hypothetical protein
+LOINPIBM_01098	CDS	468				IS200/IS605 family transposase ISEnfa200
+LOINPIBM_01099	CDS	1278				hypothetical protein
+LOINPIBM_01100	CDS	96				hypothetical protein
+LOINPIBM_01101	CDS	687				hypothetical protein
+LOINPIBM_01102	CDS	1599	nhaP			K(+)/H(+) antiporter NhaP
+LOINPIBM_01103	CDS	1050	rsmH_1	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+LOINPIBM_01104	CDS	474				hypothetical protein
+LOINPIBM_01105	CDS	819	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+LOINPIBM_01106	CDS	486				hypothetical protein
+LOINPIBM_01107	CDS	261	spoVG			Putative septation protein SpoVG
+LOINPIBM_01108	CDS	1122	glgC_1	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+LOINPIBM_01109	CDS	1275	glgC_2	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+LOINPIBM_01110	CDS	1383	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+LOINPIBM_01111	CDS	1095				hypothetical protein
+LOINPIBM_01112	CDS	993				hypothetical protein
+LOINPIBM_01113	CDS	1167	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+LOINPIBM_01114	CDS	2250	pbpD		COG0744	Penicillin-binding protein 4
+LOINPIBM_01115	CDS	1191				hypothetical protein
+LOINPIBM_01116	CDS	1500	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+LOINPIBM_01117	CDS	978				hypothetical protein
+LOINPIBM_01118	CDS	1275				hypothetical protein
+LOINPIBM_01119	CDS	1518	opuE_1		COG0591	Osmoregulated proline transporter OpuE
+LOINPIBM_01120	CDS	411	atpC		COG0355	ATP synthase epsilon chain
+LOINPIBM_01121	CDS	1413	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+LOINPIBM_01122	CDS	888	atpG		COG0224	ATP synthase gamma chain, sodium ion specific
+LOINPIBM_01123	CDS	1515	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+LOINPIBM_01124	CDS	552	atpH			ATP synthase subunit delta
+LOINPIBM_01125	CDS	519	atpF			ATP synthase subunit b, sodium ion specific
+LOINPIBM_01126	CDS	258	atpE			ATP synthase subunit c, sodium ion specific
+LOINPIBM_01127	CDS	705	atpB		COG0356	ATP synthase subunit a
+LOINPIBM_01128	CDS	396				hypothetical protein
+LOINPIBM_01129	CDS	306				hypothetical protein
+LOINPIBM_01130	CDS	792	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+LOINPIBM_01131	CDS	429	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+LOINPIBM_01132	CDS	465	ptpB	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase PtpB
+LOINPIBM_01133	CDS	1053	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+LOINPIBM_01134	CDS	720				hypothetical protein
+LOINPIBM_01135	CDS	1704				hypothetical protein
+LOINPIBM_01136	CDS	1410	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+LOINPIBM_01137	CDS	1440				ISLre2 family transposase ISClsp4
+LOINPIBM_01138	CDS	525	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+LOINPIBM_01139	CDS	1356	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+LOINPIBM_01140	CDS	828				hypothetical protein
+LOINPIBM_01141	CDS	570				hypothetical protein
+LOINPIBM_01142	CDS	1740				hypothetical protein
+LOINPIBM_01143	CDS	918				hypothetical protein
+LOINPIBM_01144	CDS	486				hypothetical protein
+LOINPIBM_01145	CDS	696				hypothetical protein
+LOINPIBM_01146	CDS	1083				hypothetical protein
+LOINPIBM_01147	CDS	102				hypothetical protein
+LOINPIBM_01148	CDS	279				hypothetical protein
+LOINPIBM_01149	CDS	138				hypothetical protein
+LOINPIBM_01150	CDS	1215				hypothetical protein
+LOINPIBM_01151	CDS	1188	tuf		COG0050	Elongation factor Tu
+LOINPIBM_01152	CDS	2118	fusA		COG0480	Elongation factor G
+LOINPIBM_01153	CDS	471	rpsG			30S ribosomal protein S7
+LOINPIBM_01154	CDS	420	rpsL		COG0048	30S ribosomal protein S12
+LOINPIBM_01155	CDS	495				hypothetical protein
+LOINPIBM_01156	CDS	1149				hypothetical protein
+LOINPIBM_01157	CDS	933				hypothetical protein
+LOINPIBM_01158	CDS	576				hypothetical protein
+LOINPIBM_01159	CDS	600	recR		COG0353	Recombination protein RecR
+LOINPIBM_01160	CDS	351			COG0718	Nucleoid-associated protein
+LOINPIBM_01161	CDS	1578	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+LOINPIBM_01162	CDS	1074	pfkA2	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 2
+LOINPIBM_01163	CDS	1929				hypothetical protein
+LOINPIBM_01164	CDS	780	rhaS_2			HTH-type transcriptional activator RhaS
+LOINPIBM_01165	CDS	819	yvgN_2	1.1.1.-	COG0656	Glyoxal reductase
+LOINPIBM_01166	tRNA	72				tRNA-Cys(gca)
+LOINPIBM_01167	tRNA	73				tRNA-Glu(ttc)
+LOINPIBM_01168	tRNA	72				tRNA-Asn(gtt)
+LOINPIBM_01169	rRNA	2834				23S ribosomal RNA
+LOINPIBM_01170	tRNA	75				tRNA-Ala(tgc)
+LOINPIBM_01171	rRNA	96				5S ribosomal RNA
+LOINPIBM_01172	rRNA	1538				16S ribosomal RNA
+LOINPIBM_01173	CDS	3741	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+LOINPIBM_01174	CDS	3798	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+LOINPIBM_01175	CDS	597	cmk_2	2.7.4.25		Cytidylate kinase
+LOINPIBM_01176	CDS	369	rplL			50S ribosomal protein L7/L12
+LOINPIBM_01177	CDS	501	rplJ			50S ribosomal protein L10
+LOINPIBM_01178	CDS	693	rplA			50S ribosomal protein L1
+LOINPIBM_01179	CDS	426	rplK			50S ribosomal protein L11
+LOINPIBM_01180	CDS	519	nusG			Transcription termination/antitermination protein NusG
+LOINPIBM_01181	CDS	204	secE			Protein translocase subunit SecE
+LOINPIBM_01182	CDS	150	rpmG		COG0267	50S ribosomal protein L33
+LOINPIBM_01183	CDS	396				hypothetical protein
+LOINPIBM_01184	CDS	336				hypothetical protein
+LOINPIBM_01185	CDS	444				hypothetical protein
+LOINPIBM_01186	CDS	1224				hypothetical protein
+LOINPIBM_01187	CDS	1143	ttcA	2.8.1.-		tRNA-cytidine(32) 2-sulfurtransferase
+LOINPIBM_01188	CDS	771	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+LOINPIBM_01189	CDS	1266				hypothetical protein
+LOINPIBM_01190	CDS	393				hypothetical protein
+LOINPIBM_01191	CDS	513				hypothetical protein
+LOINPIBM_01192	CDS	630				hypothetical protein
+LOINPIBM_01193	CDS	1998				hypothetical protein
+LOINPIBM_01194	CDS	2172				hypothetical protein
+LOINPIBM_01195	CDS	774	rhaR_4			HTH-type transcriptional activator RhaR
+LOINPIBM_01196	CDS	2469				hypothetical protein
+LOINPIBM_01197	CDS	690				hypothetical protein
+LOINPIBM_01198	CDS	2463	glgP_2	2.4.1.1	COG0058	Glycogen phosphorylase
+LOINPIBM_01199	CDS	3162	mupA			mupirocin-resistant isoleucine--tRNA ligase MupA
+LOINPIBM_01200	CDS	2094				hypothetical protein
+LOINPIBM_01201	CDS	648	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+LOINPIBM_01202	CDS	753	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+LOINPIBM_01203	CDS	876	pstA		COG0581	Phosphate transport system permease protein PstA
+LOINPIBM_01204	CDS	843	pstC		COG0573	Phosphate transport system permease protein PstC
+LOINPIBM_01205	CDS	903	pstS2		COG0226	Phosphate-binding protein PstS 2
+LOINPIBM_01206	CDS	885	mcp2		COG0840	Methyl-accepting chemotaxis protein 2
+LOINPIBM_01207	CDS	162				hypothetical protein
+LOINPIBM_01208	CDS	1770				hypothetical protein
+LOINPIBM_01209	CDS	1029		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+LOINPIBM_01210	CDS	450				hypothetical protein
+LOINPIBM_01211	CDS	1128	tarF	2.7.8.45	COG1887	Teichoic acid glycerol-phosphate transferase
+LOINPIBM_01212	CDS	3057				hypothetical protein
+LOINPIBM_01213	CDS	1755				hypothetical protein
+LOINPIBM_01214	CDS	741	tagH_1	7.5.2.4	COG1134	Teichoic acids export ATP-binding protein TagH
+LOINPIBM_01215	CDS	804				hypothetical protein
+LOINPIBM_01216	CDS	999				hypothetical protein
+LOINPIBM_01217	CDS	1146	epsD	2.4.-.-		Putative glycosyltransferase EpsD
+LOINPIBM_01218	CDS	1437				hypothetical protein
+LOINPIBM_01219	CDS	801				hypothetical protein
+LOINPIBM_01220	CDS	1446	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+LOINPIBM_01221	CDS	582				hypothetical protein
+LOINPIBM_01222	CDS	1017				hypothetical protein
+LOINPIBM_01223	CDS	1149	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+LOINPIBM_01224	CDS	1314	pdp	2.4.2.2		Pyrimidine-nucleoside phosphorylase
+LOINPIBM_01225	CDS	1026				hypothetical protein
+LOINPIBM_01226	CDS	1527	opuE_2		COG0591	Osmoregulated proline transporter OpuE
+LOINPIBM_01227	CDS	558				hypothetical protein
+LOINPIBM_01228	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+LOINPIBM_01229	CDS	1806				hypothetical protein
+LOINPIBM_01230	CDS	1347				hypothetical protein
+LOINPIBM_01231	CDS	1323	pyrP			Uracil permease
+LOINPIBM_01232	CDS	798				hypothetical protein
+LOINPIBM_01233	CDS	1563	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+LOINPIBM_01234	CDS	2025	assT	2.8.2.22		Arylsulfate sulfotransferase AssT
+LOINPIBM_01235	CDS	579	cysC	2.7.1.25	COG0529	Adenylyl-sulfate kinase
+LOINPIBM_01236	CDS	555				hypothetical protein
+LOINPIBM_01237	CDS	1296				hypothetical protein
+LOINPIBM_01238	CDS	1284	alsT_1		COG1115	Amino-acid carrier protein AlsT
+LOINPIBM_01239	CDS	1323				hypothetical protein
+LOINPIBM_01240	CDS	693	ulaF	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase UlaF
+LOINPIBM_01241	CDS	942				hypothetical protein
+LOINPIBM_01242	CDS	642				hypothetical protein
+LOINPIBM_01243	CDS	1563				hypothetical protein
+LOINPIBM_01244	CDS	345				hypothetical protein
+LOINPIBM_01245	CDS	801	mecA			Adapter protein MecA
+LOINPIBM_01246	CDS	213				hypothetical protein
+LOINPIBM_01247	CDS	426			COG0716	Flavodoxin
+LOINPIBM_01248	CDS	171				Ferredoxin
+LOINPIBM_01249	CDS	1353	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+LOINPIBM_01250	CDS	705				hypothetical protein
+LOINPIBM_01251	CDS	1065	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+LOINPIBM_01252	CDS	420	hit		COG0537	Protein hit
+LOINPIBM_01253	CDS	993				hypothetical protein
+LOINPIBM_01254	CDS	609	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+LOINPIBM_01255	CDS	1407				hypothetical protein
+LOINPIBM_01256	CDS	1167				hypothetical protein
+LOINPIBM_01257	CDS	432				hypothetical protein
+LOINPIBM_01258	CDS	417				hypothetical protein
+LOINPIBM_01259	CDS	747				hypothetical protein
+LOINPIBM_01260	CDS	1977				hypothetical protein
+LOINPIBM_01261	CDS	177				hypothetical protein
+LOINPIBM_01262	CDS	1314				hypothetical protein
+LOINPIBM_01263	CDS	732				hypothetical protein
+LOINPIBM_01264	CDS	1236				hypothetical protein
+LOINPIBM_01265	CDS	1026				hypothetical protein
+LOINPIBM_01266	CDS	507				hypothetical protein
+LOINPIBM_01267	CDS	267				hypothetical protein
+LOINPIBM_01268	CDS	480				hypothetical protein
+LOINPIBM_01269	CDS	1425	fliC		COG1344	Flagellin
+LOINPIBM_01270	CDS	2856				hypothetical protein
+LOINPIBM_01271	CDS	1086				hypothetical protein
+LOINPIBM_01272	CDS	2166				hypothetical protein
+LOINPIBM_01273	CDS	699	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+LOINPIBM_01274	CDS	1539				hypothetical protein
+LOINPIBM_01275	CDS	1524				hypothetical protein
+LOINPIBM_01276	CDS	2277	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+LOINPIBM_01277	CDS	1737	pgcA	5.4.2.2		Phosphoglucomutase
+LOINPIBM_01278	CDS	1302				hypothetical protein
+LOINPIBM_01279	CDS	999				hypothetical protein
+LOINPIBM_01280	CDS	1728				hypothetical protein
+LOINPIBM_01281	CDS	840				hypothetical protein
+LOINPIBM_01282	CDS	459				hypothetical protein
+LOINPIBM_01283	CDS	1521	pnbA	3.1.1.-	COG2272	Para-nitrobenzyl esterase
+LOINPIBM_01284	CDS	153				hypothetical protein
+LOINPIBM_01285	CDS	369				hypothetical protein
+LOINPIBM_01286	CDS	1206	mnmE_1	3.6.-.-		tRNA modification GTPase MnmE
+LOINPIBM_01287	CDS	1902	purR_3			HTH-type transcriptional repressor PurR
+LOINPIBM_01288	CDS	1392	cca	2.7.7.72		CCA-adding enzyme
+LOINPIBM_01289	CDS	267				hypothetical protein
+LOINPIBM_01290	CDS	477				hypothetical protein
+LOINPIBM_01291	CDS	873	yodJ	3.4.-.-	COG1876	Putative carboxypeptidase YodJ
+LOINPIBM_01292	CDS	732	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+LOINPIBM_01293	CDS	459				hypothetical protein
+LOINPIBM_01294	CDS	741				hypothetical protein
+LOINPIBM_01295	CDS	1413				hypothetical protein
+LOINPIBM_01296	CDS	1023				hypothetical protein
+LOINPIBM_01297	CDS	846	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+LOINPIBM_01298	CDS	435				hypothetical protein
+LOINPIBM_01299	CDS	1050	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+LOINPIBM_01300	CDS	636				hypothetical protein
+LOINPIBM_01301	CDS	864	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+LOINPIBM_01302	CDS	582				hypothetical protein
+LOINPIBM_01303	CDS	1551				hypothetical protein
+LOINPIBM_01304	CDS	240	veg		COG4466	Protein Veg
+LOINPIBM_01305	CDS	1194	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+LOINPIBM_01306	CDS	387	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+LOINPIBM_01307	CDS	846	panC	6.3.2.1	COG0414	Pantothenate synthetase
+LOINPIBM_01308	CDS	828	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+LOINPIBM_01309	CDS	867				hypothetical protein
+LOINPIBM_01310	CDS	816				hypothetical protein
+LOINPIBM_01311	CDS	1608				hypothetical protein
+LOINPIBM_01312	CDS	708	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+LOINPIBM_01313	CDS	738			COG4753	putative response regulatory protein
+LOINPIBM_01314	CDS	1302				hypothetical protein
+LOINPIBM_01315	CDS	906	rihA	3.2.-.-		Pyrimidine-specific ribonucleoside hydrolase RihA
+LOINPIBM_01316	CDS	411				hypothetical protein
+LOINPIBM_01317	CDS	699				hypothetical protein
+LOINPIBM_01318	CDS	204				hypothetical protein
+LOINPIBM_01319	CDS	183				hypothetical protein
+LOINPIBM_01320	CDS	450				hypothetical protein
+LOINPIBM_01321	CDS	195				hypothetical protein
+LOINPIBM_01322	CDS	1419	pyk	2.7.1.40		Pyruvate kinase
+LOINPIBM_01323	CDS	1401	dacB	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacB
+LOINPIBM_01324	CDS	639	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+LOINPIBM_01325	CDS	1164	yhhT		COG0628	Putative transport protein YhhT
+LOINPIBM_01326	tRNA	74				tRNA-Lys(ctt)
+LOINPIBM_01327	CDS	501				hypothetical protein
+LOINPIBM_01328	CDS	879	spo0J		COG1475	Stage 0 sporulation protein J
+LOINPIBM_01329	CDS	768	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+LOINPIBM_01330	CDS	696	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+LOINPIBM_01331	CDS	1881	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+LOINPIBM_01332	CDS	1383	mnmE_2	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+LOINPIBM_01333	CDS	723				hypothetical protein
+LOINPIBM_01334	CDS	1008	yidC			Membrane protein insertase YidC
+LOINPIBM_01335	CDS	330	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+LOINPIBM_01336	CDS	135	rpmH			50S ribosomal protein L34
+LOINPIBM_01337	CDS	1377	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+LOINPIBM_01338	CDS	1101	dnaN			Beta sliding clamp
+LOINPIBM_01339	CDS	213				hypothetical protein
+LOINPIBM_01340	CDS	1083	recF		COG1195	DNA replication and repair protein RecF
+LOINPIBM_01341	CDS	1926	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+LOINPIBM_01342	CDS	2511	gyrA_2	5.6.2.2	COG0188	DNA gyrase subunit A
+LOINPIBM_01343	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+LOINPIBM_01344	CDS	555	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+LOINPIBM_01345	tRNA	90				tRNA-Ser(gct)
+LOINPIBM_01346	rRNA	1545				16S ribosomal RNA
+LOINPIBM_01347	rRNA	96				5S ribosomal RNA
+LOINPIBM_01348	tRNA	76				tRNA-Ile(gat)
+LOINPIBM_01349	tRNA	75				tRNA-Ala(tgc)
+LOINPIBM_01350	CDS	1671	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+LOINPIBM_01351	CDS	840				hypothetical protein
+LOINPIBM_01352	CDS	864	gshB	6.3.2.3		Glutathione synthetase
+LOINPIBM_01353	CDS	2571	spoIIIE		COG1674	DNA translocase SpoIIIE
+LOINPIBM_01354	CDS	147				hypothetical protein
+LOINPIBM_01355	CDS	630	tepA		COG0740	Translocation-enhancing protein TepA
+LOINPIBM_01356	CDS	1272				hypothetical protein
+LOINPIBM_01357	CDS	321				hypothetical protein
+LOINPIBM_01358	CDS	771	yafV	3.5.1.3		Omega-amidase YafV
+LOINPIBM_01359	CDS	717				hypothetical protein
+LOINPIBM_01360	CDS	981				hypothetical protein
+LOINPIBM_01361	CDS	2094	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+LOINPIBM_01362	CDS	453	rppH_2	3.6.1.-		RNA pyrophosphohydrolase
+LOINPIBM_01363	CDS	267	rpsO			30S ribosomal protein S15
+LOINPIBM_01364	CDS	3204	carB_2	6.3.5.5		Carbamoyl-phosphate synthase large chain
+LOINPIBM_01365	CDS	1098	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+LOINPIBM_01366	CDS	486				hypothetical protein
+LOINPIBM_01367	CDS	1308	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+LOINPIBM_01368	CDS	1482	gltB_1	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+LOINPIBM_01369	CDS	4560	gltB_2	1.4.7.1		Ferredoxin-dependent glutamate synthase 1
+LOINPIBM_01370	CDS	582	scpB		COG1386	Segregation and condensation protein B
+LOINPIBM_01371	CDS	768	scpA		COG1354	Segregation and condensation protein A
+LOINPIBM_01372	CDS	834				hypothetical protein
+LOINPIBM_01373	CDS	2274	metE_1	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+LOINPIBM_01374	CDS	1212	dacF_2	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacF
+LOINPIBM_01375	CDS	657				hypothetical protein
+LOINPIBM_01376	CDS	513	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+LOINPIBM_01377	CDS	1980				hypothetical protein
+LOINPIBM_01378	CDS	435				hypothetical protein
+LOINPIBM_01379	CDS	783				hypothetical protein
+LOINPIBM_01380	CDS	1191				hypothetical protein
+LOINPIBM_01381	CDS	834	pknD_3	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_01382	CDS	294				hypothetical protein
+LOINPIBM_01383	CDS	474				hypothetical protein
+LOINPIBM_01384	CDS	495				hypothetical protein
+LOINPIBM_01385	CDS	1014				hypothetical protein
+LOINPIBM_01386	CDS	501				hypothetical protein
+LOINPIBM_01387	CDS	1056				hypothetical protein
+LOINPIBM_01388	CDS	1650	udk	2.7.1.48		Uridine kinase
+LOINPIBM_01389	CDS	711	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+LOINPIBM_01390	CDS	1134	sigA_2		COG0568	RNA polymerase sigma factor SigA
+LOINPIBM_01391	CDS	1764	dnaG	2.7.7.-		DNA primase
+LOINPIBM_01392	CDS	1011				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+LOINPIBM_01393	CDS	261				hypothetical protein
+LOINPIBM_01394	CDS	984	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+LOINPIBM_01395	CDS	624	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+LOINPIBM_01396	CDS	831		1.10.3.-	COG1496	Polyphenol oxidase
+LOINPIBM_01397	CDS	816				hypothetical protein
+LOINPIBM_01398	CDS	636				hypothetical protein
+LOINPIBM_01399	CDS	1332	mepA_6			Multidrug export protein MepA
+LOINPIBM_01400	CDS	1356				hypothetical protein
+LOINPIBM_01401	CDS	1680				hypothetical protein
+LOINPIBM_01402	CDS	846				hypothetical protein
+LOINPIBM_01403	CDS	237				hypothetical protein
+LOINPIBM_01404	CDS	195				hypothetical protein
+LOINPIBM_01405	CDS	555				hypothetical protein
+LOINPIBM_01406	CDS	513				hypothetical protein
+LOINPIBM_01407	CDS	522				hypothetical protein
+LOINPIBM_01408	CDS	1053				hypothetical protein
+LOINPIBM_01409	CDS	753	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+LOINPIBM_01410	CDS	102				hypothetical protein
+LOINPIBM_01411	CDS	453				hypothetical protein
+LOINPIBM_01412	CDS	279				hypothetical protein
+LOINPIBM_01413	CDS	312				hypothetical protein
+LOINPIBM_01414	CDS	108				hypothetical protein
+LOINPIBM_01415	CDS	534				hypothetical protein
+LOINPIBM_01416	CDS	1683		2.1.1.-	COG2265	putative RNA methyltransferase
+LOINPIBM_01417	CDS	621				hypothetical protein
+LOINPIBM_01418	CDS	2244	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+LOINPIBM_01419	CDS	276				hypothetical protein
+LOINPIBM_01420	CDS	882			COG1307	DegV domain-containing protein
+LOINPIBM_01421	CDS	1440				ISLre2 family transposase ISClsp4
+LOINPIBM_01422	CDS	684				hypothetical protein
+LOINPIBM_01423	CDS	1536	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+LOINPIBM_01424	CDS	852				hypothetical protein
+LOINPIBM_01425	CDS	795				hypothetical protein
+LOINPIBM_01426	CDS	1335				hypothetical protein
+LOINPIBM_01427	CDS	1647	bamB			Outer membrane protein assembly factor BamB
+LOINPIBM_01428	CDS	720	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+LOINPIBM_01429	CDS	1038				hypothetical protein
+LOINPIBM_01430	CDS	2697				hypothetical protein
+LOINPIBM_01431	CDS	1113				hypothetical protein
+LOINPIBM_01432	CDS	3954				hypothetical protein
+LOINPIBM_01433	CDS	531	sipU	3.4.21.89	COG0681	Signal peptidase I U
+LOINPIBM_01434	tRNA	88				tRNA-Ser(cga)
+LOINPIBM_01435	CDS	978	yqeN		COG1466	putative protein YqeN
+LOINPIBM_01436	CDS	1623	xynB_1	3.2.1.37		Beta-xylosidase
+LOINPIBM_01437	CDS	1329	xanQ		COG2233	Xanthine permease XanQ
+LOINPIBM_01438	CDS	582	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+LOINPIBM_01439	CDS	2181	comEC		COG0658	ComE operon protein 3
+LOINPIBM_01440	CDS	948				hypothetical protein
+LOINPIBM_01441	CDS	1473	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+LOINPIBM_01442	CDS	693	walR_3		COG0745	Transcriptional regulatory protein WalR
+LOINPIBM_01443	CDS	618	comEA		COG1555	ComE operon protein 1
+LOINPIBM_01444	CDS	435				hypothetical protein
+LOINPIBM_01445	CDS	1182	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+LOINPIBM_01446	CDS	903	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+LOINPIBM_01447	CDS	1224	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+LOINPIBM_01448	CDS	1041	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+LOINPIBM_01449	CDS	1224	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+LOINPIBM_01450	CDS	2025				hypothetical protein
+LOINPIBM_01451	CDS	921	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+LOINPIBM_01452	CDS	570	thiE_2	2.5.1.3		Thiamine-phosphate synthase
+LOINPIBM_01453	CDS	1203	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+LOINPIBM_01454	CDS	792	thiG	2.8.1.10	COG2022	Thiazole synthase
+LOINPIBM_01455	CDS	198				hypothetical protein
+LOINPIBM_01456	CDS	237				hypothetical protein
+LOINPIBM_01457	CDS	222				IS200/IS605 family transposase ISDha13
+LOINPIBM_01458	CDS	996				hypothetical protein
+LOINPIBM_01459	CDS	1062				hypothetical protein
+LOINPIBM_01460	CDS	525	sigW_3		COG1595	ECF RNA polymerase sigma factor SigW
+LOINPIBM_01461	CDS	669		3.1.3.5	COG0546	5'-nucleotidase
+LOINPIBM_01462	CDS	513	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+LOINPIBM_01463	CDS	987	yrbG		COG0530	Inner membrane protein YrbG
+LOINPIBM_01464	CDS	1845				hypothetical protein
+LOINPIBM_01465	CDS	558				hypothetical protein
+LOINPIBM_01466	CDS	1122	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+LOINPIBM_01467	CDS	1824	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+LOINPIBM_01468	CDS	630				hypothetical protein
+LOINPIBM_01469	CDS	981	hdfR			HTH-type transcriptional regulator HdfR
+LOINPIBM_01470	CDS	990				hypothetical protein
+LOINPIBM_01471	CDS	972	eglS	3.2.1.4	COG2730	Endoglucanase
+LOINPIBM_01472	CDS	834				hypothetical protein
+LOINPIBM_01473	CDS	1290				hypothetical protein
+LOINPIBM_01474	CDS	2109				hypothetical protein
+LOINPIBM_01475	CDS	2151				hypothetical protein
+LOINPIBM_01476	CDS	1335	pknD_4	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_01477	CDS	1299				hypothetical protein
+LOINPIBM_01478	CDS	2154				hypothetical protein
+LOINPIBM_01479	CDS	1440				ISLre2 family transposase ISClsp4
+LOINPIBM_01480	CDS	1017				hypothetical protein
+LOINPIBM_01481	CDS	936				hypothetical protein
+LOINPIBM_01482	CDS	423				hypothetical protein
+LOINPIBM_01483	CDS	2112				hypothetical protein
+LOINPIBM_01484	CDS	1074				hypothetical protein
+LOINPIBM_01485	CDS	1149				hypothetical protein
+LOINPIBM_01486	CDS	1374	pknD_5	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_01487	CDS	1041	spkF	2.7.11.1		Serine/threonine-protein kinase F
+LOINPIBM_01488	CDS	1956	spk1_2	2.7.11.1		Serine/threonine-protein kinase PK-1
+LOINPIBM_01489	CDS	2136	pknD_6	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_01490	CDS	888				hypothetical protein
+LOINPIBM_01491	CDS	2394		3.6.3.-	COG0842	ABC transporter ATP-binding/permease protein
+LOINPIBM_01492	CDS	2349	pknD_7	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_01493	CDS	918				hypothetical protein
+LOINPIBM_01494	CDS	837				hypothetical protein
+LOINPIBM_01495	CDS	867	prpC_2	3.1.3.16	COG0631	Protein phosphatase PrpC
+LOINPIBM_01496	CDS	1335	pknD_8	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_01497	CDS	1821				hypothetical protein
+LOINPIBM_01498	CDS	615				hypothetical protein
+LOINPIBM_01499	CDS	732	prpC_3	3.1.3.16	COG0631	Protein phosphatase PrpC
+LOINPIBM_01500	CDS	630				hypothetical protein
+LOINPIBM_01501	CDS	642				hypothetical protein
+LOINPIBM_01502	CDS	438				hypothetical protein
+LOINPIBM_01503	CDS	561				hypothetical protein
+LOINPIBM_01504	CDS	1206				hypothetical protein
+LOINPIBM_01505	CDS	927				hypothetical protein
+LOINPIBM_01506	CDS	225				hypothetical protein
+LOINPIBM_01507	CDS	117				hypothetical protein
+	repeat_region	653				
+LOINPIBM_01508	CDS	150				hypothetical protein
+LOINPIBM_01509	CDS	1794				hypothetical protein
+LOINPIBM_01510	CDS	1017				hypothetical protein
+LOINPIBM_01511	CDS	384				hypothetical protein
+LOINPIBM_01512	CDS	204				hypothetical protein
+LOINPIBM_01513	CDS	999				hypothetical protein
+LOINPIBM_01514	CDS	1050	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+LOINPIBM_01515	CDS	783	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+LOINPIBM_01516	CDS	1152	bcd	1.3.8.1	COG1960	Acyl-CoA dehydrogenase, short-chain specific
+LOINPIBM_01517	CDS	843	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+LOINPIBM_01518	CDS	792	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+LOINPIBM_01519	CDS	1185	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+LOINPIBM_01520	CDS	495	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+LOINPIBM_01521	CDS	1335		2.8.3.-	COG0427	Butyryl-CoA:acetate CoA-transferase
+LOINPIBM_01522	CDS	1701				hypothetical protein
+LOINPIBM_01523	CDS	2643	alaS	6.1.1.7		Alanine--tRNA ligase
+LOINPIBM_01524	CDS	717				hypothetical protein
+LOINPIBM_01525	CDS	1260	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+LOINPIBM_01526	CDS	570	yqgN		COG0212	putative protein YqgN
+LOINPIBM_01527	CDS	210				hypothetical protein
+LOINPIBM_01528	CDS	837	proB	2.7.2.11		Glutamate 5-kinase
+LOINPIBM_01529	CDS	1617	dadA	1.4.99.-		D-amino acid dehydrogenase
+LOINPIBM_01530	CDS	1158	baiN_2	1.3.1.114	COG2081	3-dehydro-bile acid delta(4,6)-reductase
+LOINPIBM_01531	CDS	591				hypothetical protein
+LOINPIBM_01532	CDS	1233				hypothetical protein
+LOINPIBM_01533	CDS	654		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+LOINPIBM_01534	CDS	2493				hypothetical protein
+LOINPIBM_01535	CDS	1476	spoIVA	3.6.1.3		Stage IV sporulation protein A
+LOINPIBM_01536	CDS	1068	tig_3	5.2.1.8		Trigger factor
+LOINPIBM_01537	CDS	816	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+LOINPIBM_01538	CDS	1185	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+LOINPIBM_01539	CDS	783	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+LOINPIBM_01540	CDS	1011	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+LOINPIBM_01541	CDS	570	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+LOINPIBM_01542	CDS	1467	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+LOINPIBM_01543	CDS	468	smpB		COG0691	SsrA-binding protein
+LOINPIBM_01544	CDS	2154	rnr	3.1.13.1	COG0557	Ribonuclease R
+LOINPIBM_01545	CDS	243				hypothetical protein
+LOINPIBM_01546	CDS	1254	ftsZ			Cell division protein FtsZ
+LOINPIBM_01547	CDS	723	divIB			Cell division protein DivIB
+LOINPIBM_01548	CDS	1206	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+LOINPIBM_01549	CDS	1137	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+LOINPIBM_01550	CDS	1329	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+LOINPIBM_01551	CDS	969	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+LOINPIBM_01552	CDS	1719	spoVD_1		COG0768	Stage V sporulation protein D
+LOINPIBM_01553	CDS	1863	spoVD_2		COG0768	Stage V sporulation protein D
+LOINPIBM_01554	CDS	456	ftsL_1			Cell division protein FtsL
+LOINPIBM_01555	CDS	942	rsmH_2	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+LOINPIBM_01556	CDS	429	mraZ			Transcriptional regulator MraZ
+LOINPIBM_01557	CDS	870	lgt_2	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+LOINPIBM_01558	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+LOINPIBM_01559	CDS	2118				hypothetical protein
+LOINPIBM_01560	CDS	2598				hypothetical protein
+LOINPIBM_01561	CDS	723				hypothetical protein
+LOINPIBM_01562	CDS	717				hypothetical protein
+LOINPIBM_01563	CDS	819				hypothetical protein
+LOINPIBM_01564	CDS	240				hypothetical protein
+LOINPIBM_01565	CDS	2220				hypothetical protein
+LOINPIBM_01566	CDS	936				hypothetical protein
+LOINPIBM_01567	CDS	2481				hypothetical protein
+LOINPIBM_01568	CDS	2118				hypothetical protein
+LOINPIBM_01569	CDS	1206	hpaIIM	2.1.1.37		Modification methylase HpaII
+LOINPIBM_01570	CDS	1215				hypothetical protein
+LOINPIBM_01571	CDS	954				hypothetical protein
+LOINPIBM_01572	CDS	1758	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+LOINPIBM_01573	CDS	954	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+LOINPIBM_01574	CDS	2406				hypothetical protein
+LOINPIBM_01575	tRNA	85				tRNA-Thr(ggt)
+LOINPIBM_01576	CDS	2475				hypothetical protein
+LOINPIBM_01577	CDS	2532				hypothetical protein
+LOINPIBM_01578	CDS	441	mrnC	3.1.26.-		Mini-ribonuclease 3
+LOINPIBM_01579	CDS	765		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+LOINPIBM_01580	CDS	612	sigH		COG1595	RNA polymerase sigma-H factor
+LOINPIBM_01581	tRNA	73				tRNA-Thr(ggt)
+LOINPIBM_01582	CDS	339				hypothetical protein
+LOINPIBM_01583	CDS	1071				hypothetical protein
+LOINPIBM_01584	CDS	1002	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LOINPIBM_01585	CDS	681	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+LOINPIBM_01586	CDS	2826				hypothetical protein
+LOINPIBM_01587	CDS	1152				hypothetical protein
+LOINPIBM_01588	CDS	1128				hypothetical protein
+LOINPIBM_01589	CDS	1011				hypothetical protein
+LOINPIBM_01590	CDS	1230				hypothetical protein
+LOINPIBM_01591	CDS	354				hypothetical protein
+LOINPIBM_01592	CDS	1077	spoVAD			Stage V sporulation protein AD
+LOINPIBM_01593	CDS	213				hypothetical protein
+LOINPIBM_01594	CDS	135				hypothetical protein
+LOINPIBM_01595	CDS	324				hypothetical protein
+LOINPIBM_01596	CDS	576		3.4.-.-		Putative AgrB-like protein
+LOINPIBM_01597	CDS	126				hypothetical protein
+LOINPIBM_01598	CDS	1251				hypothetical protein
+LOINPIBM_01599	CDS	744				hypothetical protein
+LOINPIBM_01600	CDS	324				hypothetical protein
+LOINPIBM_01601	CDS	774	zupT		COG0428	Zinc transporter ZupT
+LOINPIBM_01602	CDS	2175	ctpE	7.2.2.10	COG0474	Calcium-transporting ATPase CtpE
+LOINPIBM_01603	CDS	486	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+LOINPIBM_01604	tRNA	75				tRNA-Met(cat)
+LOINPIBM_01605	tRNA	75				tRNA-Val(tac)
+LOINPIBM_01606	CDS	477				hypothetical protein
+LOINPIBM_01607	CDS	489		3.1.4.-		Putative metallophosphoesterase MG207 
+LOINPIBM_01608	CDS	603		3.6.1.66		dITP/XTP pyrophosphatase
+LOINPIBM_01609	CDS	1182	rlmL_2		COG0116	Ribosomal RNA large subunit methyltransferase K/L
+LOINPIBM_01610	CDS	291	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+LOINPIBM_01611	CDS	195				hypothetical protein
+LOINPIBM_01612	CDS	864	fba	4.1.2.13		Fructose-bisphosphate aldolase
+LOINPIBM_01613	CDS	657				hypothetical protein
+LOINPIBM_01614	tRNA	74				tRNA-Gln(ttg)
+LOINPIBM_01615	tRNA	75				tRNA-His(gtg)
+LOINPIBM_01616	tRNA	75				tRNA-Arg(tct)
+LOINPIBM_01617	tRNA	71				tRNA-Gly(tcc)
+LOINPIBM_01618	tRNA	76				tRNA-Pro(tgg)
+LOINPIBM_01619	CDS	1056	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+LOINPIBM_01620	CDS	1656				hypothetical protein
+LOINPIBM_01621	CDS	1383	clpX_2		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+LOINPIBM_01622	CDS	1701				hypothetical protein
+LOINPIBM_01623	CDS	1428	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+LOINPIBM_01624	CDS	2397	dinG	3.1.-.-		3'-5' exonuclease DinG
+LOINPIBM_01625	CDS	378				hypothetical protein
+LOINPIBM_01626	CDS	531	sigW_4		COG1595	ECF RNA polymerase sigma factor SigW
+LOINPIBM_01627	CDS	834				hypothetical protein
+LOINPIBM_01628	CDS	1635				hypothetical protein
+LOINPIBM_01629	CDS	1881	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+LOINPIBM_01630	CDS	1467	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+LOINPIBM_01631	CDS	612	cmk_3	2.7.4.25		Cytidylate kinase
+LOINPIBM_01632	CDS	717				hypothetical protein
+LOINPIBM_01633	tRNA	85				tRNA-Leu(aag)
+LOINPIBM_01634	CDS	1593				hypothetical protein
+LOINPIBM_01635	CDS	642	thyX	2.1.1.148	COG1351	Flavin-dependent thymidylate synthase
+LOINPIBM_01636	CDS	480				hypothetical protein
+LOINPIBM_01637	CDS	1458	radA	3.6.4.-	COG1066	DNA repair protein RadA
+LOINPIBM_01638	CDS	414				hypothetical protein
+LOINPIBM_01639	CDS	2481	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+LOINPIBM_01640	CDS	393	ytrA_1		COG1725	HTH-type transcriptional repressor YtrA
+LOINPIBM_01641	CDS	1284				hypothetical protein
+LOINPIBM_01642	CDS	1890				hypothetical protein
+LOINPIBM_01643	CDS	744	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+LOINPIBM_01644	CDS	3552	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+LOINPIBM_01645	CDS	3399	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+LOINPIBM_01646	CDS	444				hypothetical protein
+LOINPIBM_01647	CDS	1938	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+LOINPIBM_01648	CDS	1458	walK_1	2.7.13.3		Sensor histidine kinase WalK
+LOINPIBM_01649	CDS	690	srrA_2		COG0745	Transcriptional regulatory protein SrrA
+LOINPIBM_01650	CDS	681				hypothetical protein
+LOINPIBM_01651	CDS	795	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+LOINPIBM_01652	CDS	576	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+LOINPIBM_01653	CDS	648	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+LOINPIBM_01654	CDS	654	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+LOINPIBM_01655	CDS	990	rnfD	7.2.1.2	COG4658	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+LOINPIBM_01656	CDS	1323	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+LOINPIBM_01657	CDS	306				hypothetical protein
+LOINPIBM_01658	CDS	2655				hypothetical protein
+LOINPIBM_01659	CDS	1650				hypothetical protein
+LOINPIBM_01660	CDS	960	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+LOINPIBM_01661	CDS	153				hypothetical protein
+LOINPIBM_01662	CDS	1545				hypothetical protein
+LOINPIBM_01663	CDS	366				hypothetical protein
+LOINPIBM_01664	CDS	477				hypothetical protein
+LOINPIBM_01665	CDS	345				hypothetical protein
+LOINPIBM_01666	CDS	282				hypothetical protein
+LOINPIBM_01667	CDS	1536	xynB_2	3.2.1.37		Beta-xylosidase
+LOINPIBM_01668	CDS	663				hypothetical protein
+LOINPIBM_01669	CDS	1026	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+LOINPIBM_01670	CDS	999				hypothetical protein
+LOINPIBM_01671	CDS	666				hypothetical protein
+LOINPIBM_01672	CDS	960				hypothetical protein
+LOINPIBM_01673	CDS	618				hypothetical protein
+LOINPIBM_01674	CDS	1137	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+LOINPIBM_01675	CDS	1518	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+LOINPIBM_01676	CDS	978				hypothetical protein
+LOINPIBM_01677	CDS	3516	mfd	3.6.4.-		Transcription-repair-coupling factor
+LOINPIBM_01678	CDS	576	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+LOINPIBM_01679	CDS	489				hypothetical protein
+LOINPIBM_01680	CDS	894				hypothetical protein
+LOINPIBM_01681	CDS	1038				hypothetical protein
+LOINPIBM_01682	CDS	540				hypothetical protein
+LOINPIBM_01683	CDS	315				hypothetical protein
+LOINPIBM_01684	CDS	654				hypothetical protein
+LOINPIBM_01685	CDS	300				hypothetical protein
+LOINPIBM_01686	CDS	882				hypothetical protein
+LOINPIBM_01687	CDS	2631		7.2.2.10	COG0474	Calcium-transporting ATPase
+LOINPIBM_01688	CDS	561	flr			Flavoredoxin
+LOINPIBM_01689	CDS	600				hypothetical protein
+LOINPIBM_01690	CDS	696				hypothetical protein
+LOINPIBM_01691	CDS	978				hypothetical protein
+LOINPIBM_01692	CDS	1683				hypothetical protein
+LOINPIBM_01693	CDS	582	thiT		COG3859	Thiamine transporter ThiT
+LOINPIBM_01694	CDS	1887	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+LOINPIBM_01695	CDS	1218				hypothetical protein
+LOINPIBM_01696	CDS	1152	sbnB_1	1.5.1.51	COG2423	N-((2S)-2-amino-2-carboxyethyl)-L-glutamate dehydrogenase
+LOINPIBM_01697	CDS	831				hypothetical protein
+LOINPIBM_01698	CDS	903	potB_2		COG1176	Spermidine/putrescine transport system permease protein PotB
+LOINPIBM_01699	CDS	1134	potA	7.6.2.11	COG3842	Spermidine/putrescine import ATP-binding protein PotA
+LOINPIBM_01700	CDS	342	glnK		COG0347	Nitrogen regulatory protein P-II 2
+LOINPIBM_01701	CDS	1104	spuE_2		COG0687	Spermidine-binding periplasmic protein SpuE
+LOINPIBM_01702	CDS	1167	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+LOINPIBM_01703	CDS	1521				hypothetical protein
+LOINPIBM_01704	CDS	1191	sbnB_2	1.5.1.51	COG2423	N-((2S)-2-amino-2-carboxyethyl)-L-glutamate dehydrogenase
+LOINPIBM_01705	CDS	1137	soxB	1.5.3.1		Sarcosine oxidase subunit beta
+LOINPIBM_01706	CDS	330				hypothetical protein
+LOINPIBM_01707	CDS	1572		1.18.1.2		Ferredoxin--NADP reductase
+LOINPIBM_01708	CDS	321				hypothetical protein
+LOINPIBM_01709	CDS	834				hypothetical protein
+LOINPIBM_01710	CDS	636		3.1.4.-	COG3437	Cyclic di-GMP phosphodiesterase
+LOINPIBM_01711	CDS	1116	metE_2	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+LOINPIBM_01712	CDS	990	hcaR_2			Hca operon transcriptional activator HcaR
+LOINPIBM_01713	CDS	705				hypothetical protein
+LOINPIBM_01714	CDS	2709				hypothetical protein
+LOINPIBM_01715	CDS	1137				hypothetical protein
+LOINPIBM_01716	CDS	240				hypothetical protein
+LOINPIBM_01717	CDS	1695				hypothetical protein
+LOINPIBM_01718	CDS	1317				hypothetical protein
+LOINPIBM_01719	CDS	453				hypothetical protein
+LOINPIBM_01720	CDS	888				hypothetical protein
+LOINPIBM_01721	CDS	765				hypothetical protein
+LOINPIBM_01722	CDS	351	mgsR		COG1393	Regulatory protein MgsR
+LOINPIBM_01723	CDS	1302	eno_2	4.2.1.11		Enolase
+LOINPIBM_01724	CDS	1044	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+LOINPIBM_01725	CDS	1077				hypothetical protein
+LOINPIBM_01726	CDS	372				hypothetical protein
+LOINPIBM_01727	CDS	2970				hypothetical protein
+LOINPIBM_01728	CDS	315				hypothetical protein
+LOINPIBM_01729	CDS	333				hypothetical protein
+LOINPIBM_01730	CDS	288				hypothetical protein
+LOINPIBM_01731	CDS	366				hypothetical protein
+LOINPIBM_01732	CDS	744				hypothetical protein
+LOINPIBM_01733	CDS	1041				hypothetical protein
+LOINPIBM_01734	CDS	1227				hypothetical protein
+LOINPIBM_01735	CDS	663				IS3 family transposase ISRgn1
+LOINPIBM_01736	CDS	270				hypothetical protein
+LOINPIBM_01737	CDS	312				hypothetical protein
+LOINPIBM_01738	CDS	543				hypothetical protein
+LOINPIBM_01739	CDS	357				hypothetical protein
+LOINPIBM_01740	CDS	1041				hypothetical protein
+LOINPIBM_01741	CDS	1725				hypothetical protein
+LOINPIBM_01742	CDS	819	mboIIM	2.1.1.72		Modification methylase MboII
+LOINPIBM_01743	CDS	1101				hypothetical protein
+LOINPIBM_01744	CDS	222				hypothetical protein
+LOINPIBM_01745	CDS	468				hypothetical protein
+LOINPIBM_01746	CDS	501				hypothetical protein
+LOINPIBM_01747	CDS	354		2.3.1.-		Acetyltransferase
+LOINPIBM_01748	CDS	336				hypothetical protein
+LOINPIBM_01749	CDS	438				hypothetical protein
+LOINPIBM_01750	CDS	690				hypothetical protein
+LOINPIBM_01751	CDS	909				hypothetical protein
+LOINPIBM_01752	CDS	810				hypothetical protein
+LOINPIBM_01753	CDS	285				hypothetical protein
+LOINPIBM_01754	CDS	819				hypothetical protein
+LOINPIBM_01755	CDS	669				hypothetical protein
+LOINPIBM_01756	CDS	351				hypothetical protein
+LOINPIBM_01757	CDS	807				hypothetical protein
+LOINPIBM_01758	CDS	1425	mdtK			Multidrug resistance protein MdtK
+LOINPIBM_01759	CDS	1548				hypothetical protein
+LOINPIBM_01760	tRNA	73				tRNA-Gly(ccc)
+LOINPIBM_01761	CDS	492				hypothetical protein
+LOINPIBM_01762	CDS	378				hypothetical protein
+LOINPIBM_01763	CDS	348				hypothetical protein
+LOINPIBM_01764	CDS	1524				hypothetical protein
+LOINPIBM_01765	CDS	1140				hypothetical protein
+LOINPIBM_01766	CDS	858	lnrL_3	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+LOINPIBM_01767	CDS	2031				hypothetical protein
+LOINPIBM_01768	CDS	1701	cstA		COG1966	Peptide transporter CstA
+LOINPIBM_01769	CDS	900				hypothetical protein
+LOINPIBM_01770	CDS	855				hypothetical protein
+LOINPIBM_01771	CDS	1572				hypothetical protein
+LOINPIBM_01772	CDS	765	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+LOINPIBM_01773	CDS	501	greA_1		COG0782	Transcription elongation factor GreA
+LOINPIBM_01774	CDS	597				hypothetical protein
+LOINPIBM_01775	CDS	582	ctc		COG1825	General stress protein CTC
+LOINPIBM_01776	CDS	2118				hypothetical protein
+LOINPIBM_01777	CDS	1254				hypothetical protein
+LOINPIBM_01778	CDS	555				hypothetical protein
+LOINPIBM_01779	CDS	159				hypothetical protein
+LOINPIBM_01780	CDS	255				hypothetical protein
+LOINPIBM_01781	CDS	1842				hypothetical protein
+LOINPIBM_01782	CDS	972				hypothetical protein
+LOINPIBM_01783	CDS	996				hypothetical protein
+LOINPIBM_01784	CDS	159				hypothetical protein
+LOINPIBM_01785	CDS	1155				hypothetical protein
+LOINPIBM_01786	CDS	1041				hypothetical protein
+LOINPIBM_01787	CDS	483				hypothetical protein
+LOINPIBM_01788	CDS	981	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+LOINPIBM_01789	CDS	303				hypothetical protein
+LOINPIBM_01790	CDS	294				hypothetical protein
+LOINPIBM_01791	CDS	1053	ybiR		COG0471	Inner membrane protein YbiR
+LOINPIBM_01792	CDS	381	blaI_2		COG3682	Penicillinase repressor
+LOINPIBM_01793	CDS	1650				hypothetical protein
+LOINPIBM_01794	CDS	711				hypothetical protein
+LOINPIBM_01795	CDS	1386	mepA_7		COG0534	Multidrug export protein MepA
+LOINPIBM_01796	CDS	1140	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+LOINPIBM_01797	CDS	663				hypothetical protein
+LOINPIBM_01798	CDS	1494	glpK	2.7.1.30	COG0554	Glycerol kinase
+LOINPIBM_01799	CDS	216				hypothetical protein
+LOINPIBM_01800	CDS	432				hypothetical protein
+LOINPIBM_01801	CDS	369				hypothetical protein
+LOINPIBM_01802	CDS	300				hypothetical protein
+LOINPIBM_01803	CDS	243				hypothetical protein
+LOINPIBM_01804	CDS	303				hypothetical protein
+LOINPIBM_01805	tRNA	73				tRNA-Arg(cct)
+LOINPIBM_01806	CDS	1182	metK	2.5.1.6		S-adenosylmethionine synthase
+LOINPIBM_01807	CDS	849	walK_2	2.7.13.3		Sensor histidine kinase WalK
+LOINPIBM_01808	CDS	720	srrA_3		COG0745	Transcriptional regulatory protein SrrA
+LOINPIBM_01809	CDS	1008				Sodium-lithium/proton antiporter
+LOINPIBM_01810	CDS	429				hypothetical protein
+LOINPIBM_01811	CDS	177				hypothetical protein
+LOINPIBM_01812	CDS	1422	gerBA			Spore germination protein B1
+LOINPIBM_01813	CDS	1287				hypothetical protein
+LOINPIBM_01814	CDS	741	btsR_2		COG3279	Transcriptional regulatory protein BtsR
+LOINPIBM_01815	CDS	600	agrB_2	3.4.-.-		Accessory gene regulator protein B
+LOINPIBM_01816	CDS	168				hypothetical protein
+LOINPIBM_01817	CDS	2013				hypothetical protein
+LOINPIBM_01818	CDS	1047				hypothetical protein
+LOINPIBM_01819	CDS	1164				hypothetical protein
+LOINPIBM_01820	CDS	1167				hypothetical protein
+LOINPIBM_01821	CDS	237				hypothetical protein
+LOINPIBM_01822	CDS	300				hypothetical protein
+LOINPIBM_01823	CDS	1179				hypothetical protein
+LOINPIBM_01824	CDS	678				hypothetical protein
+LOINPIBM_01825	CDS	669				IS3 family transposase ISEnfa5
+LOINPIBM_01826	CDS	873	nfo	3.1.21.2		putative endonuclease 4
+LOINPIBM_01827	CDS	222				hypothetical protein
+LOINPIBM_01828	CDS	1992	metG	6.1.1.10		Methionine--tRNA ligase
+LOINPIBM_01829	CDS	786	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+LOINPIBM_01830	CDS	888	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+LOINPIBM_01831	CDS	903	rpsA_2		COG0539	30S ribosomal protein S1
+LOINPIBM_01832	CDS	393				hypothetical protein
+LOINPIBM_01833	CDS	1479	pdeR	3.1.4.52	COG2199	Cyclic di-GMP phosphodiesterase PdeR
+LOINPIBM_01834	CDS	378				hypothetical protein
+LOINPIBM_01835	CDS	2526				hypothetical protein
+LOINPIBM_01836	CDS	396	cdd	3.5.4.5	COG0295	Cytidine deaminase
+LOINPIBM_01837	CDS	1389	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+LOINPIBM_01838	CDS	819				hypothetical protein
+LOINPIBM_01839	CDS	1413	speA	4.1.1.19	COG1982	Arginine decarboxylase
+LOINPIBM_01840	CDS	585	gmk_2	2.7.4.8		Guanylate kinase
+LOINPIBM_01841	CDS	441				hypothetical protein
+LOINPIBM_01842	CDS	984				hypothetical protein
+LOINPIBM_01843	CDS	912				hypothetical protein
+LOINPIBM_01844	CDS	756	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+LOINPIBM_01845	CDS	864	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+LOINPIBM_01846	CDS	549	pspB_1	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+LOINPIBM_01847	CDS	930				hypothetical protein
+LOINPIBM_01848	CDS	261	abrB		COG2002	Transition state regulatory protein AbrB
+LOINPIBM_01849	CDS	906				hypothetical protein
+LOINPIBM_01850	CDS	1047	gspF		COG1459	Putative type II secretion system protein F
+LOINPIBM_01851	CDS	327				hypothetical protein
+LOINPIBM_01852	CDS	513				hypothetical protein
+LOINPIBM_01853	CDS	402				hypothetical protein
+LOINPIBM_01854	CDS	414				hypothetical protein
+LOINPIBM_01855	CDS	1068	pilT_2		COG2805	Twitching mobility protein
+LOINPIBM_01856	CDS	1902				hypothetical protein
+LOINPIBM_01857	CDS	1509				hypothetical protein
+LOINPIBM_01858	CDS	714	ypdB		COG3279	Transcriptional regulatory protein YpdB
+LOINPIBM_01859	CDS	1926				hypothetical protein
+LOINPIBM_01860	CDS	708				hypothetical protein
+LOINPIBM_01861	CDS	456				hypothetical protein
+LOINPIBM_01862	CDS	1698				hypothetical protein
+LOINPIBM_01863	CDS	1392	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+LOINPIBM_01864	CDS	843			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+LOINPIBM_01865	CDS	1689	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+LOINPIBM_01866	CDS	1251	fabF_2	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+LOINPIBM_01867	CDS	471				hypothetical protein
+LOINPIBM_01868	CDS	594	spmA		COG2715	Spore maturation protein A
+LOINPIBM_01869	CDS	525	spmB			Spore maturation protein B
+LOINPIBM_01870	CDS	1068				hypothetical protein
+LOINPIBM_01871	CDS	1101				hypothetical protein
+LOINPIBM_01872	CDS	1200				hypothetical protein
+LOINPIBM_01873	CDS	552	bioY		COG1268	Biotin transporter BioY
+LOINPIBM_01874	CDS	1071	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+LOINPIBM_01875	CDS	1164	xynY_2	3.2.1.8		Endo-1,4-beta-xylanase Y
+LOINPIBM_01876	CDS	432				hypothetical protein
+LOINPIBM_01877	CDS	465	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+LOINPIBM_01878	CDS	2313				hypothetical protein
+LOINPIBM_01879	CDS	1323				hypothetical protein
+LOINPIBM_01880	CDS	567				hypothetical protein
+LOINPIBM_01881	CDS	1299	murAB	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+LOINPIBM_01882	CDS	927				hypothetical protein
+LOINPIBM_01883	CDS	1128				hypothetical protein
+LOINPIBM_01884	CDS	2439				hypothetical protein
+LOINPIBM_01885	CDS	612				hypothetical protein
+LOINPIBM_01886	CDS	693	ywaC_2	2.7.6.5	COG2357	GTP pyrophosphokinase YwaC
+LOINPIBM_01887	CDS	546	spoVT		COG2002	Stage V sporulation protein T
+LOINPIBM_01888	CDS	276	hup			DNA-binding protein HU
+LOINPIBM_01889	CDS	240				hypothetical protein
+LOINPIBM_01890	CDS	288	yabP			Spore protein YabP
+LOINPIBM_01891	CDS	375				hypothetical protein
+LOINPIBM_01892	CDS	288				hypothetical protein
+LOINPIBM_01893	CDS	2328	spoIIE	3.1.3.16	COG2208	Stage II sporulation protein E
+LOINPIBM_01894	CDS	1419	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+LOINPIBM_01895	CDS	531	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+LOINPIBM_01896	CDS	1842	ftsH_2	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+LOINPIBM_01897	CDS	2052	tvaI	3.2.1.135		Neopullulanase 1
+LOINPIBM_01898	CDS	900	mamB			Magnetosome protein MamB
+LOINPIBM_01899	CDS	642				hypothetical protein
+LOINPIBM_01900	tRNA	71				tRNA-Gly(tcc)
+LOINPIBM_01901	CDS	1764				hypothetical protein
+LOINPIBM_01902	CDS	621				hypothetical protein
+LOINPIBM_01903	CDS	93				hypothetical protein
+LOINPIBM_01904	CDS	1527				hypothetical protein
+LOINPIBM_01905	CDS	984	thiL	2.7.4.16		Thiamine-monophosphate kinase
+LOINPIBM_01906	CDS	501				hypothetical protein
+LOINPIBM_01907	CDS	1158	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+LOINPIBM_01908	CDS	477	cheX	3.-.-.-	COG1406	CheY-P phosphatase CheX
+LOINPIBM_01909	CDS	507	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+LOINPIBM_01910	CDS	528				hypothetical protein
+LOINPIBM_01911	CDS	1671				hypothetical protein
+LOINPIBM_01912	CDS	1410	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+LOINPIBM_01913	CDS	711	walR_4		COG0745	Transcriptional regulatory protein WalR
+LOINPIBM_01914	CDS	2394	mutS2	3.1.-.-		Endonuclease MutS2
+LOINPIBM_01915	CDS	150				hypothetical protein
+LOINPIBM_01916	CDS	723				hypothetical protein
+LOINPIBM_01917	CDS	945	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+LOINPIBM_01918	CDS	1506	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+LOINPIBM_01919	CDS	1437	glgA	2.4.1.21	COG0297	Glycogen synthase
+LOINPIBM_01920	CDS	795	spo0A		COG0784	Stage 0 sporulation protein A
+LOINPIBM_01921	CDS	1227	spoIVB	3.4.21.116	COG0750	SpoIVB peptidase
+LOINPIBM_01922	CDS	1683	recN		COG0497	DNA repair protein RecN
+LOINPIBM_01923	CDS	3957				hypothetical protein
+LOINPIBM_01924	CDS	531				hypothetical protein
+LOINPIBM_01925	CDS	2073				hypothetical protein
+LOINPIBM_01926	CDS	1848	typA		COG1217	GTP-binding protein TypA/BipA
+LOINPIBM_01927	CDS	1089				hypothetical protein
+LOINPIBM_01928	CDS	1566				hypothetical protein
+LOINPIBM_01929	CDS	969	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+LOINPIBM_01930	CDS	2073				hypothetical protein
+LOINPIBM_01931	CDS	741	kpsU	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+LOINPIBM_01932	CDS	1725				hypothetical protein
+LOINPIBM_01933	CDS	1617	mhpE	4.1.3.39		4-hydroxy-2-oxovalerate aldolase
+LOINPIBM_01934	CDS	507	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+LOINPIBM_01935	CDS	1107				hypothetical protein
+LOINPIBM_01936	CDS	1533				hypothetical protein
+LOINPIBM_01937	CDS	1443				hypothetical protein
+LOINPIBM_01938	CDS	1026	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase 1
+LOINPIBM_01939	CDS	714	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+LOINPIBM_01940	CDS	1011				hypothetical protein
+LOINPIBM_01941	CDS	1035				hypothetical protein
+LOINPIBM_01942	CDS	2832				hypothetical protein
+LOINPIBM_01943	CDS	963		2.4.-.-		putative glycosyltransferase
+LOINPIBM_01944	CDS	1488				hypothetical protein
+LOINPIBM_01945	CDS	1473				hypothetical protein
+LOINPIBM_01946	CDS	1503	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+LOINPIBM_01947	CDS	1119	tarL	2.7.8.47		Teichoic acid poly(ribitol-phosphate) polymerase
+LOINPIBM_01948	CDS	393	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+LOINPIBM_01949	CDS	753	tagH_2	7.5.2.4		Teichoic acids export ATP-binding protein TagH
+LOINPIBM_01950	CDS	813	tagG		COG1682	Teichoic acid translocation permease protein TagG
+LOINPIBM_01951	CDS	1515	pccB_2	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+LOINPIBM_01952	CDS	1272	cdaR		COG4856	CdaA regulatory protein CdaR
+LOINPIBM_01953	CDS	879	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+LOINPIBM_01954	CDS	1005				hypothetical protein
+LOINPIBM_01955	CDS	408				hypothetical protein
+LOINPIBM_01956	CDS	1716				hypothetical protein
+LOINPIBM_01957	CDS	435	cymR_2			HTH-type transcriptional regulator CymR
+LOINPIBM_01958	CDS	921	trxB	1.8.1.9		Thioredoxin reductase
+LOINPIBM_01959	CDS	1272	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+LOINPIBM_01960	CDS	1491	cysG	4.99.1.4		Siroheme synthase
+LOINPIBM_01961	CDS	1449	hemC	2.5.1.61		Porphobilinogen deaminase
+LOINPIBM_01962	CDS	414	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+LOINPIBM_01963	CDS	807	moeZ_2		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+LOINPIBM_01964	CDS	210				hypothetical protein
+LOINPIBM_01965	CDS	318	trxA_2			Thioredoxin 1
+LOINPIBM_01966	CDS	246				hypothetical protein
+LOINPIBM_01967	CDS	861	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+LOINPIBM_01968	CDS	1221		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+LOINPIBM_01969	CDS	1641	cysN	2.7.7.4		Sulfate adenylyltransferase subunit 1
+LOINPIBM_01970	CDS	900	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2
+LOINPIBM_01971	CDS	315	aprB			Adenylylsulfate reductase subunit beta
+LOINPIBM_01972	CDS	1719	aprA	1.8.99.2		Adenylylsulfate reductase subunit alpha
+LOINPIBM_01973	CDS	1065	cysA	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+LOINPIBM_01974	CDS	849	cysW		COG4208	Sulfate transport system permease protein CysW
+LOINPIBM_01975	CDS	855	cysT		COG0555	Sulfate transport system permease protein CysT
+LOINPIBM_01976	CDS	1002	sbp		COG1613	Sulfate-binding protein
+LOINPIBM_01977	CDS	951	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+LOINPIBM_01978	CDS	117				hypothetical protein
+LOINPIBM_01979	CDS	1122				hypothetical protein
+LOINPIBM_01980	CDS	1191				hypothetical protein
+LOINPIBM_01981	CDS	1110				hypothetical protein
+LOINPIBM_01982	CDS	954				hypothetical protein
+LOINPIBM_01983	CDS	798				hypothetical protein
+LOINPIBM_01984	CDS	1125				hypothetical protein
+LOINPIBM_01985	CDS	2088				hypothetical protein
+LOINPIBM_01986	CDS	1182				hypothetical protein
+LOINPIBM_01987	CDS	255	acpP_2			Acyl carrier protein
+LOINPIBM_01988	CDS	1368	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+LOINPIBM_01989	CDS	867				hypothetical protein
+LOINPIBM_01990	CDS	1359	mepA_8		COG0534	Multidrug export protein MepA
+LOINPIBM_01991	CDS	564	pspB_2	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+LOINPIBM_01992	CDS	1206				hypothetical protein
+LOINPIBM_01993	CDS	834	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+LOINPIBM_01994	CDS	3243				hypothetical protein
+LOINPIBM_01995	CDS	1761	dxs_2	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+LOINPIBM_01996	CDS	621				hypothetical protein
+LOINPIBM_01997	CDS	1005	yajO	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+LOINPIBM_01998	CDS	303				hypothetical protein
+LOINPIBM_01999	CDS	960				hypothetical protein
+LOINPIBM_02000	CDS	648				hypothetical protein
+LOINPIBM_02001	CDS	189	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+LOINPIBM_02002	CDS	300				hypothetical protein
+LOINPIBM_02003	CDS	498				hypothetical protein
+LOINPIBM_02004	CDS	1359	mepA_9		COG0534	Multidrug export protein MepA
+LOINPIBM_02005	CDS	1662				hypothetical protein
+LOINPIBM_02006	CDS	1581				hypothetical protein
+LOINPIBM_02007	CDS	1593	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+LOINPIBM_02008	CDS	531				hypothetical protein
+LOINPIBM_02009	CDS	459				hypothetical protein
+LOINPIBM_02010	CDS	1539	dinB	2.7.7.7		DNA polymerase IV
+LOINPIBM_02011	CDS	1359	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+LOINPIBM_02012	CDS	2676	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+LOINPIBM_02013	CDS	2685	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+LOINPIBM_02014	CDS	411				hypothetical protein
+LOINPIBM_02015	CDS	618				hypothetical protein
+LOINPIBM_02016	CDS	456				hypothetical protein
+LOINPIBM_02017	CDS	483				hypothetical protein
+LOINPIBM_02018	CDS	1374				hypothetical protein
+LOINPIBM_02019	CDS	495	sigW_5		COG1595	ECF RNA polymerase sigma factor SigW
+LOINPIBM_02020	CDS	1164				hypothetical protein
+LOINPIBM_02021	CDS	432				hypothetical protein
+LOINPIBM_02022	CDS	375				hypothetical protein
+LOINPIBM_02023	CDS	783				hypothetical protein
+LOINPIBM_02024	CDS	576				hypothetical protein
+LOINPIBM_02025	CDS	360				hypothetical protein
+LOINPIBM_02026	CDS	474				hypothetical protein
+LOINPIBM_02027	CDS	1629	pknD_9	2.7.11.1		Serine/threonine-protein kinase PknD
+LOINPIBM_02028	CDS	270				hypothetical protein
+LOINPIBM_02029	CDS	816				hypothetical protein
+LOINPIBM_02030	CDS	252				hypothetical protein
+LOINPIBM_02031	CDS	120				hypothetical protein
+LOINPIBM_02032	CDS	615				hypothetical protein
+LOINPIBM_02033	CDS	1089				hypothetical protein
+LOINPIBM_02034	CDS	276				hypothetical protein
+LOINPIBM_02035	CDS	114				hypothetical protein
+LOINPIBM_02036	CDS	735				hypothetical protein
+LOINPIBM_02037	CDS	1305				hypothetical protein
+LOINPIBM_02038	CDS	747				hypothetical protein
+LOINPIBM_02039	CDS	816	rhaR_5			HTH-type transcriptional activator RhaR
+LOINPIBM_02040	CDS	3489				hypothetical protein
+LOINPIBM_02041	CDS	186	rpsN1		COG0199	30S ribosomal protein S14
+LOINPIBM_02042	CDS	540	rplE			50S ribosomal protein L5
+LOINPIBM_02043	CDS	309	rplX		COG0198	50S ribosomal protein L24
+LOINPIBM_02044	CDS	369	rplN			50S ribosomal protein L14
+LOINPIBM_02045	CDS	255	rpsQ		COG0186	30S ribosomal protein S17
+LOINPIBM_02046	CDS	207	rpmC		COG0255	50S ribosomal protein L29
+LOINPIBM_02047	CDS	438	rplP		COG0197	50S ribosomal protein L16
+LOINPIBM_02048	CDS	681	rpsC		COG0092	30S ribosomal protein S3
+LOINPIBM_02049	CDS	387				hypothetical protein
+LOINPIBM_02050	CDS	273	rpsS			30S ribosomal protein S19
+LOINPIBM_02051	CDS	846	rplB			50S ribosomal protein L2
+LOINPIBM_02052	CDS	300	rplW		COG0089	50S ribosomal protein L23
+LOINPIBM_02053	CDS	621	rplD			50S ribosomal protein L4
+LOINPIBM_02054	CDS	630	rplC		COG0087	50S ribosomal protein L3
+LOINPIBM_02055	CDS	321	rpsJ		COG0051	30S ribosomal protein S10
+LOINPIBM_02056	CDS	453				hypothetical protein
+LOINPIBM_02057	CDS	789				hypothetical protein
+LOINPIBM_02058	CDS	480				hypothetical protein
+LOINPIBM_02059	CDS	438				hypothetical protein
+LOINPIBM_02060	CDS	1158				hypothetical protein
+LOINPIBM_02061	CDS	1194				hypothetical protein
+LOINPIBM_02062	CDS	1005				hypothetical protein
+LOINPIBM_02063	CDS	1050				hypothetical protein
+LOINPIBM_02064	CDS	1155				hypothetical protein
+LOINPIBM_02065	CDS	669	bceA_2		COG1136	Bacitracin export ATP-binding protein BceA
+LOINPIBM_02066	CDS	1224				hypothetical protein
+LOINPIBM_02067	CDS	1083				hypothetical protein
+LOINPIBM_02068	CDS	558				hypothetical protein
+LOINPIBM_02069	CDS	1176				IS110 family transposase ISFnu3
+LOINPIBM_02070	CDS	153				hypothetical protein
+LOINPIBM_02071	CDS	570	agrB_3	3.4.-.-		Accessory gene regulator protein B
+LOINPIBM_02072	CDS	1263				hypothetical protein
+LOINPIBM_02073	CDS	732				hypothetical protein
+LOINPIBM_02074	CDS	2841				hypothetical protein
+LOINPIBM_02075	CDS	1410	uxaC	5.3.1.12	COG1904	Uronate isomerase
+LOINPIBM_02076	CDS	1758				hypothetical protein
+LOINPIBM_02077	CDS	1881				hypothetical protein
+LOINPIBM_02078	CDS	903	ypuA		COG4086	putative protein YpuA
+LOINPIBM_02079	CDS	1218	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+LOINPIBM_02080	CDS	471				hypothetical protein
+LOINPIBM_02081	CDS	243				hypothetical protein
+LOINPIBM_02082	CDS	978	pfkA	2.7.1.11		ATP-dependent 6-phosphofructokinase
+LOINPIBM_02083	CDS	3468	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+LOINPIBM_02084	CDS	252	crh		COG1925	HPr-like protein Crh
+LOINPIBM_02085	CDS	936	whiA		COG1481	putative cell division protein WhiA
+LOINPIBM_02086	CDS	894				Nucleotide-binding protein
+LOINPIBM_02087	CDS	870	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+LOINPIBM_02088	CDS	924	glcK	2.7.1.2	COG1940	Glucokinase
+LOINPIBM_02089	CDS	927	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+LOINPIBM_02090	CDS	588				hypothetical protein
+LOINPIBM_02091	CDS	834	apbC		COG0489	Iron-sulfur cluster carrier protein
+LOINPIBM_02092	CDS	639	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+LOINPIBM_02093	CDS	2097				hypothetical protein
+LOINPIBM_02094	CDS	1038				hypothetical protein
+LOINPIBM_02095	CDS	2274	secDF		COG0341	Protein translocase subunit SecDF
+LOINPIBM_02096	CDS	543	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+LOINPIBM_02097	CDS	381	perR		COG0735	Peroxide-responsive repressor PerR
+LOINPIBM_02098	CDS	249				hypothetical protein
+LOINPIBM_02099	CDS	267				hypothetical protein
+LOINPIBM_02100	CDS	609	ydbD	1.11.1.6	COG3546	putative manganese catalase
+LOINPIBM_02101	CDS	1485				hypothetical protein
+LOINPIBM_02102	CDS	1032				hypothetical protein
+LOINPIBM_02103	CDS	2586	clpB		COG0542	Chaperone protein ClpB
+LOINPIBM_02104	CDS	1800				hypothetical protein
+LOINPIBM_02105	CDS	216				hypothetical protein
+LOINPIBM_02106	tRNA	83				tRNA-Leu(tag)
+LOINPIBM_02107	CDS	2241				hypothetical protein
+LOINPIBM_02108	CDS	252				hypothetical protein
+LOINPIBM_02109	CDS	384				hypothetical protein
+LOINPIBM_02110	CDS	315				hypothetical protein
+LOINPIBM_02111	CDS	306				hypothetical protein
+LOINPIBM_02112	CDS	342				hypothetical protein
+LOINPIBM_02113	CDS	1023				hypothetical protein
+LOINPIBM_02114	CDS	951				hypothetical protein
+LOINPIBM_02115	CDS	759	parA			Chromosome partitioning protein ParA
+LOINPIBM_02116	CDS	255				hypothetical protein
+LOINPIBM_02117	CDS	1251				hypothetical protein
+LOINPIBM_02118	CDS	549				hypothetical protein
+LOINPIBM_02119	CDS	840				hypothetical protein
+LOINPIBM_02120	CDS	1632				hypothetical protein
+LOINPIBM_02121	CDS	1248	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+LOINPIBM_02122	CDS	978	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+LOINPIBM_02123	CDS	1689	mpaA	3.4.17.-		Murein peptide amidase A
+LOINPIBM_02124	CDS	357	rplT		COG0292	50S ribosomal protein L20
+LOINPIBM_02125	CDS	204	rpmI		COG0291	50S ribosomal protein L35
+LOINPIBM_02126	CDS	495	infC			Translation initiation factor IF-3
+LOINPIBM_02127	CDS	372				hypothetical protein
+LOINPIBM_02128	CDS	312				hypothetical protein
+LOINPIBM_02129	CDS	1962	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+LOINPIBM_02130	CDS	1596				hypothetical protein
+LOINPIBM_02131	CDS	1407	potE			Putrescine transporter PotE
+LOINPIBM_02132	CDS	1131	sbnB_3	1.5.1.51	COG2423	N-((2S)-2-amino-2-carboxyethyl)-L-glutamate dehydrogenase
+LOINPIBM_02133	CDS	375	rpsH			30S ribosomal protein S8
+LOINPIBM_02134	CDS	543	rplF			50S ribosomal protein L6
+LOINPIBM_02135	CDS	369	rplR			50S ribosomal protein L18
+LOINPIBM_02136	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+LOINPIBM_02137	CDS	183	rpmD			50S ribosomal protein L30
+LOINPIBM_02138	CDS	441	rplO			50S ribosomal protein L15
+LOINPIBM_02139	CDS	1350	secY		COG0201	Protein translocase subunit SecY
+LOINPIBM_02140	CDS	642	adk	2.7.4.3		Adenylate kinase
+LOINPIBM_02141	CDS	756	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+LOINPIBM_02142	CDS	219	infA			Translation initiation factor IF-1
+LOINPIBM_02143	CDS	369	rpsM			30S ribosomal protein S13
+LOINPIBM_02144	CDS	396	rpsK			30S ribosomal protein S11
+LOINPIBM_02145	CDS	594	rpsD		COG0522	30S ribosomal protein S4
+LOINPIBM_02146	CDS	966	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+LOINPIBM_02147	CDS	537	rplQ			50S ribosomal protein L17
+LOINPIBM_02148	CDS	852	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+LOINPIBM_02149	CDS	843	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+LOINPIBM_02150	CDS	807	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+LOINPIBM_02151	CDS	762	truA_2	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+LOINPIBM_02152	CDS	1890				hypothetical protein
+LOINPIBM_02153	CDS	510	algU		COG1595	RNA polymerase sigma-H factor
+LOINPIBM_02154	CDS	429	rplM		COG0102	50S ribosomal protein L13
+LOINPIBM_02155	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+LOINPIBM_02156	CDS	789				hypothetical protein
+LOINPIBM_02157	CDS	492				hypothetical protein
+LOINPIBM_02158	CDS	840	rhaS_3			HTH-type transcriptional activator RhaS
+LOINPIBM_02159	CDS	1335				hypothetical protein
+LOINPIBM_02160	CDS	714				hypothetical protein
+LOINPIBM_02161	CDS	453				hypothetical protein
+LOINPIBM_02162	CDS	825	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+LOINPIBM_02163	CDS	300				hypothetical protein
+LOINPIBM_02164	CDS	669	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+LOINPIBM_02165	CDS	1104		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+LOINPIBM_02166	CDS	606	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+LOINPIBM_02167	CDS	306				hypothetical protein
+LOINPIBM_02168	CDS	1182	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+LOINPIBM_02169	CDS	942	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+LOINPIBM_02170	CDS	261				hypothetical protein
+LOINPIBM_02171	CDS	264				hypothetical protein
+LOINPIBM_02172	CDS	993	haeIIIM	2.1.1.37		Modification methylase HaeIII
+LOINPIBM_02173	CDS	876	ngoMIVR	3.1.21.4		Type-2 restriction enzyme NgoMIV
+LOINPIBM_02174	CDS	885				hypothetical protein
+LOINPIBM_02175	CDS	513				hypothetical protein
+LOINPIBM_02176	CDS	249				hypothetical protein
+LOINPIBM_02177	CDS	204				hypothetical protein
+LOINPIBM_02178	CDS	1065				hypothetical protein
+LOINPIBM_02179	CDS	882	gltC			HTH-type transcriptional regulator GltC
+LOINPIBM_02180	CDS	378				hypothetical protein
+LOINPIBM_02181	CDS	813				hypothetical protein
+LOINPIBM_02182	CDS	1383	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+LOINPIBM_02183	CDS	1203	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+LOINPIBM_02184	CDS	1374			COG1055	putative transporter
+LOINPIBM_02185	CDS	1383				hypothetical protein
+LOINPIBM_02186	CDS	777				hypothetical protein
+LOINPIBM_02187	CDS	933	dusC	1.3.1.-		tRNA-dihydrouridine(16) synthase
+LOINPIBM_02188	CDS	1329	yeeO_2		COG0534	putative FMN/FAD exporter YeeO
+LOINPIBM_02189	CDS	795	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+LOINPIBM_02190	CDS	1185	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+LOINPIBM_02191	CDS	618	lnrK		COG2197	Transcriptional regulatory protein LnrK
+LOINPIBM_02192	CDS	1062	lnrJ	2.7.13.3		Sensor histidine kinase LnrJ
+LOINPIBM_02193	CDS	942	lnrL_4	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+LOINPIBM_02194	CDS	1134				hypothetical protein
+LOINPIBM_02195	CDS	1161				hypothetical protein
+LOINPIBM_02196	CDS	1722		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+LOINPIBM_02197	CDS	1686				hypothetical protein
+LOINPIBM_02198	CDS	669	regX3_2		COG0745	Sensory transduction protein regX3
+LOINPIBM_02199	CDS	978	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+LOINPIBM_02200	CDS	1245				hypothetical protein
+LOINPIBM_02201	CDS	1287				hypothetical protein
+LOINPIBM_02202	CDS	1491	abfA	3.2.1.55		Intracellular exo-alpha-(1->5)-L-arabinofuranosidase
+LOINPIBM_02203	CDS	852	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+LOINPIBM_02204	CDS	1359				hypothetical protein
+LOINPIBM_02205	CDS	507				hypothetical protein
+LOINPIBM_02206	CDS	2121				hypothetical protein
+LOINPIBM_02207	CDS	348				hypothetical protein
+LOINPIBM_02208	CDS	336				hypothetical protein
+LOINPIBM_02209	CDS	231				hypothetical protein
+LOINPIBM_02210	CDS	444				hypothetical protein
+LOINPIBM_02211	CDS	345				hypothetical protein
+LOINPIBM_02212	CDS	249				hypothetical protein
+LOINPIBM_02213	CDS	591				hypothetical protein
+LOINPIBM_02214	CDS	534	xerC_2			Tyrosine recombinase XerC
+LOINPIBM_02215	CDS	468				IS200/IS605 family transposase ISEnfa200
+LOINPIBM_02216	CDS	459				hypothetical protein
+LOINPIBM_02217	CDS	705	cpsB	3.1.3.48	COG4464	Tyrosine-protein phosphatase CpsB
+LOINPIBM_02218	CDS	564				hypothetical protein
+LOINPIBM_02219	CDS	264				hypothetical protein
+LOINPIBM_02220	CDS	1098				hypothetical protein
+LOINPIBM_02221	CDS	960				hypothetical protein
+LOINPIBM_02222	CDS	93				hypothetical protein
+LOINPIBM_02223	CDS	282				hypothetical protein
+LOINPIBM_02224	CDS	531				hypothetical protein
+LOINPIBM_02225	CDS	972				hypothetical protein
+LOINPIBM_02226	CDS	546				hypothetical protein
+LOINPIBM_02227	tRNA	73				tRNA-Trp(cca)
+LOINPIBM_02228	CDS	2067				hypothetical protein
+LOINPIBM_02229	CDS	450	slyA			Transcriptional regulator SlyA
+LOINPIBM_02230	CDS	441				hypothetical protein
+LOINPIBM_02231	CDS	1698				hypothetical protein
+LOINPIBM_02232	CDS	1143	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+LOINPIBM_02233	CDS	276				hypothetical protein
+LOINPIBM_02234	CDS	1161	galK	2.7.1.6	COG0153	Galactokinase
+LOINPIBM_02235	CDS	1005	lnpD	5.1.3.2		UDP-glucose 4-epimerase
+LOINPIBM_02236	CDS	1593	xylB_1	2.7.1.17		Xylulose kinase
+LOINPIBM_02237	CDS	1635	rhaR_6			HTH-type transcriptional activator RhaR
+LOINPIBM_02238	CDS	1464				hypothetical protein
+LOINPIBM_02239	CDS	1068	ytfQ			ABC transporter periplasmic-binding protein YtfQ
+LOINPIBM_02240	CDS	1524	fruK	7.5.2.-	COG1129	Fructose import ATP-binding protein FruK
+LOINPIBM_02241	CDS	1056	ytfT			Inner membrane ABC transporter permease protein YtfT
+LOINPIBM_02242	CDS	1095	yjfF			Inner membrane ABC transporter permease protein YjfF
+LOINPIBM_02243	CDS	3498				hypothetical protein
+LOINPIBM_02244	CDS	969	nrnA_2	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+LOINPIBM_02245	CDS	2529		7.2.2.10		Calcium-transporting ATPase 1
+LOINPIBM_02246	CDS	540				hypothetical protein
+LOINPIBM_02247	CDS	615				hypothetical protein
+LOINPIBM_02248	CDS	978				hypothetical protein
+LOINPIBM_02249	CDS	2409	leuS	6.1.1.4		Leucine--tRNA ligase
+LOINPIBM_02250	CDS	2412	tagF_1	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+LOINPIBM_02251	CDS	1209	tagF_2	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+LOINPIBM_02252	CDS	474	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+LOINPIBM_02253	CDS	426				hypothetical protein
+LOINPIBM_02254	CDS	282				hypothetical protein
+LOINPIBM_02255	CDS	318	yicI	3.2.1.177	COG1501	Alpha-xylosidase
+LOINPIBM_02256	CDS	2148		3.2.1.21	COG1472	Beta-glucosidase BoGH3A
+LOINPIBM_02257	CDS	492				hypothetical protein
+LOINPIBM_02258	CDS	612	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+LOINPIBM_02259	CDS	591	yvdD		COG1611	LOG family protein YvdD
+LOINPIBM_02260	CDS	1368	mepA_10		COG0534	Multidrug export protein MepA
+LOINPIBM_02261	CDS	375				hypothetical protein
+LOINPIBM_02262	CDS	261	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+LOINPIBM_02263	CDS	2469				hypothetical protein
+LOINPIBM_02264	CDS	342				hypothetical protein
+LOINPIBM_02265	CDS	996		1.1.1.384		dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase
+LOINPIBM_02266	CDS	468				Acid shock protein
+LOINPIBM_02267	CDS	129				hypothetical protein
+LOINPIBM_02268	CDS	963				hypothetical protein
+LOINPIBM_02269	CDS	480				hypothetical protein
+LOINPIBM_02270	CDS	495				hypothetical protein
+LOINPIBM_02271	CDS	432				hypothetical protein
+LOINPIBM_02272	CDS	258				hypothetical protein
+LOINPIBM_02273	CDS	426				hypothetical protein
+LOINPIBM_02274	CDS	435				hypothetical protein
+LOINPIBM_02275	CDS	1110				hypothetical protein
+LOINPIBM_02276	CDS	240				hypothetical protein
+LOINPIBM_02277	CDS	1332				hypothetical protein
+LOINPIBM_02278	CDS	3477				hypothetical protein
+LOINPIBM_02279	CDS	447				hypothetical protein
+LOINPIBM_02280	CDS	3540				hypothetical protein
+LOINPIBM_02281	CDS	561				hypothetical protein
+LOINPIBM_02282	CDS	606				hypothetical protein
+LOINPIBM_02283	CDS	225				hypothetical protein
+LOINPIBM_02284	CDS	264				hypothetical protein
+LOINPIBM_02285	CDS	2091	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+LOINPIBM_02286	CDS	279				hypothetical protein
+LOINPIBM_02287	CDS	2313				hypothetical protein
+LOINPIBM_02288	CDS	717	bceA_3		COG1136	Bacitracin export ATP-binding protein BceA
+LOINPIBM_02289	CDS	654	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+LOINPIBM_02290	CDS	900	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+LOINPIBM_02291	CDS	2040	prkC	2.7.11.1		Serine/threonine-protein kinase PrkC
+LOINPIBM_02292	CDS	723	stp_2	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+LOINPIBM_02293	CDS	1038	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+LOINPIBM_02294	CDS	1311	rsmB	2.1.1.176		Ribosomal RNA small subunit methyltransferase B
+LOINPIBM_02295	CDS	729				hypothetical protein
+LOINPIBM_02296	CDS	933	fmt_2	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+LOINPIBM_02297	CDS	492	def	3.5.1.88		Peptide deformylase
+LOINPIBM_02298	CDS	2244	priA	3.6.4.-	COG1198	Primosomal protein N'
+LOINPIBM_02299	CDS	1404	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+LOINPIBM_02300	CDS	762	dapB	1.17.1.8		4-hydroxy-tetrahydrodipicolinate reductase
+LOINPIBM_02301	CDS	888	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+LOINPIBM_02302	CDS	681				Single-stranded DNA-binding protein
+LOINPIBM_02303	CDS	1023	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+LOINPIBM_02304	CDS	504	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+LOINPIBM_02305	CDS	1026	tagU_2	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+LOINPIBM_02306	CDS	921				hypothetical protein
+LOINPIBM_02307	CDS	933				hypothetical protein
+LOINPIBM_02308	CDS	2415	metH	2.1.1.13	COG0646	Methionine synthase
+LOINPIBM_02309	CDS	1128		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+LOINPIBM_02310	CDS	558				hypothetical protein
+LOINPIBM_02311	CDS	657	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+LOINPIBM_02312	CDS	732				hypothetical protein
+LOINPIBM_02313	CDS	330				hypothetical protein
+LOINPIBM_02314	CDS	1146				hypothetical protein
+LOINPIBM_02315	CDS	963	gpr	3.4.24.78		Germination protease
+LOINPIBM_02316	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+LOINPIBM_02317	CDS	483	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+LOINPIBM_02318	CDS	738				hypothetical protein
+LOINPIBM_02319	CDS	1458	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+LOINPIBM_02320	CDS	2043				hypothetical protein
+LOINPIBM_02321	CDS	516				hypothetical protein
+LOINPIBM_02322	CDS	1626	groL		COG0459	60 kDa chaperonin
+LOINPIBM_02323	CDS	285	groS		COG0234	10 kDa chaperonin
+LOINPIBM_02324	CDS	2469				hypothetical protein
+LOINPIBM_02325	CDS	600				hypothetical protein
+LOINPIBM_02326	CDS	438				hypothetical protein
+LOINPIBM_02327	CDS	543				hypothetical protein
+LOINPIBM_02328	CDS	114				hypothetical protein
+LOINPIBM_02329	CDS	747	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+LOINPIBM_02330	CDS	600				hypothetical protein
+LOINPIBM_02331	CDS	213	bcrR			HTH-type transcriptional activator BcrR
+LOINPIBM_02332	CDS	399				hypothetical protein
+LOINPIBM_02333	CDS	768				hypothetical protein
+LOINPIBM_02334	CDS	315				hypothetical protein
+LOINPIBM_02335	CDS	219				hypothetical protein
+LOINPIBM_02336	CDS	210				hypothetical protein
+LOINPIBM_02337	CDS	1281	Int-Tn_1			Transposase from transposon Tn916
+LOINPIBM_02338	CDS	2154				hypothetical protein
+LOINPIBM_02339	CDS	477				hypothetical protein
+LOINPIBM_02340	CDS	1218				IS66 family transposase ISDeal1
+LOINPIBM_02341	CDS	270				hypothetical protein
+LOINPIBM_02342	CDS	663				IS3 family transposase ISRgn1
+LOINPIBM_02343	CDS	600				hypothetical protein
+LOINPIBM_02344	CDS	375				hypothetical protein
+LOINPIBM_02345	CDS	324				hypothetical protein
+LOINPIBM_02346	CDS	576				hypothetical protein
+LOINPIBM_02347	CDS	399				hypothetical protein
+LOINPIBM_02348	CDS	459	sigR		COG1595	ECF RNA polymerase sigma factor SigR
+LOINPIBM_02349	CDS	1176				hypothetical protein
+LOINPIBM_02350	CDS	153				hypothetical protein
+LOINPIBM_02351	CDS	957	Int-Tn_2			Transposase from transposon Tn916
+LOINPIBM_02352	CDS	468	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+LOINPIBM_02353	CDS	624	sgcG	1.3.99.24		2-amino-4-deoxychorismate dehydrogenase
+LOINPIBM_02354	CDS	537	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+LOINPIBM_02355	CDS	1377	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+LOINPIBM_02356	CDS	843				hypothetical protein
+LOINPIBM_02357	CDS	1218	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+LOINPIBM_02358	CDS	876	mltF_2	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+LOINPIBM_02359	CDS	519				hypothetical protein
+LOINPIBM_02360	CDS	930				hypothetical protein
+LOINPIBM_02361	CDS	1155		1.1.1.38		NAD-dependent malic enzyme
+LOINPIBM_02362	CDS	1227		2.7.7.-		putative uridylyltransferase
+LOINPIBM_02363	CDS	1965	rho	3.6.4.-		Transcription termination factor Rho
+LOINPIBM_02364	CDS	201	rpmE		COG0254	50S ribosomal protein L31
+LOINPIBM_02365	CDS	1074				hypothetical protein
+LOINPIBM_02366	CDS	840	prmC	2.1.1.297		Release factor glutamine methyltransferase
+LOINPIBM_02367	CDS	1074	prfA		COG0216	Peptide chain release factor 1
+LOINPIBM_02368	CDS	1134				hypothetical protein
+LOINPIBM_02369	CDS	1371	ktrB		COG0168	Ktr system potassium uptake protein B
+LOINPIBM_02370	CDS	666	ktrA		COG0569	Ktr system potassium uptake protein A
+LOINPIBM_02371	CDS	1176				IS110 family transposase ISFnu3
+LOINPIBM_02372	CDS	780	aviRb	2.1.1.208		23S rRNA (uridine(2479)-2'-O)-methyltransferase
+LOINPIBM_02373	CDS	423				hypothetical protein
+LOINPIBM_02374	CDS	948			COG0330	putative protein
+LOINPIBM_02375	CDS	990	argF_2	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+LOINPIBM_02376	CDS	1374	citZ	2.3.3.16	COG0372	Citrate synthase 2
+LOINPIBM_02377	CDS	330				hypothetical protein
+LOINPIBM_02378	CDS	786	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+LOINPIBM_02379	CDS	969	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+LOINPIBM_02380	CDS	468				IS200/IS605 family transposase ISEnfa200
+LOINPIBM_02381	CDS	573	yknZ		COG0577	putative ABC transporter permease YknZ
+LOINPIBM_02382	CDS	534	sigM			ECF RNA polymerase sigma factor SigM
+LOINPIBM_02383	CDS	1086				hypothetical protein
+LOINPIBM_02384	CDS	1524				hypothetical protein
+LOINPIBM_02385	CDS	732				hypothetical protein
+LOINPIBM_02386	CDS	582				hypothetical protein
+LOINPIBM_02387	CDS	1212				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+LOINPIBM_02388	CDS	1545	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+LOINPIBM_02389	CDS	549				hypothetical protein
+LOINPIBM_02390	CDS	210				hypothetical protein
+LOINPIBM_02391	CDS	945				hypothetical protein
+LOINPIBM_02392	CDS	1344		3.2.1.54	COG0366	Cyclomaltodextrinase
+LOINPIBM_02393	CDS	876				hypothetical protein
+LOINPIBM_02394	CDS	900				hypothetical protein
+LOINPIBM_02395	CDS	2655	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+LOINPIBM_02396	CDS	144				hypothetical protein
+LOINPIBM_02397	CDS	1410	cpoB			Cell division coordinator CpoB
+LOINPIBM_02398	CDS	315	spoIIAA		COG1366	Anti-sigma F factor antagonist
+LOINPIBM_02399	CDS	438	spoIIAB	2.7.11.1		Anti-sigma F factor
+LOINPIBM_02400	CDS	729	sigF		COG1191	RNA polymerase sigma-F factor
+LOINPIBM_02401	CDS	156				hypothetical protein
+LOINPIBM_02402	CDS	639				hypothetical protein
+LOINPIBM_02403	CDS	420				hypothetical protein
+LOINPIBM_02404	CDS	492				hypothetical protein
+LOINPIBM_02405	CDS	339				hypothetical protein
+LOINPIBM_02406	CDS	1086				hypothetical protein
+LOINPIBM_02407	CDS	2424				hypothetical protein
+LOINPIBM_02408	CDS	1023				hypothetical protein
+LOINPIBM_02409	CDS	627				hypothetical protein
+LOINPIBM_02410	CDS	1035				hypothetical protein
+LOINPIBM_02411	CDS	1698				hypothetical protein
+LOINPIBM_02412	CDS	1554				hypothetical protein
+LOINPIBM_02413	CDS	1422	mqnC	1.21.98.1		Cyclic dehypoxanthine futalosine synthase
+LOINPIBM_02414	CDS	1482	mutS_2			DNA mismatch repair protein MutS
+LOINPIBM_02415	CDS	1476	mutS_3			DNA mismatch repair protein MutS
+LOINPIBM_02416	CDS	1308	paaK	6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+LOINPIBM_02417	CDS	198	cspA		COG1278	Cold shock protein CspA
+LOINPIBM_02418	CDS	2922				hypothetical protein
+LOINPIBM_02419	CDS	906	era		COG1159	GTPase Era
+LOINPIBM_02420	CDS	177				hypothetical protein
+LOINPIBM_02421	CDS	735	recO		COG1381	DNA repair protein RecO
+LOINPIBM_02422	CDS	462			COG3279	putative HTH-type transcriptional regulator
+LOINPIBM_02423	CDS	705				hypothetical protein
+LOINPIBM_02424	CDS	912				hypothetical protein
+LOINPIBM_02425	CDS	1398	glyQS	6.1.1.14		Glycine--tRNA ligase
+LOINPIBM_02426	CDS	840				hypothetical protein
+LOINPIBM_02427	CDS	720				hypothetical protein
+LOINPIBM_02428	CDS	1272				hypothetical protein
+LOINPIBM_02429	CDS	834				IS110 family transposase ISFnu3
+LOINPIBM_02430	CDS	1764				hypothetical protein
+LOINPIBM_02431	CDS	174				hypothetical protein
+LOINPIBM_02432	CDS	1692				hypothetical protein
+LOINPIBM_02433	CDS	852				hypothetical protein
+LOINPIBM_02434	CDS	1260				IS110 family transposase ISCsa3
+LOINPIBM_02435	CDS	1179				hypothetical protein
+LOINPIBM_02436	CDS	282				hypothetical protein
+LOINPIBM_02437	CDS	135				hypothetical protein
+LOINPIBM_02438	CDS	411				hypothetical protein
+LOINPIBM_02439	CDS	2961	uvrB_2			UvrABC system protein B
+LOINPIBM_02440	CDS	399	mutT	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+LOINPIBM_02441	CDS	852				hypothetical protein
+LOINPIBM_02442	CDS	1083				hypothetical protein
+LOINPIBM_02443	CDS	204				hypothetical protein
+LOINPIBM_02444	CDS	432				hypothetical protein
+LOINPIBM_02445	CDS	1347				hypothetical protein
+LOINPIBM_02446	CDS	2103				hypothetical protein
+LOINPIBM_02447	CDS	957				hypothetical protein
+LOINPIBM_02448	CDS	1062				hypothetical protein
+LOINPIBM_02449	CDS	2178				hypothetical protein
+LOINPIBM_02450	CDS	1179	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+LOINPIBM_02451	CDS	540				hypothetical protein
+LOINPIBM_02452	CDS	891	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+LOINPIBM_02453	CDS	477				hypothetical protein
+LOINPIBM_02454	CDS	1260	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+LOINPIBM_02455	CDS	189				hypothetical protein
+LOINPIBM_02456	CDS	585	mntP		COG1971	putative manganese efflux pump MntP
+LOINPIBM_02457	CDS	879		2.4.2.-		Protein ADP-ribosyltransferase
+LOINPIBM_02458	CDS	1179	ymdB	3.1.1.106		O-acetyl-ADP-ribose deacetylase
+LOINPIBM_02459	CDS	396				hypothetical protein
+LOINPIBM_02460	CDS	339	yybR		COG1733	putative HTH-type transcriptional regulator YybR
+LOINPIBM_02461	CDS	711	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+LOINPIBM_02462	CDS	669				hypothetical protein
+LOINPIBM_02463	CDS	582				hypothetical protein
+LOINPIBM_02464	CDS	1170				hypothetical protein
+LOINPIBM_02465	CDS	3777	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase
+LOINPIBM_02466	CDS	468				IS200/IS605 family transposase ISEnfa200
+LOINPIBM_02467	CDS	567	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+LOINPIBM_02468	CDS	552				hypothetical protein
+LOINPIBM_02469	CDS	2016				hypothetical protein
+LOINPIBM_02470	tRNA	73				tRNA-Gly(gcc)
+LOINPIBM_02471	CDS	144				hypothetical protein
+LOINPIBM_02472	CDS	432	ftsL_2			Cell division protein FtsL
+LOINPIBM_02473	tRNA	73				tRNA-Gln(ctg)
+LOINPIBM_02474	CDS	1596	prfC			Peptide chain release factor 3
+LOINPIBM_02475	CDS	1629				hypothetical protein
+LOINPIBM_02476	CDS	786				hypothetical protein
+LOINPIBM_02477	CDS	696	ytrB		COG1131	ABC transporter ATP-binding protein YtrB
+LOINPIBM_02478	CDS	369	ytrA_2		COG1725	HTH-type transcriptional repressor YtrA
+LOINPIBM_02479	CDS	3558		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+LOINPIBM_02480	CDS	2403				hypothetical protein
+LOINPIBM_02481	CDS	483	greA_2		COG0782	Transcription elongation factor GreA
+LOINPIBM_02482	CDS	1890	aspS_2	6.1.1.12		Aspartate--tRNA(Asp/Asn) ligase
+LOINPIBM_02483	CDS	441			COG3279	putative HTH-type transcriptional regulator
+LOINPIBM_02484	CDS	465				hypothetical protein
+LOINPIBM_02485	CDS	1308	yegI_2	2.7.-.-	COG4248	Protein kinase YegI
+LOINPIBM_02486	CDS	699				hypothetical protein
+LOINPIBM_02487	CDS	1530				hypothetical protein
+LOINPIBM_02488	CDS	1302	yegI_3	2.7.-.-	COG4248	Protein kinase YegI
+LOINPIBM_02489	CDS	4917				hypothetical protein
+LOINPIBM_02490	CDS	522				hypothetical protein
+LOINPIBM_02491	CDS	990				hypothetical protein
+LOINPIBM_02492	CDS	819				hypothetical protein
+LOINPIBM_02493	CDS	192				hypothetical protein
+LOINPIBM_02494	CDS	1179				hypothetical protein
+LOINPIBM_02495	CDS	717				hypothetical protein
+LOINPIBM_02496	CDS	1404				hypothetical protein
+LOINPIBM_02497	CDS	3000				hypothetical protein
+LOINPIBM_02498	CDS	3477				hypothetical protein
+LOINPIBM_02499	tRNA	72				tRNA-Cys(gca)
+LOINPIBM_02500	CDS	3048				hypothetical protein
+LOINPIBM_02501	CDS	2223	purR_4			HTH-type transcriptional repressor PurR
+LOINPIBM_02502	CDS	867				hypothetical protein
+LOINPIBM_02503	CDS	555	racA			Chromosome-anchoring protein RacA
+LOINPIBM_02504	CDS	1350	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+LOINPIBM_02505	CDS	447	rplI			50S ribosomal protein L9
+LOINPIBM_02506	CDS	2055				hypothetical protein
+LOINPIBM_02507	CDS	855				hypothetical protein
+LOINPIBM_02508	CDS	264				hypothetical protein
+LOINPIBM_02509	CDS	447				Single-stranded DNA-binding protein
+LOINPIBM_02510	CDS	288	rpsF		COG0360	30S ribosomal protein S6
+LOINPIBM_02511	CDS	174				hypothetical protein
+LOINPIBM_02512	CDS	186				hypothetical protein
+LOINPIBM_02513	CDS	357				hypothetical protein
+LOINPIBM_02514	CDS	1479	xylB_2	2.7.1.17	COG1070	Xylulose kinase
+LOINPIBM_02515	CDS	1038				hypothetical protein
+LOINPIBM_02516	CDS	465				hypothetical protein
+LOINPIBM_02517	CDS	633				hypothetical protein
+LOINPIBM_02518	CDS	516				hypothetical protein
+LOINPIBM_02519	CDS	2007				hypothetical protein
+LOINPIBM_02520	CDS	837	araC			Arabinose operon regulatory protein
+LOINPIBM_02521	CDS	2967				hypothetical protein
+LOINPIBM_02522	CDS	1824	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+LOINPIBM_02523	CDS	951				hypothetical protein
+LOINPIBM_02524	CDS	1422	alsT_2		COG1115	Amino-acid carrier protein AlsT
+LOINPIBM_02525	CDS	1149	fucO	1.1.1.77	COG1454	Lactaldehyde reductase
+LOINPIBM_02526	CDS	540				hypothetical protein
+LOINPIBM_02527	CDS	906	cysK_2	2.5.1.47		Cysteine synthase
+LOINPIBM_02528	CDS	948				hypothetical protein

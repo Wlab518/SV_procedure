@@ -1,0 +1,348 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 3919 gene of reference genome
+Samp10	NODE_112_length_241324_cov_7.256527	17709	18073	label=deletion	17408	19495	ID=FMLJCINM_00515	gene=rcsC_10	gene middle
+Samp10	NODE_112_length_241324_cov_7.256527	29278	30696	label=deletion	
+Samp10	NODE_112_length_241324_cov_7.256527	99678	99686	label=insertion	
+Samp10	NODE_112_length_241324_cov_7.256527	130003	130010	label=insertion	129999	132323	ID=FMLJCINM_00603	gene=Null	gene middle
+Samp10	NODE_112_length_241324_cov_7.256527	138805	138805	label=insertion	
+Samp10	NODE_112_length_241324_cov_7.256527	187489	189180	label=deletion	
+Samp10	NODE_121_length_231274_cov_7.528819	35575	47664	label=deletion	
+Samp10	NODE_121_length_231274_cov_7.528819	50608	50640	label=insertion	
+Samp10	NODE_121_length_231274_cov_7.528819	52162	52171	label=insertion	
+Samp10	NODE_121_length_231274_cov_7.528819	98150	98156	label=insertion	95925	98246	ID=FMLJCINM_00756	gene=Null	gene middle
+Samp10	NODE_121_length_231274_cov_7.528819	98278	98286	label=insertion	
+Samp10	NODE_124_length_229786_cov_9.276314	53062	53062	label=insertion	53058	53579	ID=FMLJCINM_00898	gene=nudC_1	gene middle
+Samp10	NODE_124_length_229786_cov_9.276314	117741	142373	label=transloc	139880	142720	ID=FMLJCINM_00972	gene=leuS	gene begin
+Samp10	NODE_124_length_229786_cov_9.276314	130330	131496	label=deletion	130256	130819	ID=FMLJCINM_00961	gene=Null	gene end
+Samp10	NODE_124_length_229786_cov_9.276314	138782	139211	label=deletion	138645	139208	ID=FMLJCINM_00970	gene=Null	gene end
+Samp10	NODE_124_length_229786_cov_9.276314	197620	229730	label=transloc	197009	198748	ID=FMLJCINM_01012	gene=Null	gene end
+Samp10	NODE_124_length_229786_cov_9.276314	208601	211297	label=deletion	202819	208965	ID=FMLJCINM_01018	gene=Null	gene end
+Samp10	NODE_124_length_229786_cov_9.276314	215453	223037	label=deletion	
+Samp10	NODE_126_length_228236_cov_6.642345	16792	16801	label=insertion	16708	16959	ID=FMLJCINM_01053	gene=Null	gene middle
+Samp10	NODE_126_length_228236_cov_6.642345	39469	39599	label=deletion	
+Samp10	NODE_126_length_228236_cov_6.642345	89362	89373	label=insertion	89351	90010	ID=FMLJCINM_01111	gene=Null	gene middle
+Samp10	NODE_126_length_228236_cov_6.642345	92267	92390	label=duplication	91679	93067	ID=FMLJCINM_01114	gene=algC	gene middle
+Samp10	NODE_126_length_228236_cov_6.642345	116933	125350	label=insertion	116930	117910	ID=FMLJCINM_01142	gene=Null	gene end	124695	125654	ID=FMLJCINM_01147	gene=Null	gene begin
+Samp10	NODE_126_length_228236_cov_6.642345	116933	125350	label=deletion	116930	117910	ID=FMLJCINM_01142	gene=Null	gene end	124695	125654	ID=FMLJCINM_01147	gene=Null	gene begin
+Samp10	NODE_126_length_228236_cov_6.642345	148726	149733	label=deletion	
+Samp10	NODE_126_length_228236_cov_6.642345	181497	183395	label=deletion	180652	181527	ID=FMLJCINM_01192	gene=Null	gene end
+Samp10	NODE_126_length_228236_cov_6.642345	186443	186878	label=deletion	185650	186456	ID=FMLJCINM_01198	gene=axeA1	gene end
+Samp10	NODE_126_length_228236_cov_6.642345	203532	203532	label=insertion	
+Samp10	NODE_126_length_228236_cov_6.642345	209750	210089	label=insertion	
+Samp10	NODE_128_length_225738_cov_6.278630	86972	86972	label=insertion	
+Samp10	NODE_128_length_225738_cov_6.278630	152502	152617	label=duplication	152498	152585	ID=FMLJCINM_01348	gene=Null	gene end	152596	152680	ID=FMLJCINM_01349	gene=Null	gene begin
+Samp10	NODE_1364_length_34007_cov_7.827639	16345	16550	label=deletion	
+Samp10	NODE_136_length_215032_cov_6.987589	142612	142666	label=insertion	
+Samp10	NODE_136_length_215032_cov_6.987589	170503	172503	label=deletion	
+Samp10	NODE_1473_length_31315_cov_7.713500	24677	24741	label=deletion	
+Samp10	NODE_1570_length_29327_cov_7.125717	13787	13793	label=insertion	13782	15248	ID=FMLJCINM_03796	gene=tolB_4	gene middle
+Samp10	NODE_177_length_182787_cov_7.099846	98957	100568	label=deletion	
+Samp10	NODE_177_length_182787_cov_7.099846	112902	112908	label=insertion	112816	113397	ID=FMLJCINM_01723	gene=Null	gene middle
+Samp10	NODE_177_length_182787_cov_7.099846	113916	116094	label=deletion	113883	114233	ID=FMLJCINM_01725	gene=Null	gene end
+Samp10	NODE_195_length_174713_cov_7.016489	16613	18031	label=deletion	
+Samp10	NODE_195_length_174713_cov_7.016489	145358	145390	label=insertion	
+Samp10	NODE_195_length_174713_cov_7.016489	147764	148559	label=deletion	148558	150183	ID=FMLJCINM_01906	gene=Null	gene begin
+Samp10	NODE_195_length_174713_cov_7.016489	154318	154439	label=insertion	
+Samp10	NODE_1967_length_23205_cov_6.258598	11567	11567	label=insertion	
+Samp10	NODE_216_length_161895_cov_11.110776	937	3280	label=deletion	791	1276	ID=FMLJCINM_01927	gene=Null	gene end
+Samp10	NODE_216_length_161895_cov_11.110776	3503	10288	label=insertion	
+Samp10	NODE_216_length_161895_cov_11.110776	3503	10288	label=deletion	
+Samp10	NODE_216_length_161895_cov_11.110776	19527	19543	label=insertion	
+Samp10	NODE_216_length_161895_cov_11.110776	25179	25207	label=insertion	
+Samp10	NODE_216_length_161895_cov_11.110776	46962	47036	label=duplication	46027	47073	ID=FMLJCINM_01955	gene=Null	gene middle
+Samp10	NODE_216_length_161895_cov_11.110776	47331	55376	label=deletion	
+Samp10	NODE_318_length_124742_cov_7.606663	14607	14620	label=insertion	14479	15123	ID=FMLJCINM_02058	gene=Null	gene middle
+Samp10	NODE_318_length_124742_cov_7.606663	27746	27785	label=insertion	27776	28810	ID=FMLJCINM_02070	gene=Null	gene begin
+Samp10	NODE_318_length_124742_cov_7.606663	42487	42609	label=deletion	
+Samp10	NODE_318_length_124742_cov_7.606663	42487	42609	label=insertion	
+Samp10	NODE_430_length_96491_cov_7.697136	66400	89640	label=transloc	
+Samp10	NODE_430_length_96491_cov_7.697136	72451	72486	label=insertion	72026	72457	ID=FMLJCINM_02513	gene=ybeY	gene end
+Samp10	NODE_470_length_89699_cov_8.055877	57134	58805	label=deletion	57255	58928	ID=FMLJCINM_02575	gene=Null	gene begin
+Samp10	NODE_470_length_89699_cov_8.055877	66200	70504	label=deletion	70387	70797	ID=FMLJCINM_02585	gene=Null	gene begin
+Samp10	NODE_533_length_79796_cov_8.081088	44426	45884	label=deletion	44397	45860	ID=FMLJCINM_02801	gene=Null	gene end
+Samp10	NODE_533_length_79796_cov_8.081088	53960	54432	label=deletion	53913	54395	ID=FMLJCINM_02810	gene=Null	gene end
+Samp10	NODE_545_length_78522_cov_7.027349	61775	62722	label=deletion	62693	64330	ID=FMLJCINM_02883	gene=Null	gene begin
+Samp10	NODE_545_length_78522_cov_7.027349	74435	74612	label=deletion	74442	75557	ID=FMLJCINM_02896	gene=Null	gene begin
+Samp10	NODE_545_length_78522_cov_7.027349	74954	75414	label=deletion	74442	75557	ID=FMLJCINM_02896	gene=Null	gene middle
+Samp10	NODE_649_length_66949_cov_6.955033	35391	36802	label=deletion	36504	36836	ID=FMLJCINM_02996	gene=Null	gene begin
+Samp10	NODE_649_length_66949_cov_6.955033	38841	38969	label=insertion	
+Samp10	NODE_664_length_65887_cov_7.398985	15959	17398	label=deletion	15955	17217	ID=FMLJCINM_03134	gene=Null	gene end
+Samp10	NODE_664_length_65887_cov_7.398985	30726	30740	label=insertion	
+Samp10	NODE_664_length_65887_cov_7.398985	32102	35749	label=deletion	31736	35323	ID=FMLJCINM_03150	gene=Null	gene end
+Samp10	NODE_70_length_306622_cov_6.633460	136989	136995	label=insertion	
+Samp10	NODE_70_length_306622_cov_6.633460	181596	181607	label=insertion	181244	182068	ID=FMLJCINM_00164	gene=uvrA_1	gene middle
+Samp10	NODE_70_length_306622_cov_6.633460	203913	203917	label=insertion	
+Samp10	NODE_779_length_56160_cov_6.301257	18397	18401	label=insertion	
+Samp10	NODE_913_length_48598_cov_6.310199	14660	16682	label=deletion	16358	16774	ID=FMLJCINM_03472	gene=Null	gene begin
+Samp10	NODE_913_length_48598_cov_6.310199	19595	20764	label=deletion	18991	21006	ID=FMLJCINM_03476	gene=Null	gene middle
+Samp10	NODE_97_length_263632_cov_6.410571	144291	144404	label=deletion	143912	145273	ID=FMLJCINM_00390	gene=Null	gene middle
+Samp10	NODE_97_length_263632_cov_6.410571	144874	145182	label=deletion	143912	145273	ID=FMLJCINM_00390	gene=Null	gene middle
+Samp10	NODE_97_length_263632_cov_6.410571	251854	251867	label=insertion	250925	251899	ID=FMLJCINM_00488	gene=Null	gene middle
+Samp3	NODE_1052_length_43248_cov_7.070868	7780	43198	label=transloc	7520	8188	ID=FMLJCINM_03541	gene=Null	gene end
+Samp3	NODE_1052_length_43248_cov_7.070868	8717	8796	label=insertion	8245	8724	ID=FMLJCINM_03542	gene=Null	gene end	8792	9229	ID=FMLJCINM_03543	gene=Null	gene begin
+Samp3	NODE_112_length_241324_cov_7.256527	55835	56210	label=deletion	55499	56320	ID=FMLJCINM_00552	gene=Null	gene middle
+Samp3	NODE_112_length_241324_cov_7.256527	61383	65302	label=deletion	61375	62214	ID=FMLJCINM_00555	gene=Null	gene end
+Samp3	NODE_112_length_241324_cov_7.256527	73947	74879	label=insertion	71718	74024	ID=FMLJCINM_00562	gene=rcsC_12	gene end
+Samp3	NODE_112_length_241324_cov_7.256527	111051	112271	label=deletion	111105	112376	ID=FMLJCINM_00595	gene=Null	gene begin
+Samp3	NODE_1181_length_39231_cov_6.701782	21808	21940	label=deletion	18900	21812	ID=FMLJCINM_03630	gene=Null	gene end
+Samp3	NODE_1184_length_39075_cov_6.375602	18815	18818	label=insertion	15811	18816	ID=FMLJCINM_03653	gene=Null	gene end
+Samp3	NODE_121_length_231274_cov_7.528819	147365	149154	label=deletion	147337	148458	ID=FMLJCINM_00790	gene=Null	gene end
+Samp3	NODE_121_length_231274_cov_7.528819	167886	168489	label=deletion	
+Samp3	NODE_121_length_231274_cov_7.528819	167886	168489	label=insertion	
+Samp3	NODE_121_length_231274_cov_7.528819	206952	208604	label=deletion	206131	207027	ID=FMLJCINM_00834	gene=Null	gene end	208544	209011	ID=FMLJCINM_00837	gene=Null	gene begin
+Samp3	NODE_121_length_231274_cov_7.528819	209265	209309	label=insertion	209305	210096	ID=FMLJCINM_00838	gene=Null	gene begin
+Samp3	NODE_124_length_229786_cov_9.276314	43485	43781	label=deletion	43441	43710	ID=FMLJCINM_00890	gene=Null	gene end	43685	43813	ID=FMLJCINM_00891	gene=Null	gene begin
+Samp3	NODE_124_length_229786_cov_9.276314	99220	100897	label=deletion	99219	100091	ID=FMLJCINM_00931	gene=Null	gene end
+Samp3	NODE_124_length_229786_cov_9.276314	104157	106626	label=deletion	
+Samp3	NODE_124_length_229786_cov_9.276314	107118	113837	label=insertion	113824	113961	ID=FMLJCINM_00943	gene=Null	gene begin
+Samp3	NODE_124_length_229786_cov_9.276314	107118	113837	label=deletion	113824	113961	ID=FMLJCINM_00943	gene=Null	gene begin
+Samp3	NODE_124_length_229786_cov_9.276314	130310	131603	label=deletion	130256	130819	ID=FMLJCINM_00961	gene=Null	gene end	131496	132647	ID=FMLJCINM_00964	gene=Null	gene begin
+Samp3	NODE_124_length_229786_cov_9.276314	131673	132648	label=deletion	131496	132647	ID=FMLJCINM_00964	gene=Null	gene end
+Samp3	NODE_124_length_229786_cov_9.276314	133886	134027	label=insertion	132649	133920	ID=FMLJCINM_00965	gene=bspRIM	gene end
+Samp3	NODE_124_length_229786_cov_9.276314	152742	152747	label=insertion	
+Samp3	NODE_124_length_229786_cov_9.276314	164198	167725	label=deletion	160582	164205	ID=FMLJCINM_00988	gene=lacZ_3	gene end
+Samp3	NODE_124_length_229786_cov_9.276314	193642	193646	label=insertion	
+Samp3	NODE_126_length_228236_cov_6.642345	10657	10695	label=insertion	8389	10755	ID=FMLJCINM_01047	gene=Null	gene middle
+Samp3	NODE_126_length_228236_cov_6.642345	24720	24866	label=deletion	
+Samp3	NODE_126_length_228236_cov_6.642345	39466	42530	label=deletion	
+Samp3	NODE_126_length_228236_cov_6.642345	66322	66380	label=insertion	
+Samp3	NODE_126_length_228236_cov_6.642345	142140	142226	label=insertion	142219	143472	ID=FMLJCINM_01160	gene=rcsC_15	gene begin
+Samp3	NODE_126_length_228236_cov_6.642345	148947	149047	label=deletion	148755	149729	ID=FMLJCINM_01166	gene=Null	gene middle
+Samp3	NODE_126_length_228236_cov_6.642345	186867	186870	label=insertion	186467	186877	ID=FMLJCINM_01199	gene=Null	gene middle
+Samp3	NODE_126_length_228236_cov_6.642345	201078	202310	label=deletion	
+Samp3	NODE_128_length_225738_cov_6.278630	86972	86972	label=insertion	
+Samp3	NODE_128_length_225738_cov_6.278630	184142	225694	label=transloc	184135	185421	ID=FMLJCINM_01384	gene=nqrF	gene end	224026	225711	ID=FMLJCINM_01417	gene=Null	gene begin
+Samp3	NODE_136_length_215032_cov_6.987589	7244	10028	label=deletion	
+Samp3	NODE_136_length_215032_cov_6.987589	73840	85651	label=deletion	
+Samp3	NODE_136_length_215032_cov_6.987589	142612	142666	label=insertion	
+Samp3	NODE_136_length_215032_cov_6.987589	167056	167424	label=insertion	165825	167816	ID=FMLJCINM_01564	gene=rcsC_18	gene middle
+Samp3	NODE_136_length_215032_cov_6.987589	172335	172443	label=insertion	
+Samp3	NODE_1570_length_29327_cov_7.125717	1179	29277	label=transloc	45	1697	ID=FMLJCINM_03785	gene=Null	gene end	28447	29295	ID=FMLJCINM_03808	gene=Null	gene begin
+Samp3	NODE_177_length_182787_cov_7.099846	70222	70232	label=insertion	70167	70424	ID=FMLJCINM_01682	gene=Null	gene middle
+Samp3	NODE_177_length_182787_cov_7.099846	98957	100568	label=deletion	
+Samp3	NODE_177_length_182787_cov_7.099846	153124	175141	label=transloc	173975	175195	ID=FMLJCINM_01783	gene=epsN_1	gene begin
+Samp3	NODE_177_length_182787_cov_7.099846	160074	160128	label=insertion	
+Samp3	NODE_195_length_174713_cov_7.016489	16613	18031	label=deletion	
+Samp3	NODE_195_length_174713_cov_7.016489	47582	62350	label=insertion	46273	47658	ID=FMLJCINM_01822	gene=dtpB_2	gene end
+Samp3	NODE_195_length_174713_cov_7.016489	47582	62350	label=deletion	46273	47658	ID=FMLJCINM_01822	gene=dtpB_2	gene end
+Samp3	NODE_216_length_161895_cov_11.110776	937	3280	label=deletion	791	1276	ID=FMLJCINM_01927	gene=Null	gene end
+Samp3	NODE_216_length_161895_cov_11.110776	3503	3503	label=insertion	
+Samp3	NODE_216_length_161895_cov_11.110776	47603	55167	label=deletion	
+Samp3	NODE_216_length_161895_cov_11.110776	56652	56654	label=insertion	
+Samp3	NODE_216_length_161895_cov_11.110776	58019	59150	label=deletion	59132	60085	ID=FMLJCINM_01964	gene=Null	gene begin
+Samp3	NODE_216_length_161895_cov_11.110776	76170	84548	label=deletion	
+Samp3	NODE_318_length_124742_cov_7.606663	80133	82036	label=deletion	81993	83087	ID=FMLJCINM_02117	gene=Null	gene begin
+Samp3	NODE_318_length_124742_cov_7.606663	101584	101753	label=deletion	101203	101916	ID=FMLJCINM_02135	gene=Null	gene middle
+Samp3	NODE_318_length_124742_cov_7.606663	108652	108666	label=insertion	107755	108654	ID=FMLJCINM_02143	gene=Null	gene end
+Samp3	NODE_318_length_124742_cov_7.606663	111692	111738	label=insertion	111232	111726	ID=FMLJCINM_02146	gene=Null	gene end	111723	112886	ID=FMLJCINM_02147	gene=Null	gene begin
+Samp3	NODE_318_length_124742_cov_7.606663	120102	120106	label=insertion	120095	120922	ID=FMLJCINM_02157	gene=mutM	gene middle
+Samp3	NODE_319_length_124608_cov_6.702416	14251	15801	label=deletion	
+Samp3	NODE_319_length_124608_cov_6.702416	81356	82689	label=deletion	
+Samp3	NODE_319_length_124608_cov_6.702416	108100	108712	label=deletion	108435	108716	ID=FMLJCINM_02266	gene=Null	gene begin
+Samp3	NODE_326_length_121884_cov_9.161833	50501	52782	label=deletion	52203	52901	ID=FMLJCINM_02327	gene=Null	gene begin
+Samp3	NODE_326_length_121884_cov_9.161833	53534	53702	label=deletion	52932	53729	ID=FMLJCINM_02328	gene=cypM	gene middle
+Samp3	NODE_326_length_121884_cov_9.161833	56648	58065	label=deletion	56487	56690	ID=FMLJCINM_02333	gene=Null	gene end	57981	58121	ID=FMLJCINM_02336	gene=Null	gene begin
+Samp3	NODE_378_length_106712_cov_6.314232	41725	41745	label=insertion	
+Samp3	NODE_378_length_106712_cov_6.314232	78645	78659	label=insertion	78150	80123	ID=FMLJCINM_02441	gene=rcsC_24	gene middle
+Samp3	NODE_378_length_106712_cov_6.314232	106029	106163	label=deletion	
+Samp3	NODE_470_length_89699_cov_8.055877	37536	38841	label=deletion	38458	38946	ID=FMLJCINM_02559	gene=dps_2	gene begin
+Samp3	NODE_470_length_89699_cov_8.055877	66200	70504	label=deletion	70387	70797	ID=FMLJCINM_02585	gene=Null	gene begin
+Samp3	NODE_470_length_89699_cov_8.055877	70834	73228	label=deletion	
+Samp3	NODE_470_length_89699_cov_8.055877	82926	84584	label=deletion	
+Samp3	NODE_477_length_87951_cov_7.542437	32520	33617	label=deletion	
+Samp3	NODE_477_length_87951_cov_7.542437	32520	33617	label=insertion	
+Samp3	NODE_477_length_87951_cov_7.542437	71092	71254	label=deletion	70483	71754	ID=FMLJCINM_02663	gene=Null	gene middle
+Samp3	NODE_533_length_79796_cov_8.081088	26396	79746	label=transloc	
+Samp3	NODE_533_length_79796_cov_8.081088	66949	68316	label=deletion	66848	67702	ID=FMLJCINM_02818	gene=Null	gene end
+Samp3	NODE_533_length_79796_cov_8.081088	68978	70712	label=deletion	
+Samp3	NODE_545_length_78522_cov_7.027349	34374	34536	label=deletion	
+Samp3	NODE_545_length_78522_cov_7.027349	66405	66415	label=insertion	65868	66416	ID=FMLJCINM_02885	gene=Null	gene middle
+Samp3	NODE_545_length_78522_cov_7.027349	71095	71096	label=insertion	70781	71110	ID=FMLJCINM_02891	gene=Null	gene middle
+Samp3	NODE_545_length_78522_cov_7.027349	74435	74612	label=deletion	74442	75557	ID=FMLJCINM_02896	gene=Null	gene begin
+Samp3	NODE_545_length_78522_cov_7.027349	74954	75414	label=deletion	74442	75557	ID=FMLJCINM_02896	gene=Null	gene middle
+Samp3	NODE_606_length_71574_cov_5.536683	20545	46465	label=transloc	45268	46875	ID=FMLJCINM_02953	gene=pckA	gene begin
+Samp3	NODE_606_length_71574_cov_5.536683	25482	25522	label=insertion	25514	27727	ID=FMLJCINM_02935	gene=Null	gene begin
+Samp3	NODE_606_length_71574_cov_5.536683	27800	27807	label=insertion	
+Samp3	NODE_649_length_66949_cov_6.955033	25123	25230	label=deletion	
+Samp3	NODE_649_length_66949_cov_6.955033	25123	25230	label=insertion	
+Samp3	NODE_70_length_306622_cov_6.633460	33274	34115	label=insertion	33219	34142	ID=FMLJCINM_00030	gene=Null	gene middle
+Samp3	NODE_70_length_306622_cov_6.633460	132798	134236	label=deletion	131459	132805	ID=FMLJCINM_00121	gene=norM	gene end
+Samp3	NODE_70_length_306622_cov_6.633460	136989	136995	label=insertion	
+Samp3	NODE_70_length_306622_cov_6.633460	142751	176908	label=transloc	
+Samp3	NODE_70_length_306622_cov_6.633460	174063	175193	label=deletion	174058	175200	ID=FMLJCINM_00159	gene=wecA_2	gene middle
+Samp3	NODE_70_length_306622_cov_6.633460	296897	298668	label=deletion	
+Samp3	NODE_797_length_54915_cov_6.585581	39266	39380	label=insertion	39341	39709	ID=FMLJCINM_03307	gene=Null	gene begin
+Samp3	NODE_797_length_54915_cov_6.585581	39699	39703	label=insertion	39341	39709	ID=FMLJCINM_03307	gene=Null	gene middle
+Samp3	NODE_901_length_49195_cov_6.010379	632	858	label=deletion	255	1097	ID=FMLJCINM_03415	gene=rob	gene middle
+Samp3	NODE_97_length_263632_cov_6.410571	66203	66970	label=deletion	65877	67031	ID=FMLJCINM_00330	gene=Null	gene middle
+Samp3	NODE_97_length_263632_cov_6.410571	73392	73421	label=insertion	
+Samp3	NODE_97_length_263632_cov_6.410571	128722	135872	label=insertion	135138	135902	ID=FMLJCINM_00382	gene=lytR_1	gene begin
+Samp3	NODE_97_length_263632_cov_6.410571	128722	135872	label=deletion	135138	135902	ID=FMLJCINM_00382	gene=lytR_1	gene begin
+Samp3	NODE_97_length_263632_cov_6.410571	205612	205621	label=insertion	205613	206932	ID=FMLJCINM_00453	gene=pmbA	gene begin
+Samp3	NODE_97_length_263632_cov_6.410571	236794	236796	label=insertion	236776	237702	ID=FMLJCINM_00474	gene=Null	gene middle
+Samp3	NODE_97_length_263632_cov_6.410571	260466	260587	label=deletion	259870	260517	ID=FMLJCINM_00497	gene=Null	gene end
+Samp4	NODE_1006_length_44841_cov_7.678940	41957	42460	label=duplication	41953	42459	ID=FMLJCINM_03530	gene=Null	gene end
+Samp4	NODE_112_length_241324_cov_7.256527	187489	189180	label=deletion	
+Samp4	NODE_112_length_241324_cov_7.256527	189954	204661	label=insertion	189263	190330	ID=FMLJCINM_00650	gene=Null	gene end
+Samp4	NODE_112_length_241324_cov_7.256527	189954	204661	label=deletion	189263	190330	ID=FMLJCINM_00650	gene=Null	gene end
+Samp4	NODE_1181_length_39231_cov_6.701782	21808	21940	label=deletion	18900	21812	ID=FMLJCINM_03630	gene=Null	gene end
+Samp4	NODE_121_length_231274_cov_7.528819	23769	39791	label=insertion	
+Samp4	NODE_121_length_231274_cov_7.528819	39791	77824	label=transloc	
+Samp4	NODE_121_length_231274_cov_7.528819	40550	40939	label=deletion	40066	40866	ID=FMLJCINM_00712	gene=Null	gene end
+Samp4	NODE_121_length_231274_cov_7.528819	52162	52163	label=insertion	
+Samp4	NODE_121_length_231274_cov_7.528819	52309	52318	label=insertion	
+Samp4	NODE_121_length_231274_cov_7.528819	77913	136922	label=transloc	134225	137788	ID=FMLJCINM_00780	gene=Null	gene begin
+Samp4	NODE_121_length_231274_cov_7.528819	85167	86095	label=deletion	
+Samp4	NODE_121_length_231274_cov_7.528819	93620	95962	label=deletion	95925	98246	ID=FMLJCINM_00756	gene=Null	gene begin
+Samp4	NODE_121_length_231274_cov_7.528819	167886	168489	label=deletion	
+Samp4	NODE_121_length_231274_cov_7.528819	167886	168489	label=insertion	
+Samp4	NODE_121_length_231274_cov_7.528819	206952	208604	label=deletion	206131	207027	ID=FMLJCINM_00834	gene=Null	gene end	208544	209011	ID=FMLJCINM_00837	gene=Null	gene begin
+Samp4	NODE_121_length_231274_cov_7.528819	209265	209309	label=insertion	209305	210096	ID=FMLJCINM_00838	gene=Null	gene begin
+Samp4	NODE_124_length_229786_cov_9.276314	24670	115858	label=transloc	24667	24870	ID=FMLJCINM_00871	gene=Null	gene end	114848	115864	ID=FMLJCINM_00946	gene=Null	gene begin
+Samp4	NODE_124_length_229786_cov_9.276314	43485	43781	label=deletion	43441	43710	ID=FMLJCINM_00890	gene=Null	gene end	43685	43813	ID=FMLJCINM_00891	gene=Null	gene begin
+Samp4	NODE_124_length_229786_cov_9.276314	99220	100897	label=deletion	99219	100091	ID=FMLJCINM_00931	gene=Null	gene end
+Samp4	NODE_124_length_229786_cov_9.276314	104157	106626	label=deletion	
+Samp4	NODE_124_length_229786_cov_9.276314	107118	113837	label=insertion	113824	113961	ID=FMLJCINM_00943	gene=Null	gene begin
+Samp4	NODE_124_length_229786_cov_9.276314	107118	113837	label=deletion	113824	113961	ID=FMLJCINM_00943	gene=Null	gene begin
+Samp4	NODE_124_length_229786_cov_9.276314	117741	151649	label=transloc	150095	152515	ID=FMLJCINM_00979	gene=Null	gene begin
+Samp4	NODE_124_length_229786_cov_9.276314	130310	131603	label=deletion	130256	130819	ID=FMLJCINM_00961	gene=Null	gene end	131496	132647	ID=FMLJCINM_00964	gene=Null	gene begin
+Samp4	NODE_124_length_229786_cov_9.276314	131673	132648	label=deletion	131496	132647	ID=FMLJCINM_00964	gene=Null	gene end
+Samp4	NODE_124_length_229786_cov_9.276314	133886	134027	label=insertion	132649	133920	ID=FMLJCINM_00965	gene=bspRIM	gene end
+Samp4	NODE_124_length_229786_cov_9.276314	193642	193646	label=insertion	
+Samp4	NODE_124_length_229786_cov_9.276314	215453	223037	label=deletion	
+Samp4	NODE_126_length_228236_cov_6.642345	10657	10695	label=insertion	8389	10755	ID=FMLJCINM_01047	gene=Null	gene middle
+Samp4	NODE_126_length_228236_cov_6.642345	24720	24866	label=deletion	
+Samp4	NODE_126_length_228236_cov_6.642345	39466	42530	label=deletion	
+Samp4	NODE_126_length_228236_cov_6.642345	66322	66380	label=insertion	
+Samp4	NODE_126_length_228236_cov_6.642345	73490	74392	label=deletion	73846	74427	ID=FMLJCINM_01100	gene=Null	gene begin
+Samp4	NODE_126_length_228236_cov_6.642345	89362	89373	label=insertion	89351	90010	ID=FMLJCINM_01111	gene=Null	gene middle
+Samp4	NODE_126_length_228236_cov_6.642345	142140	142226	label=insertion	142219	143472	ID=FMLJCINM_01160	gene=rcsC_15	gene begin
+Samp4	NODE_126_length_228236_cov_6.642345	148947	149047	label=deletion	148755	149729	ID=FMLJCINM_01166	gene=Null	gene middle
+Samp4	NODE_128_length_225738_cov_6.278630	50751	57825	label=inversion	
+Samp4	NODE_128_length_225738_cov_6.278630	56160	225694	label=insertion	55900	57789	ID=FMLJCINM_01266	gene=Null	gene end	224026	225711	ID=FMLJCINM_01417	gene=Null	gene begin
+Samp4	NODE_128_length_225738_cov_6.278630	86972	86972	label=insertion	
+Samp4	NODE_128_length_225738_cov_6.278630	147527	148779	label=deletion	
+Samp4	NODE_128_length_225738_cov_6.278630	182436	183985	label=deletion	
+Samp4	NODE_128_length_225738_cov_6.278630	193110	225694	label=transloc	192507	193847	ID=FMLJCINM_01392	gene=guaD	gene end	224026	225711	ID=FMLJCINM_01417	gene=Null	gene begin
+Samp4	NODE_1364_length_34007_cov_7.827639	78	23774	label=transloc	
+Samp4	NODE_136_length_215032_cov_6.987589	7244	10028	label=deletion	
+Samp4	NODE_136_length_215032_cov_6.987589	73840	85651	label=deletion	
+Samp4	NODE_136_length_215032_cov_6.987589	142612	142666	label=insertion	
+Samp4	NODE_136_length_215032_cov_6.987589	166947	167424	label=duplication	165825	167816	ID=FMLJCINM_01564	gene=rcsC_18	gene middle
+Samp4	NODE_136_length_215032_cov_6.987589	172335	172443	label=insertion	
+Samp4	NODE_1570_length_29327_cov_7.125717	51	21888	label=transloc	45	1697	ID=FMLJCINM_03785	gene=Null	gene end	20837	21964	ID=FMLJCINM_03801	gene=lysJ	gene begin
+Samp4	NODE_177_length_182787_cov_7.099846	70222	70232	label=insertion	70167	70424	ID=FMLJCINM_01682	gene=Null	gene middle
+Samp4	NODE_177_length_182787_cov_7.099846	144047	144068	label=insertion	
+Samp4	NODE_195_length_174713_cov_7.016489	16613	18031	label=deletion	
+Samp4	NODE_216_length_161895_cov_11.110776	937	3280	label=deletion	791	1276	ID=FMLJCINM_01927	gene=Null	gene end
+Samp4	NODE_216_length_161895_cov_11.110776	3503	3503	label=insertion	
+Samp4	NODE_216_length_161895_cov_11.110776	47349	47391	label=insertion	
+Samp4	NODE_216_length_161895_cov_11.110776	47603	55167	label=deletion	
+Samp4	NODE_216_length_161895_cov_11.110776	56648	56652	label=insertion	
+Samp4	NODE_216_length_161895_cov_11.110776	58019	59150	label=deletion	59132	60085	ID=FMLJCINM_01964	gene=Null	gene begin
+Samp4	NODE_216_length_161895_cov_11.110776	76170	84548	label=deletion	
+Samp4	NODE_318_length_124742_cov_7.606663	80133	82036	label=deletion	81993	83087	ID=FMLJCINM_02117	gene=Null	gene begin
+Samp4	NODE_318_length_124742_cov_7.606663	101584	101753	label=deletion	101203	101916	ID=FMLJCINM_02135	gene=Null	gene middle
+Samp4	NODE_318_length_124742_cov_7.606663	108652	108666	label=insertion	107755	108654	ID=FMLJCINM_02143	gene=Null	gene end
+Samp4	NODE_318_length_124742_cov_7.606663	111692	111738	label=insertion	111232	111726	ID=FMLJCINM_02146	gene=Null	gene end	111723	112886	ID=FMLJCINM_02147	gene=Null	gene begin
+Samp4	NODE_319_length_124608_cov_6.702416	14251	15801	label=deletion	
+Samp4	NODE_319_length_124608_cov_6.702416	81356	82689	label=deletion	
+Samp4	NODE_319_length_124608_cov_6.702416	108100	108712	label=deletion	108435	108716	ID=FMLJCINM_02266	gene=Null	gene begin
+Samp4	NODE_326_length_121884_cov_9.161833	82066	82198	label=deletion	
+Samp4	NODE_326_length_121884_cov_9.161833	82066	82198	label=insertion	
+Samp4	NODE_326_length_121884_cov_9.161833	98483	99788	label=deletion	98322	98783	ID=FMLJCINM_02363	gene=Null	gene end
+Samp4	NODE_326_length_121884_cov_9.161833	98483	99788	label=insertion	98322	98783	ID=FMLJCINM_02363	gene=Null	gene end
+Samp4	NODE_326_length_121884_cov_9.161833	112398	112410	label=insertion	111852	112403	ID=FMLJCINM_02377	gene=srpC	gene end
+Samp4	NODE_378_length_106712_cov_6.314232	41725	41745	label=insertion	
+Samp4	NODE_378_length_106712_cov_6.314232	78645	78659	label=insertion	78150	80123	ID=FMLJCINM_02441	gene=rcsC_24	gene middle
+Samp4	NODE_430_length_96491_cov_7.697136	26130	89640	label=transloc	
+Samp4	NODE_430_length_96491_cov_7.697136	28435	45192	label=insertion	28092	29816	ID=FMLJCINM_02478	gene=Null	gene end	45177	47372	ID=FMLJCINM_02494	gene=lagD	gene begin
+Samp4	NODE_430_length_96491_cov_7.697136	28435	45192	label=deletion	28092	29816	ID=FMLJCINM_02478	gene=Null	gene end	45177	47372	ID=FMLJCINM_02494	gene=lagD	gene begin
+Samp4	NODE_430_length_96491_cov_7.697136	48758	52597	label=inversion	52467	53717	ID=FMLJCINM_02499	gene=exuT	gene begin
+Samp4	NODE_430_length_96491_cov_7.697136	88352	88385	label=insertion	
+Samp4	NODE_470_length_89699_cov_8.055877	66200	70504	label=deletion	70387	70797	ID=FMLJCINM_02585	gene=Null	gene begin
+Samp4	NODE_470_length_89699_cov_8.055877	70834	73228	label=deletion	
+Samp4	NODE_477_length_87951_cov_7.542437	32520	33617	label=deletion	
+Samp4	NODE_477_length_87951_cov_7.542437	32520	33617	label=insertion	
+Samp4	NODE_477_length_87951_cov_7.542437	33958	34018	label=insertion	
+Samp4	NODE_498_length_84166_cov_7.768889	203	20339	label=transloc	20032	22152	ID=FMLJCINM_02707	gene=Null	gene begin
+Samp4	NODE_533_length_79796_cov_8.081088	66949	68316	label=deletion	66848	67702	ID=FMLJCINM_02818	gene=Null	gene end
+Samp4	NODE_533_length_79796_cov_8.081088	68978	70712	label=deletion	
+Samp4	NODE_545_length_78522_cov_7.027349	34374	34536	label=deletion	
+Samp4	NODE_606_length_71574_cov_5.536683	20545	43822	label=transloc	41980	43833	ID=FMLJCINM_02951	gene=korA_2	gene begin
+Samp4	NODE_606_length_71574_cov_5.536683	25482	25522	label=insertion	25514	27727	ID=FMLJCINM_02935	gene=Null	gene begin
+Samp4	NODE_606_length_71574_cov_5.536683	27800	27807	label=insertion	
+Samp4	NODE_70_length_306622_cov_6.633460	33274	34115	label=insertion	33219	34142	ID=FMLJCINM_00030	gene=Null	gene middle
+Samp4	NODE_70_length_306622_cov_6.633460	54677	58571	label=deletion	53674	54714	ID=FMLJCINM_00048	gene=Null	gene end
+Samp4	NODE_70_length_306622_cov_6.633460	93070	102345	label=insertion	92319	93071	ID=FMLJCINM_00082	gene=wfgD_1	gene end	101652	102413	ID=FMLJCINM_00090	gene=Null	gene begin
+Samp4	NODE_70_length_306622_cov_6.633460	102724	103006	label=deletion	102470	103114	ID=FMLJCINM_00091	gene=wecA_1	gene middle
+Samp4	NODE_70_length_306622_cov_6.633460	103069	103971	label=insertion	102470	103114	ID=FMLJCINM_00091	gene=wecA_1	gene end	103877	104266	ID=FMLJCINM_00094	gene=Null	gene begin
+Samp4	NODE_70_length_306622_cov_6.633460	181172	181743	label=deletion	181244	182068	ID=FMLJCINM_00164	gene=uvrA_1	gene begin
+Samp4	NODE_70_length_306622_cov_6.633460	182414	182528	label=deletion	182454	182588	ID=FMLJCINM_00165	gene=Null	gene begin
+Samp4	NODE_70_length_306622_cov_6.633460	273234	273395	label=insertion	273391	277875	ID=FMLJCINM_00243	gene=mdtC_1	gene begin
+Samp4	NODE_70_length_306622_cov_6.633460	296897	298656	label=deletion	
+Samp4	NODE_70_length_306622_cov_6.633460	304446	304478	label=insertion	
+Samp4	NODE_797_length_54915_cov_6.585581	39266	39380	label=insertion	39341	39709	ID=FMLJCINM_03307	gene=Null	gene begin
+Samp4	NODE_797_length_54915_cov_6.585581	39699	39703	label=insertion	39341	39709	ID=FMLJCINM_03307	gene=Null	gene middle
+Samp4	NODE_901_length_49195_cov_6.010379	632	858	label=deletion	255	1097	ID=FMLJCINM_03415	gene=rob	gene middle
+Samp4	NODE_97_length_263632_cov_6.410571	66203	66970	label=deletion	65877	67031	ID=FMLJCINM_00330	gene=Null	gene middle
+Samp4	NODE_97_length_263632_cov_6.410571	73392	73421	label=insertion	
+Samp4	NODE_97_length_263632_cov_6.410571	128722	135872	label=insertion	135138	135902	ID=FMLJCINM_00382	gene=lytR_1	gene begin
+Samp4	NODE_97_length_263632_cov_6.410571	128722	135872	label=deletion	135138	135902	ID=FMLJCINM_00382	gene=lytR_1	gene begin
+Samp4	NODE_97_length_263632_cov_6.410571	205612	205621	label=insertion	205613	206932	ID=FMLJCINM_00453	gene=pmbA	gene begin
+Samp4	NODE_97_length_263632_cov_6.410571	260466	260587	label=deletion	259870	260517	ID=FMLJCINM_00497	gene=Null	gene end
+Samp7	NODE_1052_length_43248_cov_7.070868	67	43198	label=transloc	
+Samp7	NODE_112_length_241324_cov_7.256527	29278	30696	label=deletion	
+Samp7	NODE_121_length_231274_cov_7.528819	47	50580	label=transloc	46	312	ID=FMLJCINM_00683	gene=Null	gene end
+Samp7	NODE_124_length_229786_cov_9.276314	21233	21287	label=duplication	21202	21999	ID=FMLJCINM_00868	gene=Null	gene middle
+Samp7	NODE_124_length_229786_cov_9.276314	43161	43851	label=insertion	
+Samp7	NODE_124_length_229786_cov_9.276314	117741	211351	label=transloc	211334	211957	ID=FMLJCINM_01021	gene=Null	gene begin
+Samp7	NODE_128_length_225738_cov_6.278630	56160	225694	label=insertion	55900	57789	ID=FMLJCINM_01266	gene=Null	gene end	224026	225711	ID=FMLJCINM_01417	gene=Null	gene begin
+Samp7	NODE_128_length_225738_cov_6.278630	86808	86829	label=insertion	84114	86834	ID=FMLJCINM_01291	gene=ppdK	gene middle
+Samp7	NODE_128_length_225738_cov_6.278630	199623	225694	label=transloc	224026	225711	ID=FMLJCINM_01417	gene=Null	gene begin
+Samp7	NODE_1473_length_31315_cov_7.713500	21007	21061	label=duplication	20998	21085	ID=FMLJCINM_03759	gene=Null	gene middle
+Samp7	NODE_1570_length_29327_cov_7.125717	51	29277	label=transloc	45	1697	ID=FMLJCINM_03785	gene=Null	gene end	28447	29295	ID=FMLJCINM_03808	gene=Null	gene begin
+Samp7	NODE_177_length_182787_cov_7.099846	175579	175633	label=duplication	175281	175646	ID=FMLJCINM_01784	gene=Null	gene middle
+Samp7	NODE_195_length_174713_cov_7.016489	16510	33322	label=insertion	33265	35079	ID=FMLJCINM_01812	gene=lacZ_5	gene begin
+Samp7	NODE_195_length_174713_cov_7.016489	33801	63398	label=insertion	33265	35079	ID=FMLJCINM_01812	gene=lacZ_5	gene end
+Samp7	NODE_216_length_161895_cov_11.110776	121706	125601	label=deletion	
+Samp7	NODE_216_length_161895_cov_11.110776	126331	126351	label=insertion	125694	126338	ID=FMLJCINM_02006	gene=Null	gene end
+Samp7	NODE_318_length_124742_cov_7.606663	1980	119340	label=transloc	1973	3358	ID=FMLJCINM_02043	gene=mnmE	gene end	119266	119341	ID=FMLJCINM_02155	gene=Null	gene begin
+Samp7	NODE_326_length_121884_cov_9.161833	48	50554	label=transloc	50526	51509	ID=FMLJCINM_02325	gene=Null	gene begin
+Samp7	NODE_326_length_121884_cov_9.161833	12500	13918	label=deletion	13474	13986	ID=FMLJCINM_02297	gene=Null	gene begin
+Samp7	NODE_378_length_106712_cov_6.314232	23250	106668	label=transloc	
+Samp7	NODE_430_length_96491_cov_7.697136	59	89640	label=transloc	
+Samp7	NODE_430_length_96491_cov_7.697136	25965	26019	label=duplication	24456	26033	ID=FMLJCINM_02476	gene=Null	gene middle
+Samp7	NODE_430_length_96491_cov_7.697136	27024	27078	label=duplication	26163	27731	ID=FMLJCINM_02477	gene=Null	gene middle
+Samp7	NODE_533_length_79796_cov_8.081088	27771	79746	label=transloc	26855	27787	ID=FMLJCINM_02781	gene=xerC_17	gene end
+Samp7	NODE_664_length_65887_cov_7.398985	60170	60271	label=deletion	
+Samp7	NODE_677_length_63994_cov_7.110152	22924	63948	label=transloc	21268	23415	ID=FMLJCINM_03192	gene=mutB	gene end
+Samp9	NODE_1052_length_43248_cov_7.070868	29825	40625	label=transloc	27481	30480	ID=FMLJCINM_03556	gene=yfeW	gene end
+Samp9	NODE_121_length_231274_cov_7.528819	52162	52163	label=insertion	
+Samp9	NODE_121_length_231274_cov_7.528819	52309	52318	label=insertion	
+Samp9	NODE_121_length_231274_cov_7.528819	147365	149154	label=deletion	147337	148458	ID=FMLJCINM_00790	gene=Null	gene end
+Samp9	NODE_121_length_231274_cov_7.528819	207070	208604	label=deletion	208544	209011	ID=FMLJCINM_00837	gene=Null	gene begin
+Samp9	NODE_124_length_229786_cov_9.276314	43485	43781	label=deletion	43441	43710	ID=FMLJCINM_00890	gene=Null	gene end	43685	43813	ID=FMLJCINM_00891	gene=Null	gene begin
+Samp9	NODE_124_length_229786_cov_9.276314	130310	131603	label=deletion	130256	130819	ID=FMLJCINM_00961	gene=Null	gene end	131496	132647	ID=FMLJCINM_00964	gene=Null	gene begin
+Samp9	NODE_124_length_229786_cov_9.276314	131673	132648	label=deletion	131496	132647	ID=FMLJCINM_00964	gene=Null	gene end
+Samp9	NODE_124_length_229786_cov_9.276314	173760	173787	label=insertion	
+Samp9	NODE_124_length_229786_cov_9.276314	174313	174328	label=insertion	173873	174328	ID=FMLJCINM_00997	gene=Null	gene middle
+Samp9	NODE_126_length_228236_cov_6.642345	90938	90946	label=insertion	90909	91565	ID=FMLJCINM_01113	gene=Null	gene middle
+Samp9	NODE_126_length_228236_cov_6.642345	142276	144770	label=deletion	142219	143472	ID=FMLJCINM_01160	gene=rcsC_15	gene end
+Samp9	NODE_216_length_161895_cov_11.110776	27003	27008	label=insertion	
+Samp9	NODE_216_length_161895_cov_11.110776	47603	55167	label=deletion	
+Samp9	NODE_216_length_161895_cov_11.110776	58019	59150	label=deletion	59132	60085	ID=FMLJCINM_01964	gene=Null	gene begin
+Samp9	NODE_216_length_161895_cov_11.110776	69138	71679	label=deletion	68640	70835	ID=FMLJCINM_01974	gene=Null	gene end	70840	71955	ID=FMLJCINM_01975	gene=Null	gene begin
+Samp9	NODE_216_length_161895_cov_11.110776	121706	125601	label=deletion	
+Samp9	NODE_216_length_161895_cov_11.110776	126331	126351	label=insertion	125694	126338	ID=FMLJCINM_02006	gene=Null	gene end
+Samp9	NODE_319_length_124608_cov_6.702416	61155	110702	label=deletion	110678	110776	ID=FMLJCINM_02272	gene=Null	gene begin
+Samp9	NODE_326_length_121884_cov_9.161833	12500	13918	label=deletion	13474	13986	ID=FMLJCINM_02297	gene=Null	gene begin
+Samp9	NODE_477_length_87951_cov_7.542437	43775	44447	label=deletion	
+Samp9	NODE_498_length_84166_cov_7.768889	28289	28306	label=insertion	25957	28341	ID=FMLJCINM_02711	gene=bamA_3	gene middle
+Samp9	NODE_545_length_78522_cov_7.027349	34374	34536	label=deletion	
+Samp9	NODE_677_length_63994_cov_7.110152	40625	57082	label=insertion	40382	41425	ID=FMLJCINM_03204	gene=Null	gene end	54311	57661	ID=FMLJCINM_03213	gene=Null	gene begin
+Samp9	NODE_677_length_63994_cov_7.110152	46692	57082	label=transloc	46572	47633	ID=FMLJCINM_03207	gene=Null	gene end	54311	57661	ID=FMLJCINM_03213	gene=Null	gene begin
+Samp9	NODE_70_length_306622_cov_6.633460	33274	34115	label=insertion	33219	34142	ID=FMLJCINM_00030	gene=Null	gene middle
+Samp9	NODE_70_length_306622_cov_6.633460	142730	142751	label=insertion	
+Samp9	NODE_97_length_263632_cov_6.410571	110128	110920	label=deletion	109224	110129	ID=FMLJCINM_00362	gene=cutD_1	gene end
+Samp9	NODE_97_length_263632_cov_6.410571	190351	190351	label=insertion	190303	190434	ID=FMLJCINM_00437	gene=Null	gene middle

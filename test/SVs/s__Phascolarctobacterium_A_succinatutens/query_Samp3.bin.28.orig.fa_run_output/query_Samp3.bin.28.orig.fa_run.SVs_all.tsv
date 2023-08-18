@@ -1,0 +1,7 @@
+ref_chr	query_chr	ref_start	ref_stop	size	SV_type	query_start	query_stop
+NODE_26_length_418097_cov_31.649356	NODE_102_length_213900_cov_20.781033	35299	35353	54	duplication	178447	178548
+NODE_305_length_112550_cov_30.792311	NODE_236_length_113505_cov_21.943050	6944	7209	1035	insertion	6944	7979	complicated
+NODE_834_length_49534_cov_31.895976	NODE_64_length_284920_cov_21.915304	1	49534	49533	transloc	2	49535
+NODE_8_length_935005_cov_32.701219	NODE_64_length_284920_cov_21.915304	1	235347	235346	transloc	49508	284920
+NODE_8_length_935005_cov_32.701219	NODE_64_length_284920_cov_21.915304	47036	47090	54	duplication	96597	96608
+NODE_8_length_935005_cov_32.701219	NODE_33_length_370232_cov_22.339792	564679	564690	149	insertion	45925	46074

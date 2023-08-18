@@ -1,0 +1,38 @@
+debuggroup summary 0.26s welcome to circos v0.69-8 15 Jun 2019 on Perl 5.032001
+debuggroup summary 0.27s current working directory /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__Mediterraneibacter_lactaris
+debuggroup summary 0.27s command /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/circos -conf circos.conf
+debuggroup summary 0.27s loading configuration from file circos.conf
+debuggroup summary 0.27s found conf file circos.conf
+debuggroup summary 0.58s debug will appear for these features: output,summary
+debuggroup summary 0.59s bitmap output image ./sample.png
+debuggroup summary 0.59s SVG output image ./sample.svg
+debuggroup summary 0.59s parsing karyotype and organizing ideograms
+debuggroup summary 0.60s karyotype has 24 chromosomes of total size 2,503,868
+debuggroup summary 0.63s applying global and local scaling
+debuggroup summary 0.64s allocating image, colors and brushes
+debuggroup summary 3.38s drawing 24 ideograms of total size 2,503,868
+debuggroup summary 3.38s drawing highlights and ideograms
+debuggroup summary 3.45s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.45s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.45s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.45s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.45s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.45s processing track_0 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__Mediterraneibacter_lactaris/query_Samp1.bin.24.orig.dat
+debuggroup summary 3.46s processing track_1 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__Mediterraneibacter_lactaris/query_Samp2.bin.53.orig.dat
+debuggroup summary 3.49s processing track_2 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__Mediterraneibacter_lactaris/query_Samp4.bin.18.orig.dat
+debuggroup summary 3.51s processing track_3 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__Mediterraneibacter_lactaris/query_Samp5.bin.25.orig.dat
+debuggroup summary 3.57s processing track_4 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__Mediterraneibacter_lactaris/query_Samp9.bin.33.orig.dat
+debuggroup summary 3.71s drawing track_0 tile z 0 query_Samp1.bin.24.orig.dat orient in
+debuggroup summary 3.72s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 3.73s drawing track_1 tile z 0 query_Samp2.bin.53.orig.dat orient in
+debuggroup summary 3.73s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 3.76s drawing track_2 tile z 0 query_Samp4.bin.18.orig.dat orient in
+debuggroup summary 3.76s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 3.78s drawing track_3 tile z 0 query_Samp5.bin.25.orig.dat orient in
+debuggroup summary 3.78s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 3.81s drawing track_4 tile z 0 query_Samp9.bin.33.orig.dat orient out
+debuggroup summary 3.81s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup output 3.89s generating output
+debuggroup output 4.01s created PNG image ./sample.png (33 kb)
+debuggroup output 4.01s created SVG image ./sample.svg (33 kb)
+This-Work-is-Completed!

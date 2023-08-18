@@ -1,0 +1,150 @@
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp10.bin.23.strict.fa_run_ref.ntref" of length 2804237
+# construct suffix tree for sequence of length 2804237
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28042 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp10.bin.23.strict.fa_run_ref.ntref 1.27
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp10.bin.23.strict.fa" of length 1842134
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp10.bin.23.strict.fa"
+# against subject-file "query_Samp10.bin.23.strict.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp10.bin.23.strict.fa_run_ref.ntref 2.99
+# SPACE /usr/bin/mummer query_Samp10.bin.23.strict.fa_run_ref.ntref 4.51
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp10.bin.23.strict.fa_run_query.ntref" of length 1842135
+# construct suffix tree for sequence of length 1842135
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 18421 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp10.bin.23.strict.fa_run_query.ntref 0.66
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa" of length 2804236
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa"
+# against subject-file "query_Samp10.bin.23.strict.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp10.bin.23.strict.fa_run_query.ntref 3.45
+# SPACE /usr/bin/mummer query_Samp10.bin.23.strict.fa_run_query.ntref 4.51
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp2.bin.8.orig.fa_run_ref.ntref" of length 2804237
+# construct suffix tree for sequence of length 2804237
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28042 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp2.bin.8.orig.fa_run_ref.ntref 1.39
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp2.bin.8.orig.fa" of length 2827153
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp2.bin.8.orig.fa"
+# against subject-file "query_Samp2.bin.8.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp2.bin.8.orig.fa_run_ref.ntref 4.30
+# SPACE /usr/bin/mummer query_Samp2.bin.8.orig.fa_run_ref.ntref 5.46
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp2.bin.8.orig.fa_run_query.ntref" of length 2827154
+# construct suffix tree for sequence of length 2827154
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28271 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp2.bin.8.orig.fa_run_query.ntref 1.52
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa" of length 2804236
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa"
+# against subject-file "query_Samp2.bin.8.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp2.bin.8.orig.fa_run_query.ntref 4.63
+# SPACE /usr/bin/mummer query_Samp2.bin.8.orig.fa_run_query.ntref 5.46
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp3.bin.10.strict.fa_run_ref.ntref" of length 2804237
+# construct suffix tree for sequence of length 2804237
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28042 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp3.bin.10.strict.fa_run_ref.ntref 1.40
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp3.bin.10.strict.fa" of length 2821853
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp3.bin.10.strict.fa"
+# against subject-file "query_Samp3.bin.10.strict.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp3.bin.10.strict.fa_run_ref.ntref 4.11
+# SPACE /usr/bin/mummer query_Samp3.bin.10.strict.fa_run_ref.ntref 5.46
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp3.bin.10.strict.fa_run_query.ntref" of length 2821854
+# construct suffix tree for sequence of length 2821854
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28218 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp3.bin.10.strict.fa_run_query.ntref 1.44
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa" of length 2804236
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa"
+# against subject-file "query_Samp3.bin.10.strict.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp3.bin.10.strict.fa_run_query.ntref 4.53
+# SPACE /usr/bin/mummer query_Samp3.bin.10.strict.fa_run_query.ntref 5.46
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp4.bin.4.orig.fa_run_ref.ntref" of length 2804237
+# construct suffix tree for sequence of length 2804237
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28042 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp4.bin.4.orig.fa_run_ref.ntref 1.68
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp4.bin.4.orig.fa" of length 2827901
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp4.bin.4.orig.fa"
+# against subject-file "query_Samp4.bin.4.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp4.bin.4.orig.fa_run_ref.ntref 5.39
+# SPACE /usr/bin/mummer query_Samp4.bin.4.orig.fa_run_ref.ntref 5.46
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp4.bin.4.orig.fa_run_query.ntref" of length 2827902
+# construct suffix tree for sequence of length 2827902
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28279 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp4.bin.4.orig.fa_run_query.ntref 1.25
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa" of length 2804236
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa"
+# against subject-file "query_Samp4.bin.4.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp4.bin.4.orig.fa_run_query.ntref 3.91
+# SPACE /usr/bin/mummer query_Samp4.bin.4.orig.fa_run_query.ntref 5.46
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp6.bin.3.orig.fa_run_ref.ntref" of length 2804237
+# construct suffix tree for sequence of length 2804237
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28042 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp6.bin.3.orig.fa_run_ref.ntref 1.69
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp6.bin.3.orig.fa" of length 3834530
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/query_Samp6.bin.3.orig.fa"
+# against subject-file "query_Samp6.bin.3.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp6.bin.3.orig.fa_run_ref.ntref 5.98
+# SPACE /usr/bin/mummer query_Samp6.bin.3.orig.fa_run_ref.ntref 6.44
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp6.bin.3.orig.fa_run_query.ntref" of length 3834531
+# construct suffix tree for sequence of length 3834531
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 38345 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp6.bin.3.orig.fa_run_query.ntref 1.76
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa" of length 2804236
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Coprococcus_sp900066115/ref_Samp1.bin.21.orig.fa"
+# against subject-file "query_Samp6.bin.3.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp6.bin.3.orig.fa_run_query.ntref 4.59
+# SPACE /usr/bin/mummer query_Samp6.bin.3.orig.fa_run_query.ntref 6.44
+4: FINISHING DATA

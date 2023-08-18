@@ -1,0 +1,175 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 1800 gene of reference genome
+Samp10	NODE_2_length_1994410_cov_148.287918	159581	159626	label=insertion	158258	159592	ID=ENOJAKMB_00123	gene=Null	gene end
+Samp10	NODE_2_length_1994410_cov_148.287918	194379	230664	label=deletion	230662	230738	ID=ENOJAKMB_00206	gene=Null	gene begin
+Samp10	NODE_2_length_1994410_cov_148.287918	277958	277988	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	293770	331286	label=inversion	
+Samp10	NODE_2_length_1994410_cov_148.287918	331500	331502	label=insertion	331481	331822	ID=ENOJAKMB_00291	gene=Null	gene middle
+Samp10	NODE_2_length_1994410_cov_148.287918	332861	335558	label=deletion	335539	335901	ID=ENOJAKMB_00296	gene=yccF_1	gene begin
+Samp10	NODE_2_length_1994410_cov_148.287918	335901	336719	label=deletion	
+Samp10	NODE_2_length_1994410_cov_148.287918	335901	336719	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	403838	403892	label=duplication	403480	404907	ID=ENOJAKMB_00344	gene=pknD_1	gene middle
+Samp10	NODE_2_length_1994410_cov_148.287918	405028	405070	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	510448	529967	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	510448	529967	label=deletion	
+Samp10	NODE_2_length_1994410_cov_148.287918	547919	547961	label=insertion	547919	547993	ID=ENOJAKMB_00443	gene=Null	gene middle
+Samp10	NODE_2_length_1994410_cov_148.287918	567494	567895	label=deletion	
+Samp10	NODE_2_length_1994410_cov_148.287918	567494	567895	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	591928	592166	label=insertion	592015	592725	ID=ENOJAKMB_00480	gene=Null	gene begin
+Samp10	NODE_2_length_1994410_cov_148.287918	713456	713458	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	763201	765249	label=deletion	764928	765335	ID=ENOJAKMB_00619	gene=Null	gene begin
+Samp10	NODE_2_length_1994410_cov_148.287918	763201	765249	label=insertion	764928	765335	ID=ENOJAKMB_00619	gene=Null	gene begin
+Samp10	NODE_2_length_1994410_cov_148.287918	766620	769207	label=deletion	766554	766757	ID=ENOJAKMB_00622	gene=Null	gene end	769092	770462	ID=ENOJAKMB_00628	gene=Null	gene begin
+Samp10	NODE_2_length_1994410_cov_148.287918	771069	792640	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	771069	792640	label=deletion	
+Samp10	NODE_2_length_1994410_cov_148.287918	793202	793708	label=deletion	793171	793368	ID=ENOJAKMB_00641	gene=Null	gene end
+Samp10	NODE_2_length_1994410_cov_148.287918	1068938	1068942	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	1162367	1162370	label=insertion	
+Samp10	NODE_2_length_1994410_cov_148.287918	1238537	1238813	label=deletion	1238457	1238690	ID=ENOJAKMB_01042	gene=Null	gene end
+Samp10	NODE_2_length_1994410_cov_148.287918	1238537	1238847	label=insertion	1238457	1238690	ID=ENOJAKMB_01042	gene=Null	gene end
+Samp10	NODE_2_length_1994410_cov_148.287918	1239270	1239281	label=insertion	1239177	1241231	ID=ENOJAKMB_01043	gene=mdtD_2	gene middle
+Samp10	NODE_2_length_1994410_cov_148.287918	1426317	1426371	label=duplication	1424394	1426319	ID=ENOJAKMB_01203	gene=recQ	gene end	1426347	1429142	ID=ENOJAKMB_01204	gene=btuD_8	gene begin
+Samp1	NODE_205_length_147903_cov_222.175511	28093	28341	label=deletion	
+Samp1	NODE_205_length_147903_cov_222.175511	32547	34487	label=deletion	32899	35951	ID=ENOJAKMB_01707	gene=Null	gene begin
+Samp1	NODE_205_length_147903_cov_222.175511	32547	34487	label=insertion	32899	35951	ID=ENOJAKMB_01707	gene=Null	gene begin
+Samp1	NODE_205_length_147903_cov_222.175511	60308	70729	label=deletion	
+Samp1	NODE_205_length_147903_cov_222.175511	89424	89424	label=insertion	
+Samp1	NODE_205_length_147903_cov_222.175511	97634	97635	label=insertion	97399	97686	ID=ENOJAKMB_01758	gene=Null	gene middle
+Samp1	NODE_205_length_147903_cov_222.175511	134364	134689	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	12760	12862	label=deletion	
+Samp1	NODE_2_length_1994410_cov_148.287918	13519	14936	label=deletion	
+Samp1	NODE_2_length_1994410_cov_148.287918	17388	17409	label=insertion	17344	19134	ID=ENOJAKMB_00016	gene=pulA	gene middle
+Samp1	NODE_2_length_1994410_cov_148.287918	23079	23080	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	25651	25651	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	107400	107736	label=deletion	106494	107777	ID=ENOJAKMB_00078	gene=hsrA_1	gene middle
+Samp1	NODE_2_length_1994410_cov_148.287918	114846	114993	label=deletion	114377	116839	ID=ENOJAKMB_00085	gene=Null	gene middle
+Samp1	NODE_2_length_1994410_cov_148.287918	115714	134140	label=deletion	114377	116839	ID=ENOJAKMB_00085	gene=Null	gene end	131746	134343	ID=ENOJAKMB_00098	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	115714	134140	label=insertion	114377	116839	ID=ENOJAKMB_00085	gene=Null	gene end	131746	134343	ID=ENOJAKMB_00098	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	134475	136125	label=deletion	136119	137174	ID=ENOJAKMB_00100	gene=rmlB_2	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	194379	230664	label=deletion	230662	230738	ID=ENOJAKMB_00206	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	331787	331798	label=insertion	331481	331822	ID=ENOJAKMB_00291	gene=Null	gene middle
+Samp1	NODE_2_length_1994410_cov_148.287918	369005	377052	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	369005	377052	label=deletion	
+Samp1	NODE_2_length_1994410_cov_148.287918	405022	405033	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	436490	436654	label=insertion	436639	437946	ID=ENOJAKMB_00359	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	510447	529967	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	510447	529967	label=deletion	
+Samp1	NODE_2_length_1994410_cov_148.287918	567494	567895	label=deletion	
+Samp1	NODE_2_length_1994410_cov_148.287918	567494	567895	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	763201	763686	label=deletion	763685	764725	ID=ENOJAKMB_00618	gene=yajO	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	763201	763686	label=insertion	763685	764725	ID=ENOJAKMB_00618	gene=yajO	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	765546	793835	label=insertion	765445	765567	ID=ENOJAKMB_00620	gene=Null	gene end
+Samp1	NODE_2_length_1994410_cov_148.287918	765546	793835	label=deletion	765445	765567	ID=ENOJAKMB_00620	gene=Null	gene end
+Samp1	NODE_2_length_1994410_cov_148.287918	796056	796710	label=deletion	796096	796821	ID=ENOJAKMB_00645	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	796836	796839	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	831439	834003	label=deletion	831300	832196	ID=ENOJAKMB_00668	gene=Null	gene end	834002	834544	ID=ENOJAKMB_00673	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	831439	834003	label=insertion	831300	832196	ID=ENOJAKMB_00668	gene=Null	gene end	834002	834544	ID=ENOJAKMB_00673	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	1048994	1049014	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1068938	1068942	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1144304	1144338	label=insertion	1144304	1144378	ID=ENOJAKMB_00963	gene=Null	gene middle
+Samp1	NODE_2_length_1994410_cov_148.287918	1154438	1156588	label=deletion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1154438	1156588	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1191863	1191870	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1246866	1246879	label=insertion	1246853	1247947	ID=ENOJAKMB_01050	gene=ychF	gene middle
+Samp1	NODE_2_length_1994410_cov_148.287918	1279869	1289390	label=insertion	1278427	1279959	ID=ENOJAKMB_01076	gene=hsrA_2	gene end	1289379	1290755	ID=ENOJAKMB_01084	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	1279869	1289390	label=deletion	1278427	1279959	ID=ENOJAKMB_01076	gene=hsrA_2	gene end	1289379	1290755	ID=ENOJAKMB_01084	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	1446862	1446916	label=duplication	1446862	1447875	ID=ENOJAKMB_01218	gene=araQ_5	gene middle
+Samp1	NODE_2_length_1994410_cov_148.287918	1509375	1510095	label=deletion	1509209	1509454	ID=ENOJAKMB_01271	gene=Null	gene end	1509827	1510126	ID=ENOJAKMB_01272	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	1512805	1513404	label=deletion	1512596	1514125	ID=ENOJAKMB_01275	gene=xylB_3	gene middle
+Samp1	NODE_2_length_1994410_cov_148.287918	1522288	1529472	label=insertion	1529461	1529928	ID=ENOJAKMB_01287	gene=ribD	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	1522288	1529472	label=deletion	1529461	1529928	ID=ENOJAKMB_01287	gene=ribD	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	1765345	1765419	label=duplication	
+Samp1	NODE_2_length_1994410_cov_148.287918	1780461	1780461	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1780564	1780576	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1786304	1787512	label=deletion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1803063	1803086	label=insertion	
+Samp1	NODE_2_length_1994410_cov_148.287918	1810360	1814938	label=deletion	1810351	1811532	ID=ENOJAKMB_01545	gene=cysA	gene end
+Samp1	NODE_2_length_1994410_cov_148.287918	1986586	1986664	label=deletion	1986639	1986767	ID=ENOJAKMB_01676	gene=Null	gene begin
+Samp1	NODE_2_length_1994410_cov_148.287918	1986586	1986664	label=insertion	1986639	1986767	ID=ENOJAKMB_01676	gene=Null	gene begin
+Samp3	NODE_205_length_147903_cov_222.175511	28093	28341	label=deletion	
+Samp3	NODE_205_length_147903_cov_222.175511	60308	70729	label=deletion	
+Samp3	NODE_205_length_147903_cov_222.175511	89424	89424	label=insertion	
+Samp3	NODE_205_length_147903_cov_222.175511	97634	97635	label=insertion	97399	97686	ID=ENOJAKMB_01758	gene=Null	gene middle
+Samp3	NODE_2_length_1994410_cov_148.287918	12760	12862	label=deletion	
+Samp3	NODE_2_length_1994410_cov_148.287918	13519	14936	label=deletion	
+Samp3	NODE_2_length_1994410_cov_148.287918	17388	17409	label=insertion	17344	19134	ID=ENOJAKMB_00016	gene=pulA	gene middle
+Samp3	NODE_2_length_1994410_cov_148.287918	23079	23080	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	25642	25651	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	100350	430841	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	134475	136125	label=deletion	136119	137174	ID=ENOJAKMB_00100	gene=rmlB_2	gene begin
+Samp3	NODE_2_length_1994410_cov_148.287918	194379	230664	label=deletion	230662	230738	ID=ENOJAKMB_00206	gene=Null	gene begin
+Samp3	NODE_2_length_1994410_cov_148.287918	328107	1446862	label=insertion	327899	328636	ID=ENOJAKMB_00287	gene=insK	gene end
+Samp3	NODE_2_length_1994410_cov_148.287918	369005	377052	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	369005	377052	label=deletion	
+Samp3	NODE_2_length_1994410_cov_148.287918	405022	405033	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	1068938	1068942	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	1088943	1089000	label=deletion	
+Samp3	NODE_2_length_1994410_cov_148.287918	1191863	1191870	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	1279869	1289390	label=insertion	1278427	1279959	ID=ENOJAKMB_01076	gene=hsrA_2	gene end	1289379	1290755	ID=ENOJAKMB_01084	gene=Null	gene begin
+Samp3	NODE_2_length_1994410_cov_148.287918	1279869	1289390	label=deletion	1278427	1279959	ID=ENOJAKMB_01076	gene=hsrA_2	gene end	1289379	1290755	ID=ENOJAKMB_01084	gene=Null	gene begin
+Samp3	NODE_2_length_1994410_cov_148.287918	1509375	1510095	label=deletion	1509209	1509454	ID=ENOJAKMB_01271	gene=Null	gene end	1509827	1510126	ID=ENOJAKMB_01272	gene=Null	gene begin
+Samp3	NODE_2_length_1994410_cov_148.287918	1512805	1513404	label=deletion	1512596	1514125	ID=ENOJAKMB_01275	gene=xylB_3	gene middle
+Samp3	NODE_2_length_1994410_cov_148.287918	1522288	1529472	label=insertion	1529461	1529928	ID=ENOJAKMB_01287	gene=ribD	gene begin
+Samp3	NODE_2_length_1994410_cov_148.287918	1522288	1529472	label=deletion	1529461	1529928	ID=ENOJAKMB_01287	gene=ribD	gene begin
+Samp3	NODE_2_length_1994410_cov_148.287918	1765345	1765419	label=duplication	
+Samp3	NODE_2_length_1994410_cov_148.287918	1780461	1780461	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	1780564	1780576	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	1786304	1787512	label=deletion	
+Samp3	NODE_2_length_1994410_cov_148.287918	1803063	1803086	label=insertion	
+Samp3	NODE_2_length_1994410_cov_148.287918	1810360	1814938	label=deletion	1810351	1811532	ID=ENOJAKMB_01545	gene=cysA	gene end
+Samp4	NODE_205_length_147903_cov_222.175511	28093	28341	label=deletion	
+Samp4	NODE_205_length_147903_cov_222.175511	60308	70729	label=deletion	
+Samp4	NODE_205_length_147903_cov_222.175511	89424	89424	label=insertion	
+Samp4	NODE_205_length_147903_cov_222.175511	97634	97635	label=insertion	97399	97686	ID=ENOJAKMB_01758	gene=Null	gene middle
+Samp4	NODE_205_length_147903_cov_222.175511	134364	134689	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	12760	12862	label=deletion	
+Samp4	NODE_2_length_1994410_cov_148.287918	13519	14936	label=deletion	
+Samp4	NODE_2_length_1994410_cov_148.287918	17388	17409	label=insertion	17344	19134	ID=ENOJAKMB_00016	gene=pulA	gene middle
+Samp4	NODE_2_length_1994410_cov_148.287918	23079	23080	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	25651	25651	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	100350	430839	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	134475	136125	label=deletion	136119	137174	ID=ENOJAKMB_00100	gene=rmlB_2	gene begin
+Samp4	NODE_2_length_1994410_cov_148.287918	161528	161709	label=deletion	
+Samp4	NODE_2_length_1994410_cov_148.287918	194379	230664	label=deletion	230662	230738	ID=ENOJAKMB_00206	gene=Null	gene begin
+Samp4	NODE_2_length_1994410_cov_148.287918	331787	331798	label=insertion	331481	331822	ID=ENOJAKMB_00291	gene=Null	gene middle
+Samp4	NODE_2_length_1994410_cov_148.287918	369005	377052	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	369005	377052	label=deletion	
+Samp4	NODE_2_length_1994410_cov_148.287918	405022	405033	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	533547	537213	label=deletion	533345	534175	ID=ENOJAKMB_00429	gene=Null	gene end
+Samp4	NODE_2_length_1994410_cov_148.287918	567494	567895	label=deletion	
+Samp4	NODE_2_length_1994410_cov_148.287918	567494	567895	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	1048994	1049014	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	1097699	1097902	label=deletion	1097157	1097744	ID=ENOJAKMB_00928	gene=Null	gene end	1097888	1098439	ID=ENOJAKMB_00929	gene=sufU	gene begin
+Samp4	NODE_2_length_1994410_cov_148.287918	1191863	1191870	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	1719115	1719328	label=deletion	1718950	1721619	ID=ENOJAKMB_01468	gene=pnp	gene middle
+Samp4	NODE_2_length_1994410_cov_148.287918	1765345	1765419	label=duplication	
+Samp4	NODE_2_length_1994410_cov_148.287918	1780461	1780461	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	1780564	1780576	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	1786304	1787512	label=deletion	
+Samp4	NODE_2_length_1994410_cov_148.287918	1803063	1803086	label=insertion	
+Samp4	NODE_2_length_1994410_cov_148.287918	1810360	1814938	label=deletion	1810351	1811532	ID=ENOJAKMB_01545	gene=cysA	gene end
+Samp5	NODE_205_length_147903_cov_222.175511	28093	28341	label=deletion	
+Samp5	NODE_205_length_147903_cov_222.175511	60229	70729	label=insertion	
+Samp5	NODE_205_length_147903_cov_222.175511	60308	70729	label=deletion	
+Samp5	NODE_205_length_147903_cov_222.175511	89424	89424	label=insertion	
+Samp5	NODE_205_length_147903_cov_222.175511	97190	98768	label=deletion	
+Samp5	NODE_205_length_147903_cov_222.175511	134364	134689	label=insertion	
+Samp5	NODE_2_length_1994410_cov_148.287918	12760	12862	label=deletion	
+Samp5	NODE_2_length_1994410_cov_148.287918	13519	14936	label=deletion	
+Samp5	NODE_2_length_1994410_cov_148.287918	17388	17409	label=insertion	17344	19134	ID=ENOJAKMB_00016	gene=pulA	gene middle
+Samp5	NODE_2_length_1994410_cov_148.287918	194379	230664	label=deletion	230662	230738	ID=ENOJAKMB_00206	gene=Null	gene begin
+Samp5	NODE_2_length_1994410_cov_148.287918	369005	377052	label=insertion	
+Samp5	NODE_2_length_1994410_cov_148.287918	369005	377052	label=deletion	
+Samp5	NODE_2_length_1994410_cov_148.287918	405022	405033	label=insertion	
+Samp5	NODE_2_length_1994410_cov_148.287918	567494	567895	label=deletion	
+Samp5	NODE_2_length_1994410_cov_148.287918	567494	567895	label=insertion	
+Samp5	NODE_2_length_1994410_cov_148.287918	763201	763686	label=deletion	763685	764725	ID=ENOJAKMB_00618	gene=yajO	gene begin
+Samp5	NODE_2_length_1994410_cov_148.287918	763201	763686	label=insertion	763685	764725	ID=ENOJAKMB_00618	gene=yajO	gene begin
+Samp5	NODE_2_length_1994410_cov_148.287918	765546	1993955	label=insertion	765445	765567	ID=ENOJAKMB_00620	gene=Null	gene end
+Samp5	NODE_2_length_1994410_cov_148.287918	796056	796710	label=deletion	796096	796821	ID=ENOJAKMB_00645	gene=Null	gene begin
+Samp5	NODE_2_length_1994410_cov_148.287918	796839	796842	label=insertion	
+Samp5	NODE_2_length_1994410_cov_148.287918	1765345	1765419	label=duplication	
+Samp5	NODE_2_length_1994410_cov_148.287918	1780461	1780461	label=insertion	
+Samp5	NODE_2_length_1994410_cov_148.287918	1780564	1780576	label=insertion	
+Samp5	NODE_2_length_1994410_cov_148.287918	1786304	1787512	label=deletion	
+Samp5	NODE_2_length_1994410_cov_148.287918	1803063	1803086	label=insertion	

@@ -1,0 +1,44 @@
+/data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/quast /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//assembly/Samp2/scaffolds.fasta -o /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//assembly/Samp2/quast --no-plots --no-html
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-4.15.0-210-generic-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 2.7.15
+  CPUs number: 88
+
+Started: 2023-05-24 22:47:56
+
+Logging to /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/assembly/Samp2/quast/quast.log
+NOTICE: Maximum number of threads is set to 22 (use --threads option to set it manually)
+
+CWD: /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/assembly/Samp2
+Main parameters: 
+  MODE: default, threads: 22, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//assembly/Samp2/scaffolds.fasta ==> scaffolds
+
+2023-05-24 22:49:12
+Running Basic statistics processor...
+  Contig files: 
+    scaffolds
+  Calculating N50 and L50...
+    scaffolds, N50 = 12647, L50 = 4957, Total length = 400598395, GC % = 47.88, # N's per 100 kbp =  835.93
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2023-05-24 22:49:54
+RESULTS:
+  Text versions of total report are saved to /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/assembly/Samp2/quast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/assembly/Samp2/quast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  Log is saved to /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/assembly/Samp2/quast/quast.log
+
+Finished: 2023-05-24 22:49:54
+Elapsed time: 0:01:57.496610
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

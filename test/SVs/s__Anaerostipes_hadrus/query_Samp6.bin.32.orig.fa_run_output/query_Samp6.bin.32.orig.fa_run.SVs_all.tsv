@@ -1,0 +1,6 @@
+ref_chr	query_chr	ref_start	ref_stop	size	SV_type	query_start	query_stop
+NODE_101_length_215705_cov_7.131245	NODE_1742_length_22882_cov_2.423840	56309	56413	104	deletion	22253	22674
+NODE_112_length_206091_cov_11.584218	NODE_1807_length_22260_cov_3.462779	29132	29241	109	deletion	2125	2133
+NODE_245_length_128448_cov_8.753413	NODE_1752_length_22779_cov_2.596374	89322	89391	1691	insertion	5847	7538	complicated
+NODE_245_length_128448_cov_8.753413	NODE_1752_length_22779_cov_2.596374	89554	91373	1819	deletion	7730	7838	complicated
+NODE_903_length_46796_cov_11.389444	NODE_820_length_38703_cov_3.430604	19179	19187	53	insertion	25717	25770

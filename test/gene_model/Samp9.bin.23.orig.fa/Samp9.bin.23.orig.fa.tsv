@@ -1,0 +1,2661 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HKDKCAMP_00001	CDS	870	rhaR_1			HTH-type transcriptional activator RhaR
+HKDKCAMP_00002	CDS	1026		2.4.1.320	COG2152	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase
+HKDKCAMP_00003	CDS	1641	sglT_1			Sodium/glucose cotransporter
+HKDKCAMP_00004	CDS	1317				hypothetical protein
+HKDKCAMP_00005	CDS	3138				TonB-dependent receptor P39
+HKDKCAMP_00006	CDS	1608				SusD-like protein P2
+HKDKCAMP_00007	CDS	1992				hypothetical protein
+HKDKCAMP_00008	CDS	987	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+HKDKCAMP_00009	CDS	702				hypothetical protein
+HKDKCAMP_00010	CDS	639	metH_1	2.1.1.13	COG0646	Methionine synthase
+HKDKCAMP_00011	CDS	2691				hypothetical protein
+HKDKCAMP_00012	CDS	1047				hypothetical protein
+HKDKCAMP_00013	CDS	1002				hypothetical protein
+HKDKCAMP_00014	CDS	2169				hypothetical protein
+HKDKCAMP_00015	CDS	5256				hypothetical protein
+HKDKCAMP_00016	CDS	1155	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+HKDKCAMP_00017	CDS	549				hypothetical protein
+HKDKCAMP_00018	CDS	186	rpmF			50S ribosomal protein L32
+HKDKCAMP_00019	CDS	993	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+HKDKCAMP_00020	CDS	885	era			GTPase Era
+HKDKCAMP_00021	CDS	1314	der_1		COG1160	GTPase Der
+HKDKCAMP_00022	CDS	1176				hypothetical protein
+HKDKCAMP_00023	CDS	615	ddpX	3.4.13.22	COG2173	D-alanyl-D-alanine dipeptidase
+HKDKCAMP_00024	CDS	906	ykfA	3.4.16.-	COG1619	putative murein peptide carboxypeptidase
+HKDKCAMP_00025	CDS	990				hypothetical protein
+HKDKCAMP_00026	CDS	426	sufE		COG2166	Cysteine desulfuration protein SufE
+HKDKCAMP_00027	CDS	1560	dtpB		COG3104	Dipeptide and tripeptide permease B
+HKDKCAMP_00028	CDS	1389				hypothetical protein
+HKDKCAMP_00029	CDS	2895				hypothetical protein
+HKDKCAMP_00030	CDS	648	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+HKDKCAMP_00031	CDS	1068				hypothetical protein
+HKDKCAMP_00032	CDS	1530	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HKDKCAMP_00033	CDS	540	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+HKDKCAMP_00034	CDS	573	adk	2.7.4.3		Adenylate kinase
+HKDKCAMP_00035	CDS	2037				hypothetical protein
+HKDKCAMP_00036	CDS	1134	obg	3.6.5.-		GTPase Obg
+HKDKCAMP_00037	CDS	807		1.10.3.-	COG1496	Polyphenol oxidase
+HKDKCAMP_00038	CDS	1725				hypothetical protein
+HKDKCAMP_00039	CDS	894	rhaR_2			HTH-type transcriptional activator RhaR
+HKDKCAMP_00040	CDS	1482	rhaB	2.7.1.5	COG1070	L-Rhamnulokinase
+HKDKCAMP_00041	CDS	1260	rhaA	5.3.1.14	COG4806	L-rhamnose isomerase
+HKDKCAMP_00042	CDS	1038	rhaT		COG0697	L-rhamnose-proton symporter
+HKDKCAMP_00043	CDS	801	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase
+HKDKCAMP_00044	CDS	477				hypothetical protein
+HKDKCAMP_00045	CDS	1332				hypothetical protein
+HKDKCAMP_00046	CDS	1737				hypothetical protein
+HKDKCAMP_00047	CDS	963				hypothetical protein
+HKDKCAMP_00048	CDS	1047				hypothetical protein
+HKDKCAMP_00049	CDS	13680				hypothetical protein
+HKDKCAMP_00050	CDS	765	srlR_1		COG1349	Glucitol operon repressor
+HKDKCAMP_00051	CDS	1569	glpD	1.1.5.3	COG0578	Aerobic glycerol-3-phosphate dehydrogenase
+HKDKCAMP_00052	CDS	1326	glpT		COG2271	Glycerol-3-phosphate transporter
+HKDKCAMP_00053	CDS	3258				TonB-dependent receptor P26
+HKDKCAMP_00054	CDS	1752				hypothetical protein
+HKDKCAMP_00055	CDS	1788				hypothetical protein
+HKDKCAMP_00056	CDS	2478				hypothetical protein
+HKDKCAMP_00057	CDS	2592				hypothetical protein
+HKDKCAMP_00058	CDS	1005				hypothetical protein
+HKDKCAMP_00059	CDS	714	yjjG	3.1.3.5	COG1011	Pyrimidine 5'-nucleotidase YjjG
+HKDKCAMP_00060	CDS	1698				hypothetical protein
+HKDKCAMP_00061	CDS	621	lacA	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+HKDKCAMP_00062	CDS	603				hypothetical protein
+HKDKCAMP_00063	CDS	1152	appB	7.1.1.3	COG1294	Cytochrome bd-II ubiquinol oxidase subunit 2
+HKDKCAMP_00064	CDS	1554	appC	7.1.1.3	COG1271	Cytochrome bd-II ubiquinol oxidase subunit 1
+HKDKCAMP_00065	CDS	201				hypothetical protein
+HKDKCAMP_00066	CDS	2001	btuB_1			Vitamin B12 transporter BtuB
+HKDKCAMP_00067	CDS	1170				hypothetical protein
+HKDKCAMP_00068	CDS	1218				hypothetical protein
+HKDKCAMP_00069	CDS	3756				hypothetical protein
+HKDKCAMP_00070	CDS	2184				hypothetical protein
+HKDKCAMP_00071	CDS	969				hypothetical protein
+HKDKCAMP_00072	CDS	525	ftnA_1	1.16.3.2		Bacterial non-heme ferritin
+HKDKCAMP_00073	CDS	120				hypothetical protein
+HKDKCAMP_00074	CDS	645				hypothetical protein
+HKDKCAMP_00075	CDS	4197				hypothetical protein
+HKDKCAMP_00076	CDS	681				hypothetical protein
+HKDKCAMP_00077	CDS	549				hypothetical protein
+HKDKCAMP_00078	CDS	2028				hypothetical protein
+HKDKCAMP_00079	CDS	3357				hypothetical protein
+HKDKCAMP_00080	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+HKDKCAMP_00081	CDS	2724	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+HKDKCAMP_00082	tRNA	75				tRNA-Met(cat)
+HKDKCAMP_00083	CDS	246				hypothetical protein
+HKDKCAMP_00084	CDS	663				hypothetical protein
+HKDKCAMP_00085	CDS	783				hypothetical protein
+HKDKCAMP_00086	CDS	411				hypothetical protein
+HKDKCAMP_00087	CDS	2847				hypothetical protein
+HKDKCAMP_00088	CDS	1440				hypothetical protein
+HKDKCAMP_00089	CDS	792	srlR_2		COG1349	Glucitol operon repressor
+HKDKCAMP_00090	CDS	105				hypothetical protein
+HKDKCAMP_00091	CDS	1140	agaS	3.5.99.-	COG2222	D-galactosamine-6-phosphate deaminase AgaS
+HKDKCAMP_00092	CDS	1263	kbaZ		COG4573	D-tagatose-1,6-bisphosphate aldolase subunit KbaZ
+HKDKCAMP_00093	CDS	954	ydjH	2.7.1.-	COG0524	putative sugar kinase YdjH
+HKDKCAMP_00094	CDS	828	fba	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+HKDKCAMP_00095	CDS	1065				hypothetical protein
+HKDKCAMP_00096	CDS	2049				hypothetical protein
+HKDKCAMP_00097	CDS	3216				TonB-dependent receptor P3
+HKDKCAMP_00098	CDS	1530				hypothetical protein
+HKDKCAMP_00099	CDS	1446				hypothetical protein
+HKDKCAMP_00100	CDS	1812				hypothetical protein
+HKDKCAMP_00101	CDS	1293				hypothetical protein
+HKDKCAMP_00102	CDS	3489				hypothetical protein
+HKDKCAMP_00103	CDS	1461				hypothetical protein
+HKDKCAMP_00104	CDS	492				hypothetical protein
+HKDKCAMP_00105	CDS	708				hypothetical protein
+HKDKCAMP_00106	CDS	828	murQ	4.2.1.126	COG2103	N-acetylmuramic acid 6-phosphate etherase
+HKDKCAMP_00107	CDS	837				hypothetical protein
+HKDKCAMP_00108	CDS	1173				hypothetical protein
+HKDKCAMP_00109	CDS	2820				hypothetical protein
+HKDKCAMP_00110	CDS	1233				hypothetical protein
+HKDKCAMP_00111	CDS	1866				hypothetical protein
+HKDKCAMP_00112	CDS	1305				hypothetical protein
+HKDKCAMP_00113	CDS	936				hypothetical protein
+HKDKCAMP_00114	CDS	1458				hypothetical protein
+HKDKCAMP_00115	CDS	1869	bamB			Outer membrane protein assembly factor BamB
+HKDKCAMP_00116	CDS	3027				hypothetical protein
+HKDKCAMP_00117	CDS	840				hypothetical protein
+HKDKCAMP_00118	CDS	2385				hypothetical protein
+HKDKCAMP_00119	CDS	912				hypothetical protein
+HKDKCAMP_00120	CDS	2481				hypothetical protein
+HKDKCAMP_00121	CDS	2463				hypothetical protein
+HKDKCAMP_00122	CDS	2439				hypothetical protein
+HKDKCAMP_00123	CDS	1437				hypothetical protein
+HKDKCAMP_00124	CDS	2760				hypothetical protein
+HKDKCAMP_00125	CDS	1653				hypothetical protein
+HKDKCAMP_00126	CDS	831				hypothetical protein
+HKDKCAMP_00127	CDS	1674				hypothetical protein
+HKDKCAMP_00128	CDS	3075				TonB-dependent receptor P26
+HKDKCAMP_00129	CDS	1350		3.2.1.-		Glycosyl hydrolase family 109 protein 1
+HKDKCAMP_00130	CDS	2406	btuB_2			Vitamin B12 transporter BtuB
+HKDKCAMP_00131	CDS	795	zupT		COG0428	Zinc transporter ZupT
+HKDKCAMP_00132	CDS	552	algU_1		COG1595	RNA polymerase sigma-H factor
+HKDKCAMP_00133	CDS	369				hypothetical protein
+HKDKCAMP_00134	CDS	480				hypothetical protein
+HKDKCAMP_00135	CDS	2118				hypothetical protein
+HKDKCAMP_00136	CDS	1005				hypothetical protein
+HKDKCAMP_00137	CDS	1080				hypothetical protein
+HKDKCAMP_00138	CDS	2952	susC_1			TonB-dependent receptor SusC
+HKDKCAMP_00139	CDS	1605	susD			Starch-binding protein SusD
+HKDKCAMP_00140	CDS	774				hypothetical protein
+HKDKCAMP_00141	CDS	438				hypothetical protein
+HKDKCAMP_00142	CDS	813				hypothetical protein
+HKDKCAMP_00143	CDS	567	mntP		COG1971	putative manganese efflux pump MntP
+HKDKCAMP_00144	CDS	1023	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+HKDKCAMP_00145	CDS	441				hypothetical protein
+HKDKCAMP_00146	CDS	1047	ansA	3.5.1.1	COG0252	L-asparaginase 1
+HKDKCAMP_00147	CDS	225				hypothetical protein
+HKDKCAMP_00148	CDS	2436	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+HKDKCAMP_00149	CDS	585				hypothetical protein
+HKDKCAMP_00150	CDS	1212	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HKDKCAMP_00151	CDS	1308	thrC	4.2.3.1	COG0498	Threonine synthase
+HKDKCAMP_00152	CDS	1176				hypothetical protein
+HKDKCAMP_00153	CDS	1287		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+HKDKCAMP_00154	CDS	549				hypothetical protein
+HKDKCAMP_00155	CDS	1779	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+HKDKCAMP_00156	CDS	483	cdd	3.5.4.5	COG0295	Cytidine deaminase
+HKDKCAMP_00157	CDS	900		3.2.1.-	COG1388	Autolysin
+HKDKCAMP_00158	CDS	696				hypothetical protein
+HKDKCAMP_00159	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+HKDKCAMP_00160	CDS	420				hypothetical protein
+HKDKCAMP_00161	CDS	267				hypothetical protein
+HKDKCAMP_00162	CDS	1968	pal			Peptidoglycan-associated lipoprotein
+HKDKCAMP_00163	CDS	1218	queA_1	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+HKDKCAMP_00164	CDS	1062				hypothetical protein
+HKDKCAMP_00165	CDS	2814				hypothetical protein
+HKDKCAMP_00166	CDS	1380				hypothetical protein
+HKDKCAMP_00167	CDS	573				hypothetical protein
+HKDKCAMP_00168	CDS	732	rgtE_1	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+HKDKCAMP_00169	CDS	189				hypothetical protein
+HKDKCAMP_00170	CDS	384				hypothetical protein
+HKDKCAMP_00171	CDS	1827		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+HKDKCAMP_00172	CDS	1317				hypothetical protein
+HKDKCAMP_00173	CDS	1995				hypothetical protein
+HKDKCAMP_00174	CDS	393				hypothetical protein
+HKDKCAMP_00175	CDS	537				hypothetical protein
+HKDKCAMP_00176	CDS	1194		2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+HKDKCAMP_00177	CDS	534				hypothetical protein
+HKDKCAMP_00178	CDS	348				hypothetical protein
+HKDKCAMP_00179	CDS	501			COG0716	Flavodoxin 1
+HKDKCAMP_00180	CDS	405				hypothetical protein
+HKDKCAMP_00181	CDS	387				hypothetical protein
+HKDKCAMP_00182	CDS	492	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+HKDKCAMP_00183	CDS	684	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+HKDKCAMP_00184	CDS	513		3.1.-.-	COG0322	Putative bifunctional exonuclease/endonuclease protein
+HKDKCAMP_00185	CDS	600				hypothetical protein
+HKDKCAMP_00186	CDS	477				hypothetical protein
+HKDKCAMP_00187	CDS	579				hypothetical protein
+HKDKCAMP_00188	CDS	576				hypothetical protein
+HKDKCAMP_00189	CDS	1224				hypothetical protein
+HKDKCAMP_00190	CDS	672				hypothetical protein
+HKDKCAMP_00191	CDS	885	rbbA		COG0842	Ribosome-associated ATPase
+HKDKCAMP_00192	CDS	1527				hypothetical protein
+HKDKCAMP_00193	CDS	1203				hypothetical protein
+HKDKCAMP_00194	CDS	2730				hypothetical protein
+HKDKCAMP_00195	CDS	225				hypothetical protein
+HKDKCAMP_00196	CDS	123				hypothetical protein
+HKDKCAMP_00197	CDS	2037				hypothetical protein
+HKDKCAMP_00198	CDS	1485				hypothetical protein
+HKDKCAMP_00199	CDS	732				hypothetical protein
+HKDKCAMP_00200	CDS	747				hypothetical protein
+HKDKCAMP_00201	CDS	2136				hypothetical protein
+HKDKCAMP_00202	CDS	2244	spoT	3.1.7.2	COG0317	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+HKDKCAMP_00203	CDS	981	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+HKDKCAMP_00204	CDS	1791		3.2.1.28	COG3387	Trehalase
+HKDKCAMP_00205	CDS	2355				hypothetical protein
+HKDKCAMP_00206	CDS	888	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+HKDKCAMP_00207	CDS	708	cmk_1	2.7.4.25	COG0283	Cytidylate kinase
+HKDKCAMP_00208	CDS	1032				hypothetical protein
+HKDKCAMP_00209	CDS	234				hypothetical protein
+HKDKCAMP_00210	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+HKDKCAMP_00211	CDS	705				hypothetical protein
+HKDKCAMP_00212	CDS	768	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+HKDKCAMP_00213	CDS	3546				hypothetical protein
+HKDKCAMP_00214	CDS	531				hypothetical protein
+HKDKCAMP_00215	CDS	114				hypothetical protein
+HKDKCAMP_00216	CDS	537				hypothetical protein
+HKDKCAMP_00217	CDS	2877				hypothetical protein
+HKDKCAMP_00218	CDS	1035				hypothetical protein
+HKDKCAMP_00219	tRNA	89				tRNA-Ser(gga)
+HKDKCAMP_00220	CDS	996				hypothetical protein
+HKDKCAMP_00221	CDS	612	yciO		COG0009	putative protein YciO
+HKDKCAMP_00222	CDS	939	mdh_1	1.1.1.37		Malate dehydrogenase
+HKDKCAMP_00223	CDS	1983				hypothetical protein
+HKDKCAMP_00224	CDS	561				hypothetical protein
+HKDKCAMP_00225	CDS	1800				hypothetical protein
+HKDKCAMP_00226	CDS	1068				hypothetical protein
+HKDKCAMP_00227	CDS	1389				hypothetical protein
+HKDKCAMP_00228	CDS	1752				hypothetical protein
+HKDKCAMP_00229	CDS	5823				hypothetical protein
+HKDKCAMP_00230	CDS	1191	gltP		COG1301	Proton/glutamate-aspartate symporter
+HKDKCAMP_00231	CDS	684				hypothetical protein
+HKDKCAMP_00232	CDS	765				hypothetical protein
+HKDKCAMP_00233	CDS	969				hypothetical protein
+HKDKCAMP_00234	CDS	255				hypothetical protein
+HKDKCAMP_00235	CDS	423				hypothetical protein
+HKDKCAMP_00236	CDS	1542	rssB			Regulator of RpoS
+HKDKCAMP_00237	CDS	2691				hypothetical protein
+HKDKCAMP_00238	CDS	825	mntB			Manganese transport system membrane protein MntB
+HKDKCAMP_00239	CDS	417				hypothetical protein
+HKDKCAMP_00240	CDS	1245	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+HKDKCAMP_00241	CDS	204				hypothetical protein
+HKDKCAMP_00242	CDS	462	resA_1			Thiol-disulfide oxidoreductase ResA
+HKDKCAMP_00243	CDS	207				hypothetical protein
+HKDKCAMP_00244	CDS	348				hypothetical protein
+HKDKCAMP_00245	CDS	210				hypothetical protein
+HKDKCAMP_00246	CDS	4551				hypothetical protein
+HKDKCAMP_00247	CDS	540	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+HKDKCAMP_00248	CDS	1059				hypothetical protein
+HKDKCAMP_00249	CDS	840				hypothetical protein
+HKDKCAMP_00250	CDS	1329				hypothetical protein
+HKDKCAMP_00251	CDS	150				hypothetical protein
+HKDKCAMP_00252	CDS	954				hypothetical protein
+HKDKCAMP_00253	CDS	1101	mutY	3.2.2.31		Adenine DNA glycosylase
+HKDKCAMP_00254	CDS	999			COG1702	PhoH-like protein
+HKDKCAMP_00255	CDS	504				hypothetical protein
+HKDKCAMP_00256	CDS	954	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HKDKCAMP_00257	CDS	738	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+HKDKCAMP_00258	CDS	366				hypothetical protein
+HKDKCAMP_00259	CDS	1641	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+HKDKCAMP_00260	CDS	840				hypothetical protein
+HKDKCAMP_00261	CDS	1401				hypothetical protein
+HKDKCAMP_00262	CDS	381				hypothetical protein
+HKDKCAMP_00263	CDS	1107				hypothetical protein
+HKDKCAMP_00264	CDS	624				hypothetical protein
+HKDKCAMP_00265	CDS	852				hypothetical protein
+HKDKCAMP_00266	CDS	1758				hypothetical protein
+HKDKCAMP_00267	CDS	1833	ltaS_1			Lipoteichoic acid synthase
+HKDKCAMP_00268	CDS	1650	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+HKDKCAMP_00269	CDS	201				hypothetical protein
+HKDKCAMP_00270	CDS	2499		3.2.1.23	COG3250	Beta-galactosidase BoGH2A
+HKDKCAMP_00271	CDS	519				hypothetical protein
+HKDKCAMP_00272	CDS	1098		3.6.-.-	COG1703	putative GTPase
+HKDKCAMP_00273	CDS	1071				hypothetical protein
+HKDKCAMP_00274	CDS	387				hypothetical protein
+HKDKCAMP_00275	CDS	1050				hypothetical protein
+HKDKCAMP_00276	CDS	2091				hypothetical protein
+HKDKCAMP_00277	CDS	1533				hypothetical protein
+HKDKCAMP_00278	CDS	3402				TonB-dependent receptor P3
+HKDKCAMP_00279	CDS	1056				hypothetical protein
+HKDKCAMP_00280	CDS	1008				hypothetical protein
+HKDKCAMP_00281	CDS	558				hypothetical protein
+HKDKCAMP_00282	CDS	2052		3.2.1.31		Putative beta-glucuronidase
+HKDKCAMP_00283	CDS	1374				hypothetical protein
+HKDKCAMP_00284	CDS	348				hypothetical protein
+HKDKCAMP_00285	CDS	303				hypothetical protein
+HKDKCAMP_00286	CDS	2151				hypothetical protein
+HKDKCAMP_00287	CDS	1818	mutS_1			DNA mismatch repair protein MutS
+HKDKCAMP_00288	CDS	702				hypothetical protein
+HKDKCAMP_00289	CDS	1011				hypothetical protein
+HKDKCAMP_00290	CDS	483	ftnA_2	1.16.3.2		Bacterial non-heme ferritin
+HKDKCAMP_00291	CDS	207				hypothetical protein
+HKDKCAMP_00292	CDS	1314				hypothetical protein
+HKDKCAMP_00293	CDS	741	kpsU	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+HKDKCAMP_00294	CDS	1365				hypothetical protein
+HKDKCAMP_00295	CDS	504	sigR		COG1595	ECF RNA polymerase sigma factor SigR
+HKDKCAMP_00296	CDS	1149				hypothetical protein
+HKDKCAMP_00297	CDS	516				hypothetical protein
+HKDKCAMP_00298	CDS	447				hypothetical protein
+HKDKCAMP_00299	CDS	3861				hypothetical protein
+HKDKCAMP_00300	CDS	915	tolB			Tol-Pal system protein TolB
+HKDKCAMP_00301	CDS	276				hypothetical protein
+HKDKCAMP_00302	CDS	870				hypothetical protein
+HKDKCAMP_00303	tRNA	77				tRNA-Pro(ggg)
+HKDKCAMP_00304	CDS	1059	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+HKDKCAMP_00305	CDS	738				hypothetical protein
+HKDKCAMP_00306	CDS	792				hypothetical protein
+HKDKCAMP_00307	CDS	2310				hypothetical protein
+HKDKCAMP_00308	CDS	1368				hypothetical protein
+HKDKCAMP_00309	CDS	1851				hypothetical protein
+HKDKCAMP_00310	CDS	1344	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+HKDKCAMP_00311	CDS	999	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+HKDKCAMP_00312	CDS	1734	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+HKDKCAMP_00313	CDS	447				hypothetical protein
+HKDKCAMP_00314	CDS	2016		3.2.1.22		Retaining alpha-galactosidase
+HKDKCAMP_00315	CDS	582				hypothetical protein
+HKDKCAMP_00316	CDS	411				hypothetical protein
+HKDKCAMP_00317	CDS	921	mneP		COG0053	Manganese efflux system protein MneP
+HKDKCAMP_00318	CDS	588				hypothetical protein
+HKDKCAMP_00319	CDS	528	speG	2.3.1.57		Spermidine N(1)-acetyltransferase
+HKDKCAMP_00320	CDS	1173				hypothetical protein
+HKDKCAMP_00321	CDS	624	recR		COG0353	Recombination protein RecR
+HKDKCAMP_00322	CDS	606	engB		COG0218	putative GTP-binding protein EngB
+HKDKCAMP_00323	CDS	450	guaD	3.5.4.3	COG0590	Guanine deaminase
+HKDKCAMP_00324	CDS	465				hypothetical protein
+HKDKCAMP_00325	CDS	681			COG0325	Pyridoxal phosphate homeostasis protein
+HKDKCAMP_00326	CDS	1287	fucP		COG0738	L-fucose-proton symporter
+HKDKCAMP_00327	CDS	2034	tkt	2.2.1.1		Transketolase
+HKDKCAMP_00328	CDS	1176				Outer membrane protein 40
+HKDKCAMP_00329	CDS	1218				hypothetical protein
+HKDKCAMP_00330	CDS	3564		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+HKDKCAMP_00331	CDS	696				hypothetical protein
+HKDKCAMP_00332	CDS	594				hypothetical protein
+HKDKCAMP_00333	CDS	3960				hypothetical protein
+HKDKCAMP_00334	CDS	1947				hypothetical protein
+HKDKCAMP_00335	CDS	1269		2.4.1.11	COG0438	Glycogen synthase
+HKDKCAMP_00336	CDS	1377				hypothetical protein
+HKDKCAMP_00337	CDS	870	udp	2.4.2.3	COG2820	Uridine phosphorylase
+HKDKCAMP_00338	CDS	276	rpsO		COG0184	30S ribosomal protein S15
+HKDKCAMP_00339	CDS	261				hypothetical protein
+HKDKCAMP_00340	CDS	1131				hypothetical protein
+HKDKCAMP_00341	CDS	1002				hypothetical protein
+HKDKCAMP_00342	CDS	1797	typA		COG1217	GTP-binding protein TypA/BipA
+HKDKCAMP_00343	CDS	150				hypothetical protein
+HKDKCAMP_00344	CDS	861				hypothetical protein
+HKDKCAMP_00345	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+HKDKCAMP_00346	CDS	864	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+HKDKCAMP_00347	CDS	291				hypothetical protein
+HKDKCAMP_00348	CDS	1344				hypothetical protein
+HKDKCAMP_00349	CDS	399				hypothetical protein
+HKDKCAMP_00350	CDS	339				hypothetical protein
+HKDKCAMP_00351	CDS	972				hypothetical protein
+HKDKCAMP_00352	CDS	141				hypothetical protein
+HKDKCAMP_00353	CDS	2619	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+HKDKCAMP_00354	CDS	546	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+HKDKCAMP_00355	CDS	714	yiaD		COG2885	putative lipoprotein YiaD
+HKDKCAMP_00356	CDS	1074	aroC	4.2.3.5	COG0082	Chorismate synthase
+HKDKCAMP_00357	CDS	1359	dapE_1	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+HKDKCAMP_00358	CDS	933				hypothetical protein
+HKDKCAMP_00359	CDS	456	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+HKDKCAMP_00360	CDS	684				queuosine precursor transporter
+HKDKCAMP_00361	CDS	627	cat3	2.3.1.28		Chloramphenicol acetyltransferase 3
+HKDKCAMP_00362	CDS	1281				hypothetical protein
+HKDKCAMP_00363	CDS	273	hup_1			DNA-binding protein HU
+HKDKCAMP_00364	CDS	1575	rng	3.1.26.-	COG1530	Ribonuclease G
+HKDKCAMP_00365	CDS	2469		5.1.1.1		Alanine racemase
+HKDKCAMP_00366	CDS	990				hypothetical protein
+HKDKCAMP_00367	CDS	405				hypothetical protein
+HKDKCAMP_00368	CDS	450				hypothetical protein
+HKDKCAMP_00369	CDS	513				hypothetical protein
+HKDKCAMP_00370	CDS	564	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+HKDKCAMP_00371	CDS	699				hypothetical protein
+HKDKCAMP_00372	CDS	669	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+HKDKCAMP_00373	CDS	552				hypothetical protein
+HKDKCAMP_00374	CDS	579	lemA		COG1704	Protein LemA
+HKDKCAMP_00375	CDS	1545	glyQS	6.1.1.14		Glycine--tRNA ligase
+HKDKCAMP_00376	CDS	2676	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+HKDKCAMP_00377	CDS	864				hypothetical protein
+HKDKCAMP_00378	CDS	1023				hypothetical protein
+HKDKCAMP_00379	tRNA	83				tRNA-Leu(tag)
+HKDKCAMP_00380	CDS	1284				hypothetical protein
+HKDKCAMP_00381	CDS	1446				hypothetical protein
+HKDKCAMP_00382	CDS	939				hypothetical protein
+HKDKCAMP_00383	CDS	2331				hypothetical protein
+HKDKCAMP_00384	CDS	417	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+HKDKCAMP_00385	CDS	567	def	3.5.1.88	COG0242	Peptide deformylase
+HKDKCAMP_00386	CDS	1656	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+HKDKCAMP_00387	CDS	192				hypothetical protein
+HKDKCAMP_00388	CDS	1188	ddl	6.3.2.4		D-alanine--D-alanine ligase
+HKDKCAMP_00389	CDS	1563	murF	6.3.2.10		UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+HKDKCAMP_00390	CDS	780			COG0596	putative protein
+HKDKCAMP_00391	CDS	2004	ligA	6.5.1.2		DNA ligase
+HKDKCAMP_00392	CDS	582				hypothetical protein
+HKDKCAMP_00393	CDS	894	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+HKDKCAMP_00394	CDS	246				hypothetical protein
+HKDKCAMP_00395	CDS	2991				hypothetical protein
+HKDKCAMP_00396	CDS	948	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+HKDKCAMP_00397	CDS	414				hypothetical protein
+HKDKCAMP_00398	CDS	1704				hypothetical protein
+HKDKCAMP_00399	CDS	573				hypothetical protein
+HKDKCAMP_00400	CDS	1830	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+HKDKCAMP_00401	CDS	918	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+HKDKCAMP_00402	CDS	129				hypothetical protein
+HKDKCAMP_00403	CDS	294				hypothetical protein
+HKDKCAMP_00404	CDS	1617	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+HKDKCAMP_00405	CDS	1344				hypothetical protein
+HKDKCAMP_00406	CDS	1962				hypothetical protein
+HKDKCAMP_00407	CDS	945				IS1595 family transposase ISCco4
+HKDKCAMP_00408	CDS	1344				hypothetical protein
+HKDKCAMP_00409	CDS	714	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+HKDKCAMP_00410	CDS	735	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+HKDKCAMP_00411	CDS	1506	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+HKDKCAMP_00412	CDS	1458	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+HKDKCAMP_00413	CDS	1506	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+HKDKCAMP_00414	CDS	936	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HKDKCAMP_00415	CDS	513			COG0716	Flavodoxin 1
+HKDKCAMP_00416	CDS	1524	purH			Bifunctional purine biosynthesis protein PurH
+HKDKCAMP_00417	CDS	1020	mbl		COG1077	Cell shape-determining protein Mbl
+HKDKCAMP_00418	CDS	846	mreC		COG1792	Cell shape-determining protein MreC
+HKDKCAMP_00419	CDS	519				hypothetical protein
+HKDKCAMP_00420	CDS	1863	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+HKDKCAMP_00421	CDS	1410	mrdB_1	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+HKDKCAMP_00422	CDS	1200				hypothetical protein
+HKDKCAMP_00423	CDS	474				hypothetical protein
+HKDKCAMP_00424	CDS	1269				hypothetical protein
+HKDKCAMP_00425	CDS	363				hypothetical protein
+HKDKCAMP_00426	CDS	630				hypothetical protein
+HKDKCAMP_00427	CDS	348				hypothetical protein
+HKDKCAMP_00428	CDS	312				hypothetical protein
+HKDKCAMP_00429	CDS	1080		3.5.1.11		Penicillin acylase
+HKDKCAMP_00430	CDS	2895				hypothetical protein
+HKDKCAMP_00431	CDS	684				hypothetical protein
+HKDKCAMP_00432	CDS	1248				hypothetical protein
+HKDKCAMP_00433	CDS	690	coaX	2.7.1.33		Type III pantothenate kinase
+HKDKCAMP_00434	CDS	384			COG2852	putative protein
+HKDKCAMP_00435	CDS	168				hypothetical protein
+HKDKCAMP_00436	CDS	2985				TonB-dependent receptor P3
+HKDKCAMP_00437	CDS	1470				SusD-like protein P2
+HKDKCAMP_00438	CDS	864				hypothetical protein
+HKDKCAMP_00439	CDS	1419				hypothetical protein
+HKDKCAMP_00440	CDS	114				hypothetical protein
+HKDKCAMP_00441	CDS	258				hypothetical protein
+HKDKCAMP_00442	CDS	1662				hypothetical protein
+HKDKCAMP_00443	CDS	651				hypothetical protein
+HKDKCAMP_00444	CDS	1260				hypothetical protein
+HKDKCAMP_00445	CDS	2097				hypothetical protein
+HKDKCAMP_00446	CDS	1026	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+HKDKCAMP_00447	CDS	1101	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+HKDKCAMP_00448	CDS	1197		1.5.1.43		Carboxynorspermidine synthase
+HKDKCAMP_00449	CDS	615				hypothetical protein
+HKDKCAMP_00450	CDS	1281				hypothetical protein
+HKDKCAMP_00451	CDS	894				hypothetical protein
+HKDKCAMP_00452	CDS	918	ybhF_1		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+HKDKCAMP_00453	CDS	741	ybhF_2		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+HKDKCAMP_00454	CDS	1095	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+HKDKCAMP_00455	CDS	1104	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+HKDKCAMP_00456	CDS	189				hypothetical protein
+HKDKCAMP_00457	CDS	330				hypothetical protein
+HKDKCAMP_00458	CDS	144				hypothetical protein
+HKDKCAMP_00459	CDS	456	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+HKDKCAMP_00460	CDS	1032	recA			Protein RecA
+HKDKCAMP_00461	CDS	870				hypothetical protein
+HKDKCAMP_00462	CDS	366				hypothetical protein
+HKDKCAMP_00463	CDS	714				hypothetical protein
+HKDKCAMP_00464	CDS	498				hypothetical protein
+HKDKCAMP_00465	CDS	1263	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+HKDKCAMP_00466	CDS	3960	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+HKDKCAMP_00467	CDS	987				hypothetical protein
+HKDKCAMP_00468	CDS	2553				hypothetical protein
+HKDKCAMP_00469	CDS	3192				TonB-dependent receptor P3
+HKDKCAMP_00470	CDS	1836				hypothetical protein
+HKDKCAMP_00471	CDS	1704		3.1.6.-	COG3119	N-acetylglucosamine-6-O-sulfatase
+HKDKCAMP_00472	CDS	2328				hypothetical protein
+HKDKCAMP_00473	CDS	1548		3.1.6.-	COG3119	N-acetylgalactosamine-6-O-sulfatase
+HKDKCAMP_00474	CDS	3165	lacZ_1	3.2.1.23		Beta-galactosidase
+HKDKCAMP_00475	CDS	819				hypothetical protein
+HKDKCAMP_00476	CDS	1350			COG2239	Magnesium transporter MgtE
+HKDKCAMP_00477	CDS	786	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+HKDKCAMP_00478	CDS	1041				hypothetical protein
+HKDKCAMP_00479	CDS	1470	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+HKDKCAMP_00480	CDS	429				hypothetical protein
+HKDKCAMP_00481	CDS	252				hypothetical protein
+HKDKCAMP_00482	CDS	702				hypothetical protein
+HKDKCAMP_00483	CDS	666	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+HKDKCAMP_00484	CDS	951				hypothetical protein
+HKDKCAMP_00485	CDS	444				hypothetical protein
+HKDKCAMP_00486	CDS	210				hypothetical protein
+HKDKCAMP_00487	CDS	1233				hypothetical protein
+HKDKCAMP_00488	CDS	375				hypothetical protein
+HKDKCAMP_00489	CDS	945	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+HKDKCAMP_00490	CDS	2460	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+HKDKCAMP_00491	CDS	729			COG0217	putative transcriptional regulatory protein
+HKDKCAMP_00492	CDS	1158				hypothetical protein
+HKDKCAMP_00493	CDS	1020				hypothetical protein
+HKDKCAMP_00494	CDS	459				hypothetical protein
+HKDKCAMP_00495	CDS	882				hypothetical protein
+HKDKCAMP_00496	CDS	1359				hypothetical protein
+HKDKCAMP_00497	CDS	918				hypothetical protein
+HKDKCAMP_00498	CDS	1056				hypothetical protein
+HKDKCAMP_00499	CDS	3015				hypothetical protein
+HKDKCAMP_00500	CDS	1032				hypothetical protein
+HKDKCAMP_00501	CDS	1155				hypothetical protein
+HKDKCAMP_00502	CDS	1206	nagC		COG1940	N-acetylglucosamine repressor
+HKDKCAMP_00503	CDS	1086				hypothetical protein
+HKDKCAMP_00504	CDS	1404	xylE			D-xylose-proton symporter
+HKDKCAMP_00505	CDS	1164	bfce	5.1.3.11	COG2942	Cellobiose 2-epimerase
+HKDKCAMP_00506	CDS	3057				TonB-dependent receptor P3
+HKDKCAMP_00507	CDS	1788				hypothetical protein
+HKDKCAMP_00508	CDS	2055				hypothetical protein
+HKDKCAMP_00509	CDS	1263				hypothetical protein
+HKDKCAMP_00510	CDS	1716				hypothetical protein
+HKDKCAMP_00511	CDS	2301	bglB	3.2.1.21	COG1472	Thermostable beta-glucosidase B
+HKDKCAMP_00512	CDS	2745				hypothetical protein
+HKDKCAMP_00513	CDS	1218				hypothetical protein
+HKDKCAMP_00514	CDS	798			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+HKDKCAMP_00515	CDS	1467	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+HKDKCAMP_00516	CDS	960	glcK	2.7.1.2	COG1940	Glucokinase
+HKDKCAMP_00517	CDS	147				hypothetical protein
+HKDKCAMP_00518	CDS	858	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+HKDKCAMP_00519	CDS	2268				hypothetical protein
+HKDKCAMP_00520	CDS	411				hypothetical protein
+HKDKCAMP_00521	CDS	510				hypothetical protein
+HKDKCAMP_00522	CDS	744				hypothetical protein
+HKDKCAMP_00523	CDS	2205	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+HKDKCAMP_00524	CDS	1188	nagA	3.2.1.49		Alpha-N-acetylgalactosaminidase
+HKDKCAMP_00525	CDS	513				hypothetical protein
+HKDKCAMP_00526	CDS	1860				hypothetical protein
+HKDKCAMP_00527	CDS	603				hypothetical protein
+HKDKCAMP_00528	CDS	654				hypothetical protein
+HKDKCAMP_00529	CDS	582				hypothetical protein
+HKDKCAMP_00530	CDS	921	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+HKDKCAMP_00531	CDS	1317				hypothetical protein
+HKDKCAMP_00532	CDS	2178	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+HKDKCAMP_00533	CDS	582	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+HKDKCAMP_00534	CDS	7389				hypothetical protein
+HKDKCAMP_00535	CDS	2142	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+HKDKCAMP_00536	CDS	2574				hypothetical protein
+HKDKCAMP_00537	CDS	894	ppx2	3.6.1.11	COG0248	Exopolyphosphatase 2
+HKDKCAMP_00538	CDS	648	cmk_2	2.7.4.25		Cytidylate kinase
+HKDKCAMP_00539	CDS	378				hypothetical protein
+HKDKCAMP_00540	CDS	3651				hypothetical protein
+HKDKCAMP_00541	CDS	2592				hypothetical protein
+HKDKCAMP_00542	CDS	2565				hypothetical protein
+HKDKCAMP_00543	CDS	774				Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase
+HKDKCAMP_00544	CDS	1272				hypothetical protein
+HKDKCAMP_00545	CDS	843				hypothetical protein
+HKDKCAMP_00546	CDS	1803				hypothetical protein
+HKDKCAMP_00547	CDS	1383				hypothetical protein
+HKDKCAMP_00548	CDS	939				hypothetical protein
+HKDKCAMP_00549	CDS	969	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+HKDKCAMP_00550	CDS	1824	clcB			Voltage-gated ClC-type chloride channel ClcB
+HKDKCAMP_00551	CDS	1413				hypothetical protein
+HKDKCAMP_00552	CDS	570	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+HKDKCAMP_00553	CDS	204				hypothetical protein
+HKDKCAMP_00554	CDS	816				hypothetical protein
+HKDKCAMP_00555	CDS	1719	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+HKDKCAMP_00556	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+HKDKCAMP_00557	CDS	1911	dnaK			Chaperone protein DnaK
+HKDKCAMP_00558	CDS	414	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+HKDKCAMP_00559	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+HKDKCAMP_00560	CDS	915				hypothetical protein
+HKDKCAMP_00561	CDS	432				hypothetical protein
+HKDKCAMP_00562	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+HKDKCAMP_00563	CDS	258				hypothetical protein
+HKDKCAMP_00564	CDS	726				hypothetical protein
+HKDKCAMP_00565	CDS	897	rhaR_3			HTH-type transcriptional activator RhaR
+HKDKCAMP_00566	CDS	1083	bepF_1			Efflux pump periplasmic linker BepF
+HKDKCAMP_00567	CDS	3090	czcA_1			Cobalt-zinc-cadmium resistance protein CzcA
+HKDKCAMP_00568	CDS	1293				hypothetical protein
+HKDKCAMP_00569	CDS	1410				hypothetical protein
+HKDKCAMP_00570	CDS	1659				hypothetical protein
+HKDKCAMP_00571	CDS	1644				hypothetical protein
+HKDKCAMP_00572	CDS	1752	pgcA	5.4.2.2		Phosphoglucomutase
+HKDKCAMP_00573	CDS	171				hypothetical protein
+HKDKCAMP_00574	CDS	654	cat	2.3.1.28		Chloramphenicol acetyltransferase
+HKDKCAMP_00575	CDS	1581	prfC		COG4108	Peptide chain release factor 3
+HKDKCAMP_00576	CDS	870	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+HKDKCAMP_00577	CDS	546				hypothetical protein
+HKDKCAMP_00578	CDS	465	resA_2			Thiol-disulfide oxidoreductase ResA
+HKDKCAMP_00579	CDS	855				hypothetical protein
+HKDKCAMP_00580	CDS	621				hypothetical protein
+HKDKCAMP_00581	CDS	279				hypothetical protein
+HKDKCAMP_00582	CDS	756				hypothetical protein
+HKDKCAMP_00583	CDS	897				hypothetical protein
+HKDKCAMP_00584	CDS	1446				hypothetical protein
+HKDKCAMP_00585	CDS	3153				hypothetical protein
+HKDKCAMP_00586	CDS	1227	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+HKDKCAMP_00587	CDS	2289				hypothetical protein
+HKDKCAMP_00588	tRNA	75				tRNA-Arg(acg)
+HKDKCAMP_00589	tRNA	75				tRNA-Arg(acg)
+HKDKCAMP_00590	CDS	846	tatC2		COG0805	Sec-independent protein translocase protein TatCy
+HKDKCAMP_00591	CDS	231	tatA			Sec-independent protein translocase protein TatA
+HKDKCAMP_00592	CDS	882	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+HKDKCAMP_00593	CDS	717				hypothetical protein
+HKDKCAMP_00594	CDS	2241	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+HKDKCAMP_00595	CDS	1524	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+HKDKCAMP_00596	CDS	2256				hypothetical protein
+HKDKCAMP_00597	CDS	972		2.4.1.320	COG2152	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase
+HKDKCAMP_00598	CDS	1329	ampG		COG0477	Anhydromuropeptide permease
+HKDKCAMP_00599	CDS	2067				hypothetical protein
+HKDKCAMP_00600	CDS	2349				hypothetical protein
+HKDKCAMP_00601	CDS	2271				hypothetical protein
+HKDKCAMP_00602	CDS	3348				hypothetical protein
+HKDKCAMP_00603	CDS	264				hypothetical protein
+HKDKCAMP_00604	CDS	2043				hypothetical protein
+HKDKCAMP_00605	CDS	3843				hypothetical protein
+HKDKCAMP_00606	CDS	1698				hypothetical protein
+HKDKCAMP_00607	CDS	3579				hypothetical protein
+HKDKCAMP_00608	CDS	933				hypothetical protein
+HKDKCAMP_00609	CDS	543	sigW_1		COG1595	ECF RNA polymerase sigma factor SigW
+HKDKCAMP_00610	CDS	591	sigW_2		COG1595	ECF RNA polymerase sigma factor SigW
+HKDKCAMP_00611	CDS	900				hypothetical protein
+HKDKCAMP_00612	CDS	1377				hypothetical protein
+HKDKCAMP_00613	CDS	1890				hypothetical protein
+HKDKCAMP_00614	CDS	1452	mdtK_1		COG0534	Multidrug resistance protein MdtK
+HKDKCAMP_00615	CDS	651				hypothetical protein
+HKDKCAMP_00616	CDS	2460				hypothetical protein
+HKDKCAMP_00617	CDS	1644				hypothetical protein
+HKDKCAMP_00618	CDS	651	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+HKDKCAMP_00619	CDS	1194				hypothetical protein
+HKDKCAMP_00620	CDS	735	cutC		COG3142	Copper homeostasis protein CutC
+HKDKCAMP_00621	CDS	630				hypothetical protein
+HKDKCAMP_00622	CDS	582				hypothetical protein
+HKDKCAMP_00623	CDS	351				hypothetical protein
+HKDKCAMP_00624	CDS	1377				hypothetical protein
+HKDKCAMP_00625	CDS	117				hypothetical protein
+HKDKCAMP_00626	CDS	807				hypothetical protein
+HKDKCAMP_00627	CDS	2406				hypothetical protein
+HKDKCAMP_00628	CDS	1188	fprA	1.-.-.-	COG0426	Nitric oxide reductase
+HKDKCAMP_00629	CDS	687	aqpZ2			Aquaporin Z 2
+HKDKCAMP_00630	CDS	1731				hypothetical protein
+HKDKCAMP_00631	CDS	921		1.1.1.81	COG0111	Hydroxypyruvate reductase
+HKDKCAMP_00632	CDS	1068	serC	2.6.1.52		Phosphoserine aminotransferase
+HKDKCAMP_00633	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+HKDKCAMP_00634	CDS	1629				hypothetical protein
+HKDKCAMP_00635	CDS	459				hypothetical protein
+HKDKCAMP_00636	CDS	2589	clpB1		COG0542	Chaperone protein ClpB 1
+HKDKCAMP_00637	CDS	822				hypothetical protein
+HKDKCAMP_00638	CDS	156				hypothetical protein
+HKDKCAMP_00639	CDS	1131	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+HKDKCAMP_00640	CDS	1113				hypothetical protein
+HKDKCAMP_00641	CDS	495	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+HKDKCAMP_00642	CDS	2505				hypothetical protein
+HKDKCAMP_00643	CDS	741				hypothetical protein
+HKDKCAMP_00644	CDS	393	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+HKDKCAMP_00645	CDS	861				hypothetical protein
+HKDKCAMP_00646	CDS	909	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HKDKCAMP_00647	CDS	318				hypothetical protein
+HKDKCAMP_00648	CDS	696				hypothetical protein
+HKDKCAMP_00649	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+HKDKCAMP_00650	CDS	597				hypothetical protein
+HKDKCAMP_00651	CDS	441				hypothetical protein
+HKDKCAMP_00652	CDS	1185				hypothetical protein
+HKDKCAMP_00653	CDS	189				hypothetical protein
+HKDKCAMP_00654	CDS	879				hypothetical protein
+HKDKCAMP_00655	CDS	1356	uhpC		COG2271	Membrane sensor protein UhpC
+HKDKCAMP_00656	CDS	1515	gadC		COG0531	Glutamate/gamma-aminobutyrate antiporter
+HKDKCAMP_00657	CDS	711				hypothetical protein
+HKDKCAMP_00658	CDS	1320				hypothetical protein
+HKDKCAMP_00659	CDS	963	glsA1	3.5.1.2	COG2066	Glutaminase 1
+HKDKCAMP_00660	CDS	1443	gadB	4.1.1.15	COG0076	Glutamate decarboxylase
+HKDKCAMP_00661	CDS	1209				hypothetical protein
+HKDKCAMP_00662	CDS	933				hypothetical protein
+HKDKCAMP_00663	CDS	930				hypothetical protein
+HKDKCAMP_00664	CDS	1089	nahK	2.7.1.162		N-acetylhexosamine 1-kinase
+HKDKCAMP_00665	CDS	939				hypothetical protein
+HKDKCAMP_00666	CDS	873				hypothetical protein
+HKDKCAMP_00667	CDS	813	punA	2.4.2.1		Purine nucleoside phosphorylase 1
+HKDKCAMP_00668	CDS	1041	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+HKDKCAMP_00669	tRNA	74				tRNA-Phe(gaa)
+HKDKCAMP_00670	CDS	543				hypothetical protein
+HKDKCAMP_00671	CDS	114				hypothetical protein
+HKDKCAMP_00672	CDS	663	ung_1	3.2.2.27	COG0692	Uracil-DNA glycosylase
+HKDKCAMP_00673	CDS	1440	srrB	2.7.13.3		Sensor protein SrrB
+HKDKCAMP_00674	CDS	1134	kdpD	2.7.13.3	COG2205	Sensor protein KdpD
+HKDKCAMP_00675	CDS	816				hypothetical protein
+HKDKCAMP_00676	CDS	576	kdpC		COG2156	Potassium-transporting ATPase KdpC subunit
+HKDKCAMP_00677	CDS	2034	kdpB	7.2.2.6	COG2216	Potassium-transporting ATPase ATP-binding subunit
+HKDKCAMP_00678	CDS	1707	kdpA		COG2060	Potassium-transporting ATPase potassium-binding subunit
+HKDKCAMP_00679	CDS	99				hypothetical protein
+HKDKCAMP_00680	CDS	1419	atoC		COG2204	Regulatory protein AtoC
+HKDKCAMP_00681	CDS	1176				hypothetical protein
+HKDKCAMP_00682	CDS	1512				hypothetical protein
+HKDKCAMP_00683	CDS	1542				hypothetical protein
+HKDKCAMP_00684	CDS	1368	agaA	3.2.1.22		Alpha-galactosidase A
+HKDKCAMP_00685	CDS	1098				hypothetical protein
+HKDKCAMP_00686	CDS	1527				hypothetical protein
+HKDKCAMP_00687	CDS	1530				SusD-like protein P25
+HKDKCAMP_00688	CDS	3432				TonB-dependent receptor P3
+HKDKCAMP_00689	CDS	1014				hypothetical protein
+HKDKCAMP_00690	CDS	606				hypothetical protein
+HKDKCAMP_00691	CDS	1575				hypothetical protein
+HKDKCAMP_00692	CDS	2379				hypothetical protein
+HKDKCAMP_00693	CDS	1101	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+HKDKCAMP_00694	CDS	1746	sppA	3.4.21.-	COG0616	Protease 4
+HKDKCAMP_00695	CDS	471				hypothetical protein
+HKDKCAMP_00696	CDS	444				hypothetical protein
+HKDKCAMP_00697	CDS	324	gdx			Guanidinium exporter
+HKDKCAMP_00698	CDS	4509				hypothetical protein
+HKDKCAMP_00699	CDS	1803				hypothetical protein
+HKDKCAMP_00700	CDS	564				hypothetical protein
+HKDKCAMP_00701	CDS	2880	addB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+HKDKCAMP_00702	CDS	1242				hypothetical protein
+HKDKCAMP_00703	CDS	1959	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+HKDKCAMP_00704	CDS	2031	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+HKDKCAMP_00705	CDS	342				hypothetical protein
+HKDKCAMP_00706	CDS	819				hypothetical protein
+HKDKCAMP_00707	CDS	1686				hypothetical protein
+HKDKCAMP_00708	CDS	1077	emrA_1			Colistin resistance protein EmrA
+HKDKCAMP_00709	CDS	1332				hypothetical protein
+HKDKCAMP_00710	CDS	1275	yjlD	1.6.99.-	COG1252	NADH dehydrogenase-like protein YjlD
+HKDKCAMP_00711	CDS	2178	cpoB_1			Cell division coordinator CpoB
+HKDKCAMP_00712	CDS	1941	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+HKDKCAMP_00713	CDS	582	infC		COG0290	Translation initiation factor IF-3
+HKDKCAMP_00714	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+HKDKCAMP_00715	CDS	345	rplT			50S ribosomal protein L20
+HKDKCAMP_00716	CDS	552				hypothetical protein
+HKDKCAMP_00717	CDS	1353				hypothetical protein
+HKDKCAMP_00718	CDS	756	tpiA	5.3.1.1		Triosephosphate isomerase
+HKDKCAMP_00719	CDS	504				hypothetical protein
+HKDKCAMP_00720	CDS	609	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+HKDKCAMP_00721	CDS	462				hypothetical protein
+HKDKCAMP_00722	CDS	567	ydaF	2.3.1.-	COG1670	Putative ribosomal N-acetyltransferase YdaF
+HKDKCAMP_00723	CDS	621				hypothetical protein
+HKDKCAMP_00724	CDS	603				hypothetical protein
+HKDKCAMP_00725	CDS	978				hypothetical protein
+HKDKCAMP_00726	CDS	1419	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+HKDKCAMP_00727	CDS	3753				hypothetical protein
+HKDKCAMP_00728	CDS	642	algU_2		COG1595	RNA polymerase sigma-H factor
+HKDKCAMP_00729	CDS	1029				hypothetical protein
+HKDKCAMP_00730	CDS	2412				hypothetical protein
+HKDKCAMP_00731	CDS	1590	exoI_1	3.2.1.52	COG3525	Beta-hexosaminidase
+HKDKCAMP_00732	CDS	3480				TonB-dependent receptor P3
+HKDKCAMP_00733	CDS	1806				hypothetical protein
+HKDKCAMP_00734	CDS	1299				hypothetical protein
+HKDKCAMP_00735	CDS	1092				hypothetical protein
+HKDKCAMP_00736	CDS	837				hypothetical protein
+HKDKCAMP_00737	CDS	2196				hypothetical protein
+HKDKCAMP_00738	CDS	2583		3.2.1.-		Beta-xylosidase
+HKDKCAMP_00739	CDS	2280				hypothetical protein
+HKDKCAMP_00740	CDS	270				hypothetical protein
+HKDKCAMP_00741	CDS	294				hypothetical protein
+HKDKCAMP_00742	CDS	819	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+HKDKCAMP_00743	CDS	1053	wecH	2.3.1.-		O-acetyltransferase WecH
+HKDKCAMP_00744	CDS	120				hypothetical protein
+HKDKCAMP_00745	CDS	435	mscL		COG1970	Large-conductance mechanosensitive channel
+HKDKCAMP_00746	CDS	288				hypothetical protein
+HKDKCAMP_00747	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+HKDKCAMP_00748	CDS	321				hypothetical protein
+HKDKCAMP_00749	CDS	696	lexA	3.4.21.88		LexA repressor
+HKDKCAMP_00750	CDS	345				hypothetical protein
+HKDKCAMP_00751	CDS	1503				hypothetical protein
+HKDKCAMP_00752	CDS	777	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+HKDKCAMP_00753	CDS	1104				Iron-sulfur cluster carrier protein
+HKDKCAMP_00754	CDS	573	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+HKDKCAMP_00755	CDS	1704				hypothetical protein
+HKDKCAMP_00756	CDS	159				hypothetical protein
+HKDKCAMP_00757	CDS	1017	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+HKDKCAMP_00758	CDS	1845	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+HKDKCAMP_00759	CDS	1197	ald_1	1.4.1.1	COG0686	Alanine dehydrogenase
+HKDKCAMP_00760	CDS	558	aroK	2.7.1.71	COG0703	Shikimate kinase
+HKDKCAMP_00761	CDS	681				hypothetical protein
+HKDKCAMP_00762	CDS	642	rnhA_1	3.1.26.4	COG3341	Ribonuclease H
+HKDKCAMP_00763	CDS	1272	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+HKDKCAMP_00764	CDS	450	yqeY		COG1610	putative protein YqeY
+HKDKCAMP_00765	CDS	1227	ftsZ			Cell division protein FtsZ
+HKDKCAMP_00766	CDS	1413	ftsA			Cell division protein FtsA
+HKDKCAMP_00767	CDS	735	ftsQ			Cell division protein FtsQ
+HKDKCAMP_00768	CDS	1371	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+HKDKCAMP_00769	CDS	1113	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+HKDKCAMP_00770	CDS	1284	mrdB_2	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+HKDKCAMP_00771	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+HKDKCAMP_00772	CDS	1266	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+HKDKCAMP_00773	CDS	1464	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+HKDKCAMP_00774	CDS	2070	ftsI	3.4.16.4		Peptidoglycan D,D-transpeptidase FtsI
+HKDKCAMP_00775	CDS	363				hypothetical protein
+HKDKCAMP_00776	CDS	915	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+HKDKCAMP_00777	CDS	852				hypothetical protein
+HKDKCAMP_00778	CDS	948				hypothetical protein
+HKDKCAMP_00779	CDS	1107				hypothetical protein
+HKDKCAMP_00780	CDS	708				hypothetical protein
+HKDKCAMP_00781	CDS	993	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+HKDKCAMP_00782	CDS	1224		3.4.24.-	COG0612	putative zinc protease
+HKDKCAMP_00783	CDS	546		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+HKDKCAMP_00784	CDS	564	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+HKDKCAMP_00785	CDS	222				hypothetical protein
+HKDKCAMP_00786	CDS	159				hypothetical protein
+HKDKCAMP_00787	CDS	1359	xerC_1			Tyrosine recombinase XerC
+HKDKCAMP_00788	CDS	663				hypothetical protein
+HKDKCAMP_00789	CDS	330				hypothetical protein
+HKDKCAMP_00790	CDS	1551				hypothetical protein
+HKDKCAMP_00791	CDS	1029				hypothetical protein
+HKDKCAMP_00792	CDS	1557				hypothetical protein
+HKDKCAMP_00793	CDS	912	dpnM	2.1.1.72		Modification methylase DpnIIA
+HKDKCAMP_00794	CDS	870	dpnB	3.1.21.4		Type-2 restriction enzyme DpnII
+HKDKCAMP_00795	CDS	537				hypothetical protein
+HKDKCAMP_00796	CDS	882	dpnA	2.1.1.72		Modification methylase DpnIIB
+HKDKCAMP_00797	CDS	396				hypothetical protein
+HKDKCAMP_00798	CDS	2889				hypothetical protein
+HKDKCAMP_00799	CDS	1911				hypothetical protein
+HKDKCAMP_00800	CDS	1137			COG3177	putative protein
+HKDKCAMP_00801	CDS	2229				hypothetical protein
+HKDKCAMP_00802	CDS	5679				hypothetical protein
+HKDKCAMP_00803	CDS	1362				hypothetical protein
+HKDKCAMP_00804	CDS	1503				hypothetical protein
+HKDKCAMP_00805	CDS	1026	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+HKDKCAMP_00806	CDS	759				hypothetical protein
+HKDKCAMP_00807	CDS	1056				hypothetical protein
+HKDKCAMP_00808	CDS	603				hypothetical protein
+HKDKCAMP_00809	CDS	1116	pdxB	1.1.1.290	COG0111	Erythronate-4-phosphate dehydrogenase
+HKDKCAMP_00810	CDS	243	acpP		COG0236	Acyl carrier protein
+HKDKCAMP_00811	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+HKDKCAMP_00812	CDS	753	rnc	3.1.26.3	COG0571	Ribonuclease 3
+HKDKCAMP_00813	CDS	1497				hypothetical protein
+HKDKCAMP_00814	CDS	1761	ltaS_2			Lipoteichoic acid synthase
+HKDKCAMP_00815	CDS	1392				hypothetical protein
+HKDKCAMP_00816	CDS	852				hypothetical protein
+HKDKCAMP_00817	CDS	978				hypothetical protein
+HKDKCAMP_00818	CDS	453	yjaB	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase YjaB
+HKDKCAMP_00819	CDS	2043	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+HKDKCAMP_00820	CDS	177				hypothetical protein
+HKDKCAMP_00821	CDS	138				hypothetical protein
+HKDKCAMP_00822	CDS	747		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+HKDKCAMP_00823	CDS	684	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+HKDKCAMP_00824	CDS	918				hypothetical protein
+HKDKCAMP_00825	CDS	948				hypothetical protein
+HKDKCAMP_00826	CDS	1455	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+HKDKCAMP_00827	CDS	948				hypothetical protein
+HKDKCAMP_00828	CDS	1416	egtB	1.14.99.50		Hercynine oxygenase
+HKDKCAMP_00829	CDS	993				hypothetical protein
+HKDKCAMP_00830	CDS	1569				hypothetical protein
+HKDKCAMP_00831	CDS	1110				hypothetical protein
+HKDKCAMP_00832	CDS	861	rhaR_4			HTH-type transcriptional activator RhaR
+HKDKCAMP_00833	CDS	3228	lacZ_2	3.2.1.23		Beta-galactosidase
+HKDKCAMP_00834	CDS	495				hypothetical protein
+HKDKCAMP_00835	CDS	498				hypothetical protein
+HKDKCAMP_00836	CDS	264				hypothetical protein
+HKDKCAMP_00837	CDS	282				hypothetical protein
+HKDKCAMP_00838	tRNA	74				tRNA-Gly(tcc)
+HKDKCAMP_00839	tRNA	84				tRNA-Tyr(gta)
+HKDKCAMP_00840	CDS	492	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+HKDKCAMP_00841	CDS	672	cpoB_2			Cell division coordinator CpoB
+HKDKCAMP_00842	CDS	1107	recF		COG1195	DNA replication and repair protein RecF
+HKDKCAMP_00843	CDS	291				hypothetical protein
+HKDKCAMP_00844	CDS	441				hypothetical protein
+HKDKCAMP_00845	CDS	615	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+HKDKCAMP_00846	CDS	930	scrK	2.7.1.4	COG0524	Fructokinase
+HKDKCAMP_00847	CDS	1053				hypothetical protein
+HKDKCAMP_00848	CDS	1821	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+HKDKCAMP_00849	CDS	1116				hypothetical protein
+HKDKCAMP_00850	CDS	957				putative epimerase/dehydratase
+HKDKCAMP_00851	CDS	1194	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+HKDKCAMP_00852	CDS	198				hypothetical protein
+HKDKCAMP_00853	CDS	3453				hypothetical protein
+HKDKCAMP_00854	CDS	1563				hypothetical protein
+HKDKCAMP_00855	CDS	183				hypothetical protein
+HKDKCAMP_00856	CDS	3441				hypothetical protein
+HKDKCAMP_00857	CDS	195				hypothetical protein
+HKDKCAMP_00858	CDS	1392	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+HKDKCAMP_00859	CDS	2262				hypothetical protein
+HKDKCAMP_00860	CDS	744				hypothetical protein
+HKDKCAMP_00861	CDS	741				hypothetical protein
+HKDKCAMP_00862	CDS	840				hypothetical protein
+HKDKCAMP_00863	CDS	1674				SusD-like protein P2
+HKDKCAMP_00864	CDS	3336				TonB-dependent receptor P3
+HKDKCAMP_00865	CDS	975				hypothetical protein
+HKDKCAMP_00866	CDS	621				hypothetical protein
+HKDKCAMP_00867	CDS	609				hypothetical protein
+HKDKCAMP_00868	CDS	1818	glaB	3.2.1.-		Alpha-1,3-galactosidase B
+HKDKCAMP_00869	CDS	1365		3.2.1.-		Glycosyl hydrolase family 109 protein 1
+HKDKCAMP_00870	CDS	1608	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HKDKCAMP_00871	CDS	4311				hypothetical protein
+HKDKCAMP_00872	CDS	1668	exoI_2	3.2.1.52	COG3525	Beta-hexosaminidase
+HKDKCAMP_00873	CDS	1173				hypothetical protein
+HKDKCAMP_00874	CDS	1944				hypothetical protein
+HKDKCAMP_00875	CDS	3420				TonB-dependent receptor P26
+HKDKCAMP_00876	CDS	1038				hypothetical protein
+HKDKCAMP_00877	CDS	639				hypothetical protein
+HKDKCAMP_00878	tRNA	75				tRNA-Met(cat)
+HKDKCAMP_00879	CDS	645		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+HKDKCAMP_00880	CDS	924	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+HKDKCAMP_00881	CDS	726				hypothetical protein
+HKDKCAMP_00882	CDS	2448				hypothetical protein
+HKDKCAMP_00883	CDS	1683				hypothetical protein
+HKDKCAMP_00884	CDS	912	xerD		COG4974	Tyrosine recombinase XerD
+HKDKCAMP_00885	CDS	426	yqhS	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+HKDKCAMP_00886	CDS	1464	pyk	2.7.1.40		Pyruvate kinase
+HKDKCAMP_00887	CDS	636	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+HKDKCAMP_00888	CDS	336	rbfA			Ribosome-binding factor A
+HKDKCAMP_00889	CDS	1242	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+HKDKCAMP_00890	CDS	396			COG0537	putative HIT-like protein
+HKDKCAMP_00891	CDS	471	greA		COG0782	Transcription elongation factor GreA
+HKDKCAMP_00892	CDS	1140	resA_3			Thiol-disulfide oxidoreductase ResA
+HKDKCAMP_00893	CDS	153				hypothetical protein
+HKDKCAMP_00894	CDS	2169	pnp_1	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+HKDKCAMP_00895	CDS	1470	rpoN		COG1508	RNA polymerase sigma-54 factor
+HKDKCAMP_00896	CDS	615				hypothetical protein
+HKDKCAMP_00897	CDS	483	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+HKDKCAMP_00898	CDS	1812	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+HKDKCAMP_00899	CDS	1368	mepA_1		COG0534	Multidrug export protein MepA
+HKDKCAMP_00900	CDS	462	asnC_1		COG1522	Regulatory protein AsnC
+HKDKCAMP_00901	CDS	873				hypothetical protein
+HKDKCAMP_00902	CDS	585	mip	5.2.1.8	COG0545	Outer membrane protein MIP
+HKDKCAMP_00903	CDS	693	SIRT5	2.3.1.286		NAD-dependent protein deacylase sirtuin-5, mitochondrial
+HKDKCAMP_00904	CDS	1824				hypothetical protein
+HKDKCAMP_00905	CDS	1674	udk_1	2.7.1.48		Uridine kinase
+HKDKCAMP_00906	CDS	978	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+HKDKCAMP_00907	CDS	2781	polA	2.7.7.7	COG0258	DNA polymerase I
+HKDKCAMP_00908	CDS	3345	mfd	3.6.4.-		Transcription-repair-coupling factor
+HKDKCAMP_00909	CDS	1413	ybdG		COG0668	Miniconductance mechanosensitive channel YbdG
+HKDKCAMP_00910	CDS	1779				hypothetical protein
+HKDKCAMP_00911	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+HKDKCAMP_00912	CDS	1677				hypothetical protein
+HKDKCAMP_00913	CDS	993	RBKS	2.7.1.15		Ribokinase
+HKDKCAMP_00914	tRNA	74				tRNA-Asn(gtt)
+HKDKCAMP_00915	tRNA	73				tRNA-Asn(gtt)
+HKDKCAMP_00916	CDS	927	corA		COG0598	Cobalt/magnesium transport protein CorA
+HKDKCAMP_00917	CDS	834	ywtE	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YwtE
+HKDKCAMP_00918	CDS	1005				hypothetical protein
+HKDKCAMP_00919	CDS	858	axeA1	3.1.1.72	COG0657	Acetylxylan esterase
+HKDKCAMP_00920	CDS	693				hypothetical protein
+HKDKCAMP_00921	CDS	2181				hypothetical protein
+HKDKCAMP_00922	CDS	1095				hypothetical protein
+HKDKCAMP_00923	CDS	1254	idnT		COG2610	Gnt-II system L-idonate transporter
+HKDKCAMP_00924	CDS	1146	glxK	2.7.1.31	COG1929	Glycerate 3-kinase
+HKDKCAMP_00925	CDS	2169				hypothetical protein
+HKDKCAMP_00926	CDS	1524				hypothetical protein
+HKDKCAMP_00927	CDS	1023				hypothetical protein
+HKDKCAMP_00928	CDS	783				hypothetical protein
+HKDKCAMP_00929	CDS	855				hypothetical protein
+HKDKCAMP_00930	CDS	1734				SusD-like protein P2
+HKDKCAMP_00931	CDS	3402				TonB-dependent receptor P3
+HKDKCAMP_00932	CDS	942				hypothetical protein
+HKDKCAMP_00933	CDS	555	sigW_3		COG1595	ECF RNA polymerase sigma factor SigW
+HKDKCAMP_00934	CDS	822				hypothetical protein
+HKDKCAMP_00935	tRNA	85				tRNA-Leu(caa)
+HKDKCAMP_00936	CDS	1077	algA		COG0662	Alginate biosynthesis protein AlgA
+HKDKCAMP_00937	CDS	882	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+HKDKCAMP_00938	CDS	336	ypjD		COG1694	putative protein YpjD
+HKDKCAMP_00939	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+HKDKCAMP_00940	CDS	1797	uvrC		COG0322	UvrABC system protein C
+HKDKCAMP_00941	CDS	525	apt	2.4.2.7		Adenine phosphoribosyltransferase
+HKDKCAMP_00942	CDS	1875	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+HKDKCAMP_00943	CDS	414	ybeY	3.1.-.-		Endoribonuclease YbeY
+HKDKCAMP_00944	CDS	1233				hypothetical protein
+HKDKCAMP_00945	CDS	801				hypothetical protein
+HKDKCAMP_00946	CDS	702				hypothetical protein
+HKDKCAMP_00947	CDS	471				hypothetical protein
+HKDKCAMP_00948	CDS	1398				hypothetical protein
+HKDKCAMP_00949	CDS	1077	resA_4			Thiol-disulfide oxidoreductase ResA
+HKDKCAMP_00950	CDS	690				hypothetical protein
+HKDKCAMP_00951	CDS	2022	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+HKDKCAMP_00952	CDS	756				hypothetical protein
+HKDKCAMP_00953	CDS	1293				hypothetical protein
+HKDKCAMP_00954	CDS	2946				hypothetical protein
+HKDKCAMP_00955	CDS	780				hypothetical protein
+HKDKCAMP_00956	CDS	603				hypothetical protein
+HKDKCAMP_00957	CDS	531		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+HKDKCAMP_00958	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+HKDKCAMP_00959	CDS	2772	leuS	6.1.1.4		Leucine--tRNA ligase
+HKDKCAMP_00960	CDS	870				hypothetical protein
+HKDKCAMP_00961	CDS	1041				hypothetical protein
+HKDKCAMP_00962	CDS	1122				hypothetical protein
+HKDKCAMP_00963	CDS	576		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+HKDKCAMP_00964	CDS	2373				hypothetical protein
+HKDKCAMP_00965	CDS	540	nudC	3.6.1.22		NADH pyrophosphatase
+HKDKCAMP_00966	CDS	471	yqaA		COG1238	Inner membrane protein YqaA
+HKDKCAMP_00967	CDS	972				hypothetical protein
+HKDKCAMP_00968	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+HKDKCAMP_00969	CDS	1494	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+HKDKCAMP_00970	CDS	903				hypothetical protein
+HKDKCAMP_00971	CDS	669				putative protein
+HKDKCAMP_00972	CDS	894				hypothetical protein
+HKDKCAMP_00973	CDS	1452				hypothetical protein
+HKDKCAMP_00974	CDS	720	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+HKDKCAMP_00975	CDS	1287				hypothetical protein
+HKDKCAMP_00976	CDS	576	rbr_1		COG1592	Rubrerythrin
+HKDKCAMP_00977	CDS	1587	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+HKDKCAMP_00978	CDS	1209	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HKDKCAMP_00979	CDS	789				hypothetical protein
+HKDKCAMP_00980	CDS	1134				hypothetical protein
+HKDKCAMP_00981	CDS	975	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HKDKCAMP_00982	CDS	978	epsH_1	2.4.-.-	COG0463	Putative glycosyltransferase EpsH
+HKDKCAMP_00983	CDS	978	epsH_2	2.4.-.-	COG0463	Putative glycosyltransferase EpsH
+HKDKCAMP_00984	CDS	978	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HKDKCAMP_00985	CDS	876	glyD			Glycosyltransferase GlyD
+HKDKCAMP_00986	tRNA	72				tRNA-Gln(ttg)
+HKDKCAMP_00987	CDS	1383	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+HKDKCAMP_00988	CDS	549	rfaH_1			Transcription antitermination protein RfaH
+HKDKCAMP_00989	CDS	1245				hypothetical protein
+HKDKCAMP_00990	CDS	867				hypothetical protein
+HKDKCAMP_00991	CDS	2151				hypothetical protein
+HKDKCAMP_00992	CDS	864	yidD			Putative membrane protein insertion efficiency factor
+HKDKCAMP_00993	CDS	399	rnpA	3.1.26.5		Ribonuclease P protein component
+HKDKCAMP_00994	CDS	750				hypothetical protein
+HKDKCAMP_00995	CDS	879				hypothetical protein
+HKDKCAMP_00996	CDS	588		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+HKDKCAMP_00997	CDS	1011	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+HKDKCAMP_00998	CDS	3273				hypothetical protein
+HKDKCAMP_00999	CDS	609	pgdA	3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+HKDKCAMP_01000	CDS	954	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+HKDKCAMP_01001	CDS	810	nagB_1	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+HKDKCAMP_01002	CDS	1983	nagB_2	3.5.99.6		Glucosamine-6-phosphate deaminase
+HKDKCAMP_01003	CDS	363				hypothetical protein
+HKDKCAMP_01004	CDS	1491	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+HKDKCAMP_01005	CDS	489				hypothetical protein
+HKDKCAMP_01006	CDS	1365	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+HKDKCAMP_01007	CDS	1191	yhhS			putative MFS-type transporter YhhS
+HKDKCAMP_01008	CDS	900				hypothetical protein
+HKDKCAMP_01009	CDS	267				hypothetical protein
+HKDKCAMP_01010	CDS	798	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+HKDKCAMP_01011	CDS	720	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+HKDKCAMP_01012	CDS	1050	queA_2	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+HKDKCAMP_01013	CDS	2532	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+HKDKCAMP_01014	CDS	477	nrdG	1.97.1.-	COG0602	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+HKDKCAMP_01015	CDS	1506		3.1.6.1	COG3119	Arylsulfatase
+HKDKCAMP_01016	CDS	1164				hypothetical protein
+HKDKCAMP_01017	CDS	870	btr		COG0614	HTH-type transcriptional activator Btr
+HKDKCAMP_01018	CDS	291				hypothetical protein
+HKDKCAMP_01019	CDS	720	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+HKDKCAMP_01020	CDS	672	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+HKDKCAMP_01021	CDS	663				hypothetical protein
+HKDKCAMP_01022	CDS	306				hypothetical protein
+HKDKCAMP_01023	CDS	1200				hypothetical protein
+HKDKCAMP_01024	CDS	279				hypothetical protein
+HKDKCAMP_01025	CDS	612	lysO_1		COG2431	Lysine exporter LysO
+HKDKCAMP_01026	CDS	615				hypothetical protein
+HKDKCAMP_01027	CDS	1794	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+HKDKCAMP_01028	CDS	705	ybhL		COG0670	Inner membrane protein YbhL
+HKDKCAMP_01029	CDS	1473	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+HKDKCAMP_01030	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+HKDKCAMP_01031	CDS	2373				hypothetical protein
+HKDKCAMP_01032	CDS	405				hypothetical protein
+HKDKCAMP_01033	CDS	1131	yghO			Protein YghO
+HKDKCAMP_01034	CDS	651	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+HKDKCAMP_01035	CDS	1608	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+HKDKCAMP_01036	CDS	1497				hypothetical protein
+HKDKCAMP_01037	CDS	477				hypothetical protein
+HKDKCAMP_01038	CDS	480	sulD		COG0801	Bifunctional folate synthesis protein
+HKDKCAMP_01039	CDS	1323	metK	2.5.1.6		S-adenosylmethionine synthase
+HKDKCAMP_01040	CDS	528				hypothetical protein
+HKDKCAMP_01041	CDS	879				hypothetical protein
+HKDKCAMP_01042	CDS	1071				hypothetical protein
+HKDKCAMP_01043	CDS	1542	comM		COG0606	Competence protein ComM
+HKDKCAMP_01044	CDS	2385				hypothetical protein
+HKDKCAMP_01045	CDS	1134				hypothetical protein
+HKDKCAMP_01046	CDS	2616	mutS_2		COG0249	DNA mismatch repair protein MutS
+HKDKCAMP_01047	CDS	1260				hypothetical protein
+HKDKCAMP_01048	CDS	3009	cpoB_3			Cell division coordinator CpoB
+HKDKCAMP_01049	CDS	1671				hypothetical protein
+HKDKCAMP_01050	CDS	2331	topA	5.6.2.1		DNA topoisomerase 1
+HKDKCAMP_01051	CDS	933				hypothetical protein
+HKDKCAMP_01052	CDS	114				hypothetical protein
+HKDKCAMP_01053	CDS	792				hypothetical protein
+HKDKCAMP_01054	CDS	1875				hypothetical protein
+HKDKCAMP_01055	CDS	1029				hypothetical protein
+HKDKCAMP_01056	CDS	2973	secD			Protein translocase subunit SecD
+HKDKCAMP_01057	tRNA	73				tRNA-Arg(cct)
+HKDKCAMP_01058	CDS	726	recO			DNA repair protein RecO
+HKDKCAMP_01059	CDS	285				hypothetical protein
+HKDKCAMP_01060	CDS	390	rhaS_1			HTH-type transcriptional activator RhaS
+HKDKCAMP_01061	CDS	843				hypothetical protein
+HKDKCAMP_01062	CDS	588				hypothetical protein
+HKDKCAMP_01063	CDS	570		2.3.1.-		Putative acetyltransferase
+HKDKCAMP_01064	CDS	111				hypothetical protein
+HKDKCAMP_01065	tRNA	73				tRNA-Glu(ttc)
+HKDKCAMP_01066	CDS	252	rpsT		COG0268	30S ribosomal protein S20
+HKDKCAMP_01067	tRNA	73				tRNA-Glu(ttc)
+HKDKCAMP_01068	CDS	1956	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+HKDKCAMP_01069	CDS	270				hypothetical protein
+HKDKCAMP_01070	CDS	2139	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+HKDKCAMP_01071	CDS	1101				hypothetical protein
+HKDKCAMP_01072	CDS	2139	rnr	3.1.13.1	COG0557	Ribonuclease R
+HKDKCAMP_01073	CDS	1866	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+HKDKCAMP_01074	CDS	474	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+HKDKCAMP_01075	CDS	1593				hypothetical protein
+HKDKCAMP_01076	CDS	588				hypothetical protein
+HKDKCAMP_01077	CDS	1140				hypothetical protein
+HKDKCAMP_01078	CDS	972	qmcA		COG0330	Protein QmcA
+HKDKCAMP_01079	CDS	450				hypothetical protein
+HKDKCAMP_01080	CDS	2055	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+HKDKCAMP_01081	CDS	1077				hypothetical protein
+HKDKCAMP_01082	CDS	894				hypothetical protein
+HKDKCAMP_01083	CDS	699				hypothetical protein
+HKDKCAMP_01084	CDS	273	hup_2			DNA-binding protein HU
+HKDKCAMP_01085	CDS	2154	kefB_3			Glutathione-regulated potassium-efflux system protein KefB
+HKDKCAMP_01086	CDS	1005	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+HKDKCAMP_01087	CDS	2499	chb	3.2.1.52	COG3525	N,N'-diacetylchitobiase
+HKDKCAMP_01088	CDS	1242				hypothetical protein
+HKDKCAMP_01089	CDS	1365	dgt	3.1.5.1	COG0232	Deoxyguanosinetriphosphate triphosphohydrolase
+HKDKCAMP_01090	CDS	441	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+HKDKCAMP_01091	CDS	1749	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+HKDKCAMP_01092	CDS	831				hypothetical protein
+HKDKCAMP_01093	CDS	1245	envC		COG4942	Murein hydrolase activator EnvC
+HKDKCAMP_01094	CDS	936				hypothetical protein
+HKDKCAMP_01095	CDS	1455	wzxE			Lipid III flippase
+HKDKCAMP_01096	CDS	1101				hypothetical protein
+HKDKCAMP_01097	CDS	1104				hypothetical protein
+HKDKCAMP_01098	CDS	576				hypothetical protein
+HKDKCAMP_01099	CDS	945				hypothetical protein
+HKDKCAMP_01100	CDS	1083	dapE_2	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+HKDKCAMP_01101	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+HKDKCAMP_01102	CDS	966	prfB		COG1186	Peptide chain release factor RF2
+HKDKCAMP_01103	CDS	774	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+HKDKCAMP_01104	CDS	900				hypothetical protein
+HKDKCAMP_01105	CDS	1194				hypothetical protein
+HKDKCAMP_01106	CDS	246				hypothetical protein
+HKDKCAMP_01107	CDS	1689	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+HKDKCAMP_01108	CDS	549	rmlC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+HKDKCAMP_01109	CDS	405	rpsL			30S ribosomal protein S12
+HKDKCAMP_01110	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+HKDKCAMP_01111	CDS	2121	fusB		COG0480	Elongation factor G 2
+HKDKCAMP_01112	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+HKDKCAMP_01113	CDS	615	rplC		COG0087	50S ribosomal protein L3
+HKDKCAMP_01114	CDS	621	rplD			50S ribosomal protein L4
+HKDKCAMP_01115	CDS	291	rplW			50S ribosomal protein L23
+HKDKCAMP_01116	CDS	825	rplB		COG0090	50S ribosomal protein L2
+HKDKCAMP_01117	CDS	270	rpsS			30S ribosomal protein S19
+HKDKCAMP_01118	CDS	411				hypothetical protein
+HKDKCAMP_01119	CDS	726	rpsC		COG0092	30S ribosomal protein S3
+HKDKCAMP_01120	CDS	432	rplP		COG0197	50S ribosomal protein L16
+HKDKCAMP_01121	CDS	198				hypothetical protein
+HKDKCAMP_01122	CDS	258	rpsQ			30S ribosomal protein S17
+HKDKCAMP_01123	CDS	366	rplN			50S ribosomal protein L14
+HKDKCAMP_01124	CDS	321	rplX			50S ribosomal protein L24
+HKDKCAMP_01125	CDS	558	rplE			50S ribosomal protein L5
+HKDKCAMP_01126	CDS	270	rpsN2		COG0199	Alternate 30S ribosomal protein S14
+HKDKCAMP_01127	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+HKDKCAMP_01128	CDS	555	rplF		COG0097	50S ribosomal protein L6
+HKDKCAMP_01129	CDS	342	rplR		COG0256	50S ribosomal protein L18
+HKDKCAMP_01130	CDS	519	rpsE		COG0098	30S ribosomal protein S5
+HKDKCAMP_01131	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+HKDKCAMP_01132	CDS	447	rplO		COG0200	50S ribosomal protein L15
+HKDKCAMP_01133	CDS	1323	secY		COG0201	Protein translocase subunit SecY
+HKDKCAMP_01134	CDS	783	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+HKDKCAMP_01135	CDS	219	infA		COG0361	Translation initiation factor IF-1
+HKDKCAMP_01136	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+HKDKCAMP_01137	CDS	381	rpsM		COG0099	30S ribosomal protein S13
+HKDKCAMP_01138	CDS	390	rpsK			30S ribosomal protein S11
+HKDKCAMP_01139	CDS	606	rpsD			30S ribosomal protein S4
+HKDKCAMP_01140	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+HKDKCAMP_01141	CDS	516				hypothetical protein
+HKDKCAMP_01142	CDS	1896				hypothetical protein
+HKDKCAMP_01143	CDS	1281	eno	4.2.1.11	COG0148	Enolase
+HKDKCAMP_01144	CDS	1431	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+HKDKCAMP_01145	CDS	852	nucA	3.1.30.-		Nuclease
+HKDKCAMP_01146	CDS	1221	pepT	3.4.11.4	COG2195	Peptidase T
+HKDKCAMP_01147	CDS	906	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+HKDKCAMP_01148	CDS	261				hypothetical protein
+HKDKCAMP_01149	CDS	1095	capA			Capsule biosynthesis protein CapA
+HKDKCAMP_01150	CDS	882	folD			Bifunctional protein FolD protein
+HKDKCAMP_01151	CDS	1323	ffh		COG0541	Signal recognition particle protein
+HKDKCAMP_01152	CDS	1323	norM		COG0534	Multidrug resistance protein NorM
+HKDKCAMP_01153	CDS	351	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+HKDKCAMP_01154	CDS	855	panC	6.3.2.1	COG0414	Pantothenate synthetase
+HKDKCAMP_01155	CDS	201				hypothetical protein
+HKDKCAMP_01156	CDS	816	glgA_1	2.4.1.21	COG0297	Glycogen synthase
+HKDKCAMP_01157	CDS	1428				hypothetical protein
+HKDKCAMP_01158	tRNA	74				tRNA-Thr(cgt)
+HKDKCAMP_01159	tRNA	75				tRNA-Asp(gtc)
+HKDKCAMP_01160	tRNA	77				tRNA-His(gtg)
+HKDKCAMP_01161	CDS	1929	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+HKDKCAMP_01162	CDS	4608				hypothetical protein
+HKDKCAMP_01163	CDS	1020	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+HKDKCAMP_01164	CDS	1242	pncC	3.5.1.42	COG1058	Nicotinamide-nucleotide amidohydrolase PncC
+HKDKCAMP_01165	CDS	255	rpmB		COG0227	50S ribosomal protein L28
+HKDKCAMP_01166	CDS	189	rpmG2			50S ribosomal protein L33 2
+HKDKCAMP_01167	CDS	153				hypothetical protein
+HKDKCAMP_01168	CDS	954	ftsY		COG0552	Signal recognition particle receptor FtsY
+HKDKCAMP_01169	CDS	1305	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+HKDKCAMP_01170	CDS	1098	entC	5.4.4.2	COG1169	Isochorismate synthase EntC
+HKDKCAMP_01171	CDS	1683	menD	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+HKDKCAMP_01172	CDS	825	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+HKDKCAMP_01173	CDS	1050	menC	4.2.1.113		o-succinylbenzoate synthase
+HKDKCAMP_01174	CDS	1017	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+HKDKCAMP_01175	CDS	2226		3.2.1.21	COG1472	Beta-glucosidase BoGH3A
+HKDKCAMP_01176	CDS	702	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+HKDKCAMP_01177	CDS	948		4.3.1.9	COG0492	Glucosaminate ammonia-lyase
+HKDKCAMP_01178	CDS	642	lolA			Outer-membrane lipoprotein carrier protein
+HKDKCAMP_01179	CDS	2475				hypothetical protein
+HKDKCAMP_01180	CDS	1464	trkG		COG0168	Trk system potassium uptake protein TrkG
+HKDKCAMP_01181	CDS	1335	trkA		COG0569	Trk system potassium uptake protein TrkA
+HKDKCAMP_01182	CDS	1899	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+HKDKCAMP_01183	CDS	168				hypothetical protein
+HKDKCAMP_01184	CDS	774				hypothetical protein
+HKDKCAMP_01185	CDS	1065	kdsA_1	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+HKDKCAMP_01186	CDS	1194	dapL_1	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+HKDKCAMP_01187	CDS	846	pheA		COG0077	Bifunctional chorismate mutase/prephenate dehydratase
+HKDKCAMP_01188	CDS	459				hypothetical protein
+HKDKCAMP_01189	CDS	1362	tig	5.2.1.8		Trigger factor
+HKDKCAMP_01190	CDS	672	clpP_1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+HKDKCAMP_01191	CDS	1227	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+HKDKCAMP_01192	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+HKDKCAMP_01193	CDS	1485	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+HKDKCAMP_01194	CDS	1941	surA_1	5.2.1.8		Chaperone SurA
+HKDKCAMP_01195	CDS	891				hypothetical protein
+HKDKCAMP_01196	CDS	1356	surA_2	5.2.1.8		Chaperone SurA
+HKDKCAMP_01197	CDS	1620	lptD_1			LPS-assembly protein LptD
+HKDKCAMP_01198	CDS	1884	mutL			DNA mismatch repair protein MutL
+HKDKCAMP_01199	CDS	729	yaaA		COG3022	Peroxide stress resistance protein YaaA
+HKDKCAMP_01200	CDS	768				hypothetical protein
+HKDKCAMP_01201	CDS	2286	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+HKDKCAMP_01202	CDS	885	rhaS_2			HTH-type transcriptional activator RhaS
+HKDKCAMP_01203	CDS	1134	mdtE_1			Multidrug resistance protein MdtE
+HKDKCAMP_01204	CDS	3180	bepE_1			Efflux pump membrane transporter BepE
+HKDKCAMP_01205	CDS	1407	oprM_1		COG1538	Outer membrane protein OprM
+HKDKCAMP_01206	CDS	786	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+HKDKCAMP_01207	CDS	612				hypothetical protein
+HKDKCAMP_01208	CDS	1476				hypothetical protein
+HKDKCAMP_01209	CDS	1017	acrA			Multidrug efflux pump subunit AcrA
+HKDKCAMP_01210	CDS	3138	mdtC			Multidrug resistance protein MdtC
+HKDKCAMP_01211	CDS	294				hypothetical protein
+HKDKCAMP_01212	CDS	207				hypothetical protein
+HKDKCAMP_01213	CDS	1497				hypothetical protein
+HKDKCAMP_01214	CDS	732	ycdX	3.1.3.-	COG1387	putative phosphatase YcdX
+HKDKCAMP_01215	CDS	774	fetB		COG0390	putative iron export permease protein FetB
+HKDKCAMP_01216	CDS	621	glnQ	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+HKDKCAMP_01217	CDS	2109	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+HKDKCAMP_01218	CDS	1905				hypothetical protein
+HKDKCAMP_01219	CDS	1668	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+HKDKCAMP_01220	CDS	2058	uvrB		COG0556	UvrABC system protein B
+HKDKCAMP_01221	CDS	195				hypothetical protein
+HKDKCAMP_01222	CDS	186				hypothetical protein
+HKDKCAMP_01223	CDS	801	bamD			Outer membrane protein assembly factor BamD
+HKDKCAMP_01224	CDS	336				hypothetical protein
+HKDKCAMP_01225	CDS	927	nusB			Transcription antitermination protein NusB
+HKDKCAMP_01226	CDS	327				hypothetical protein
+HKDKCAMP_01227	CDS	1065				hypothetical protein
+HKDKCAMP_01228	CDS	576	coaE	2.7.1.24		Dephospho-CoA kinase
+HKDKCAMP_01229	CDS	507				hypothetical protein
+HKDKCAMP_01230	CDS	2100				hypothetical protein
+HKDKCAMP_01231	CDS	888	cysL		COG0583	HTH-type transcriptional regulator CysL
+HKDKCAMP_01232	CDS	744	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+HKDKCAMP_01233	CDS	1017				hypothetical protein
+HKDKCAMP_01234	CDS	1140				hypothetical protein
+HKDKCAMP_01235	CDS	885				hypothetical protein
+HKDKCAMP_01236	CDS	1398	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+HKDKCAMP_01237	CDS	750				hypothetical protein
+HKDKCAMP_01238	CDS	2538				hypothetical protein
+HKDKCAMP_01239	CDS	2682				hypothetical protein
+HKDKCAMP_01240	CDS	1092	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+HKDKCAMP_01241	CDS	1338				hypothetical protein
+HKDKCAMP_01242	CDS	849	nfo	3.1.21.2	COG0648	Endonuclease 4
+HKDKCAMP_01243	CDS	1185				hypothetical protein
+HKDKCAMP_01244	CDS	486				hypothetical protein
+HKDKCAMP_01245	CDS	279				hypothetical protein
+HKDKCAMP_01246	CDS	1731				hypothetical protein
+HKDKCAMP_01247	CDS	483				hypothetical protein
+HKDKCAMP_01248	CDS	198				hypothetical protein
+HKDKCAMP_01249	CDS	801				hypothetical protein
+HKDKCAMP_01250	CDS	1134	xerC_2			Tyrosine recombinase XerC
+HKDKCAMP_01251	CDS	1347				hypothetical protein
+HKDKCAMP_01252	CDS	1173				hypothetical protein
+HKDKCAMP_01253	CDS	1515				hypothetical protein
+HKDKCAMP_01254	CDS	1575				hypothetical protein
+HKDKCAMP_01255	CDS	1944				hypothetical protein
+HKDKCAMP_01256	CDS	330				hypothetical protein
+HKDKCAMP_01257	CDS	270				hypothetical protein
+HKDKCAMP_01258	CDS	933				hypothetical protein
+HKDKCAMP_01259	CDS	444	rplI		COG0359	50S ribosomal protein L9
+HKDKCAMP_01260	CDS	270				hypothetical protein
+HKDKCAMP_01261	CDS	357				hypothetical protein
+HKDKCAMP_01262	CDS	1152	araJ		COG2814	Putative transporter AraJ
+HKDKCAMP_01263	CDS	429				hypothetical protein
+HKDKCAMP_01264	CDS	438				hypothetical protein
+HKDKCAMP_01265	CDS	1386	sdaA	4.3.1.17	COG1760	L-serine dehydratase 1
+HKDKCAMP_01266	CDS	456	slyA			Transcriptional regulator SlyA
+HKDKCAMP_01267	CDS	1026				hypothetical protein
+HKDKCAMP_01268	CDS	522		2.3.1.-	COG1670	Acetyltransferase
+HKDKCAMP_01269	CDS	861				hypothetical protein
+HKDKCAMP_01270	CDS	2214	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+HKDKCAMP_01271	CDS	1518				hypothetical protein
+HKDKCAMP_01272	CDS	1350	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+HKDKCAMP_01273	CDS	561		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+HKDKCAMP_01274	CDS	1053	eis	2.3.1.-		N-acetyltransferase Eis
+HKDKCAMP_01275	CDS	444				hypothetical protein
+HKDKCAMP_01276	CDS	2214	btuB_3			Vitamin B12 transporter BtuB
+HKDKCAMP_01277	CDS	372				hypothetical protein
+HKDKCAMP_01278	CDS	615				hypothetical protein
+HKDKCAMP_01279	CDS	1401	ribZ			Riboflavin transporter RibZ
+HKDKCAMP_01280	CDS	1092				hypothetical protein
+HKDKCAMP_01281	CDS	1803				hypothetical protein
+HKDKCAMP_01282	CDS	3528				TonB-dependent receptor P3
+HKDKCAMP_01283	CDS	981				hypothetical protein
+HKDKCAMP_01284	CDS	594				hypothetical protein
+HKDKCAMP_01285	CDS	189				hypothetical protein
+HKDKCAMP_01286	tRNA	88				tRNA-Ser(cga)
+HKDKCAMP_01287	CDS	480		3.6.1.25	COG2954	Inorganic triphosphatase
+HKDKCAMP_01288	CDS	2547				hypothetical protein
+HKDKCAMP_01289	CDS	804		3.2.1.103		Keratan-sulfate endo-1,4-beta-galactosidase
+HKDKCAMP_01290	CDS	2082	prlC	3.4.24.70	COG0339	Oligopeptidase A
+HKDKCAMP_01291	CDS	1830				hypothetical protein
+HKDKCAMP_01292	CDS	495				hypothetical protein
+HKDKCAMP_01293	CDS	2226				hypothetical protein
+HKDKCAMP_01294	CDS	453				hypothetical protein
+HKDKCAMP_01295	CDS	759				hypothetical protein
+HKDKCAMP_01296	CDS	1110	resA_5			Thiol-disulfide oxidoreductase ResA
+HKDKCAMP_01297	CDS	264				hypothetical protein
+HKDKCAMP_01298	CDS	360				hypothetical protein
+HKDKCAMP_01299	CDS	204				hypothetical protein
+HKDKCAMP_01300	CDS	2811	uvrA_1			UvrABC system protein A
+HKDKCAMP_01301	CDS	501				hypothetical protein
+HKDKCAMP_01302	CDS	2226	ycf3			Photosystem I assembly protein Ycf3
+HKDKCAMP_01303	CDS	756				hypothetical protein
+HKDKCAMP_01304	CDS	846	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+HKDKCAMP_01305	CDS	189				hypothetical protein
+HKDKCAMP_01306	CDS	462				hypothetical protein
+HKDKCAMP_01307	CDS	1107	xerC_3			Tyrosine recombinase XerC
+HKDKCAMP_01308	CDS	1872	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+HKDKCAMP_01309	CDS	2136	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+HKDKCAMP_01310	CDS	2442				hypothetical protein
+HKDKCAMP_01311	CDS	2607				hypothetical protein
+HKDKCAMP_01312	CDS	1386	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+HKDKCAMP_01313	CDS	525				hypothetical protein
+HKDKCAMP_01314	CDS	1038				hypothetical protein
+HKDKCAMP_01315	CDS	1263	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+HKDKCAMP_01316	CDS	831	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+HKDKCAMP_01317	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+HKDKCAMP_01318	CDS	2556	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+HKDKCAMP_01319	CDS	1653				hypothetical protein
+HKDKCAMP_01320	CDS	282				hypothetical protein
+HKDKCAMP_01321	CDS	549				hypothetical protein
+HKDKCAMP_01322	CDS	786	yafV	3.5.1.3		Omega-amidase YafV
+HKDKCAMP_01323	CDS	393				hypothetical protein
+HKDKCAMP_01324	CDS	1341	yhaP		COG1668	putative protein YhaP
+HKDKCAMP_01325	CDS	933	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HKDKCAMP_01326	CDS	2265	dnaG_1	2.7.7.-		DNA primase
+HKDKCAMP_01327	CDS	1236				hypothetical protein
+HKDKCAMP_01328	CDS	1350	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+HKDKCAMP_01329	CDS	1464	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+HKDKCAMP_01330	CDS	1329	gcvPA	1.4.4.2	COG0403	putative glycine dehydrogenase (decarboxylating) subunit 1
+HKDKCAMP_01331	CDS	378	gcvH			Glycine cleavage system H protein
+HKDKCAMP_01332	CDS	1095	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+HKDKCAMP_01333	CDS	975		6.3.1.20		Lipoate--protein ligase 1
+HKDKCAMP_01334	CDS	552				hypothetical protein
+HKDKCAMP_01335	CDS	1065	hpr	1.1.1.81	COG1052	Hydroxypyruvate reductase
+HKDKCAMP_01336	CDS	2433	lon2	3.4.21.53	COG0466	Lon protease 2
+HKDKCAMP_01337	CDS	774	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+HKDKCAMP_01338	CDS	555				hypothetical protein
+HKDKCAMP_01339	CDS	1338				hypothetical protein
+HKDKCAMP_01340	CDS	1623				hypothetical protein
+HKDKCAMP_01341	CDS	2040	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+HKDKCAMP_01342	CDS	2652				hypothetical protein
+HKDKCAMP_01343	CDS	1566				hypothetical protein
+HKDKCAMP_01344	CDS	882		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+HKDKCAMP_01345	CDS	591				hypothetical protein
+HKDKCAMP_01346	CDS	1119	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+HKDKCAMP_01347	CDS	114				hypothetical protein
+HKDKCAMP_01348	CDS	954				hypothetical protein
+HKDKCAMP_01349	CDS	297				hypothetical protein
+HKDKCAMP_01350	CDS	588				hypothetical protein
+HKDKCAMP_01351	CDS	480				hypothetical protein
+HKDKCAMP_01352	CDS	495				hypothetical protein
+HKDKCAMP_01353	CDS	498	sigE_1		COG1595	RNA polymerase sigma-E factor
+HKDKCAMP_01354	CDS	435				hypothetical protein
+HKDKCAMP_01355	CDS	456				hypothetical protein
+HKDKCAMP_01356	CDS	543				hypothetical protein
+HKDKCAMP_01357	CDS	768	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+HKDKCAMP_01358	CDS	1080	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+HKDKCAMP_01359	CDS	228	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HKDKCAMP_01360	CDS	582	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+HKDKCAMP_01361	CDS	585	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+HKDKCAMP_01362	CDS	609	rnfG	7.-.-.-	COG4659	Ion-translocating oxidoreductase complex subunit G
+HKDKCAMP_01363	CDS	1002	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+HKDKCAMP_01364	CDS	1335	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+HKDKCAMP_01365	CDS	846	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+HKDKCAMP_01366	CDS	426				hypothetical protein
+HKDKCAMP_01367	CDS	807	mltF_1	4.2.2.-	COG4623	Membrane-bound lytic murein transglycosylase F
+HKDKCAMP_01368	CDS	1959				hypothetical protein
+HKDKCAMP_01369	CDS	1659		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+HKDKCAMP_01370	CDS	1776	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+HKDKCAMP_01371	CDS	681	srrA		COG0745	Transcriptional regulatory protein SrrA
+HKDKCAMP_01372	CDS	1719	arnT	2.4.2.43	COG1807	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+HKDKCAMP_01373	CDS	954		2.4.-.-		putative glycosyltransferase
+HKDKCAMP_01374	CDS	408				hypothetical protein
+HKDKCAMP_01375	CDS	633				hypothetical protein
+HKDKCAMP_01376	CDS	1377				hypothetical protein
+HKDKCAMP_01377	CDS	975	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+HKDKCAMP_01378	CDS	657	nth	4.2.99.18	COG0177	Endonuclease III
+HKDKCAMP_01379	CDS	396	crcB			Putative fluoride ion transporter CrcB
+HKDKCAMP_01380	CDS	1020	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+HKDKCAMP_01381	CDS	1380	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+HKDKCAMP_01382	CDS	2073	rho	3.6.4.-		Transcription termination factor Rho
+HKDKCAMP_01383	CDS	486				hypothetical protein
+HKDKCAMP_01384	CDS	690	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+HKDKCAMP_01385	CDS	477	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+HKDKCAMP_01386	CDS	543	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+HKDKCAMP_01387	CDS	2154	topB_1	5.6.2.1	COG0550	DNA topoisomerase 3
+HKDKCAMP_01388	CDS	1638				hypothetical protein
+HKDKCAMP_01389	CDS	789	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+HKDKCAMP_01390	CDS	1956	dsbD	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+HKDKCAMP_01391	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+HKDKCAMP_01392	CDS	585				hypothetical protein
+HKDKCAMP_01393	CDS	1392	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+HKDKCAMP_01394	CDS	3255	cpdA_3	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HKDKCAMP_01395	CDS	783	focA		COG2116	putative formate transporter 1
+HKDKCAMP_01396	CDS	3279				hypothetical protein
+HKDKCAMP_01397	CDS	111				hypothetical protein
+HKDKCAMP_01398	CDS	1689				hypothetical protein
+HKDKCAMP_01399	CDS	300				hypothetical protein
+HKDKCAMP_01400	CDS	699				hypothetical protein
+HKDKCAMP_01401	CDS	1131		5.1.1.20	COG4948	L-Ala-D/L-Glu epimerase
+HKDKCAMP_01402	CDS	1170				hypothetical protein
+HKDKCAMP_01403	CDS	648	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+HKDKCAMP_01404	CDS	1389	tam_1	2.1.1.144		Trans-aconitate 2-methyltransferase
+HKDKCAMP_01405	CDS	1164	bioF_1	2.3.1.47		8-amino-7-oxononanoate synthase
+HKDKCAMP_01406	CDS	1269	bioA	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+HKDKCAMP_01407	CDS	405				hypothetical protein
+HKDKCAMP_01408	CDS	546				hypothetical protein
+HKDKCAMP_01409	CDS	915				hypothetical protein
+HKDKCAMP_01410	CDS	1017	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+HKDKCAMP_01411	CDS	768	phnP	3.1.4.55	COG1235	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase
+HKDKCAMP_01412	CDS	762				hypothetical protein
+HKDKCAMP_01413	CDS	447				hypothetical protein
+HKDKCAMP_01414	CDS	573		2.3.1.-		Putative acetyltransferase
+HKDKCAMP_01415	CDS	1962				hypothetical protein
+HKDKCAMP_01416	CDS	699				hypothetical protein
+HKDKCAMP_01417	CDS	2469	mutS2	3.1.-.-		Endonuclease MutS2
+HKDKCAMP_01418	CDS	369				hypothetical protein
+HKDKCAMP_01419	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+HKDKCAMP_01420	CDS	1419	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+HKDKCAMP_01421	CDS	639	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+HKDKCAMP_01422	CDS	630	rsmG	2.1.1.170		Ribosomal RNA small subunit methyltransferase G
+HKDKCAMP_01423	CDS	840				hypothetical protein
+HKDKCAMP_01424	CDS	837	cvfB		COG2996	Conserved virulence factor B
+HKDKCAMP_01425	CDS	1062				hypothetical protein
+HKDKCAMP_01426	CDS	915				hypothetical protein
+HKDKCAMP_01427	CDS	885				hypothetical protein
+HKDKCAMP_01428	CDS	789	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+HKDKCAMP_01429	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+HKDKCAMP_01430	CDS	837	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+HKDKCAMP_01431	CDS	900				hypothetical protein
+HKDKCAMP_01432	CDS	591	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+HKDKCAMP_01433	CDS	744	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+HKDKCAMP_01434	CDS	756	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+HKDKCAMP_01435	CDS	609	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+HKDKCAMP_01436	CDS	672	ftsE		COG2884	Cell division ATP-binding protein FtsE
+HKDKCAMP_01437	CDS	1320	lysC_1	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+HKDKCAMP_01438	CDS	1137	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+HKDKCAMP_01439	CDS	411	perR_1		COG0735	Peroxide-responsive repressor PerR
+HKDKCAMP_01440	CDS	549	rbr3B	1.11.1.1	COG1592	Reverse rubrerythrin-2
+HKDKCAMP_01441	CDS	1788	lepA	3.6.5.-		Elongation factor 4
+HKDKCAMP_01442	CDS	1350	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+HKDKCAMP_01443	CDS	1248	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+HKDKCAMP_01444	CDS	1206	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+HKDKCAMP_01445	CDS	561				hypothetical protein
+HKDKCAMP_01446	CDS	453	smpB		COG0691	SsrA-binding protein
+HKDKCAMP_01447	CDS	1203				hypothetical protein
+HKDKCAMP_01448	CDS	1266				hypothetical protein
+HKDKCAMP_01449	CDS	2499	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+HKDKCAMP_01450	CDS	2532	clpC		COG0542	Negative regulator of genetic competence ClpC/MecB
+HKDKCAMP_01451	CDS	2055	htpG			Chaperone protein HtpG
+HKDKCAMP_01452	CDS	915	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+HKDKCAMP_01453	CDS	780	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+HKDKCAMP_01454	CDS	699				hypothetical protein
+HKDKCAMP_01455	CDS	2838	uvrA_2			UvrABC system protein A
+HKDKCAMP_01456	CDS	948	mltD_1	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase D
+HKDKCAMP_01457	CDS	1317				hypothetical protein
+HKDKCAMP_01458	CDS	2046				hypothetical protein
+HKDKCAMP_01459	CDS	678				hypothetical protein
+HKDKCAMP_01460	CDS	1026				hypothetical protein
+HKDKCAMP_01461	CDS	780	amn	3.2.2.4	COG0775	AMP nucleosidase
+HKDKCAMP_01462	CDS	450				hypothetical protein
+HKDKCAMP_01463	CDS	312	atl		COG3695	DNA base-flipping protein
+HKDKCAMP_01464	tRNA	72				tRNA-Cys(gca)
+HKDKCAMP_01465	CDS	318				hypothetical protein
+HKDKCAMP_01466	CDS	2409	der_2			GTPase Der
+HKDKCAMP_01467	CDS	1893	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+HKDKCAMP_01468	CDS	2190	glnA	6.3.1.2		Glutamine synthetase
+HKDKCAMP_01469	CDS	1236	dapL_2	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+HKDKCAMP_01470	CDS	840	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+HKDKCAMP_01471	CDS	1071	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+HKDKCAMP_01472	CDS	3252	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+HKDKCAMP_01473	CDS	1638	groL		COG0459	60 kDa chaperonin
+HKDKCAMP_01474	CDS	270	groS1		COG0234	10 kDa chaperonin 1
+HKDKCAMP_01475	CDS	1110				hypothetical protein
+HKDKCAMP_01476	CDS	258				hypothetical protein
+HKDKCAMP_01477	CDS	693				hypothetical protein
+HKDKCAMP_01478	CDS	750				hypothetical protein
+HKDKCAMP_01479	CDS	1800				hypothetical protein
+HKDKCAMP_01480	CDS	792	cpoB_4			Cell division coordinator CpoB
+HKDKCAMP_01481	CDS	1023				hypothetical protein
+HKDKCAMP_01482	CDS	984				hypothetical protein
+HKDKCAMP_01483	CDS	978				hypothetical protein
+HKDKCAMP_01484	CDS	870			COG1721	putative protein
+HKDKCAMP_01485	CDS	996				hypothetical protein
+HKDKCAMP_01486	CDS	1167	ihfA_1			Integration host factor subunit alpha
+HKDKCAMP_01487	CDS	288	ihfA_2			Integration host factor subunit alpha
+HKDKCAMP_01488	CDS	2091	ppk	2.7.4.1	COG0855	Polyphosphate kinase
+HKDKCAMP_01489	CDS	390				hypothetical protein
+HKDKCAMP_01490	CDS	996				hypothetical protein
+HKDKCAMP_01491	CDS	423				hypothetical protein
+HKDKCAMP_01492	CDS	1083	cbh	3.5.1.24		Choloylglycine hydrolase
+HKDKCAMP_01493	CDS	1332	lysC_2	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+HKDKCAMP_01494	CDS	771				hypothetical protein
+HKDKCAMP_01495	CDS	1098			COG0327	GTP cyclohydrolase 1 type 2 
+HKDKCAMP_01496	CDS	1755	aspS	6.1.1.12		Aspartate--tRNA ligase
+HKDKCAMP_01497	CDS	1251				hypothetical protein
+HKDKCAMP_01498	CDS	1101	ald_2	1.4.1.1	COG0686	Alanine dehydrogenase
+HKDKCAMP_01499	CDS	900				hypothetical protein
+HKDKCAMP_01500	CDS	276	ycnE	1.-.-.-	COG1359	Putative monooxygenase YcnE
+HKDKCAMP_01501	CDS	384				hypothetical protein
+HKDKCAMP_01502	CDS	144				hypothetical protein
+HKDKCAMP_01503	CDS	357	rsfS			Ribosomal silencing factor RsfS
+HKDKCAMP_01504	CDS	2034	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+HKDKCAMP_01505	CDS	843				hypothetical protein
+HKDKCAMP_01506	CDS	1170	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+HKDKCAMP_01507	CDS	612	udk_2	2.7.1.48	COG0572	Uridine kinase
+HKDKCAMP_01508	CDS	1395	mltF_2	4.2.2.-	COG4623	Membrane-bound lytic murein transglycosylase F
+HKDKCAMP_01509	CDS	549				hypothetical protein
+HKDKCAMP_01510	CDS	1458	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+HKDKCAMP_01511	CDS	183				hypothetical protein
+HKDKCAMP_01512	CDS	600				hypothetical protein
+HKDKCAMP_01513	CDS	831				hypothetical protein
+HKDKCAMP_01514	CDS	702				hypothetical protein
+HKDKCAMP_01515	CDS	996				hypothetical protein
+HKDKCAMP_01516	CDS	231				hypothetical protein
+HKDKCAMP_01517	CDS	564	efp		COG0231	Elongation factor P
+HKDKCAMP_01518	CDS	156	rpmH		COG0230	50S ribosomal protein L34
+HKDKCAMP_01519	CDS	1311				hypothetical protein
+HKDKCAMP_01520	CDS	3252	recB	3.1.11.5		RecBCD enzyme subunit RecB
+HKDKCAMP_01521	CDS	345	yciH		COG0023	putative protein YciH
+HKDKCAMP_01522	CDS	3435				hypothetical protein
+HKDKCAMP_01523	CDS	648	rex		COG2344	Redox-sensing transcriptional repressor Rex
+HKDKCAMP_01524	CDS	618	ycgM		COG0179	putative protein YcgM
+HKDKCAMP_01525	CDS	3411				hypothetical protein
+HKDKCAMP_01526	CDS	1206				hypothetical protein
+HKDKCAMP_01527	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+HKDKCAMP_01528	CDS	327				hypothetical protein
+HKDKCAMP_01529	CDS	1110	mnmA_1	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+HKDKCAMP_01530	CDS	1599				hypothetical protein
+HKDKCAMP_01531	CDS	1266	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+HKDKCAMP_01532	CDS	204				hypothetical protein
+HKDKCAMP_01533	CDS	1524	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+HKDKCAMP_01534	CDS	1080				hypothetical protein
+HKDKCAMP_01535	CDS	1236	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+HKDKCAMP_01536	CDS	489		3.1.3.48		Putative low molecular weight protein-tyrosine-phosphatase
+HKDKCAMP_01537	CDS	2187				hypothetical protein
+HKDKCAMP_01538	CDS	648	hin		COG1961	DNA-invertase hin
+HKDKCAMP_01539	CDS	777				hypothetical protein
+HKDKCAMP_01540	CDS	948				hypothetical protein
+HKDKCAMP_01541	CDS	369	hxlR		COG1733	HTH-type transcriptional activator HxlR
+HKDKCAMP_01542	CDS	402				hypothetical protein
+HKDKCAMP_01543	CDS	1371				hypothetical protein
+HKDKCAMP_01544	CDS	1179				hypothetical protein
+HKDKCAMP_01545	CDS	312				hypothetical protein
+HKDKCAMP_01546	CDS	720				hypothetical protein
+HKDKCAMP_01547	CDS	351				hypothetical protein
+HKDKCAMP_01548	CDS	1068				hypothetical protein
+HKDKCAMP_01549	CDS	789				hypothetical protein
+HKDKCAMP_01550	CDS	1212	xerC_4			Tyrosine recombinase XerC
+HKDKCAMP_01551	CDS	1011				hypothetical protein
+HKDKCAMP_01552	CDS	4014				hypothetical protein
+HKDKCAMP_01553	CDS	2523				hypothetical protein
+HKDKCAMP_01554	CDS	960	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HKDKCAMP_01555	CDS	225				hypothetical protein
+HKDKCAMP_01556	CDS	537				hypothetical protein
+HKDKCAMP_01557	CDS	906				hypothetical protein
+HKDKCAMP_01558	CDS	567		2.3.1.-		Putative acetyltransferase
+HKDKCAMP_01559	CDS	474				hypothetical protein
+HKDKCAMP_01560	CDS	1068			COG1073	putative protein
+HKDKCAMP_01561	CDS	180				hypothetical protein
+HKDKCAMP_01562	tRNA	75				tRNA-Lys(ttt)
+HKDKCAMP_01563	CDS	1134	yhhT		COG0628	Putative transport protein YhhT
+HKDKCAMP_01564	CDS	603	tdk	2.7.1.21	COG1435	Thymidine kinase
+HKDKCAMP_01565	CDS	1452	dacB	3.4.16.4	COG2027	D-alanyl-D-alanine carboxypeptidase DacB
+HKDKCAMP_01566	CDS	900				hypothetical protein
+HKDKCAMP_01567	CDS	726	rsmI_1	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+HKDKCAMP_01568	CDS	876				hypothetical protein
+HKDKCAMP_01569	CDS	639				hypothetical protein
+HKDKCAMP_01570	CDS	1131				hypothetical protein
+HKDKCAMP_01571	CDS	1218	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+HKDKCAMP_01572	CDS	1944				hypothetical protein
+HKDKCAMP_01573	CDS	384				hypothetical protein
+HKDKCAMP_01574	CDS	1008	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+HKDKCAMP_01575	CDS	1209	ackA	2.7.2.1	COG0282	Acetate kinase
+HKDKCAMP_01576	CDS	1944	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+HKDKCAMP_01577	CDS	870	rhaR_5			HTH-type transcriptional activator RhaR
+HKDKCAMP_01578	CDS	1434	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HKDKCAMP_01579	CDS	1491	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+HKDKCAMP_01580	CDS	1908	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+HKDKCAMP_01581	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+HKDKCAMP_01582	CDS	519				hypothetical protein
+HKDKCAMP_01583	CDS	468	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+HKDKCAMP_01584	CDS	876	atpG		COG0224	ATP synthase gamma chain
+HKDKCAMP_01585	CDS	1578	atpA	7.1.2.2		ATP synthase subunit alpha
+HKDKCAMP_01586	CDS	543	atpH		COG0712	ATP synthase subunit delta
+HKDKCAMP_01587	CDS	498	atpF			ATP synthase subunit b
+HKDKCAMP_01588	CDS	255	atpE			ATP synthase subunit c
+HKDKCAMP_01589	CDS	1080	atpB			ATP synthase subunit a
+HKDKCAMP_01590	CDS	234	atpC		COG0355	ATP synthase epsilon chain
+HKDKCAMP_01591	CDS	1512	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+HKDKCAMP_01592	CDS	1077	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+HKDKCAMP_01593	CDS	1623	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+HKDKCAMP_01594	CDS	585	nqo6	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit 6
+HKDKCAMP_01595	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+HKDKCAMP_01596	CDS	1674	lapB			Lipopolysaccharide assembly protein B
+HKDKCAMP_01597	CDS	966	pstS		COG0226	Phosphate-binding protein PstS
+HKDKCAMP_01598	CDS	231				hypothetical protein
+HKDKCAMP_01599	CDS	822				hypothetical protein
+HKDKCAMP_01600	CDS	684				hypothetical protein
+HKDKCAMP_01601	CDS	615	tolR_1			Tol-Pal system protein TolR
+HKDKCAMP_01602	CDS	810	tolQ_1			Tol-Pal system protein TolQ
+HKDKCAMP_01603	CDS	1350	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+HKDKCAMP_01604	CDS	1218	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+HKDKCAMP_01605	CDS	711	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+HKDKCAMP_01606	CDS	621	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+HKDKCAMP_01607	CDS	615	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+HKDKCAMP_01608	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+HKDKCAMP_01609	CDS	558				hypothetical protein
+HKDKCAMP_01610	CDS	381	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+HKDKCAMP_01611	CDS	252	rpmE2		COG0254	50S ribosomal protein L31 type B
+HKDKCAMP_01612	CDS	1857	oadA	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+HKDKCAMP_01613	CDS	729	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+HKDKCAMP_01614	CDS	288				hypothetical protein
+HKDKCAMP_01615	CDS	594	lysO_2		COG2431	Lysine exporter LysO
+HKDKCAMP_01616	CDS	2364	mrcA		COG5009	Penicillin-binding protein 1A
+HKDKCAMP_01617	CDS	156				hypothetical protein
+HKDKCAMP_01618	CDS	915	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+HKDKCAMP_01619	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+HKDKCAMP_01620	CDS	567				hypothetical protein
+HKDKCAMP_01621	CDS	690				hypothetical protein
+HKDKCAMP_01622	CDS	1281	glyA	2.1.2.1		Serine hydroxymethyltransferase
+HKDKCAMP_01623	CDS	744				hypothetical protein
+HKDKCAMP_01624	CDS	1089				hypothetical protein
+HKDKCAMP_01625	CDS	2466	priA	3.6.4.-		primosomal protein N'
+HKDKCAMP_01626	CDS	612				hypothetical protein
+HKDKCAMP_01627	CDS	312	sufT			Fe-S protein maturation auxiliary factor SufT
+HKDKCAMP_01628	CDS	771	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+HKDKCAMP_01629	CDS	3915				hypothetical protein
+HKDKCAMP_01630	CDS	669	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+HKDKCAMP_01631	CDS	2097	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+HKDKCAMP_01632	CDS	930				hypothetical protein
+HKDKCAMP_01633	CDS	303				hypothetical protein
+HKDKCAMP_01634	CDS	462				hypothetical protein
+HKDKCAMP_01635	CDS	144				hypothetical protein
+HKDKCAMP_01636	CDS	1599	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+HKDKCAMP_01637	CDS	828	kdsA_2	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+HKDKCAMP_01638	CDS	714	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+HKDKCAMP_01639	CDS	1263	nupG			Nucleoside permease NupG
+HKDKCAMP_01640	CDS	585				hypothetical protein
+HKDKCAMP_01641	CDS	1062	mnmA_2	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+HKDKCAMP_01642	CDS	462				hypothetical protein
+HKDKCAMP_01643	CDS	891				hypothetical protein
+HKDKCAMP_01644	CDS	1341	mdtK_2			Multidrug resistance protein MdtK
+HKDKCAMP_01645	CDS	609				hypothetical protein
+HKDKCAMP_01646	CDS	1515	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HKDKCAMP_01647	CDS	2526				hypothetical protein
+HKDKCAMP_01648	CDS	201				hypothetical protein
+HKDKCAMP_01649	CDS	411				hypothetical protein
+HKDKCAMP_01650	CDS	1443				hypothetical protein
+HKDKCAMP_01651	CDS	348	rplS		COG0335	50S ribosomal protein L19
+HKDKCAMP_01652	CDS	876		3.1.3.5	COG0737	NAD 5'-nucleotidase
+HKDKCAMP_01653	CDS	774				hypothetical protein
+HKDKCAMP_01654	CDS	2979	yfeW	3.4.16.4		Putative D-alanyl-D-alanine carboxypeptidase
+HKDKCAMP_01655	CDS	840				hypothetical protein
+HKDKCAMP_01656	CDS	168				Ferredoxin
+HKDKCAMP_01657	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+HKDKCAMP_01658	CDS	336	rplU		COG0261	50S ribosomal protein L21
+HKDKCAMP_01659	CDS	882	rhaS_3			HTH-type transcriptional activator RhaS
+HKDKCAMP_01660	tRNA	75				tRNA-Pro(cgg)
+HKDKCAMP_01661	tRNA	74				tRNA-Phe(gaa)
+HKDKCAMP_01662	CDS	1530				hypothetical protein
+HKDKCAMP_01663	CDS	1290				hypothetical protein
+HKDKCAMP_01664	CDS	2781				hypothetical protein
+HKDKCAMP_01665	CDS	1785				hypothetical protein
+HKDKCAMP_01666	CDS	1203				hypothetical protein
+HKDKCAMP_01667	CDS	108				hypothetical protein
+HKDKCAMP_01668	CDS	1365				hypothetical protein
+HKDKCAMP_01669	CDS	2499				hypothetical protein
+HKDKCAMP_01670	CDS	1608				hypothetical protein
+HKDKCAMP_01671	CDS	552	sigW_4		COG1595	ECF RNA polymerase sigma factor SigW
+HKDKCAMP_01672	CDS	1026				hypothetical protein
+HKDKCAMP_01673	CDS	3333				TonB-dependent receptor P3
+HKDKCAMP_01674	CDS	1953				hypothetical protein
+HKDKCAMP_01675	CDS	1101				hypothetical protein
+HKDKCAMP_01676	CDS	1203				hypothetical protein
+HKDKCAMP_01677	CDS	2160		2.4.1.161	COG1501	Oligosaccharide 4-alpha-D-glucosyltransferase
+HKDKCAMP_01678	CDS	2064				hypothetical protein
+HKDKCAMP_01679	CDS	2733	xyl3A	3.2.1.37	COG1472	Xylan 1,4-beta-xylosidase
+HKDKCAMP_01680	CDS	1191	purT	2.1.2.-	COG0027	Formate-dependent phosphoribosylglycinamide formyltransferase
+HKDKCAMP_01681	CDS	195				hypothetical protein
+HKDKCAMP_01682	CDS	201				hypothetical protein
+HKDKCAMP_01683	CDS	921	rnz	3.1.26.11	COG1234	Ribonuclease Z
+HKDKCAMP_01684	CDS	1794	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+HKDKCAMP_01685	CDS	984				hypothetical protein
+HKDKCAMP_01686	CDS	444	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+HKDKCAMP_01687	CDS	705				hypothetical protein
+HKDKCAMP_01688	CDS	372				hypothetical protein
+HKDKCAMP_01689	CDS	381	yjbR		COG2315	putative protein YjbR
+HKDKCAMP_01690	CDS	750	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+HKDKCAMP_01691	CDS	894				hypothetical protein
+HKDKCAMP_01692	CDS	303				hypothetical protein
+HKDKCAMP_01693	CDS	1845				hypothetical protein
+HKDKCAMP_01694	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+HKDKCAMP_01695	CDS	561	frr		COG0233	Ribosome-recycling factor
+HKDKCAMP_01696	CDS	933	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+HKDKCAMP_01697	CDS	690				hypothetical protein
+HKDKCAMP_01698	CDS	1446	mltD_2	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase D
+HKDKCAMP_01699	CDS	825				hypothetical protein
+HKDKCAMP_01700	CDS	879	parB		COG1475	putative chromosome-partitioning protein ParB
+HKDKCAMP_01701	CDS	765	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+HKDKCAMP_01702	CDS	786	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+HKDKCAMP_01703	CDS	486	argR		COG1438	Arginine repressor
+HKDKCAMP_01704	CDS	564				hypothetical protein
+HKDKCAMP_01705	CDS	1203	argG	6.3.4.5		Argininosuccinate synthase
+HKDKCAMP_01706	CDS	969	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+HKDKCAMP_01707	CDS	1125	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+HKDKCAMP_01708	CDS	789	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+HKDKCAMP_01709	CDS	456	ssb			Single-stranded DNA-binding protein
+HKDKCAMP_01710	CDS	1320				hypothetical protein
+HKDKCAMP_01711	CDS	603				hypothetical protein
+HKDKCAMP_01712	CDS	636				hypothetical protein
+HKDKCAMP_01713	CDS	201				hypothetical protein
+HKDKCAMP_01714	CDS	2151	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+HKDKCAMP_01715	CDS	366				hypothetical protein
+HKDKCAMP_01716	CDS	444				hypothetical protein
+HKDKCAMP_01717	CDS	456	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+HKDKCAMP_01718	CDS	1884				hypothetical protein
+HKDKCAMP_01719	CDS	2508		3.2.1.55		Extracellular exo-alpha-L-arabinofuranosidase
+HKDKCAMP_01720	CDS	2520				hypothetical protein
+HKDKCAMP_01721	CDS	882				hypothetical protein
+HKDKCAMP_01722	CDS	1980				hypothetical protein
+HKDKCAMP_01723	CDS	783				hypothetical protein
+HKDKCAMP_01724	CDS	1800				hypothetical protein
+HKDKCAMP_01725	CDS	3153				TonB-dependent receptor P3
+HKDKCAMP_01726	CDS	1287				hypothetical protein
+HKDKCAMP_01727	CDS	2268				hypothetical protein
+HKDKCAMP_01728	CDS	2517				hypothetical protein
+HKDKCAMP_01729	CDS	2295				hypothetical protein
+HKDKCAMP_01730	CDS	1041	xynD	3.2.1.55		Arabinoxylan arabinofuranohydrolase
+HKDKCAMP_01731	CDS	2574				hypothetical protein
+HKDKCAMP_01732	CDS	1197				hypothetical protein
+HKDKCAMP_01733	CDS	1686	eptA	2.7.-.-	COG2194	Phosphoethanolamine transferase EptA
+HKDKCAMP_01734	CDS	4503				hypothetical protein
+HKDKCAMP_01735	CDS	762	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+HKDKCAMP_01736	CDS	1374	allB	3.5.2.5	COG0044	Allantoinase
+HKDKCAMP_01737	CDS	960				hypothetical protein
+HKDKCAMP_01738	CDS	1986	cpdA_4	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HKDKCAMP_01739	CDS	1407	phoA_1	3.1.3.1	COG1785	Alkaline phosphatase 4
+HKDKCAMP_01740	CDS	165				hypothetical protein
+HKDKCAMP_01741	CDS	441		2.3.1.-		Putative acetyltransferase
+HKDKCAMP_01742	CDS	189				hypothetical protein
+HKDKCAMP_01743	CDS	1662		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+HKDKCAMP_01744	CDS	1317	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+HKDKCAMP_01745	CDS	912	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+HKDKCAMP_01746	CDS	996				hypothetical protein
+HKDKCAMP_01747	CDS	1218	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+HKDKCAMP_01748	CDS	1350				hypothetical protein
+HKDKCAMP_01749	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+HKDKCAMP_01750	CDS	1932				hypothetical protein
+HKDKCAMP_01751	CDS	1452	sufB		COG0719	FeS cluster assembly protein SufB
+HKDKCAMP_01752	CDS	576				hypothetical protein
+HKDKCAMP_01753	CDS	2910	infB			Translation initiation factor IF-2
+HKDKCAMP_01754	CDS	1254	nusA			Transcription termination/antitermination protein NusA
+HKDKCAMP_01755	CDS	468	rimP			Ribosome maturation factor RimP
+HKDKCAMP_01756	CDS	711				hypothetical protein
+HKDKCAMP_01757	CDS	327				hypothetical protein
+HKDKCAMP_01758	CDS	1065				hypothetical protein
+HKDKCAMP_01759	CDS	876	nadK	2.7.1.23		NAD kinase
+HKDKCAMP_01760	CDS	657				hypothetical protein
+HKDKCAMP_01761	CDS	279				hypothetical protein
+HKDKCAMP_01762	CDS	714	pdxJ	2.6.99.2	COG0854	Pyridoxine 5'-phosphate synthase
+HKDKCAMP_01763	CDS	705	tolQ_2			Tol-Pal system protein TolQ
+HKDKCAMP_01764	CDS	417	tolR_2			Tol-Pal system protein TolR
+HKDKCAMP_01765	CDS	747				hypothetical protein
+HKDKCAMP_01766	CDS	972				hypothetical protein
+HKDKCAMP_01767	CDS	774				hypothetical protein
+HKDKCAMP_01768	CDS	1248		1.16.1.-	COG0446	Metal reductase
+HKDKCAMP_01769	CDS	798				hypothetical protein
+HKDKCAMP_01770	CDS	843	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+HKDKCAMP_01771	CDS	204				hypothetical protein
+HKDKCAMP_01772	CDS	1050	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+HKDKCAMP_01773	CDS	1899	speA	4.1.1.19		Biosynthetic arginine decarboxylase
+HKDKCAMP_01774	CDS	804	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+HKDKCAMP_01775	CDS	444	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+HKDKCAMP_01776	CDS	825	lgt_1	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+HKDKCAMP_01777	CDS	903				hypothetical protein
+HKDKCAMP_01778	CDS	633				hypothetical protein
+HKDKCAMP_01779	CDS	1389	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+HKDKCAMP_01780	CDS	1251				hypothetical protein
+HKDKCAMP_01781	CDS	162				hypothetical protein
+HKDKCAMP_01782	CDS	1344	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+HKDKCAMP_01783	tRNA	76				tRNA-Val(tac)
+HKDKCAMP_01784	tRNA	76				tRNA-Val(tac)
+HKDKCAMP_01785	CDS	3423				hypothetical protein
+HKDKCAMP_01786	tRNA	74				tRNA-Lys(ctt)
+HKDKCAMP_01787	CDS	861	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+HKDKCAMP_01788	CDS	708	rsmI_2	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+HKDKCAMP_01789	CDS	1425	rsmF	2.1.1.178		Ribosomal RNA small subunit methyltransferase F
+HKDKCAMP_01790	CDS	453				hypothetical protein
+HKDKCAMP_01791	CDS	2091	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+HKDKCAMP_01792	CDS	471				hypothetical protein
+HKDKCAMP_01793	CDS	2247				hypothetical protein
+HKDKCAMP_01794	CDS	480	gldH			Gliding motility lipoprotein GldH
+HKDKCAMP_01795	CDS	1305				hypothetical protein
+HKDKCAMP_01796	CDS	1542	rny	3.1.-.-	COG1418	Ribonuclease Y
+HKDKCAMP_01797	CDS	342				hypothetical protein
+HKDKCAMP_01798	CDS	297				hypothetical protein
+HKDKCAMP_01799	CDS	1530				hypothetical protein
+HKDKCAMP_01800	CDS	1269				hypothetical protein
+HKDKCAMP_01801	CDS	1455				hypothetical protein
+HKDKCAMP_01802	CDS	1626	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+HKDKCAMP_01803	CDS	1422	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+HKDKCAMP_01804	CDS	819				hypothetical protein
+HKDKCAMP_01805	CDS	1182				hypothetical protein
+HKDKCAMP_01806	CDS	3090	czcA_2			Cobalt-zinc-cadmium resistance protein CzcA
+HKDKCAMP_01807	CDS	1194	mdtA_1			Multidrug resistance protein MdtA
+HKDKCAMP_01808	CDS	405				hypothetical protein
+HKDKCAMP_01809	CDS	441	hslR		COG1188	Heat shock protein 15
+HKDKCAMP_01810	CDS	564	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+HKDKCAMP_01811	CDS	651	ctc		COG1825	General stress protein CTC
+HKDKCAMP_01812	CDS	1035	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+HKDKCAMP_01813	CDS	513	ybdM		COG1475	putative protein YbdM
+HKDKCAMP_01814	CDS	1299				hypothetical protein
+HKDKCAMP_01815	CDS	420				hypothetical protein
+HKDKCAMP_01816	CDS	576	rbr_2		COG1592	Rubrerythrin
+HKDKCAMP_01817	CDS	645	hrb		COG1773	High molecular weight rubredoxin
+HKDKCAMP_01818	CDS	312				hypothetical protein
+HKDKCAMP_01819	CDS	402				hypothetical protein
+HKDKCAMP_01820	CDS	1020	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HKDKCAMP_01821	CDS	537				hypothetical protein
+HKDKCAMP_01822	CDS	2778	lptD_2			LPS-assembly protein LptD
+HKDKCAMP_01823	CDS	1446	cca	2.7.7.72		CCA-adding enzyme
+HKDKCAMP_01824	CDS	1335	gdhA	1.4.1.3		NAD(P)-specific glutamate dehydrogenase
+HKDKCAMP_01825	CDS	2316	bamA_1			Outer membrane protein assembly factor BamA
+HKDKCAMP_01826	CDS	4722				hypothetical protein
+HKDKCAMP_01827	CDS	1281				hypothetical protein
+HKDKCAMP_01828	CDS	1203	pepC	3.4.22.40	COG3579	Aminopeptidase C
+HKDKCAMP_01829	CDS	738				hypothetical protein
+HKDKCAMP_01830	CDS	993				hypothetical protein
+HKDKCAMP_01831	CDS	477				hypothetical protein
+HKDKCAMP_01832	CDS	663	ung_2	3.2.2.27	COG0692	Uracil-DNA glycosylase
+HKDKCAMP_01833	CDS	279				hypothetical protein
+HKDKCAMP_01834	CDS	3051				hypothetical protein
+HKDKCAMP_01835	CDS	1788				hypothetical protein
+HKDKCAMP_01836	CDS	3303				TonB-dependent receptor P39
+HKDKCAMP_01837	CDS	1245	mdtA_2			Multidrug resistance protein MdtA
+HKDKCAMP_01838	CDS	3099	bepE_2			Efflux pump membrane transporter BepE
+HKDKCAMP_01839	CDS	1386	oprM_2		COG1538	Outer membrane protein OprM
+HKDKCAMP_01840	CDS	1152	galK	2.7.1.6	COG0153	Galactokinase
+HKDKCAMP_01841	CDS	1080	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+HKDKCAMP_01842	CDS	582	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+HKDKCAMP_01843	CDS	360	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+HKDKCAMP_01844	CDS	654	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+HKDKCAMP_01845	CDS	429				hypothetical protein
+HKDKCAMP_01846	CDS	300				Thioredoxin-like protein
+HKDKCAMP_01847	CDS	576	chrA_1			Chromate transport protein
+HKDKCAMP_01848	CDS	555	chrA_2			Chromate transport protein
+HKDKCAMP_01849	CDS	1293	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+HKDKCAMP_01850	CDS	378	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+HKDKCAMP_01851	CDS	1386				hypothetical protein
+HKDKCAMP_01852	CDS	1500	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+HKDKCAMP_01853	CDS	861	sigA			RNA polymerase sigma factor SigA
+HKDKCAMP_01854	CDS	615				hypothetical protein
+HKDKCAMP_01855	CDS	1497	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+HKDKCAMP_01856	CDS	1395	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+HKDKCAMP_01857	CDS	597	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+HKDKCAMP_01858	CDS	1539	leuA_2	2.3.3.13	COG0119	2-isopropylmalate synthase
+HKDKCAMP_01859	CDS	1074	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+HKDKCAMP_01860	CDS	1188				Outer membrane protein 40
+HKDKCAMP_01861	CDS	870				hypothetical protein
+HKDKCAMP_01862	CDS	1185	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+HKDKCAMP_01863	CDS	1323		3.4.24.-	COG0750	Putative zinc metalloprotease
+HKDKCAMP_01864	CDS	1185	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+HKDKCAMP_01865	CDS	2031				hypothetical protein
+HKDKCAMP_01866	CDS	687				hypothetical protein
+HKDKCAMP_01867	CDS	471	perR_2		COG0735	Peroxide operon regulator
+HKDKCAMP_01868	CDS	1269	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+HKDKCAMP_01869	CDS	1245				hypothetical protein
+HKDKCAMP_01870	CDS	528	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+HKDKCAMP_01871	CDS	1197				hypothetical protein
+HKDKCAMP_01872	CDS	729				hypothetical protein
+HKDKCAMP_01873	CDS	1101	celE		COG2730	Cellulase/esterase CelE
+HKDKCAMP_01874	CDS	1089	fcl	1.1.1.271	COG0451	GDP-L-fucose synthase
+HKDKCAMP_01875	CDS	1089	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+HKDKCAMP_01876	CDS	762		2.4.1.187		N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+HKDKCAMP_01877	CDS	1062				hypothetical protein
+HKDKCAMP_01878	CDS	1008				hypothetical protein
+HKDKCAMP_01879	CDS	1158				hypothetical protein
+HKDKCAMP_01880	CDS	1098	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HKDKCAMP_01881	CDS	1008				hypothetical protein
+HKDKCAMP_01882	CDS	1290				hypothetical protein
+HKDKCAMP_01883	CDS	1128	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HKDKCAMP_01884	CDS	1119				hypothetical protein
+HKDKCAMP_01885	CDS	1152	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+HKDKCAMP_01886	CDS	1014				hypothetical protein
+HKDKCAMP_01887	CDS	690	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+HKDKCAMP_01888	CDS	873				hypothetical protein
+HKDKCAMP_01889	CDS	1173	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HKDKCAMP_01890	CDS	1533				hypothetical protein
+HKDKCAMP_01891	CDS	2412	ptk	2.7.10.-	COG0489	Tyrosine-protein kinase ptk
+HKDKCAMP_01892	CDS	828				hypothetical protein
+HKDKCAMP_01893	CDS	1116	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+HKDKCAMP_01894	CDS	957				hypothetical protein
+HKDKCAMP_01895	CDS	846	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+HKDKCAMP_01896	CDS	201				hypothetical protein
+HKDKCAMP_01897	CDS	591	thiE_1	2.5.1.3		Thiamine-phosphate synthase
+HKDKCAMP_01898	CDS	630	thiE_2	2.5.1.3	COG0352	Thiamine-phosphate synthase
+HKDKCAMP_01899	CDS	771	thiG	2.8.1.10	COG2022	Thiazole synthase
+HKDKCAMP_01900	CDS	1704	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+HKDKCAMP_01901	CDS	576				hypothetical protein
+HKDKCAMP_01902	CDS	1113	thiH	4.1.99.19	COG1060	2-iminoacetate synthase
+HKDKCAMP_01903	CDS	690	moeZ		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+HKDKCAMP_01904	CDS	519	rimM			Ribosome maturation factor RimM
+HKDKCAMP_01905	CDS	648				hypothetical protein
+HKDKCAMP_01906	CDS	1305	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+HKDKCAMP_01907	CDS	600				hypothetical protein
+HKDKCAMP_01908	CDS	693	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+HKDKCAMP_01909	CDS	873				hypothetical protein
+HKDKCAMP_01910	CDS	573	gmk	2.7.4.8	COG0194	Guanylate kinase
+HKDKCAMP_01911	CDS	591	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+HKDKCAMP_01912	CDS	642				hypothetical protein
+HKDKCAMP_01913	CDS	636	rnd	3.1.13.5		Ribonuclease D
+HKDKCAMP_01914	CDS	243				hypothetical protein
+HKDKCAMP_01915	CDS	525				hypothetical protein
+HKDKCAMP_01916	CDS	1437				hypothetical protein
+HKDKCAMP_01917	CDS	369	mecI			Methicillin resistance regulatory protein MecI
+HKDKCAMP_01918	CDS	1821				hypothetical protein
+HKDKCAMP_01919	CDS	651	dedA		COG0586	Protein DedA
+HKDKCAMP_01920	CDS	1515	atsA_1	3.1.6.1	COG3119	Arylsulfatase
+HKDKCAMP_01921	CDS	1239	chuR	1.1.99.-	COG0641	Anaerobic sulfatase-maturating enzyme
+HKDKCAMP_01922	CDS	2028				hypothetical protein
+HKDKCAMP_01923	CDS	1383	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+HKDKCAMP_01924	CDS	2715	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+HKDKCAMP_01925	CDS	1371	phoA_2	3.1.3.1	COG1785	Alkaline phosphatase 4
+HKDKCAMP_01926	CDS	1101				hypothetical protein
+HKDKCAMP_01927	CDS	777	yjjP		COG2966	Inner membrane protein YjjP
+HKDKCAMP_01928	CDS	516				hypothetical protein
+HKDKCAMP_01929	CDS	3249				hypothetical protein
+HKDKCAMP_01930	CDS	1281				hypothetical protein
+HKDKCAMP_01931	CDS	1755				hypothetical protein
+HKDKCAMP_01932	CDS	204				hypothetical protein
+HKDKCAMP_01933	CDS	399	rnhA_2	3.1.26.4	COG3341	Ribonuclease H
+HKDKCAMP_01934	CDS	531				hypothetical protein
+HKDKCAMP_01935	CDS	657				hypothetical protein
+HKDKCAMP_01936	CDS	324				hypothetical protein
+HKDKCAMP_01937	CDS	411				hypothetical protein
+HKDKCAMP_01938	CDS	309				hypothetical protein
+HKDKCAMP_01939	CDS	657				hypothetical protein
+HKDKCAMP_01940	CDS	336				hypothetical protein
+HKDKCAMP_01941	CDS	591				hypothetical protein
+HKDKCAMP_01942	CDS	507				hypothetical protein
+HKDKCAMP_01943	CDS	447				hypothetical protein
+HKDKCAMP_01944	CDS	477	mutS_3			DNA mismatch repair protein MutS
+HKDKCAMP_01945	CDS	903				hypothetical protein
+HKDKCAMP_01946	CDS	705	moaA			GTP 3',8-cyclase
+HKDKCAMP_01947	CDS	504				hypothetical protein
+HKDKCAMP_01948	CDS	294				hypothetical protein
+HKDKCAMP_01949	CDS	180				hypothetical protein
+HKDKCAMP_01950	CDS	519				hypothetical protein
+HKDKCAMP_01951	CDS	429				hypothetical protein
+HKDKCAMP_01952	CDS	306				hypothetical protein
+HKDKCAMP_01953	CDS	351				hypothetical protein
+HKDKCAMP_01954	CDS	672				hypothetical protein
+HKDKCAMP_01955	CDS	873				hypothetical protein
+HKDKCAMP_01956	CDS	1905				hypothetical protein
+HKDKCAMP_01957	CDS	591				hypothetical protein
+HKDKCAMP_01958	CDS	669				hypothetical protein
+HKDKCAMP_01959	CDS	399				hypothetical protein
+HKDKCAMP_01960	CDS	900				hypothetical protein
+HKDKCAMP_01961	CDS	786				hypothetical protein
+HKDKCAMP_01962	CDS	813				hypothetical protein
+HKDKCAMP_01963	CDS	216				hypothetical protein
+HKDKCAMP_01964	CDS	537				hypothetical protein
+HKDKCAMP_01965	CDS	1023				hypothetical protein
+HKDKCAMP_01966	CDS	210				hypothetical protein
+HKDKCAMP_01967	CDS	219				hypothetical protein
+HKDKCAMP_01968	CDS	348				hypothetical protein
+HKDKCAMP_01969	CDS	933				hypothetical protein
+HKDKCAMP_01970	CDS	237				hypothetical protein
+HKDKCAMP_01971	CDS	585				hypothetical protein
+HKDKCAMP_01972	CDS	726				hypothetical protein
+HKDKCAMP_01973	CDS	288				hypothetical protein
+HKDKCAMP_01974	CDS	153				hypothetical protein
+HKDKCAMP_01975	CDS	1089				hypothetical protein
+HKDKCAMP_01976	CDS	480				hypothetical protein
+HKDKCAMP_01977	CDS	498				hypothetical protein
+HKDKCAMP_01978	CDS	1263				hypothetical protein
+HKDKCAMP_01979	CDS	639				hypothetical protein
+HKDKCAMP_01980	CDS	648				hypothetical protein
+HKDKCAMP_01981	CDS	246				hypothetical protein
+HKDKCAMP_01982	CDS	321				hypothetical protein
+HKDKCAMP_01983	CDS	480				hypothetical protein
+HKDKCAMP_01984	CDS	276				hypothetical protein
+HKDKCAMP_01985	CDS	459				hypothetical protein
+HKDKCAMP_01986	CDS	897				hypothetical protein
+HKDKCAMP_01987	CDS	1098				hypothetical protein
+HKDKCAMP_01988	CDS	528				hypothetical protein
+HKDKCAMP_01989	CDS	240				hypothetical protein
+HKDKCAMP_01990	CDS	213				hypothetical protein
+HKDKCAMP_01991	CDS	264				hypothetical protein
+HKDKCAMP_01992	CDS	393				hypothetical protein
+HKDKCAMP_01993	CDS	270				hypothetical protein
+HKDKCAMP_01994	CDS	573				hypothetical protein
+HKDKCAMP_01995	CDS	792				hypothetical protein
+HKDKCAMP_01996	CDS	1248				hypothetical protein
+HKDKCAMP_01997	CDS	633				hypothetical protein
+HKDKCAMP_01998	CDS	444				hypothetical protein
+HKDKCAMP_01999	CDS	240				hypothetical protein
+HKDKCAMP_02000	CDS	252				hypothetical protein
+HKDKCAMP_02001	CDS	1134				hypothetical protein
+HKDKCAMP_02002	CDS	369				hypothetical protein
+HKDKCAMP_02003	CDS	453				hypothetical protein
+HKDKCAMP_02004	CDS	1323				hypothetical protein
+HKDKCAMP_02005	CDS	636				hypothetical protein
+HKDKCAMP_02006	CDS	579				hypothetical protein
+HKDKCAMP_02007	CDS	705				hypothetical protein
+HKDKCAMP_02008	CDS	1239	clpP_2	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+HKDKCAMP_02009	CDS	1050				hypothetical protein
+HKDKCAMP_02010	CDS	348				hypothetical protein
+HKDKCAMP_02011	CDS	1353				hypothetical protein
+HKDKCAMP_02012	CDS	456				hypothetical protein
+HKDKCAMP_02013	CDS	492				hypothetical protein
+HKDKCAMP_02014	CDS	765				hypothetical protein
+HKDKCAMP_02015	CDS	783				hypothetical protein
+HKDKCAMP_02016	CDS	978				hypothetical protein
+HKDKCAMP_02017	CDS	357				hypothetical protein
+HKDKCAMP_02018	CDS	3843				hypothetical protein
+HKDKCAMP_02019	CDS	978				hypothetical protein
+HKDKCAMP_02020	CDS	1326				hypothetical protein
+HKDKCAMP_02021	CDS	1203				hypothetical protein
+HKDKCAMP_02022	CDS	891				hypothetical protein
+HKDKCAMP_02023	CDS	1689				hypothetical protein
+HKDKCAMP_02024	CDS	2268				hypothetical protein
+HKDKCAMP_02025	CDS	1311				hypothetical protein
+HKDKCAMP_02026	CDS	765	yusV		COG1120	putative siderophore transport system ATP-binding protein YusV
+HKDKCAMP_02027	CDS	981	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+HKDKCAMP_02028	CDS	1140				hypothetical protein
+HKDKCAMP_02029	CDS	2058	btuB_4			Vitamin B12 transporter BtuB
+HKDKCAMP_02030	CDS	498				hypothetical protein
+HKDKCAMP_02031	CDS	1071				hypothetical protein
+HKDKCAMP_02032	CDS	2127				hypothetical protein
+HKDKCAMP_02033	CDS	1809				hypothetical protein
+HKDKCAMP_02034	CDS	960				hypothetical protein
+HKDKCAMP_02035	CDS	4770				hypothetical protein
+HKDKCAMP_02036	CDS	288				hypothetical protein
+HKDKCAMP_02037	CDS	324				hypothetical protein
+HKDKCAMP_02038	CDS	678				hypothetical protein
+HKDKCAMP_02039	CDS	933				hypothetical protein
+HKDKCAMP_02040	CDS	894				hypothetical protein
+HKDKCAMP_02041	CDS	567				hypothetical protein
+HKDKCAMP_02042	CDS	2583				hypothetical protein
+HKDKCAMP_02043	CDS	213				hypothetical protein
+HKDKCAMP_02044	CDS	159				hypothetical protein
+HKDKCAMP_02045	CDS	1260				hypothetical protein
+HKDKCAMP_02046	CDS	1068				hypothetical protein
+HKDKCAMP_02047	CDS	2325	smc			Chromosome partition protein Smc
+HKDKCAMP_02048	CDS	486				hypothetical protein
+HKDKCAMP_02049	CDS	603				hypothetical protein
+HKDKCAMP_02050	CDS	618				hypothetical protein
+HKDKCAMP_02051	CDS	1356				hypothetical protein
+HKDKCAMP_02052	CDS	363				hypothetical protein
+HKDKCAMP_02053	CDS	1041	dnaG_2	2.7.7.-		DNA primase
+HKDKCAMP_02054	CDS	1758	dnaE2_1	2.7.7.7		Error-prone DNA polymerase
+HKDKCAMP_02055	CDS	768				hypothetical protein
+HKDKCAMP_02056	CDS	543				hypothetical protein
+HKDKCAMP_02057	CDS	2178	dnaE2_2	2.7.7.7		Error-prone DNA polymerase
+HKDKCAMP_02058	CDS	768	dinG_1	3.1.-.-		3'-5' exonuclease DinG
+HKDKCAMP_02059	CDS	360				hypothetical protein
+HKDKCAMP_02060	CDS	522				hypothetical protein
+HKDKCAMP_02061	CDS	159				hypothetical protein
+HKDKCAMP_02062	CDS	426				hypothetical protein
+HKDKCAMP_02063	CDS	1056				hypothetical protein
+HKDKCAMP_02064	CDS	759	lytR_1		COG3279	Sensory transduction protein LytR
+HKDKCAMP_02065	CDS	474				hypothetical protein
+HKDKCAMP_02066	CDS	597				hypothetical protein
+HKDKCAMP_02067	CDS	1353	mepA_2		COG0534	Multidrug export protein MepA
+HKDKCAMP_02068	CDS	789				hypothetical protein
+HKDKCAMP_02069	CDS	699				hypothetical protein
+HKDKCAMP_02070	CDS	1086				hypothetical protein
+HKDKCAMP_02071	CDS	222				hypothetical protein
+HKDKCAMP_02072	CDS	930				hypothetical protein
+HKDKCAMP_02073	CDS	252				hypothetical protein
+HKDKCAMP_02074	CDS	321				hypothetical protein
+HKDKCAMP_02075	CDS	228				hypothetical protein
+HKDKCAMP_02076	CDS	2148	topB_2	5.6.2.1	COG0550	DNA topoisomerase 3
+HKDKCAMP_02077	CDS	261				hypothetical protein
+HKDKCAMP_02078	CDS	1773				hypothetical protein
+HKDKCAMP_02079	CDS	1326				hypothetical protein
+HKDKCAMP_02080	CDS	291				hypothetical protein
+HKDKCAMP_02081	CDS	429				hypothetical protein
+HKDKCAMP_02082	CDS	771				hypothetical protein
+HKDKCAMP_02083	CDS	195				hypothetical protein
+HKDKCAMP_02084	CDS	279				hypothetical protein
+HKDKCAMP_02085	CDS	261				hypothetical protein
+HKDKCAMP_02086	CDS	258				hypothetical protein
+HKDKCAMP_02087	CDS	1302				hypothetical protein
+HKDKCAMP_02088	CDS	2010				hypothetical protein
+HKDKCAMP_02089	CDS	1254				hypothetical protein
+HKDKCAMP_02090	CDS	450				hypothetical protein
+HKDKCAMP_02091	CDS	147				hypothetical protein
+HKDKCAMP_02092	CDS	768				hypothetical protein
+HKDKCAMP_02093	CDS	441				hypothetical protein
+HKDKCAMP_02094	CDS	690				hypothetical protein
+HKDKCAMP_02095	CDS	1068				hypothetical protein
+HKDKCAMP_02096	CDS	297				hypothetical protein
+HKDKCAMP_02097	CDS	333				hypothetical protein
+HKDKCAMP_02098	CDS	2517				hypothetical protein
+HKDKCAMP_02099	CDS	1050				hypothetical protein
+HKDKCAMP_02100	CDS	630				hypothetical protein
+HKDKCAMP_02101	CDS	1008				hypothetical protein
+HKDKCAMP_02102	CDS	624				hypothetical protein
+HKDKCAMP_02103	CDS	306				hypothetical protein
+HKDKCAMP_02104	CDS	1302				hypothetical protein
+HKDKCAMP_02105	CDS	999				hypothetical protein
+HKDKCAMP_02106	CDS	570				hypothetical protein
+HKDKCAMP_02107	CDS	576				hypothetical protein
+HKDKCAMP_02108	CDS	501				hypothetical protein
+HKDKCAMP_02109	CDS	834				hypothetical protein
+HKDKCAMP_02110	CDS	3102				hypothetical protein
+HKDKCAMP_02111	CDS	150				hypothetical protein
+HKDKCAMP_02112	CDS	711				hypothetical protein
+HKDKCAMP_02113	CDS	351				hypothetical protein
+HKDKCAMP_02114	CDS	1020				hypothetical protein
+HKDKCAMP_02115	CDS	210				hypothetical protein
+HKDKCAMP_02116	CDS	390				hypothetical protein
+HKDKCAMP_02117	CDS	501				hypothetical protein
+HKDKCAMP_02118	CDS	315				hypothetical protein
+HKDKCAMP_02119	CDS	495				hypothetical protein
+HKDKCAMP_02120	CDS	3009	tam_2	2.1.1.144		Trans-aconitate 2-methyltransferase
+HKDKCAMP_02121	CDS	948				hypothetical protein
+HKDKCAMP_02122	CDS	885	rhaR_6			HTH-type transcriptional activator RhaR
+HKDKCAMP_02123	CDS	138				hypothetical protein
+HKDKCAMP_02124	CDS	144				hypothetical protein
+HKDKCAMP_02125	CDS	369	mgsR		COG1393	Regulatory protein MgsR
+HKDKCAMP_02126	CDS	573				hypothetical protein
+HKDKCAMP_02127	CDS	3384				hypothetical protein
+HKDKCAMP_02128	CDS	1587				hypothetical protein
+HKDKCAMP_02129	CDS	366				hypothetical protein
+HKDKCAMP_02130	tmRNA	396	ssrA			transfer-messenger RNA, SsrA
+HKDKCAMP_02131	CDS	369				hypothetical protein
+HKDKCAMP_02132	CDS	1122				hypothetical protein
+HKDKCAMP_02133	CDS	957	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+HKDKCAMP_02134	CDS	753				hypothetical protein
+HKDKCAMP_02135	CDS	561	sigW_5		COG1595	ECF RNA polymerase sigma factor SigW
+HKDKCAMP_02136	CDS	1269				hypothetical protein
+HKDKCAMP_02137	CDS	507				hypothetical protein
+HKDKCAMP_02138	CDS	462				hypothetical protein
+HKDKCAMP_02139	CDS	453				hypothetical protein
+HKDKCAMP_02140	CDS	900				hypothetical protein
+HKDKCAMP_02141	CDS	1485	mleN		COG1757	Malate-2H(+)/Na(+)-lactate antiporter
+HKDKCAMP_02142	CDS	237				hypothetical protein
+HKDKCAMP_02143	CDS	945	dusC	1.3.1.-		tRNA-dihydrouridine(16) synthase
+HKDKCAMP_02144	CDS	1671				hypothetical protein
+HKDKCAMP_02145	CDS	3747				hypothetical protein
+HKDKCAMP_02146	CDS	1932				hypothetical protein
+HKDKCAMP_02147	CDS	1764				hypothetical protein
+HKDKCAMP_02148	CDS	3255	susC_2			TonB-dependent receptor SusC
+HKDKCAMP_02149	CDS	903	per1	3.5.2.6		Extended-spectrum beta-lactamase PER-1
+HKDKCAMP_02150	CDS	642				hypothetical protein
+HKDKCAMP_02151	CDS	198				hypothetical protein
+HKDKCAMP_02152	CDS	1152	dnaJ		COG0484	Chaperone protein DnaJ
+HKDKCAMP_02153	CDS	612	grpE		COG0576	Protein GrpE
+HKDKCAMP_02154	CDS	2580				hypothetical protein
+HKDKCAMP_02155	CDS	1152				hypothetical protein
+HKDKCAMP_02156	CDS	585				hypothetical protein
+HKDKCAMP_02157	CDS	819	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+HKDKCAMP_02158	CDS	1299				hypothetical protein
+HKDKCAMP_02159	CDS	1557	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+HKDKCAMP_02160	CDS	150				hypothetical protein
+HKDKCAMP_02161	CDS	1041	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+HKDKCAMP_02162	tRNA	88				tRNA-Ser(gct)
+HKDKCAMP_02163	CDS	1278				hypothetical protein
+HKDKCAMP_02164	CDS	1185	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+HKDKCAMP_02165	CDS	2625	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+HKDKCAMP_02166	CDS	498				hypothetical protein
+HKDKCAMP_02167	CDS	636				hypothetical protein
+HKDKCAMP_02168	CDS	1323	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+HKDKCAMP_02169	CDS	2625				hypothetical protein
+HKDKCAMP_02170	CDS	1278				hypothetical protein
+HKDKCAMP_02171	CDS	2109				hypothetical protein
+HKDKCAMP_02172	CDS	738				hypothetical protein
+HKDKCAMP_02173	CDS	855				hypothetical protein
+HKDKCAMP_02174	CDS	1569				hypothetical protein
+HKDKCAMP_02175	CDS	852	lgt_2	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+HKDKCAMP_02176	CDS	303				hypothetical protein
+HKDKCAMP_02177	CDS	897	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+HKDKCAMP_02178	CDS	102				hypothetical protein
+HKDKCAMP_02179	CDS	168				hypothetical protein
+HKDKCAMP_02180	CDS	1308				hypothetical protein
+HKDKCAMP_02181	CDS	1941				hypothetical protein
+HKDKCAMP_02182	CDS	912				hypothetical protein
+HKDKCAMP_02183	CDS	123				hypothetical protein
+HKDKCAMP_02184	CDS	297				hypothetical protein
+HKDKCAMP_02185	CDS	2394				hypothetical protein
+HKDKCAMP_02186	tRNA	75				tRNA-Ala(ggc)
+HKDKCAMP_02187	CDS	309				hypothetical protein
+HKDKCAMP_02188	CDS	588	ruvC	3.1.22.4		Crossover junction endodeoxyribonuclease RuvC
+HKDKCAMP_02189	CDS	3684	metH_2	2.1.1.13	COG0646	Methionine synthase
+HKDKCAMP_02190	CDS	468				hypothetical protein
+HKDKCAMP_02191	CDS	1203				hypothetical protein
+HKDKCAMP_02192	CDS	501	tpx	1.11.1.15	COG2077	Thiol peroxidase
+HKDKCAMP_02193	CDS	1125	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+HKDKCAMP_02194	CDS	417	fdtA_1	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+HKDKCAMP_02195	CDS	420	fdtA_2	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+HKDKCAMP_02196	CDS	879	rffH	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 2
+HKDKCAMP_02197	CDS	1203	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+HKDKCAMP_02198	CDS	1674				hypothetical protein
+HKDKCAMP_02199	CDS	1581				hypothetical protein
+HKDKCAMP_02200	CDS	1404	atsA_2	3.1.6.1	COG3119	Arylsulfatase
+HKDKCAMP_02201	CDS	1002	mdh_2	1.1.1.37		Malate dehydrogenase
+HKDKCAMP_02202	CDS	849				hypothetical protein
+HKDKCAMP_02203	CDS	696				hypothetical protein
+HKDKCAMP_02204	CDS	450				hypothetical protein
+HKDKCAMP_02205	tRNA	75				tRNA-Arg(tct)
+HKDKCAMP_02206	CDS	2433	bamA_2			Outer membrane protein assembly factor BamA
+HKDKCAMP_02207	CDS	1827	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+HKDKCAMP_02208	CDS	1710	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+HKDKCAMP_02209	CDS	546	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+HKDKCAMP_02210	CDS	765				hypothetical protein
+HKDKCAMP_02211	CDS	1047		1.1.1.382	COG0059	Ketol-acid reductoisomerase (NAD(+))
+HKDKCAMP_02212	CDS	723	ytfE		COG2846	Iron-sulfur cluster repair protein YtfE
+HKDKCAMP_02213	CDS	357				hypothetical protein
+HKDKCAMP_02214	CDS	1899	yidC			Membrane protein insertase YidC
+HKDKCAMP_02215	CDS	1602	pyrG	6.3.4.2		CTP synthase
+HKDKCAMP_02216	CDS	1449				hypothetical protein
+HKDKCAMP_02217	CDS	567				hypothetical protein
+HKDKCAMP_02218	CDS	426				hypothetical protein
+HKDKCAMP_02219	CDS	1557				hypothetical protein
+HKDKCAMP_02220	CDS	630				hypothetical protein
+HKDKCAMP_02221	CDS	636				hypothetical protein
+HKDKCAMP_02222	CDS	1098	glgM	2.4.1.342	COG0438	Alpha-maltose-1-phosphate synthase
+HKDKCAMP_02223	CDS	1065	skfB	1.21.98.-	COG0535	Sporulation killing factor maturation protein SkfB
+HKDKCAMP_02224	CDS	1209	glgA_2	2.4.1.21		Glycogen synthase
+HKDKCAMP_02225	CDS	975				hypothetical protein
+HKDKCAMP_02226	CDS	1113				hypothetical protein
+HKDKCAMP_02227	CDS	1407				hypothetical protein
+HKDKCAMP_02228	CDS	1242				hypothetical protein
+HKDKCAMP_02229	CDS	2343				hypothetical protein
+HKDKCAMP_02230	CDS	798				hypothetical protein
+HKDKCAMP_02231	CDS	1182				hypothetical protein
+HKDKCAMP_02232	CDS	426				Acid shock protein
+HKDKCAMP_02233	CDS	531				hypothetical protein
+HKDKCAMP_02234	CDS	885	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+HKDKCAMP_02235	CDS	1656				hypothetical protein
+HKDKCAMP_02236	CDS	609	ribE	2.5.1.9	COG0307	Riboflavin synthase
+HKDKCAMP_02237	CDS	543	rdxA	1.-.-.-	COG0778	Oxygen-insensitive NADPH nitroreductase
+HKDKCAMP_02238	CDS	363				hypothetical protein
+HKDKCAMP_02239	CDS	246				hypothetical protein
+HKDKCAMP_02240	CDS	666				hypothetical protein
+HKDKCAMP_02241	CDS	210				hypothetical protein
+HKDKCAMP_02242	CDS	384				hypothetical protein
+HKDKCAMP_02243	CDS	264				hypothetical protein
+HKDKCAMP_02244	CDS	504	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+HKDKCAMP_02245	CDS	831				hypothetical protein
+HKDKCAMP_02246	CDS	528				hypothetical protein
+HKDKCAMP_02247	CDS	540	azoR	1.7.1.17		FMN-dependent NADH-azoreductase
+HKDKCAMP_02248	CDS	897	rhaS_4			HTH-type transcriptional activator RhaS
+HKDKCAMP_02249	CDS	462				hypothetical protein
+HKDKCAMP_02250	tRNA	85				tRNA-Leu(taa)
+HKDKCAMP_02251	tRNA	74				tRNA-Gly(gcc)
+HKDKCAMP_02252	CDS	489				hypothetical protein
+HKDKCAMP_02253	CDS	993	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+HKDKCAMP_02254	CDS	1341	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+HKDKCAMP_02255	CDS	423				hypothetical protein
+HKDKCAMP_02256	CDS	657	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+HKDKCAMP_02257	CDS	696				hypothetical protein
+HKDKCAMP_02258	CDS	468	recX			Regulatory protein RecX
+HKDKCAMP_02259	CDS	954	prmC	2.1.1.297		Release factor glutamine methyltransferase
+HKDKCAMP_02260	CDS	1056	ribD		COG0117	Riboflavin biosynthesis protein RibD
+HKDKCAMP_02261	CDS	1491				hypothetical protein
+HKDKCAMP_02262	CDS	675				hypothetical protein
+HKDKCAMP_02263	CDS	738	uppS	2.5.1.31		Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+HKDKCAMP_02264	CDS	2646	bamA_3		COG4775	Outer membrane protein assembly factor BamA
+HKDKCAMP_02265	CDS	516				hypothetical protein
+HKDKCAMP_02266	CDS	516				hypothetical protein
+HKDKCAMP_02267	CDS	846	murI	5.1.1.3	COG0796	Glutamate racemase
+HKDKCAMP_02268	CDS	525				hypothetical protein
+HKDKCAMP_02269	CDS	1038				hypothetical protein
+HKDKCAMP_02270	CDS	519	yrdA		COG0663	Protein YrdA
+HKDKCAMP_02271	CDS	1779				hypothetical protein
+HKDKCAMP_02272	CDS	192	rpsU		COG0828	30S ribosomal protein S21
+HKDKCAMP_02273	CDS	882	xerC_5		COG4974	Tyrosine recombinase XerC
+HKDKCAMP_02274	CDS	303	hpf			Ribosome hibernation promoting factor
+HKDKCAMP_02275	tRNA	84				tRNA-Tyr(gta)
+HKDKCAMP_02276	tRNA	76				tRNA-Gly(tcc)
+HKDKCAMP_02277	tRNA	73				tRNA-Thr(ggt)
+HKDKCAMP_02278	CDS	1185	tuf		COG0050	Elongation factor Tu
+HKDKCAMP_02279	tRNA	74				tRNA-Trp(cca)
+HKDKCAMP_02280	CDS	198				hypothetical protein
+HKDKCAMP_02281	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+HKDKCAMP_02282	CDS	444	rplK		COG0080	50S ribosomal protein L11
+HKDKCAMP_02283	CDS	699	rplA			50S ribosomal protein L1
+HKDKCAMP_02284	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+HKDKCAMP_02285	CDS	375	rplL		COG0222	50S ribosomal protein L7/L12
+HKDKCAMP_02286	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+HKDKCAMP_02287	CDS	4275	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+HKDKCAMP_02288	CDS	663	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+HKDKCAMP_02289	CDS	879			COG0803	putative periplasmic iron-binding protein
+HKDKCAMP_02290	CDS	534				hypothetical protein
+HKDKCAMP_02291	CDS	633	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+HKDKCAMP_02292	CDS	477	asnC_2		COG1522	Regulatory protein AsnC
+HKDKCAMP_02293	CDS	786	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+HKDKCAMP_02294	CDS	1059	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+HKDKCAMP_02295	CDS	951	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+HKDKCAMP_02296	CDS	1098				hypothetical protein
+HKDKCAMP_02297	CDS	399				hypothetical protein
+HKDKCAMP_02298	CDS	186				hypothetical protein
+HKDKCAMP_02299	CDS	1188				hypothetical protein
+HKDKCAMP_02300	CDS	2007				hypothetical protein
+HKDKCAMP_02301	CDS	1233	hflX		COG2262	GTPase HflX
+HKDKCAMP_02302	CDS	2553				hypothetical protein
+HKDKCAMP_02303	CDS	969				hypothetical protein
+HKDKCAMP_02304	CDS	1035	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase
+HKDKCAMP_02305	tRNA	75				tRNA-Asp(gtc)
+HKDKCAMP_02306	CDS	1059			COG2220	putative protein
+HKDKCAMP_02307	CDS	819				hypothetical protein
+HKDKCAMP_02308	CDS	843				hypothetical protein
+HKDKCAMP_02309	CDS	522	hybD	3.4.23.-	COG0680	Hydrogenase 2 maturation protease
+HKDKCAMP_02310	CDS	762	hupC		COG1969	putative Ni/Fe-hydrogenase B-type cytochrome subunit
+HKDKCAMP_02311	CDS	1719	hyaB	1.12.99.6	COG0374	Hydrogenase-1 large chain
+HKDKCAMP_02312	CDS	1188	hoxK	1.12.99.6		Uptake hydrogenase small subunit
+HKDKCAMP_02313	CDS	1041	hypE	4.2.1.-		Carbamoyl dehydratase HypE
+HKDKCAMP_02314	CDS	1086	hypD		COG0409	Hydrogenase maturation factor HypD
+HKDKCAMP_02315	CDS	249				hypothetical protein
+HKDKCAMP_02316	CDS	2313	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+HKDKCAMP_02317	CDS	366	hybF		COG0375	Hydrogenase maturation factor HybF
+HKDKCAMP_02318	CDS	750	hypB		COG0378	Hydrogenase maturation factor HypB
+HKDKCAMP_02319	CDS	621	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HKDKCAMP_02320	CDS	807	mnmC	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+HKDKCAMP_02321	CDS	648				hypothetical protein
+HKDKCAMP_02322	CDS	1020				hypothetical protein
+HKDKCAMP_02323	CDS	852	hisG	2.4.2.17		ATP phosphoribosyltransferase
+HKDKCAMP_02324	CDS	1293	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+HKDKCAMP_02325	CDS	1035	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+HKDKCAMP_02326	CDS	1128	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+HKDKCAMP_02327	CDS	516				hypothetical protein
+HKDKCAMP_02328	CDS	426				hypothetical protein
+HKDKCAMP_02329	CDS	1581				hypothetical protein
+HKDKCAMP_02330	CDS	1584				hypothetical protein
+HKDKCAMP_02331	CDS	546				hypothetical protein
+HKDKCAMP_02332	CDS	630				hypothetical protein
+HKDKCAMP_02333	tRNA	73				tRNA-Met(cat)
+HKDKCAMP_02334	CDS	579				hypothetical protein
+HKDKCAMP_02335	CDS	780	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HKDKCAMP_02336	CDS	2175				hypothetical protein
+HKDKCAMP_02337	CDS	684	truC	5.4.99.26	COG0564	tRNA pseudouridine synthase C
+HKDKCAMP_02338	CDS	1374	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+HKDKCAMP_02339	CDS	1170				hypothetical protein
+HKDKCAMP_02340	CDS	162				hypothetical protein
+HKDKCAMP_02341	CDS	2865				hypothetical protein
+HKDKCAMP_02342	CDS	2355				hypothetical protein
+HKDKCAMP_02343	CDS	1197				hypothetical protein
+HKDKCAMP_02344	CDS	582	maf	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+HKDKCAMP_02345	CDS	525	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+HKDKCAMP_02346	CDS	789				hypothetical protein
+HKDKCAMP_02347	CDS	567	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+HKDKCAMP_02348	CDS	2415				hypothetical protein
+HKDKCAMP_02349	CDS	513				hypothetical protein
+HKDKCAMP_02350	CDS	1074	yegS	2.7.1.-		lipid kinase YegS
+HKDKCAMP_02351	CDS	498				hypothetical protein
+HKDKCAMP_02352	tRNA	74				tRNA-Gly(ccc)
+HKDKCAMP_02353	CDS	1533				hypothetical protein
+HKDKCAMP_02354	CDS	639				hypothetical protein
+HKDKCAMP_02355	CDS	540				hypothetical protein
+HKDKCAMP_02356	CDS	327				hypothetical protein
+HKDKCAMP_02357	CDS	729	ypdB		COG3279	Transcriptional regulatory protein YpdB
+HKDKCAMP_02358	CDS	1068				hypothetical protein
+HKDKCAMP_02359	CDS	1221	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+HKDKCAMP_02360	CDS	747	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+HKDKCAMP_02361	CDS	1203	macA		COG0845	Macrolide export protein MacA
+HKDKCAMP_02362	CDS	1323	bepC			Outer membrane efflux protein BepC
+HKDKCAMP_02363	CDS	1677	aspT_1			Aspartate/alanine antiporter
+HKDKCAMP_02364	CDS	714				hypothetical protein
+HKDKCAMP_02365	CDS	651	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+HKDKCAMP_02366	CDS	978				hypothetical protein
+HKDKCAMP_02367	CDS	759	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+HKDKCAMP_02368	CDS	381	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+HKDKCAMP_02369	CDS	2130	yhgF		COG2183	Protein YhgF
+HKDKCAMP_02370	CDS	1191	cpdA_5	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HKDKCAMP_02371	CDS	1164				hypothetical protein
+HKDKCAMP_02372	CDS	1062	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+HKDKCAMP_02373	CDS	576				hypothetical protein
+HKDKCAMP_02374	CDS	894				hypothetical protein
+HKDKCAMP_02375	CDS	153				hypothetical protein
+HKDKCAMP_02376	CDS	1455				hypothetical protein
+HKDKCAMP_02377	CDS	1005	emrA_2			Colistin resistance protein EmrA
+HKDKCAMP_02378	CDS	1182				hypothetical protein
+HKDKCAMP_02379	CDS	1227				hypothetical protein
+HKDKCAMP_02380	CDS	2064				hypothetical protein
+HKDKCAMP_02381	CDS	2850				hypothetical protein
+HKDKCAMP_02382	CDS	579				hypothetical protein
+HKDKCAMP_02383	CDS	936				hypothetical protein
+HKDKCAMP_02384	CDS	1878				hypothetical protein
+HKDKCAMP_02385	CDS	1869				hypothetical protein
+HKDKCAMP_02386	CDS	3321				TonB-dependent receptor P26
+HKDKCAMP_02387	CDS	1428				SusD-like protein P25
+HKDKCAMP_02388	CDS	513				hypothetical protein
+HKDKCAMP_02389	CDS	1683				hypothetical protein
+HKDKCAMP_02390	CDS	2586				hypothetical protein
+HKDKCAMP_02391	CDS	2391				hypothetical protein
+HKDKCAMP_02392	CDS	147				hypothetical protein
+HKDKCAMP_02393	CDS	564	pgiA_1	5.3.1.9		Glucose-6-phosphate isomerase
+HKDKCAMP_02394	CDS	978	nanK	2.7.1.60	COG1940	N-acetylmannosamine kinase
+HKDKCAMP_02395	CDS	1779				hypothetical protein
+HKDKCAMP_02396	CDS	780	pgiA_2	5.3.1.9		Glucose-6-phosphate isomerase
+HKDKCAMP_02397	CDS	1422	araE			Arabinose-proton symporter
+HKDKCAMP_02398	CDS	3105				TonB-dependent receptor P3
+HKDKCAMP_02399	CDS	1536				SusD-like protein P2
+HKDKCAMP_02400	CDS	3186				hypothetical protein
+HKDKCAMP_02401	CDS	1107				hypothetical protein
+HKDKCAMP_02402	CDS	2688				hypothetical protein
+HKDKCAMP_02403	CDS	525				hypothetical protein
+HKDKCAMP_02404	CDS	573				hypothetical protein
+HKDKCAMP_02405	CDS	2433	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+HKDKCAMP_02406	CDS	1320	zraR		COG2204	Transcriptional regulatory protein ZraR
+HKDKCAMP_02407	CDS	327				hypothetical protein
+HKDKCAMP_02408	CDS	525	rfaH_2			Transcription antitermination protein RfaH
+HKDKCAMP_02409	CDS	1158				hypothetical protein
+HKDKCAMP_02410	CDS	1365				hypothetical protein
+HKDKCAMP_02411	CDS	1251	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HKDKCAMP_02412	CDS	1089				hypothetical protein
+HKDKCAMP_02413	CDS	1167				hypothetical protein
+HKDKCAMP_02414	CDS	1296				hypothetical protein
+HKDKCAMP_02415	CDS	1071				hypothetical protein
+HKDKCAMP_02416	CDS	1023	capD	5.1.3.2	COG1086	UDP-glucose 4-epimerase
+HKDKCAMP_02417	CDS	1149	wbjC	1.1.1.367		UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+HKDKCAMP_02418	CDS	1134	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+HKDKCAMP_02419	CDS	1254				hypothetical protein
+HKDKCAMP_02420	CDS	423				hypothetical protein
+HKDKCAMP_02421	tRNA	72				tRNA-Gln(ctg)
+HKDKCAMP_02422	CDS	729	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+HKDKCAMP_02423	CDS	717	walR		COG0745	Transcriptional regulatory protein WalR
+HKDKCAMP_02424	CDS	1545	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+HKDKCAMP_02425	CDS	2160	fusA		COG0480	Elongation factor G
+HKDKCAMP_02426	CDS	1131	hemW		COG0635	Heme chaperone HemW
+HKDKCAMP_02427	CDS	672				hypothetical protein
+HKDKCAMP_02428	CDS	474	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+HKDKCAMP_02429	CDS	849	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+HKDKCAMP_02430	CDS	462				hypothetical protein
+HKDKCAMP_02431	CDS	1365	mepA_3			Multidrug export protein MepA
+HKDKCAMP_02432	CDS	444	mgsA	4.2.3.3	COG1803	Methylglyoxal synthase
+HKDKCAMP_02433	CDS	1890	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+HKDKCAMP_02434	CDS	468				hypothetical protein
+HKDKCAMP_02435	CDS	201				hypothetical protein
+HKDKCAMP_02436	CDS	960	bioB	2.8.1.6	COG0502	Biotin synthase
+HKDKCAMP_02437	tRNA	75				tRNA-Thr(tgt)
+HKDKCAMP_02438	CDS	459	crtK-2		COG3476	Tryptophan-rich protein TspO
+HKDKCAMP_02439	CDS	279				hypothetical protein
+HKDKCAMP_02440	CDS	2811				hypothetical protein
+HKDKCAMP_02441	CDS	699				hypothetical protein
+HKDKCAMP_02442	CDS	1389				hypothetical protein
+HKDKCAMP_02443	CDS	540				hypothetical protein
+HKDKCAMP_02444	CDS	954	rgtE_2	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+HKDKCAMP_02445	CDS	543	albA	1.3.3.13		Albonoursin synthase
+HKDKCAMP_02446	CDS	528				hypothetical protein
+HKDKCAMP_02447	CDS	783				hypothetical protein
+HKDKCAMP_02448	CDS	1260				hypothetical protein
+HKDKCAMP_02449	CDS	363				hypothetical protein
+HKDKCAMP_02450	CDS	1677	asD	2.6.1.1		Bifunctional aspartate aminotransferase and L-aspartate beta-decarboxylase
+HKDKCAMP_02451	CDS	1701	aspT_2			Aspartate/alanine antiporter
+HKDKCAMP_02452	CDS	411				hypothetical protein
+HKDKCAMP_02453	CDS	555				hypothetical protein
+HKDKCAMP_02454	CDS	690				hypothetical protein
+HKDKCAMP_02455	CDS	777	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+HKDKCAMP_02456	CDS	1383	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+HKDKCAMP_02457	CDS	1047	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+HKDKCAMP_02458	CDS	1179	bioF_2	2.3.1.47		8-amino-7-oxononanoate synthase
+HKDKCAMP_02459	CDS	441				hypothetical protein
+HKDKCAMP_02460	CDS	1272	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+HKDKCAMP_02461	CDS	684	mprA		COG0745	Response regulator MprA
+HKDKCAMP_02462	CDS	165	rd	1.-.-.-	COG1773	Rubredoxin
+HKDKCAMP_02463	tRNA	74				tRNA-Glu(ctc)
+HKDKCAMP_02464	CDS	1362	trpB	4.2.1.20		Tryptophan synthase beta chain
+HKDKCAMP_02465	CDS	579	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+HKDKCAMP_02466	CDS	975				hypothetical protein
+HKDKCAMP_02467	CDS	516				hypothetical protein
+HKDKCAMP_02468	CDS	1449				hypothetical protein
+HKDKCAMP_02469	CDS	489				hypothetical protein
+HKDKCAMP_02470	CDS	369				hypothetical protein
+HKDKCAMP_02471	CDS	1038	adh	1.1.1.1	COG1063	Alcohol dehydrogenase
+HKDKCAMP_02472	CDS	2991				hypothetical protein
+HKDKCAMP_02473	CDS	111				hypothetical protein
+HKDKCAMP_02474	CDS	1125				hypothetical protein
+HKDKCAMP_02475	CDS	2424				hypothetical protein
+HKDKCAMP_02476	CDS	609				hypothetical protein
+HKDKCAMP_02477	CDS	1887				hypothetical protein
+HKDKCAMP_02478	CDS	3135				hypothetical protein
+HKDKCAMP_02479	CDS	696				hypothetical protein
+HKDKCAMP_02480	CDS	828				hypothetical protein
+HKDKCAMP_02481	CDS	606				hypothetical protein
+HKDKCAMP_02482	CDS	570				hypothetical protein
+HKDKCAMP_02483	CDS	663				hypothetical protein
+HKDKCAMP_02484	CDS	1362				hypothetical protein
+HKDKCAMP_02485	CDS	585				hypothetical protein
+HKDKCAMP_02486	CDS	1884				hypothetical protein
+HKDKCAMP_02487	CDS	1641				hypothetical protein
+HKDKCAMP_02488	CDS	264				hypothetical protein
+HKDKCAMP_02489	CDS	1605				hypothetical protein
+HKDKCAMP_02490	CDS	2658		3.2.1.40		Alpha-L-rhamnosidase
+HKDKCAMP_02491	CDS	1416	yagG		COG2211	Putative glycoside/cation symporter YagG
+HKDKCAMP_02492	CDS	1164		2.4.1.281	COG2152	4-O-beta-D-mannosyl-D-glucose phosphorylase
+HKDKCAMP_02493	CDS	1356				hypothetical protein
+HKDKCAMP_02494	CDS	1026	egl_1	3.2.1.4		Endoglucanase
+HKDKCAMP_02495	CDS	2571	lacZ_3	3.2.1.23		Beta-galactosidase
+HKDKCAMP_02496	CDS	1104	egl_2	3.2.1.4		Endoglucanase
+HKDKCAMP_02497	CDS	1173				hypothetical protein
+HKDKCAMP_02498	CDS	1767				hypothetical protein
+HKDKCAMP_02499	CDS	3237				TonB-dependent receptor P3
+HKDKCAMP_02500	CDS	996	eglS	3.2.1.4	COG2730	Endoglucanase
+HKDKCAMP_02501	CDS	237				hypothetical protein
+HKDKCAMP_02502	CDS	540				hypothetical protein
+HKDKCAMP_02503	CDS	1032	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+HKDKCAMP_02504	CDS	891		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+HKDKCAMP_02505	CDS	459	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+HKDKCAMP_02506	CDS	1638				hypothetical protein
+HKDKCAMP_02507	CDS	564		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+HKDKCAMP_02508	CDS	711				hypothetical protein
+HKDKCAMP_02509	CDS	555	rcsB			Transcriptional regulatory protein RcsB
+HKDKCAMP_02510	CDS	630				hypothetical protein
+HKDKCAMP_02511	CDS	219				hypothetical protein
+HKDKCAMP_02512	CDS	2829				hypothetical protein
+HKDKCAMP_02513	CDS	222				hypothetical protein
+HKDKCAMP_02514	CDS	651				hypothetical protein
+HKDKCAMP_02515	CDS	651				hypothetical protein
+HKDKCAMP_02516	CDS	465				hypothetical protein
+HKDKCAMP_02517	CDS	3693	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+HKDKCAMP_02518	CDS	1404	purF_3	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+HKDKCAMP_02519	CDS	153				hypothetical protein
+HKDKCAMP_02520	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+HKDKCAMP_02521	CDS	1020	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+HKDKCAMP_02522	CDS	1704	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+HKDKCAMP_02523	CDS	450				hypothetical protein
+HKDKCAMP_02524	CDS	3153	bepE_3			Efflux pump membrane transporter BepE
+HKDKCAMP_02525	CDS	1137	bepF_2			Efflux pump periplasmic linker BepF
+HKDKCAMP_02526	CDS	1431	oprM_3		COG1538	Outer membrane protein OprM
+HKDKCAMP_02527	CDS	1377	aldH1	1.2.1.-	COG1012	4,4'-diaponeurosporen-aldehyde dehydrogenase
+HKDKCAMP_02528	CDS	2454	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+HKDKCAMP_02529	CDS	1140	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+HKDKCAMP_02530	CDS	210				hypothetical protein
+HKDKCAMP_02531	CDS	414				hypothetical protein
+HKDKCAMP_02532	CDS	1071	aes	3.1.1.-		Acetyl esterase
+HKDKCAMP_02533	CDS	396				hypothetical protein
+	repeat_region	1737				
+HKDKCAMP_02534	CDS	333	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+HKDKCAMP_02535	CDS	930	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+HKDKCAMP_02536	CDS	4653	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+HKDKCAMP_02537	CDS	654	gph_3	3.1.3.18		Phosphoglycolate phosphatase
+HKDKCAMP_02538	CDS	1173				hypothetical protein
+HKDKCAMP_02539	CDS	3882	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+HKDKCAMP_02540	CDS	315				Thioredoxin C-1
+HKDKCAMP_02541	CDS	285				hypothetical protein
+HKDKCAMP_02542	CDS	615				hypothetical protein
+HKDKCAMP_02543	CDS	354				hypothetical protein
+HKDKCAMP_02544	CDS	234				hypothetical protein
+HKDKCAMP_02545	CDS	3306	secA			Protein translocase subunit SecA
+HKDKCAMP_02546	CDS	1584	pafA	3.1.3.1		Alkaline phosphatase PafA
+HKDKCAMP_02547	CDS	1245				hypothetical protein
+HKDKCAMP_02548	CDS	612				hypothetical protein
+HKDKCAMP_02549	CDS	741				hypothetical protein
+HKDKCAMP_02550	CDS	1980	mdoB	2.7.8.20		Phosphoglycerol transferase I
+HKDKCAMP_02551	CDS	1131				hypothetical protein
+HKDKCAMP_02552	CDS	1050	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+HKDKCAMP_02553	CDS	1035	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HKDKCAMP_02554	CDS	1131	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+HKDKCAMP_02555	CDS	327				hypothetical protein
+HKDKCAMP_02556	CDS	1548				hypothetical protein
+HKDKCAMP_02557	CDS	552				hypothetical protein
+HKDKCAMP_02558	CDS	1656	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HKDKCAMP_02559	CDS	432				hypothetical protein
+HKDKCAMP_02560	CDS	1083	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+HKDKCAMP_02561	CDS	1254	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+HKDKCAMP_02562	CDS	954	argF'	2.1.3.11		N-succinylornithine carbamoyltransferase
+HKDKCAMP_02563	CDS	1161				hypothetical protein
+HKDKCAMP_02564	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+HKDKCAMP_02565	CDS	525	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+HKDKCAMP_02566	CDS	453				hypothetical protein
+HKDKCAMP_02567	CDS	1161				hypothetical protein
+HKDKCAMP_02568	CDS	2007				hypothetical protein
+HKDKCAMP_02569	CDS	2202		3.2.1.21	COG1472	Beta-glucosidase BoGH3A
+HKDKCAMP_02570	CDS	1683				SusD-like protein P2
+HKDKCAMP_02571	CDS	3186				TonB-dependent receptor P3
+HKDKCAMP_02572	CDS	489				hypothetical protein
+HKDKCAMP_02573	CDS	447				hypothetical protein
+HKDKCAMP_02574	CDS	1221				hypothetical protein
+HKDKCAMP_02575	CDS	810	bglA	3.2.1.73		Beta-glucanase
+HKDKCAMP_02576	CDS	1587				hypothetical protein
+HKDKCAMP_02577	CDS	1362				hypothetical protein
+HKDKCAMP_02578	CDS	135				hypothetical protein
+HKDKCAMP_02579	CDS	2244		3.2.1.-		Beta-xylosidase
+HKDKCAMP_02580	CDS	1131		3.2.1.78	COG4124	Mannan endo-1,4-beta-mannosidase
+HKDKCAMP_02581	CDS	4068	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+HKDKCAMP_02582	CDS	825	tsf		COG0264	Elongation factor Ts
+HKDKCAMP_02583	CDS	840	rpsB		COG0052	30S ribosomal protein S2
+HKDKCAMP_02584	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+HKDKCAMP_02585	CDS	456	rplM		COG0102	50S ribosomal protein L13
+HKDKCAMP_02586	CDS	2307				hypothetical protein
+HKDKCAMP_02587	tRNA	85				tRNA-Leu(gag)
+HKDKCAMP_02588	CDS	768				hypothetical protein
+HKDKCAMP_02589	CDS	1128	dnaN		COG0592	Beta sliding clamp
+HKDKCAMP_02590	CDS	801	dinG_2	3.1.-.-		3'-5' exonuclease DinG
+HKDKCAMP_02591	CDS	1209	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+HKDKCAMP_02592	CDS	900				hypothetical protein
+HKDKCAMP_02593	CDS	1683	recN		COG0497	DNA repair protein RecN
+HKDKCAMP_02594	CDS	738		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+HKDKCAMP_02595	CDS	498				hypothetical protein
+HKDKCAMP_02596	CDS	570	cwlC	3.5.1.28	COG0860	Sporulation-specific N-acetylmuramoyl-L-alanine amidase
+HKDKCAMP_02597	CDS	696				hypothetical protein
+HKDKCAMP_02598	CDS	618	vraR			Response regulator protein VraR
+HKDKCAMP_02599	CDS	783	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+HKDKCAMP_02600	CDS	1866				hypothetical protein
+HKDKCAMP_02601	CDS	717	lytR_2		COG3279	Sensory transduction protein LytR
+HKDKCAMP_02602	CDS	1008				hypothetical protein
+HKDKCAMP_02603	CDS	1101	mdtE_2			Multidrug resistance protein MdtE
+HKDKCAMP_02604	CDS	3144	bepE_4			Efflux pump membrane transporter BepE
+HKDKCAMP_02605	CDS	1362	oprM_4		COG1538	Outer membrane protein OprM
+HKDKCAMP_02606	CDS	1587		3.1.6.-	COG3119	N-acetylglucosamine-6-O-sulfatase
+HKDKCAMP_02607	CDS	2409				hypothetical protein
+HKDKCAMP_02608	CDS	594				hypothetical protein
+HKDKCAMP_02609	tRNA	74				tRNA-Lys(ttt)
+HKDKCAMP_02610	CDS	693	yohK		COG1346	Inner membrane protein YohK
+HKDKCAMP_02611	CDS	342				hypothetical protein
+HKDKCAMP_02612	CDS	1911	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+HKDKCAMP_02613	CDS	1722	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+HKDKCAMP_02614	CDS	489	bar	2.3.1.183		Phosphinothricin N-acetyltransferase
+HKDKCAMP_02615	CDS	927	mscS		COG0668	Small-conductance mechanosensitive channel
+HKDKCAMP_02616	CDS	1191				hypothetical protein
+HKDKCAMP_02617	CDS	819				hypothetical protein
+HKDKCAMP_02618	CDS	996				hypothetical protein
+HKDKCAMP_02619	CDS	756	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+HKDKCAMP_02620	CDS	1374	radA	3.6.4.-	COG1066	DNA repair protein RadA
+HKDKCAMP_02621	CDS	1587				hypothetical protein
+HKDKCAMP_02622	CDS	708				hypothetical protein
+HKDKCAMP_02623	CDS	393				hypothetical protein
+HKDKCAMP_02624	CDS	1437				hypothetical protein
+HKDKCAMP_02625	CDS	843				hypothetical protein
+HKDKCAMP_02626	CDS	3438	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+HKDKCAMP_02627	CDS	384	dksA			RNA polymerase-binding transcription factor DksA
+HKDKCAMP_02628	CDS	630	lspA	3.4.23.36		Lipoprotein signal peptidase
+HKDKCAMP_02629	CDS	861				hypothetical protein
+HKDKCAMP_02630	CDS	384				hypothetical protein
+HKDKCAMP_02631	CDS	1845		3.2.1.54	COG0366	Cyclomaltodextrinase
+HKDKCAMP_02632	CDS	1335	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+HKDKCAMP_02633	CDS	3006				hypothetical protein
+HKDKCAMP_02634	CDS	1572				hypothetical protein
+HKDKCAMP_02635	CDS	333	dkgB	1.1.1.346	COG0656	2,5-diketo-D-gluconic acid reductase B
+HKDKCAMP_02636	CDS	849	morA	1.1.1.218		Morphine 6-dehydrogenase
+HKDKCAMP_02637	CDS	828				hypothetical protein
+HKDKCAMP_02638	CDS	633				hypothetical protein
+HKDKCAMP_02639	CDS	702	lutR		COG2186	HTH-type transcriptional regulator LutR
+HKDKCAMP_02640	CDS	1218	fsr			Fosmidomycin resistance protein
+HKDKCAMP_02641	CDS	651				hypothetical protein
+HKDKCAMP_02642	CDS	543	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+HKDKCAMP_02643	CDS	1524	napF			Ferredoxin-type protein NapF
+HKDKCAMP_02644	CDS	1410				hypothetical protein
+HKDKCAMP_02645	CDS	1149				hypothetical protein
+HKDKCAMP_02646	CDS	432				hypothetical protein
+HKDKCAMP_02647	CDS	1923	btuB_5		COG4206	Vitamin B12 transporter BtuB
+HKDKCAMP_02648	CDS	984				hypothetical protein
+HKDKCAMP_02649	CDS	510				hypothetical protein
+HKDKCAMP_02650	CDS	2013				hypothetical protein
+HKDKCAMP_02651	CDS	1098				hypothetical protein
+HKDKCAMP_02652	CDS	1287				hypothetical protein
+HKDKCAMP_02653	CDS	2304	btuB_6			Vitamin B12 transporter BtuB
+HKDKCAMP_02654	CDS	645				hypothetical protein
+HKDKCAMP_02655	CDS	1350	mepA_4		COG0534	Multidrug export protein MepA
+HKDKCAMP_02656	CDS	2484				hypothetical protein
+HKDKCAMP_02657	CDS	1467	sglT_2			Sodium/glucose cotransporter
+HKDKCAMP_02658	CDS	1185				hypothetical protein
+HKDKCAMP_02659	CDS	1086				hypothetical protein

@@ -1,0 +1,339 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 2948 gene of reference genome
+Samp10	NODE_10_length_58789_cov_6.848055	5025	5025	label=insertion	
+Samp10	NODE_10_length_58789_cov_6.848055	53207	53334	label=deletion	
+Samp10	NODE_12_length_57169_cov_7.880859	27138	27286	label=deletion	
+Samp10	NODE_12_length_57169_cov_7.880859	36313	36313	label=insertion	
+Samp10	NODE_12_length_57169_cov_7.880859	50276	50455	label=deletion	
+Samp10	NODE_14_length_56630_cov_7.745195	11102	56570	label=insertion	10441	11655	ID=JPOKODMA_00869	gene=icd	gene end
+Samp10	NODE_14_length_56630_cov_7.745195	28585	56570	label=transloc	
+Samp10	NODE_15_length_55018_cov_8.720664	399	399	label=insertion	
+Samp10	NODE_15_length_55018_cov_8.720664	8083	8083	label=insertion	
+Samp10	NODE_15_length_55018_cov_8.720664	14329	16139	label=deletion	
+Samp10	NODE_15_length_55018_cov_8.720664	23862	24002	label=deletion	
+Samp10	NODE_16_length_54822_cov_7.635912	3733	3733	label=insertion	
+Samp10	NODE_16_length_54822_cov_7.635912	25182	25183	label=insertion	
+Samp10	NODE_16_length_54822_cov_7.635912	25466	25617	label=deletion	25612	26634	ID=JPOKODMA_00979	gene=Null	gene begin
+Samp10	NODE_16_length_54822_cov_7.635912	26780	27621	label=deletion	
+Samp10	NODE_16_length_54822_cov_7.635912	27981	28702	label=deletion	27922	28776	ID=JPOKODMA_00981	gene=Null	gene middle
+Samp10	NODE_17_length_54666_cov_7.367748	17719	54608	label=insertion	
+Samp10	NODE_17_length_54666_cov_7.367748	42914	54608	label=transloc	
+Samp10	NODE_18_length_52313_cov_6.891378	9574	9574	label=insertion	
+Samp10	NODE_18_length_52313_cov_6.891378	21780	21957	label=deletion	21947	22558	ID=JPOKODMA_01061	gene=Null	gene begin
+Samp10	NODE_18_length_52313_cov_6.891378	36965	37083	label=deletion	
+Samp10	NODE_18_length_52313_cov_6.891378	36965	37083	label=insertion	
+Samp10	NODE_19_length_49662_cov_6.119814	6314	6317	label=insertion	4785	7490	ID=JPOKODMA_01089	gene=Null	gene middle
+Samp10	NODE_19_length_49662_cov_6.119814	11750	11768	label=insertion	
+Samp10	NODE_19_length_49662_cov_6.119814	17915	17918	label=insertion	
+Samp10	NODE_19_length_49662_cov_6.119814	24211	24212	label=insertion	24076	24258	ID=JPOKODMA_01108	gene=Null	gene middle
+Samp10	NODE_1_length_126529_cov_8.888155	1378	1378	label=insertion	
+Samp10	NODE_1_length_126529_cov_8.888155	26749	26793	label=insertion	26536	27411	ID=JPOKODMA_00017	gene=Null	gene middle
+Samp10	NODE_1_length_126529_cov_8.888155	27438	27439	label=insertion	
+Samp10	NODE_1_length_126529_cov_8.888155	46030	46194	label=deletion	
+Samp10	NODE_20_length_49328_cov_7.320460	98	49218	label=transloc	
+Samp10	NODE_20_length_49328_cov_7.320460	28574	49218	label=insertion	27649	28938	ID=JPOKODMA_01153	gene=eno_1	gene end
+Samp10	NODE_21_length_47520_cov_7.463883	13073	13074	label=insertion	12937	13953	ID=JPOKODMA_01182	gene=Null	gene middle
+Samp10	NODE_21_length_47520_cov_7.463883	19432	19437	label=insertion	
+Samp10	NODE_21_length_47520_cov_7.463883	45161	45166	label=insertion	
+Samp10	NODE_22_length_47420_cov_6.166635	21787	22008	label=duplication	20896	22452	ID=JPOKODMA_01226	gene=Null	gene middle	20896	22452	ID=JPOKODMA_01226	gene=Null	gene middle
+Samp10	NODE_22_length_47420_cov_6.166635	21787	22008	label=insertion	20896	22452	ID=JPOKODMA_01226	gene=Null	gene middle
+Samp10	NODE_22_length_47420_cov_6.166635	46543	46690	label=insertion	
+Samp10	NODE_23_length_46373_cov_8.241317	3662	3663	label=insertion	
+Samp10	NODE_23_length_46373_cov_8.241317	15851	16038	label=deletion	
+Samp10	NODE_23_length_46373_cov_8.241317	24378	24382	label=insertion	23334	24389	ID=JPOKODMA_01270	gene=thiL	gene middle
+Samp10	NODE_24_length_46025_cov_7.651759	17439	17591	label=insertion	
+Samp10	NODE_26_length_42954_cov_7.886046	14735	14858	label=insertion	
+Samp10	NODE_26_length_42954_cov_7.886046	40696	40790	label=deletion	
+Samp10	NODE_27_length_41633_cov_7.769516	179	41567	label=transloc	
+Samp10	NODE_27_length_41633_cov_7.769516	12912	41567	label=insertion	12312	13661	ID=JPOKODMA_01444	gene=mepA_5	gene end
+Samp10	NODE_27_length_41633_cov_7.769516	17342	17343	label=insertion	
+Samp10	NODE_27_length_41633_cov_7.769516	31941	32408	label=deletion	
+Samp10	NODE_27_length_41633_cov_7.769516	37167	37167	label=insertion	
+Samp10	NODE_28_length_40861_cov_11.487446	68	40784	label=transloc	
+Samp10	NODE_28_length_40861_cov_11.487446	6472	8308	label=deletion	8094	8558	ID=JPOKODMA_01482	gene=Null	gene begin
+Samp10	NODE_29_length_40460_cov_7.075453	3905	40404	label=transloc	3901	4515	ID=JPOKODMA_01514	gene=recX	gene end
+Samp10	NODE_29_length_40460_cov_7.075453	26518	26524	label=insertion	
+Samp10	NODE_29_length_40460_cov_7.075453	33450	33469	label=insertion	33351	33506	ID=JPOKODMA_01542	gene=Null	gene middle
+Samp10	NODE_2_length_111048_cov_7.409263	98	93069	label=insertion	92260	93378	ID=JPOKODMA_00198	gene=Null	gene begin
+Samp10	NODE_2_length_111048_cov_7.409263	43178	43317	label=deletion	
+Samp10	NODE_2_length_111048_cov_7.409263	91734	91832	label=duplication	
+Samp10	NODE_30_length_35958_cov_7.425239	2308	2309	label=insertion	1650	2312	ID=JPOKODMA_01549	gene=Null	gene middle
+Samp10	NODE_31_length_35358_cov_7.736714	12520	12616	label=deletion	12610	12999	ID=JPOKODMA_01594	gene=Null	gene begin
+Samp10	NODE_31_length_35358_cov_7.736714	18904	19444	label=deletion	
+Samp10	NODE_32_length_34239_cov_7.556671	30119	30337	label=deletion	
+Samp10	NODE_32_length_34239_cov_7.556671	33921	33979	label=duplication	33964	34045	ID=JPOKODMA_01665	gene=Null	gene begin
+Samp10	NODE_33_length_34049_cov_7.808695	130	29196	label=insertion	28474	29550	ID=JPOKODMA_01693	gene=degA_1	gene begin
+Samp10	NODE_33_length_34049_cov_7.808695	130	34024	label=transloc	
+Samp10	NODE_33_length_34049_cov_7.808695	19407	19409	label=insertion	
+Samp10	NODE_35_length_31123_cov_8.841300	14579	14581	label=insertion	
+Samp10	NODE_35_length_31123_cov_8.841300	22761	22778	label=insertion	22774	23793	ID=JPOKODMA_01743	gene=pheS	gene begin
+Samp10	NODE_39_length_30628_cov_6.311054	12947	13098	label=deletion	
+Samp10	NODE_39_length_30628_cov_6.311054	24844	25498	label=deletion	23819	26323	ID=JPOKODMA_01852	gene=rcsC_7	gene middle
+Samp10	NODE_40_length_29532_cov_8.143745	3746	3746	label=insertion	
+Samp10	NODE_40_length_29532_cov_8.143745	8816	8816	label=insertion	
+Samp10	NODE_41_length_28689_cov_9.189431	167	28618	label=transloc	
+Samp10	NODE_41_length_28689_cov_9.189431	16818	16981	label=deletion	
+Samp10	NODE_47_length_23658_cov_7.544803	5238	5322	label=duplication	4674	7424	ID=JPOKODMA_02027	gene=Null	gene middle
+Samp10	NODE_4_length_96517_cov_6.725363	11464	11470	label=insertion	
+Samp10	NODE_4_length_96517_cov_6.725363	34881	34887	label=insertion	
+Samp10	NODE_4_length_96517_cov_6.725363	65363	65367	label=insertion	63430	65502	ID=JPOKODMA_00340	gene=Null	gene middle
+Samp10	NODE_4_length_96517_cov_6.725363	70078	70257	label=deletion	
+Samp10	NODE_4_length_96517_cov_6.725363	82275	93360	label=deletion	
+Samp10	NODE_51_length_20365_cov_8.355284	70	20309	label=transloc	
+Samp10	NODE_51_length_20365_cov_8.355284	9231	9237	label=insertion	9032	9331	ID=JPOKODMA_02112	gene=Null	gene middle
+Samp10	NODE_51_length_20365_cov_8.355284	14446	20309	label=insertion	13389	15353	ID=JPOKODMA_02115	gene=metG	gene end
+Samp10	NODE_57_length_19842_cov_6.984316	7433	7530	label=deletion	
+Samp10	NODE_5_length_83602_cov_7.897983	53	83514	label=transloc	46	822	ID=JPOKODMA_00370	gene=Null	gene end
+Samp10	NODE_5_length_83602_cov_7.897983	1802	1802	label=insertion	
+Samp10	NODE_5_length_83602_cov_7.897983	25017	26723	label=deletion	
+Samp10	NODE_5_length_83602_cov_7.897983	26829	26877	label=insertion	
+Samp10	NODE_5_length_83602_cov_7.897983	32813	32813	label=insertion	32795	33952	ID=JPOKODMA_00404	gene=dnaJ_2	gene middle
+Samp10	NODE_5_length_83602_cov_7.897983	33985	34086	label=deletion	
+Samp10	NODE_5_length_83602_cov_7.897983	42483	42670	label=deletion	42156	43271	ID=JPOKODMA_00410	gene=Null	gene middle
+Samp10	NODE_5_length_83602_cov_7.897983	47308	83514	label=insertion	46968	48989	ID=JPOKODMA_00415	gene=recG_2	gene end
+Samp10	NODE_5_length_83602_cov_7.897983	74314	74314	label=insertion	
+Samp10	NODE_63_length_17719_cov_7.574935	3673	3702	label=insertion	
+Samp10	NODE_63_length_17719_cov_7.574935	17026	17144	label=deletion	
+Samp10	NODE_64_length_17067_cov_6.255268	219	226	label=insertion	
+Samp10	NODE_64_length_17067_cov_6.255268	5446	5449	label=insertion	
+Samp10	NODE_6_length_76589_cov_5.833974	11939	53522	label=deletion	53509	54030	ID=JPOKODMA_00514	gene=Null	gene begin
+Samp10	NODE_6_length_76589_cov_5.833974	57412	57441	label=insertion	
+Samp10	NODE_73_length_14490_cov_7.965587	60	14446	label=transloc	
+Samp10	NODE_77_length_12583_cov_7.182392	28	82	label=duplication	2	78	ID=JPOKODMA_02477	gene=Null	gene end
+Samp10	NODE_79_length_11307_cov_6.956278	10953	11037	label=insertion	
+Samp10	NODE_7_length_60674_cov_7.956681	60533	60578	label=insertion	60116	60550	ID=JPOKODMA_00580	gene=Null	gene end
+Samp10	NODE_82_length_10577_cov_7.529714	10502	10508	label=insertion	
+Samp10	NODE_8_length_59961_cov_6.247963	1490	1671	label=deletion	1018	1785	ID=JPOKODMA_00582	gene=Null	gene middle
+Samp10	NODE_8_length_59961_cov_6.247963	1864	1916	label=duplication	
+Samp10	NODE_9_length_59531_cov_8.382750	7737	8201	label=insertion	
+Samp10	NODE_9_length_59531_cov_8.382750	13949	15623	label=deletion	
+Samp10	NODE_9_length_59531_cov_8.382750	18032	18124	label=insertion	
+Samp10	NODE_9_length_59531_cov_8.382750	22828	22983	label=insertion	
+Samp10	NODE_9_length_59531_cov_8.382750	39000	39129	label=deletion	
+Samp10	NODE_9_length_59531_cov_8.382750	39389	39394	label=insertion	39270	48503	ID=JPOKODMA_00655	gene=Null	gene middle
+Samp10	NODE_9_length_59531_cov_8.382750	55653	58725	label=deletion	
+Samp1	NODE_12_length_57169_cov_7.880859	14778	14854	label=duplication	13806	14954	ID=JPOKODMA_00780	gene=fldC	gene middle
+Samp1	NODE_12_length_57169_cov_7.880859	50276	50455	label=deletion	
+Samp1	NODE_14_length_56630_cov_7.745195	12745	28743	label=transloc	
+Samp1	NODE_1_length_126529_cov_8.888155	26785	26797	label=insertion	26536	27411	ID=JPOKODMA_00017	gene=Null	gene middle
+Samp1	NODE_21_length_47520_cov_7.463883	3791	43468	label=transloc	
+Samp1	NODE_21_length_47520_cov_7.463883	19432	19437	label=insertion	
+Samp1	NODE_38_length_30758_cov_7.564323	5336	5369	label=insertion	4865	6931	ID=JPOKODMA_01808	gene=Null	gene middle
+Samp1	NODE_39_length_30628_cov_6.311054	29336	29338	label=insertion	29109	30572	ID=JPOKODMA_01857	gene=rpfC	gene middle
+Samp1	NODE_4_length_96517_cov_6.725363	38610	38971	label=deletion	
+Samp1	NODE_7_length_60674_cov_7.956681	419	425	label=insertion	
+Samp2	NODE_11_length_58006_cov_7.184951	842	21845	label=insertion	
+Samp2	NODE_11_length_58006_cov_7.184951	1037	46197	label=insertion	
+Samp2	NODE_11_length_58006_cov_7.184951	1037	46197	label=deletion	
+Samp2	NODE_12_length_57169_cov_7.880859	27138	27286	label=deletion	
+Samp2	NODE_15_length_55018_cov_8.720664	42454	54177	label=transloc	41943	42491	ID=JPOKODMA_00941	gene=pncA	gene end
+Samp2	NODE_16_length_54822_cov_7.635912	27973	28702	label=deletion	27922	28776	ID=JPOKODMA_00981	gene=Null	gene middle
+Samp2	NODE_18_length_52313_cov_6.891378	77	52156	label=transloc	
+Samp2	NODE_19_length_49662_cov_6.119814	24211	24212	label=insertion	24076	24258	ID=JPOKODMA_01108	gene=Null	gene middle
+Samp2	NODE_1_length_126529_cov_8.888155	26785	26797	label=insertion	26536	27411	ID=JPOKODMA_00017	gene=Null	gene middle
+Samp2	NODE_1_length_126529_cov_8.888155	27438	27439	label=insertion	
+Samp2	NODE_1_length_126529_cov_8.888155	46030	46194	label=deletion	
+Samp2	NODE_1_length_126529_cov_8.888155	68504	68606	label=deletion	68384	68764	ID=JPOKODMA_00059	gene=Null	gene middle
+Samp2	NODE_24_length_46025_cov_7.651759	54	41478	label=transloc	41057	41971	ID=JPOKODMA_01320	gene=pknL	gene begin
+Samp2	NODE_24_length_46025_cov_7.651759	9988	9989	label=insertion	
+Samp2	NODE_41_length_28689_cov_9.189431	6800	28618	label=transloc	
+Samp2	NODE_4_length_96517_cov_6.725363	82275	93360	label=deletion	
+Samp2	NODE_54_length_19998_cov_8.121128	1456	1459	label=insertion	560	2119	ID=JPOKODMA_02160	gene=sir	gene middle
+Samp2	NODE_55_length_19974_cov_6.660100	74	19082	label=transloc	18802	19455	ID=JPOKODMA_02182	gene=Null	gene begin
+Samp2	NODE_6_length_76589_cov_5.833974	11939	53522	label=deletion	53509	54030	ID=JPOKODMA_00514	gene=Null	gene begin
+Samp2	NODE_8_length_59961_cov_6.247963	55214	55362	label=deletion	
+Samp3	NODE_18_length_52313_cov_6.891378	77	52026	label=transloc	
+Samp3	NODE_38_length_30758_cov_7.564323	34	27632	label=transloc	27625	28089	ID=JPOKODMA_01824	gene=Null	gene begin
+Samp3	NODE_4_length_96517_cov_6.725363	82275	93360	label=deletion	
+Samp3	NODE_7_length_60674_cov_7.956681	29307	29335	label=insertion	
+Samp5	NODE_13_length_56651_cov_8.437745	902	1533	label=deletion	
+Samp5	NODE_16_length_54822_cov_7.635912	23	29998	label=transloc	28813	30291	ID=JPOKODMA_00982	gene=Null	gene begin
+Samp5	NODE_1_length_126529_cov_8.888155	106751	126336	label=transloc	
+Samp5	NODE_21_length_47520_cov_7.463883	3373	7093	label=deletion	1731	3704	ID=JPOKODMA_01174	gene=pknD_1	gene end
+Samp5	NODE_40_length_29532_cov_8.143745	13623	13645	label=insertion	
+Samp5	NODE_47_length_23658_cov_7.544803	5238	5292	label=duplication	4674	7424	ID=JPOKODMA_02027	gene=Null	gene middle
+Samp5	NODE_51_length_20365_cov_8.355284	13894	20309	label=insertion	13389	15353	ID=JPOKODMA_02115	gene=metG	gene end
+Samp5	NODE_60_length_18837_cov_7.682996	3956	4077	label=deletion	
+Samp5	NODE_65_length_16076_cov_8.554785	12860	12974	label=deletion	
+Samp6	NODE_12_length_57169_cov_7.880859	31931	31936	label=insertion	
+Samp6	NODE_13_length_56651_cov_8.437745	902	1533	label=deletion	
+Samp6	NODE_13_length_56651_cov_8.437745	36851	36853	label=insertion	
+Samp6	NODE_13_length_56651_cov_8.437745	37229	37235	label=insertion	
+Samp6	NODE_13_length_56651_cov_8.437745	37529	37553	label=insertion	37537	38514	ID=JPOKODMA_00844	gene=Null	gene begin
+Samp6	NODE_13_length_56651_cov_8.437745	52871	53077	label=deletion	
+Samp6	NODE_14_length_56630_cov_7.745195	12580	28743	label=transloc	
+Samp6	NODE_14_length_56630_cov_7.745195	28268	28501	label=insertion	
+Samp6	NODE_15_length_55018_cov_8.720664	31468	31474	label=insertion	
+Samp6	NODE_15_length_55018_cov_8.720664	38827	38831	label=insertion	
+Samp6	NODE_16_length_54822_cov_7.635912	3981	25237	label=transloc	3979	4491	ID=JPOKODMA_00957	gene=niaR	gene end
+Samp6	NODE_16_length_54822_cov_7.635912	27620	27624	label=insertion	
+Samp6	NODE_18_length_52313_cov_6.891378	11946	14161	label=deletion	
+Samp6	NODE_1_length_126529_cov_8.888155	5371	5408	label=insertion	
+Samp6	NODE_1_length_126529_cov_8.888155	26749	26793	label=insertion	26536	27411	ID=JPOKODMA_00017	gene=Null	gene middle
+Samp6	NODE_1_length_126529_cov_8.888155	27438	27439	label=insertion	
+Samp6	NODE_1_length_126529_cov_8.888155	46118	126280	label=transloc	
+Samp6	NODE_1_length_126529_cov_8.888155	95316	95442	label=deletion	95382	95996	ID=JPOKODMA_00087	gene=Null	gene begin
+Samp6	NODE_22_length_47420_cov_6.166635	8648	8648	label=insertion	
+Samp6	NODE_22_length_47420_cov_6.166635	21787	22008	label=duplication	20896	22452	ID=JPOKODMA_01226	gene=Null	gene middle
+Samp6	NODE_26_length_42954_cov_7.886046	40696	40790	label=deletion	
+Samp6	NODE_27_length_41633_cov_7.769516	17342	17343	label=insertion	
+Samp6	NODE_27_length_41633_cov_7.769516	31941	32408	label=deletion	
+Samp6	NODE_28_length_40861_cov_11.487446	23	40757	label=insertion	
+Samp6	NODE_28_length_40861_cov_11.487446	3647	40757	label=transloc	
+Samp6	NODE_28_length_40861_cov_11.487446	6490	8197	label=deletion	8094	8558	ID=JPOKODMA_01482	gene=Null	gene begin
+Samp6	NODE_28_length_40861_cov_11.487446	19320	19322	label=insertion	
+Samp6	NODE_28_length_40861_cov_11.487446	34867	35030	label=deletion	
+Samp6	NODE_28_length_40861_cov_11.487446	34867	35030	label=insertion	
+Samp6	NODE_2_length_111048_cov_7.409263	43178	43317	label=deletion	
+Samp6	NODE_32_length_34239_cov_7.556671	30153	30317	label=deletion	
+Samp6	NODE_39_length_30628_cov_6.311054	12947	13098	label=deletion	
+Samp6	NODE_41_length_28689_cov_9.189431	106	167	label=insertion	
+Samp6	NODE_41_length_28689_cov_9.189431	167	28618	label=transloc	
+Samp6	NODE_41_length_28689_cov_9.189431	16818	16981	label=deletion	
+Samp6	NODE_47_length_23658_cov_7.544803	24	23528	label=transloc	
+Samp6	NODE_47_length_23658_cov_7.544803	5251	5293	label=insertion	4674	7424	ID=JPOKODMA_02027	gene=Null	gene middle
+Samp6	NODE_49_length_21845_cov_7.545709	11668	11790	label=deletion	
+Samp6	NODE_51_length_20365_cov_8.355284	404	3647	label=insertion	382	1704	ID=JPOKODMA_02104	gene=Null	gene end	3051	4364	ID=JPOKODMA_02106	gene=Null	gene begin
+Samp6	NODE_51_length_20365_cov_8.355284	404	20310	label=transloc	382	1704	ID=JPOKODMA_02104	gene=Null	gene end
+Samp6	NODE_56_length_19886_cov_7.740169	12742	12747	label=insertion	
+Samp6	NODE_5_length_83602_cov_7.897983	42483	42670	label=deletion	42156	43271	ID=JPOKODMA_00410	gene=Null	gene middle
+Samp6	NODE_60_length_18837_cov_7.682996	1270	1447	label=deletion	
+Samp6	NODE_60_length_18837_cov_7.682996	3956	4077	label=deletion	
+Samp6	NODE_60_length_18837_cov_7.682996	16722	17867	label=deletion	15967	17949	ID=JPOKODMA_02260	gene=rcsC_8	gene middle
+Samp6	NODE_64_length_17067_cov_6.255268	59	10101	label=insertion	9061	10164	ID=JPOKODMA_02309	gene=Null	gene begin
+Samp6	NODE_64_length_17067_cov_6.255268	183	219	label=insertion	
+Samp6	NODE_64_length_17067_cov_6.255268	5446	5449	label=insertion	
+Samp6	NODE_73_length_14490_cov_7.965587	60	14450	label=transloc	
+Samp6	NODE_79_length_11307_cov_6.956278	24	11163	label=insertion	
+Samp6	NODE_79_length_11307_cov_6.956278	55	11163	label=transloc	
+Samp6	NODE_7_length_60674_cov_7.956681	39314	39421	label=deletion	
+Samp6	NODE_7_length_60674_cov_7.956681	45495	46257	label=insertion	45716	46465	ID=JPOKODMA_00569	gene=Null	gene begin
+Samp6	NODE_82_length_10577_cov_7.529714	23	10508	label=transloc	
+Samp6	NODE_9_length_59531_cov_8.382750	22828	22996	label=insertion	
+Samp6	NODE_9_length_59531_cov_8.382750	42184	45968	label=deletion	39270	48503	ID=JPOKODMA_00655	gene=Null	gene middle
+Samp6	NODE_9_length_59531_cov_8.382750	55653	59384	label=deletion	
+Samp8	NODE_10_length_58789_cov_6.848055	1251	57267	label=transloc	
+Samp8	NODE_10_length_58789_cov_6.848055	1693	24556	label=insertion	
+Samp8	NODE_10_length_58789_cov_6.848055	1693	24556	label=deletion	
+Samp8	NODE_10_length_58789_cov_6.848055	30949	30958	label=insertion	
+Samp8	NODE_10_length_58789_cov_6.848055	44812	44852	label=insertion	
+Samp8	NODE_10_length_58789_cov_6.848055	53212	53338	label=deletion	
+Samp8	NODE_11_length_58006_cov_7.184951	7110	22463	label=deletion	7095	7592	ID=JPOKODMA_00722	gene=Null	gene end
+Samp8	NODE_12_length_57169_cov_7.880859	124	383	label=duplication	
+Samp8	NODE_12_length_57169_cov_7.880859	8541	8543	label=insertion	
+Samp8	NODE_12_length_57169_cov_7.880859	31931	31931	label=insertion	
+Samp8	NODE_13_length_56651_cov_8.437745	29411	29414	label=insertion	
+Samp8	NODE_15_length_55018_cov_8.720664	23761	24056	label=deletion	24043	24597	ID=JPOKODMA_00927	gene=Null	gene begin
+Samp8	NODE_15_length_55018_cov_8.720664	31468	31474	label=insertion	
+Samp8	NODE_16_length_54822_cov_7.635912	25182	25183	label=insertion	
+Samp8	NODE_16_length_54822_cov_7.635912	25466	25617	label=deletion	25612	26634	ID=JPOKODMA_00979	gene=Null	gene begin
+Samp8	NODE_16_length_54822_cov_7.635912	26773	27621	label=deletion	
+Samp8	NODE_16_length_54822_cov_7.635912	27981	28705	label=deletion	27922	28776	ID=JPOKODMA_00981	gene=Null	gene middle
+Samp8	NODE_16_length_54822_cov_7.635912	39182	39588	label=deletion	
+Samp8	NODE_16_length_54822_cov_7.635912	45770	46020	label=deletion	
+Samp8	NODE_19_length_49662_cov_6.119814	6314	6317	label=insertion	4785	7490	ID=JPOKODMA_01089	gene=Null	gene middle
+Samp8	NODE_19_length_49662_cov_6.119814	11637	13169	label=inversion	
+Samp8	NODE_19_length_49662_cov_6.119814	13714	13715	label=insertion	
+Samp8	NODE_19_length_49662_cov_6.119814	24211	24212	label=insertion	24076	24258	ID=JPOKODMA_01108	gene=Null	gene middle
+Samp8	NODE_1_length_126529_cov_8.888155	26748	26793	label=insertion	26536	27411	ID=JPOKODMA_00017	gene=Null	gene middle
+Samp8	NODE_1_length_126529_cov_8.888155	27322	27537	label=deletion	26536	27411	ID=JPOKODMA_00017	gene=Null	gene end
+Samp8	NODE_1_length_126529_cov_8.888155	46030	46194	label=deletion	
+Samp8	NODE_1_length_126529_cov_8.888155	76644	76646	label=insertion	
+Samp8	NODE_1_length_126529_cov_8.888155	81337	81601	label=deletion	80564	81409	ID=JPOKODMA_00072	gene=fba_1	gene end
+Samp8	NODE_1_length_126529_cov_8.888155	82550	95297	label=insertion	
+Samp8	NODE_1_length_126529_cov_8.888155	82550	95297	label=deletion	
+Samp8	NODE_22_length_47420_cov_6.166635	4187	28109	label=insertion	3128	4282	ID=JPOKODMA_01214	gene=Null	gene end	27081	29078	ID=JPOKODMA_01229	gene=Null	gene begin
+Samp8	NODE_22_length_47420_cov_6.166635	4187	28109	label=deletion	3128	4282	ID=JPOKODMA_01214	gene=Null	gene end	27081	29078	ID=JPOKODMA_01229	gene=Null	gene begin
+Samp8	NODE_22_length_47420_cov_6.166635	45213	45213	label=insertion	
+Samp8	NODE_26_length_42954_cov_7.886046	25574	25580	label=insertion	24995	26227	ID=JPOKODMA_01420	gene=Null	gene middle
+Samp8	NODE_26_length_42954_cov_7.886046	26387	26412	label=insertion	
+Samp8	NODE_27_length_41633_cov_7.769516	10918	11062	label=deletion	
+Samp8	NODE_27_length_41633_cov_7.769516	13694	13805	label=deletion	
+Samp8	NODE_27_length_41633_cov_7.769516	17342	17343	label=insertion	
+Samp8	NODE_27_length_41633_cov_7.769516	31941	32408	label=deletion	
+Samp8	NODE_27_length_41633_cov_7.769516	37167	37167	label=insertion	
+Samp8	NODE_28_length_40861_cov_11.487446	77	40757	label=transloc	73	1743	ID=JPOKODMA_01475	gene=fhs	gene end
+Samp8	NODE_28_length_40861_cov_11.487446	6490	8197	label=deletion	8094	8558	ID=JPOKODMA_01482	gene=Null	gene begin
+Samp8	NODE_28_length_40861_cov_11.487446	13689	13976	label=deletion	
+Samp8	NODE_28_length_40861_cov_11.487446	15999	40757	label=insertion	15447	17330	ID=JPOKODMA_01488	gene=Null	gene end
+Samp8	NODE_28_length_40861_cov_11.487446	34907	35030	label=deletion	
+Samp8	NODE_28_length_40861_cov_11.487446	34907	35030	label=insertion	
+Samp8	NODE_29_length_40460_cov_7.075453	6299	6309	label=insertion	
+Samp8	NODE_29_length_40460_cov_7.075453	26518	26524	label=insertion	
+Samp8	NODE_29_length_40460_cov_7.075453	26983	27749	label=insertion	27116	27784	ID=JPOKODMA_01534	gene=gpmA_2	gene begin
+Samp8	NODE_29_length_40460_cov_7.075453	33469	33478	label=insertion	33351	33506	ID=JPOKODMA_01542	gene=Null	gene middle
+Samp8	NODE_2_length_111048_cov_7.409263	165	209	label=insertion	171	299	ID=JPOKODMA_00114	gene=Null	gene begin
+Samp8	NODE_2_length_111048_cov_7.409263	12989	13213	label=deletion	
+Samp8	NODE_2_length_111048_cov_7.409263	28337	93373	label=insertion	27929	28732	ID=JPOKODMA_00141	gene=carD_1	gene end	92260	93378	ID=JPOKODMA_00198	gene=Null	gene begin
+Samp8	NODE_2_length_111048_cov_7.409263	91834	91937	label=deletion	
+Samp8	NODE_30_length_35958_cov_7.425239	4193	4211	label=insertion	
+Samp8	NODE_30_length_35958_cov_7.425239	11388	22200	label=deletion	
+Samp8	NODE_31_length_35358_cov_7.736714	9796	9850	label=duplication	9628	10023	ID=JPOKODMA_01589	gene=rpsK	gene middle
+Samp8	NODE_31_length_35358_cov_7.736714	12515	12611	label=deletion	12610	12999	ID=JPOKODMA_01594	gene=Null	gene begin
+Samp8	NODE_31_length_35358_cov_7.736714	18904	19444	label=deletion	
+Samp8	NODE_31_length_35358_cov_7.736714	30724	30817	label=deletion	
+Samp8	NODE_32_length_34239_cov_7.556671	30153	30317	label=deletion	
+Samp8	NODE_33_length_34049_cov_7.808695	66	29532	label=insertion	28474	29550	ID=JPOKODMA_01693	gene=degA_1	gene begin
+Samp8	NODE_33_length_34049_cov_7.808695	66	34024	label=transloc	
+Samp8	NODE_33_length_34049_cov_7.808695	1409	1501	label=deletion	
+Samp8	NODE_33_length_34049_cov_7.808695	19401	19407	label=insertion	
+Samp8	NODE_34_length_33860_cov_6.122636	120	33748	label=transloc	33696	33771	ID=JPOKODMA_01731	gene=Null	gene begin
+Samp8	NODE_35_length_31123_cov_8.841300	27	77	label=duplication	
+Samp8	NODE_35_length_31123_cov_8.841300	18927	18932	label=insertion	17965	18930	ID=JPOKODMA_01740	gene=Null	gene end
+Samp8	NODE_35_length_31123_cov_8.841300	22767	22769	label=insertion	
+Samp8	NODE_39_length_30628_cov_6.311054	2668	2670	label=insertion	2666	3067	ID=JPOKODMA_01830	gene=Null	gene middle
+Samp8	NODE_39_length_30628_cov_6.311054	7819	7821	label=insertion	
+Samp8	NODE_39_length_30628_cov_6.311054	10657	10666	label=insertion	10366	10695	ID=JPOKODMA_01838	gene=Null	gene middle
+Samp8	NODE_39_length_30628_cov_6.311054	17695	17700	label=insertion	
+Samp8	NODE_43_length_26469_cov_6.964383	5795	5816	label=insertion	
+Samp8	NODE_45_length_25590_cov_7.385098	5988	6023	label=insertion	
+Samp8	NODE_47_length_23658_cov_7.544803	5240	5322	label=duplication	4674	7424	ID=JPOKODMA_02027	gene=Null	gene middle
+Samp8	NODE_49_length_21845_cov_7.545709	7327	7461	label=deletion	
+Samp8	NODE_4_length_96517_cov_6.725363	36	34902	label=transloc	
+Samp8	NODE_4_length_96517_cov_6.725363	11464	11470	label=insertion	
+Samp8	NODE_4_length_96517_cov_6.725363	33182	33896	label=deletion	
+Samp8	NODE_4_length_96517_cov_6.725363	57343	62571	label=deletion	
+Samp8	NODE_4_length_96517_cov_6.725363	70078	70257	label=deletion	
+Samp8	NODE_4_length_96517_cov_6.725363	72588	72588	label=insertion	
+Samp8	NODE_4_length_96517_cov_6.725363	82275	93355	label=deletion	
+Samp8	NODE_51_length_20365_cov_8.355284	77	380	label=insertion	
+Samp8	NODE_51_length_20365_cov_8.355284	380	20347	label=transloc	
+Samp8	NODE_51_length_20365_cov_8.355284	4696	4696	label=insertion	
+Samp8	NODE_51_length_20365_cov_8.355284	19657	19895	label=deletion	19157	19678	ID=JPOKODMA_02119	gene=tadA_1	gene end
+Samp8	NODE_56_length_19886_cov_7.740169	16056	16075	label=insertion	
+Samp8	NODE_57_length_19842_cov_6.984316	7433	7530	label=deletion	
+Samp8	NODE_5_length_83602_cov_7.897983	78	11044	label=insertion	46	822	ID=JPOKODMA_00370	gene=Null	gene end	10936	11229	ID=JPOKODMA_00383	gene=Null	gene begin
+Samp8	NODE_5_length_83602_cov_7.897983	13166	13325	label=deletion	
+Samp8	NODE_5_length_83602_cov_7.897983	24966	26723	label=deletion	
+Samp8	NODE_5_length_83602_cov_7.897983	33985	34086	label=deletion	
+Samp8	NODE_5_length_83602_cov_7.897983	42483	42670	label=deletion	42156	43271	ID=JPOKODMA_00410	gene=Null	gene middle
+Samp8	NODE_5_length_83602_cov_7.897983	62474	62567	label=deletion	
+Samp8	NODE_60_length_18837_cov_7.682996	15698	18148	label=deletion	
+Samp8	NODE_64_length_17067_cov_6.255268	183	219	label=insertion	
+Samp8	NODE_64_length_17067_cov_6.255268	5446	5449	label=insertion	
+Samp8	NODE_65_length_16076_cov_8.554785	12860	12974	label=deletion	
+Samp8	NODE_67_length_15938_cov_7.374503	363	15477	label=transloc	
+Samp8	NODE_67_length_15938_cov_7.374503	1251	15477	label=insertion	
+Samp8	NODE_67_length_15938_cov_7.374503	3328	3421	label=deletion	
+Samp8	NODE_67_length_15938_cov_7.374503	13722	13777	label=duplication	
+Samp8	NODE_70_length_14598_cov_7.327663	3313	3493	label=deletion	
+Samp8	NODE_73_length_14490_cov_7.965587	60	14430	label=transloc	
+Samp8	NODE_73_length_14490_cov_7.965587	4010	4018	label=insertion	3982	4194	ID=JPOKODMA_02431	gene=Null	gene middle
+Samp8	NODE_77_length_12583_cov_7.182392	28	82	label=duplication	2	78	ID=JPOKODMA_02477	gene=Null	gene end
+Samp8	NODE_7_length_60674_cov_7.956681	419	428	label=insertion	
+Samp8	NODE_7_length_60674_cov_7.956681	11524	11624	label=deletion	
+Samp8	NODE_7_length_60674_cov_7.956681	11898	12043	label=deletion	
+Samp8	NODE_7_length_60674_cov_7.956681	16470	17430	label=insertion	16417	17610	ID=JPOKODMA_00548	gene=tuf	gene middle
+Samp8	NODE_7_length_60674_cov_7.956681	56651	60592	label=insertion	55998	57236	ID=JPOKODMA_00577	gene=ugd	gene end
+Samp8	NODE_7_length_60674_cov_7.956681	57283	57894	label=insertion	
+Samp8	NODE_83_length_10302_cov_8.728020	106	170	label=insertion	
+Samp8	NODE_85_length_10142_cov_6.265176	33	10101	label=transloc	
+Samp8	NODE_85_length_10142_cov_6.265176	59	10101	label=insertion	
+Samp8	NODE_8_length_59961_cov_6.247963	13911	13913	label=insertion	
+Samp8	NODE_8_length_59961_cov_6.247963	55357	58963	label=deletion	
+Samp8	NODE_9_length_59531_cov_8.382750	5392	5616	label=deletion	
+Samp8	NODE_9_length_59531_cov_8.382750	18032	18124	label=insertion	
+Samp8	NODE_9_length_59531_cov_8.382750	30440	33368	label=deletion	29274	30443	ID=JPOKODMA_00648	gene=msmX_1	gene end	33127	33981	ID=JPOKODMA_00651	gene=Null	gene begin
+Samp8	NODE_9_length_59531_cov_8.382750	42184	45968	label=deletion	39270	48503	ID=JPOKODMA_00655	gene=Null	gene middle
+Samp8	NODE_9_length_59531_cov_8.382750	46136	46350	label=deletion	39270	48503	ID=JPOKODMA_00655	gene=Null	gene middle
+Samp8	NODE_9_length_59531_cov_8.382750	46933	47993	label=deletion	39270	48503	ID=JPOKODMA_00655	gene=Null	gene middle

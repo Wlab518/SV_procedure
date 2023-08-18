@@ -1,0 +1,770 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 3802 gene of reference genome
+Samp10	NODE_11_length_517270_cov_19.519805	2574	2623	label=insertion	2585	5158	ID=JFMPDDIF_00005	gene=Null	gene begin
+Samp10	NODE_11_length_517270_cov_19.519805	15249	15277	label=insertion	
+Samp10	NODE_11_length_517270_cov_19.519805	176523	182207	label=insertion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp10	NODE_11_length_517270_cov_19.519805	176523	182207	label=deletion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp10	NODE_11_length_517270_cov_19.519805	282552	286261	label=inversion	282476	283666	ID=JFMPDDIF_00233	gene=Null	gene end	284977	286452	ID=JFMPDDIF_00236	gene=Null	gene begin
+Samp10	NODE_11_length_517270_cov_19.519805	326600	328282	label=deletion	
+Samp10	NODE_11_length_517270_cov_19.519805	341617	353675	label=insertion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp10	NODE_11_length_517270_cov_19.519805	341617	353675	label=deletion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp10	NODE_11_length_517270_cov_19.519805	380848	380852	label=insertion	379731	380852	ID=JFMPDDIF_00310	gene=xylI	gene middle
+Samp10	NODE_11_length_517270_cov_19.519805	416030	416044	label=insertion	
+Samp10	NODE_120_length_160732_cov_18.890619	39571	40622	label=deletion	39446	40426	ID=JFMPDDIF_02339	gene=pfkA_1	gene end
+Samp10	NODE_172_length_117454_cov_19.196995	40102	40251	label=deletion	
+Samp10	NODE_172_length_117454_cov_19.196995	60116	70923	label=deletion	
+Samp10	NODE_172_length_117454_cov_19.196995	104312	104707	label=deletion	104068	104754	ID=JFMPDDIF_02515	gene=Null	gene middle
+Samp10	NODE_185_length_111714_cov_19.776489	4935	5606	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene middle
+Samp10	NODE_185_length_111714_cov_19.776489	6337	17811	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene end	15954	18233	ID=JFMPDDIF_02544	gene=Null	gene begin
+Samp10	NODE_188_length_110575_cov_17.447485	47857	47911	label=duplication	47867	48595	ID=JFMPDDIF_02652	gene=Null	gene begin
+Samp10	NODE_188_length_110575_cov_17.447485	50557	66681	label=insertion	
+Samp10	NODE_188_length_110575_cov_17.447485	50557	66681	label=deletion	
+Samp10	NODE_188_length_110575_cov_17.447485	83580	83581	label=insertion	
+Samp10	NODE_192_length_108808_cov_18.739042	70649	72487	label=deletion	
+Samp10	NODE_20_length_423139_cov_20.286650	12579	12585	label=insertion	
+Samp10	NODE_20_length_423139_cov_20.286650	14134	14186	label=deletion	
+Samp10	NODE_20_length_423139_cov_20.286650	14134	14186	label=insertion	
+Samp10	NODE_20_length_423139_cov_20.286650	79795	79796	label=insertion	
+Samp10	NODE_20_length_423139_cov_20.286650	153035	153089	label=duplication	151545	154631	ID=JFMPDDIF_00530	gene=Null	gene middle
+Samp10	NODE_20_length_423139_cov_20.286650	173992	184065	label=deletion	172708	174042	ID=JFMPDDIF_00545	gene=Null	gene end
+Samp10	NODE_20_length_423139_cov_20.286650	242863	243944	label=insertion	242846	244030	ID=JFMPDDIF_00596	gene=Null	gene middle
+Samp10	NODE_20_length_423139_cov_20.286650	242863	243944	label=duplication	242846	244030	ID=JFMPDDIF_00596	gene=Null	gene middle
+Samp10	NODE_20_length_423139_cov_20.286650	309315	324049	label=insertion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp10	NODE_20_length_423139_cov_20.286650	309315	324049	label=deletion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp10	NODE_210_length_100457_cov_18.441973	56	20095	label=transloc	18491	22525	ID=JFMPDDIF_02795	gene=rcsC_23	gene begin
+Samp10	NODE_210_length_100457_cov_18.441973	43553	55281	label=insertion	55203	57146	ID=JFMPDDIF_02814	gene=Null	gene begin
+Samp10	NODE_210_length_100457_cov_18.441973	43553	55281	label=deletion	55203	57146	ID=JFMPDDIF_02814	gene=Null	gene begin
+Samp10	NODE_210_length_100457_cov_18.441973	62035	72278	label=insertion	59689	62037	ID=JFMPDDIF_02816	gene=Null	gene end
+Samp10	NODE_210_length_100457_cov_18.441973	62035	72278	label=deletion	59689	62037	ID=JFMPDDIF_02816	gene=Null	gene end
+Samp10	NODE_210_length_100457_cov_18.441973	79734	79767	label=insertion	76660	79743	ID=JFMPDDIF_02825	gene=Null	gene end
+Samp10	NODE_215_length_99527_cov_14.979753	15618	63774	label=transloc	63768	64682	ID=JFMPDDIF_02907	gene=ppx2	gene begin
+Samp10	NODE_233_length_93916_cov_22.191997	7698	9383	label=deletion	9382	9834	ID=JFMPDDIF_02955	gene=Null	gene begin
+Samp10	NODE_24_length_404374_cov_16.340946	38724	100187	label=transloc	
+Samp10	NODE_24_length_404374_cov_16.340946	172070	173392	label=deletion	171829	172077	ID=JFMPDDIF_00894	gene=Null	gene end	173344	175557	ID=JFMPDDIF_00896	gene=Null	gene begin
+Samp10	NODE_24_length_404374_cov_16.340946	209864	209864	label=insertion	
+Samp10	NODE_24_length_404374_cov_16.340946	210955	210959	label=insertion	
+Samp10	NODE_24_length_404374_cov_16.340946	211125	224326	label=insertion	211081	211647	ID=JFMPDDIF_00929	gene=Null	gene end	223615	224862	ID=JFMPDDIF_00942	gene=Null	gene begin
+Samp10	NODE_24_length_404374_cov_16.340946	212897	212906	label=insertion	212823	213653	ID=JFMPDDIF_00932	gene=Null	gene middle
+Samp10	NODE_24_length_404374_cov_16.340946	245362	245458	label=deletion	
+Samp10	NODE_24_length_404374_cov_16.340946	317906	317938	label=insertion	
+Samp10	NODE_24_length_404374_cov_16.340946	356859	356870	label=insertion	354118	356889	ID=JFMPDDIF_01060	gene=ppdK	gene middle
+Samp10	NODE_24_length_404374_cov_16.340946	359654	359700	label=insertion	359653	361965	ID=JFMPDDIF_01063	gene=Null	gene middle
+Samp10	NODE_24_length_404374_cov_16.340946	379718	382478	label=deletion	
+Samp10	NODE_24_length_404374_cov_16.340946	386996	388945	label=deletion	
+Samp10	NODE_267_length_83533_cov_22.223915	1275	4908	label=deletion	746	1561	ID=JFMPDDIF_03116	gene=tolQ_3	gene end	4678	6093	ID=JFMPDDIF_03121	gene=lapB	gene begin
+Samp10	NODE_267_length_83533_cov_22.223915	59040	60091	label=deletion	
+Samp10	NODE_267_length_83533_cov_22.223915	69384	71208	label=deletion	
+Samp10	NODE_276_length_81074_cov_19.037818	60672	62356	label=deletion	
+Samp10	NODE_276_length_81074_cov_19.037818	66941	66951	label=insertion	
+Samp10	NODE_286_length_79039_cov_21.544465	2024	2112	label=deletion	
+Samp10	NODE_286_length_79039_cov_21.544465	2024	2112	label=insertion	
+Samp10	NODE_286_length_79039_cov_21.544465	13711	13726	label=insertion	
+Samp10	NODE_300_length_75942_cov_17.531870	70470	71341	label=deletion	70978	73116	ID=JFMPDDIF_03381	gene=Null	gene begin
+Samp10	NODE_41_length_307170_cov_23.010153	77871	77874	label=insertion	
+Samp10	NODE_41_length_307170_cov_23.010153	192820	194662	label=deletion	
+Samp10	NODE_48_length_288824_cov_19.256967	60213	60214	label=insertion	
+Samp10	NODE_48_length_288824_cov_19.256967	61242	61242	label=insertion	
+Samp10	NODE_48_length_288824_cov_19.256967	121007	121244	label=deletion	121109	121411	ID=JFMPDDIF_01453	gene=dapF_2	gene begin
+Samp10	NODE_48_length_288824_cov_19.256967	134722	142196	label=deletion	
+Samp10	NODE_48_length_288824_cov_19.256967	234275	234278	label=insertion	
+Samp10	NODE_48_length_288824_cov_19.256967	246966	247016	label=insertion	245896	249087	ID=JFMPDDIF_01548	gene=lacZ_3	gene middle
+Samp10	NODE_58_length_257392_cov_18.205897	10824	12147	label=deletion	10680	10832	ID=JFMPDDIF_01587	gene=Null	gene end	12099	13334	ID=JFMPDDIF_01589	gene=Null	gene begin
+Samp10	NODE_58_length_257392_cov_18.205897	84845	85392	label=deletion	
+Samp10	NODE_58_length_257392_cov_18.205897	84845	85392	label=insertion	
+Samp10	NODE_58_length_257392_cov_18.205897	171594	171648	label=duplication	168858	173507	ID=JFMPDDIF_01719	gene=Null	gene middle
+Samp10	NODE_58_length_257392_cov_18.205897	243578	243580	label=insertion	
+Samp10	NODE_64_length_243723_cov_18.867590	11526	13210	label=deletion	
+Samp10	NODE_64_length_243723_cov_18.867590	130761	130924	label=insertion	129909	130919	ID=JFMPDDIF_01910	gene=Null	gene end
+Samp10	NODE_64_length_243723_cov_18.867590	198219	201126	label=deletion	
+Samp10	NODE_64_length_243723_cov_18.867590	203577	203764	label=deletion	
+Samp10	NODE_64_length_243723_cov_18.867590	203577	203764	label=insertion	
+Samp10	NODE_64_length_243723_cov_18.867590	212349	212399	label=duplication	212350	213948	ID=JFMPDDIF_01984	gene=clcA	gene begin
+Samp10	NODE_662_length_44349_cov_15.467422	32447	32449	label=insertion	31912	33003	ID=JFMPDDIF_03554	gene=mshA_7	gene middle
+Samp10	NODE_69_length_223667_cov_17.004190	101974	103283	label=deletion	
+Samp10	NODE_69_length_223667_cov_17.004190	101974	103283	label=insertion	
+Samp10	NODE_69_length_223667_cov_17.004190	188526	188532	label=insertion	
+Samp10	NODE_830_length_38176_cov_20.251384	1273	1532	label=deletion	
+Samp10	NODE_979_length_34067_cov_19.713248	51	27129	label=transloc	
+Samp2	NODE_116_length_164593_cov_18.639633	8727	8733	label=insertion	
+Samp2	NODE_116_length_164593_cov_18.639633	40645	40780	label=insertion	39074	40858	ID=JFMPDDIF_02234	gene=Null	gene middle
+Samp2	NODE_116_length_164593_cov_18.639633	57919	58045	label=deletion	57646	57927	ID=JFMPDDIF_02246	gene=Null	gene end
+Samp2	NODE_116_length_164593_cov_18.639633	57919	58045	label=insertion	57646	57927	ID=JFMPDDIF_02246	gene=Null	gene end
+Samp2	NODE_116_length_164593_cov_18.639633	60919	61001	label=deletion	58133	60922	ID=JFMPDDIF_02247	gene=rhaR_3	gene end
+Samp2	NODE_116_length_164593_cov_18.639633	60919	61001	label=insertion	58133	60922	ID=JFMPDDIF_02247	gene=rhaR_3	gene end
+Samp2	NODE_116_length_164593_cov_18.639633	87229	87244	label=insertion	
+Samp2	NODE_116_length_164593_cov_18.639633	140093	148779	label=inversion	137187	140315	ID=JFMPDDIF_02294	gene=Null	gene end
+Samp2	NODE_11_length_517270_cov_19.519805	99081	99082	label=insertion	
+Samp2	NODE_11_length_517270_cov_19.519805	99500	101184	label=deletion	99102	99563	ID=JFMPDDIF_00080	gene=Null	gene end
+Samp2	NODE_11_length_517270_cov_19.519805	104039	111404	label=insertion	
+Samp2	NODE_11_length_517270_cov_19.519805	104039	111404	label=deletion	
+Samp2	NODE_11_length_517270_cov_19.519805	176523	182207	label=insertion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp2	NODE_11_length_517270_cov_19.519805	176523	182207	label=deletion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp2	NODE_11_length_517270_cov_19.519805	237344	238501	label=deletion	
+Samp2	NODE_11_length_517270_cov_19.519805	240135	240364	label=deletion	239487	240140	ID=JFMPDDIF_00206	gene=bcrA_1	gene end
+Samp2	NODE_11_length_517270_cov_19.519805	240135	240364	label=insertion	239487	240140	ID=JFMPDDIF_00206	gene=bcrA_1	gene end
+Samp2	NODE_11_length_517270_cov_19.519805	321061	322921	label=deletion	
+Samp2	NODE_11_length_517270_cov_19.519805	326600	328282	label=deletion	
+Samp2	NODE_11_length_517270_cov_19.519805	341617	353675	label=insertion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp2	NODE_11_length_517270_cov_19.519805	341617	353675	label=deletion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp2	NODE_11_length_517270_cov_19.519805	368661	368683	label=insertion	364615	368667	ID=JFMPDDIF_00303	gene=rcsC_4	gene end
+Samp2	NODE_11_length_517270_cov_19.519805	371411	479935	label=transloc	479705	480928	ID=JFMPDDIF_00386	gene=Null	gene begin
+Samp2	NODE_11_length_517270_cov_19.519805	380848	380852	label=insertion	379731	380852	ID=JFMPDDIF_00310	gene=xylI	gene middle
+Samp2	NODE_11_length_517270_cov_19.519805	476431	476436	label=insertion	475858	477201	ID=JFMPDDIF_00383	gene=bepA_1	gene middle
+Samp2	NODE_120_length_160732_cov_18.890619	92576	92581	label=insertion	
+Samp2	NODE_172_length_117454_cov_19.196995	104312	104707	label=deletion	104068	104754	ID=JFMPDDIF_02515	gene=Null	gene middle
+Samp2	NODE_185_length_111714_cov_19.776489	136	4618	label=deletion	
+Samp2	NODE_185_length_111714_cov_19.776489	4935	5606	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene middle
+Samp2	NODE_185_length_111714_cov_19.776489	6337	17811	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene end	15954	18233	ID=JFMPDDIF_02544	gene=Null	gene begin
+Samp2	NODE_188_length_110575_cov_17.447485	25275	25280	label=insertion	
+Samp2	NODE_188_length_110575_cov_17.447485	50557	66681	label=insertion	
+Samp2	NODE_188_length_110575_cov_17.447485	50557	66681	label=deletion	
+Samp2	NODE_188_length_110575_cov_17.447485	90759	90772	label=insertion	
+Samp2	NODE_192_length_108808_cov_18.739042	70649	72487	label=deletion	
+Samp2	NODE_192_length_108808_cov_18.739042	84362	98840	label=transloc	
+Samp2	NODE_20_length_423139_cov_20.286650	12579	12585	label=insertion	
+Samp2	NODE_20_length_423139_cov_20.286650	14134	14186	label=deletion	
+Samp2	NODE_20_length_423139_cov_20.286650	14134	14186	label=insertion	
+Samp2	NODE_20_length_423139_cov_20.286650	38107	60619	label=inversion	35300	39286	ID=JFMPDDIF_00449	gene=rcsC_6	gene end	58893	61139	ID=JFMPDDIF_00461	gene=Null	gene begin
+Samp2	NODE_20_length_423139_cov_20.286650	79795	79796	label=insertion	
+Samp2	NODE_20_length_423139_cov_20.286650	115423	150788	label=deletion	150780	151529	ID=JFMPDDIF_00529	gene=Null	gene begin
+Samp2	NODE_20_length_423139_cov_20.286650	170907	185422	label=insertion	185408	186313	ID=JFMPDDIF_00555	gene=Null	gene begin
+Samp2	NODE_20_length_423139_cov_20.286650	170907	185422	label=deletion	185408	186313	ID=JFMPDDIF_00555	gene=Null	gene begin
+Samp2	NODE_20_length_423139_cov_20.286650	228987	228992	label=insertion	
+Samp2	NODE_20_length_423139_cov_20.286650	309315	324049	label=insertion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp2	NODE_20_length_423139_cov_20.286650	309315	324049	label=deletion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp2	NODE_20_length_423139_cov_20.286650	367702	369195	label=deletion	
+Samp2	NODE_210_length_100457_cov_18.441973	4237	4242	label=insertion	
+Samp2	NODE_210_length_100457_cov_18.441973	62035	72278	label=insertion	59689	62037	ID=JFMPDDIF_02816	gene=Null	gene end
+Samp2	NODE_210_length_100457_cov_18.441973	62035	72278	label=deletion	59689	62037	ID=JFMPDDIF_02816	gene=Null	gene end
+Samp2	NODE_210_length_100457_cov_18.441973	80384	80389	label=insertion	80349	80951	ID=JFMPDDIF_02827	gene=Null	gene middle
+Samp2	NODE_210_length_100457_cov_18.441973	95254	95261	label=insertion	95253	97328	ID=JFMPDDIF_02844	gene=dnaG_2	gene middle
+Samp2	NODE_215_length_99527_cov_14.979753	15618	99489	label=transloc	
+Samp2	NODE_215_length_99527_cov_14.979753	82491	82993	label=insertion	81527	82912	ID=JFMPDDIF_02922	gene=Null	gene end
+Samp2	NODE_24_length_404374_cov_16.340946	38724	82145	label=transloc	82094	82167	ID=JFMPDDIF_00816	gene=Null	gene begin
+Samp2	NODE_24_length_404374_cov_16.340946	61057	61301	label=insertion	
+Samp2	NODE_24_length_404374_cov_16.340946	101625	101634	label=insertion	
+Samp2	NODE_24_length_404374_cov_16.340946	143911	187585	label=transloc	
+Samp2	NODE_24_length_404374_cov_16.340946	172070	173392	label=deletion	171829	172077	ID=JFMPDDIF_00894	gene=Null	gene end	173344	175557	ID=JFMPDDIF_00896	gene=Null	gene begin
+Samp2	NODE_24_length_404374_cov_16.340946	212906	212915	label=insertion	212823	213653	ID=JFMPDDIF_00932	gene=Null	gene middle
+Samp2	NODE_24_length_404374_cov_16.340946	279480	281164	label=deletion	
+Samp2	NODE_24_length_404374_cov_16.340946	336801	336801	label=insertion	336780	337502	ID=JFMPDDIF_01047	gene=mtgA	gene middle
+Samp2	NODE_24_length_404374_cov_16.340946	350768	350776	label=insertion	
+Samp2	NODE_24_length_404374_cov_16.340946	359654	359700	label=insertion	359653	361965	ID=JFMPDDIF_01063	gene=Null	gene middle
+Samp2	NODE_24_length_404374_cov_16.340946	379718	382478	label=deletion	
+Samp2	NODE_24_length_404374_cov_16.340946	386996	388945	label=deletion	
+Samp2	NODE_252_length_87227_cov_28.360850	53206	53794	label=deletion	53185	53886	ID=JFMPDDIF_03083	gene=Null	gene middle
+Samp2	NODE_267_length_83533_cov_22.223915	807	812	label=insertion	746	1561	ID=JFMPDDIF_03116	gene=tolQ_3	gene middle
+Samp2	NODE_267_length_83533_cov_22.223915	1275	4908	label=deletion	746	1561	ID=JFMPDDIF_03116	gene=tolQ_3	gene end	4678	6093	ID=JFMPDDIF_03121	gene=lapB	gene begin
+Samp2	NODE_267_length_83533_cov_22.223915	59040	60091	label=deletion	
+Samp2	NODE_276_length_81074_cov_19.037818	60672	62356	label=deletion	
+Samp2	NODE_300_length_75942_cov_17.531870	70470	71341	label=deletion	70978	73116	ID=JFMPDDIF_03381	gene=Null	gene begin
+Samp2	NODE_41_length_307170_cov_23.010153	77871	77874	label=insertion	
+Samp2	NODE_41_length_307170_cov_23.010153	78542	78547	label=insertion	
+Samp2	NODE_445_length_57812_cov_23.568381	5220	6906	label=deletion	
+Samp2	NODE_445_length_57812_cov_23.568381	24941	30775	label=deletion	30074	31090	ID=JFMPDDIF_03475	gene=Null	gene begin
+Samp2	NODE_445_length_57812_cov_23.568381	24941	30775	label=insertion	30074	31090	ID=JFMPDDIF_03475	gene=Null	gene begin
+Samp2	NODE_48_length_288824_cov_19.256967	60213	60214	label=insertion	
+Samp2	NODE_48_length_288824_cov_19.256967	68198	69885	label=deletion	
+Samp2	NODE_48_length_288824_cov_19.256967	86586	86593	label=insertion	
+Samp2	NODE_48_length_288824_cov_19.256967	86747	86754	label=insertion	
+Samp2	NODE_48_length_288824_cov_19.256967	121007	121244	label=deletion	121109	121411	ID=JFMPDDIF_01453	gene=dapF_2	gene begin
+Samp2	NODE_48_length_288824_cov_19.256967	134722	142196	label=deletion	
+Samp2	NODE_48_length_288824_cov_19.256967	234275	234278	label=insertion	
+Samp2	NODE_48_length_288824_cov_19.256967	264898	265913	label=deletion	265912	268617	ID=JFMPDDIF_01558	gene=Null	gene begin
+Samp2	NODE_58_length_257392_cov_18.205897	10824	12147	label=deletion	10680	10832	ID=JFMPDDIF_01587	gene=Null	gene end	12099	13334	ID=JFMPDDIF_01589	gene=Null	gene begin
+Samp2	NODE_58_length_257392_cov_18.205897	84845	85392	label=deletion	
+Samp2	NODE_58_length_257392_cov_18.205897	84845	85392	label=insertion	
+Samp2	NODE_58_length_257392_cov_18.205897	93586	93591	label=insertion	
+Samp2	NODE_58_length_257392_cov_18.205897	131137	134367	label=deletion	
+Samp2	NODE_58_length_257392_cov_18.205897	163346	163390	label=insertion	159024	163349	ID=JFMPDDIF_01714	gene=rcsC_17	gene end
+Samp2	NODE_64_length_243723_cov_18.867590	11526	13210	label=deletion	
+Samp2	NODE_64_length_243723_cov_18.867590	57403	57408	label=insertion	
+Samp2	NODE_64_length_243723_cov_18.867590	107417	107423	label=insertion	
+Samp2	NODE_64_length_243723_cov_18.867590	155884	155884	label=insertion	
+Samp2	NODE_64_length_243723_cov_18.867590	186017	186042	label=insertion	184892	188281	ID=JFMPDDIF_01966	gene=Null	gene middle
+Samp2	NODE_64_length_243723_cov_18.867590	192471	192477	label=insertion	
+Samp2	NODE_64_length_243723_cov_18.867590	198219	201126	label=deletion	
+Samp2	NODE_64_length_243723_cov_18.867590	203577	203764	label=deletion	
+Samp2	NODE_64_length_243723_cov_18.867590	203577	203764	label=insertion	
+Samp2	NODE_64_length_243723_cov_18.867590	218394	220359	label=deletion	217082	218437	ID=JFMPDDIF_01987	gene=mepA_6	gene end
+Samp2	NODE_662_length_44349_cov_15.467422	26461	29609	label=deletion	26409	27638	ID=JFMPDDIF_03548	gene=Null	gene end	28888	29616	ID=JFMPDDIF_03550	gene=Null	gene begin
+Samp2	NODE_69_length_223667_cov_17.004190	7346	217765	label=transloc	7246	9660	ID=JFMPDDIF_02020	gene=Null	gene end
+Samp2	NODE_69_length_223667_cov_17.004190	22763	65649	label=insertion	21497	23041	ID=JFMPDDIF_02028	gene=Null	gene end	63980	65782	ID=JFMPDDIF_02064	gene=Null	gene begin
+Samp2	NODE_69_length_223667_cov_17.004190	22763	65649	label=deletion	21497	23041	ID=JFMPDDIF_02028	gene=Null	gene end	63980	65782	ID=JFMPDDIF_02064	gene=Null	gene begin
+Samp2	NODE_69_length_223667_cov_17.004190	107677	110217	label=deletion	
+Samp2	NODE_69_length_223667_cov_17.004190	137948	137973	label=insertion	
+Samp2	NODE_69_length_223667_cov_17.004190	188526	188532	label=insertion	
+Samp2	NODE_830_length_38176_cov_20.251384	1273	1374	label=deletion	
+Samp2	NODE_830_length_38176_cov_20.251384	35316	35370	label=duplication	35339	38065	ID=JFMPDDIF_03673	gene=Null	gene begin
+Samp2	NODE_979_length_34067_cov_19.713248	51	33829	label=transloc	
+Samp3	NODE_116_length_164593_cov_18.639633	140114	148779	label=inversion	137187	140315	ID=JFMPDDIF_02294	gene=Null	gene end
+Samp3	NODE_11_length_517270_cov_19.519805	176523	182207	label=insertion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp3	NODE_11_length_517270_cov_19.519805	176523	182207	label=deletion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp3	NODE_11_length_517270_cov_19.519805	215812	215821	label=insertion	213963	217700	ID=JFMPDDIF_00187	gene=Null	gene middle
+Samp3	NODE_11_length_517270_cov_19.519805	237344	238501	label=deletion	
+Samp3	NODE_11_length_517270_cov_19.519805	321061	322921	label=deletion	
+Samp3	NODE_11_length_517270_cov_19.519805	326600	328282	label=deletion	
+Samp3	NODE_11_length_517270_cov_19.519805	341617	353675	label=insertion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp3	NODE_11_length_517270_cov_19.519805	341617	353675	label=deletion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp3	NODE_172_length_117454_cov_19.196995	40102	40251	label=deletion	
+Samp3	NODE_172_length_117454_cov_19.196995	40282	40336	label=duplication	40285	42051	ID=JFMPDDIF_02474	gene=Null	gene begin
+Samp3	NODE_172_length_117454_cov_19.196995	60116	70923	label=deletion	
+Samp3	NODE_185_length_111714_cov_19.776489	45048	45051	label=insertion	43890	45071	ID=JFMPDDIF_02570	gene=araJ	gene middle	45032	45451	ID=JFMPDDIF_02571	gene=Null	gene middle
+Samp3	NODE_185_length_111714_cov_19.776489	110007	110014	label=insertion	
+Samp3	NODE_188_length_110575_cov_17.447485	21678	25407	label=deletion	20354	23575	ID=JFMPDDIF_02636	gene=Null	gene end
+Samp3	NODE_188_length_110575_cov_17.447485	50557	66681	label=insertion	
+Samp3	NODE_188_length_110575_cov_17.447485	50557	66681	label=deletion	
+Samp3	NODE_192_length_108808_cov_18.739042	9237	24762	label=insertion	8949	10139	ID=JFMPDDIF_02701	gene=pal	gene end
+Samp3	NODE_192_length_108808_cov_18.739042	9237	24762	label=deletion	8949	10139	ID=JFMPDDIF_02701	gene=pal	gene end
+Samp3	NODE_192_length_108808_cov_18.739042	28144	28198	label=duplication	27941	28501	ID=JFMPDDIF_02715	gene=Null	gene middle
+Samp3	NODE_192_length_108808_cov_18.739042	28717	28771	label=insertion	28513	29865	ID=JFMPDDIF_02716	gene=Null	gene middle
+Samp3	NODE_192_length_108808_cov_18.739042	53873	63177	label=deletion	53659	54222	ID=JFMPDDIF_02735	gene=Null	gene end
+Samp3	NODE_192_length_108808_cov_18.739042	70649	72487	label=deletion	
+Samp3	NODE_20_length_423139_cov_20.286650	12579	12585	label=insertion	
+Samp3	NODE_20_length_423139_cov_20.286650	14134	14186	label=deletion	
+Samp3	NODE_20_length_423139_cov_20.286650	14134	14186	label=insertion	
+Samp3	NODE_20_length_423139_cov_20.286650	115423	150784	label=deletion	150780	151529	ID=JFMPDDIF_00529	gene=Null	gene begin
+Samp3	NODE_20_length_423139_cov_20.286650	309315	324049	label=insertion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp3	NODE_20_length_423139_cov_20.286650	309315	324049	label=deletion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp3	NODE_210_length_100457_cov_18.441973	56	62035	label=transloc	59689	62037	ID=JFMPDDIF_02816	gene=Null	gene begin
+Samp3	NODE_210_length_100457_cov_18.441973	43553	55281	label=insertion	55203	57146	ID=JFMPDDIF_02814	gene=Null	gene begin
+Samp3	NODE_210_length_100457_cov_18.441973	43553	55281	label=deletion	55203	57146	ID=JFMPDDIF_02814	gene=Null	gene begin
+Samp3	NODE_215_length_99527_cov_14.979753	82491	82993	label=insertion	81527	82912	ID=JFMPDDIF_02922	gene=Null	gene end
+Samp3	NODE_233_length_93916_cov_22.191997	7698	9383	label=deletion	9382	9834	ID=JFMPDDIF_02955	gene=Null	gene begin
+Samp3	NODE_233_length_93916_cov_22.191997	73060	73224	label=deletion	
+Samp3	NODE_24_length_404374_cov_16.340946	38724	168335	label=transloc	167829	168716	ID=JFMPDDIF_00891	gene=Null	gene begin
+Samp3	NODE_24_length_404374_cov_16.340946	101625	101634	label=insertion	
+Samp3	NODE_252_length_87227_cov_28.360850	53206	53794	label=deletion	53185	53886	ID=JFMPDDIF_03083	gene=Null	gene middle
+Samp3	NODE_267_length_83533_cov_22.223915	1275	4908	label=deletion	746	1561	ID=JFMPDDIF_03116	gene=tolQ_3	gene end	4678	6093	ID=JFMPDDIF_03121	gene=lapB	gene begin
+Samp3	NODE_267_length_83533_cov_22.223915	59040	60091	label=deletion	
+Samp3	NODE_276_length_81074_cov_19.037818	45255	45734	label=deletion	
+Samp3	NODE_276_length_81074_cov_19.037818	60672	62356	label=deletion	
+Samp3	NODE_300_length_75942_cov_17.531870	30513	30519	label=insertion	30079	31032	ID=JFMPDDIF_03352	gene=Null	gene middle
+Samp3	NODE_300_length_75942_cov_17.531870	67201	68494	label=deletion	65351	67204	ID=JFMPDDIF_03377	gene=yesW_1	gene end	67220	68503	ID=JFMPDDIF_03378	gene=Null	gene begin
+Samp3	NODE_41_length_307170_cov_23.010153	36106	36155	label=insertion	36141	39575	ID=JFMPDDIF_01128	gene=rocA	gene begin
+Samp3	NODE_445_length_57812_cov_23.568381	24941	30775	label=deletion	30074	31090	ID=JFMPDDIF_03475	gene=Null	gene begin
+Samp3	NODE_445_length_57812_cov_23.568381	24941	30775	label=insertion	30074	31090	ID=JFMPDDIF_03475	gene=Null	gene begin
+Samp3	NODE_48_length_288824_cov_19.256967	68198	69883	label=deletion	
+Samp3	NODE_48_length_288824_cov_19.256967	134722	142196	label=deletion	
+Samp3	NODE_58_length_257392_cov_18.205897	10824	12147	label=deletion	10680	10832	ID=JFMPDDIF_01587	gene=Null	gene end	12099	13334	ID=JFMPDDIF_01589	gene=Null	gene begin
+Samp3	NODE_58_length_257392_cov_18.205897	84845	85392	label=deletion	
+Samp3	NODE_58_length_257392_cov_18.205897	84845	85392	label=insertion	
+Samp3	NODE_58_length_257392_cov_18.205897	131137	134367	label=deletion	
+Samp3	NODE_58_length_257392_cov_18.205897	146826	147246	label=deletion	
+Samp3	NODE_58_length_257392_cov_18.205897	146826	147246	label=insertion	
+Samp3	NODE_58_length_257392_cov_18.205897	163346	163390	label=insertion	159024	163349	ID=JFMPDDIF_01714	gene=rcsC_17	gene end
+Samp3	NODE_58_length_257392_cov_18.205897	184874	184881	label=insertion	
+Samp3	NODE_64_length_243723_cov_18.867590	11526	13210	label=deletion	
+Samp3	NODE_64_length_243723_cov_18.867590	57403	57408	label=insertion	
+Samp3	NODE_64_length_243723_cov_18.867590	218394	220359	label=deletion	217082	218437	ID=JFMPDDIF_01987	gene=mepA_6	gene end
+Samp3	NODE_662_length_44349_cov_15.467422	26417	29615	label=deletion	26409	27638	ID=JFMPDDIF_03548	gene=Null	gene end	28888	29616	ID=JFMPDDIF_03550	gene=Null	gene begin	29613	30431	ID=JFMPDDIF_03551	gene=Null	gene begin
+Samp3	NODE_979_length_34067_cov_19.713248	51	33829	label=transloc	
+Samp4	NODE_116_length_164593_cov_18.639633	40645	40780	label=insertion	39074	40858	ID=JFMPDDIF_02234	gene=Null	gene middle
+Samp4	NODE_116_length_164593_cov_18.639633	42151	42158	label=insertion	41957	42970	ID=JFMPDDIF_02236	gene=Null	gene middle
+Samp4	NODE_116_length_164593_cov_18.639633	140114	148779	label=inversion	137187	140315	ID=JFMPDDIF_02294	gene=Null	gene end
+Samp4	NODE_11_length_517270_cov_19.519805	51681	51735	label=duplication	50623	51774	ID=JFMPDDIF_00046	gene=gtfA_2	gene middle
+Samp4	NODE_11_length_517270_cov_19.519805	176523	182207	label=insertion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp4	NODE_11_length_517270_cov_19.519805	176523	182207	label=deletion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp4	NODE_11_length_517270_cov_19.519805	237344	238501	label=deletion	
+Samp4	NODE_11_length_517270_cov_19.519805	321061	322921	label=deletion	
+Samp4	NODE_11_length_517270_cov_19.519805	326600	328282	label=deletion	
+Samp4	NODE_11_length_517270_cov_19.519805	341617	353675	label=insertion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp4	NODE_11_length_517270_cov_19.519805	341617	353675	label=deletion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp4	NODE_120_length_160732_cov_18.890619	76270	76324	label=duplication	76139	77215	ID=JFMPDDIF_02378	gene=Null	gene middle
+Samp4	NODE_172_length_117454_cov_19.196995	40102	40251	label=deletion	
+Samp4	NODE_172_length_117454_cov_19.196995	40282	40336	label=duplication	40285	42051	ID=JFMPDDIF_02474	gene=Null	gene begin
+Samp4	NODE_172_length_117454_cov_19.196995	60116	70923	label=deletion	
+Samp4	NODE_185_length_111714_cov_19.776489	37	45051	label=transloc	43890	45071	ID=JFMPDDIF_02570	gene=araJ	gene begin	45032	45451	ID=JFMPDDIF_02571	gene=Null	gene begin
+Samp4	NODE_185_length_111714_cov_19.776489	136	4618	label=deletion	
+Samp4	NODE_185_length_111714_cov_19.776489	4935	5606	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene middle
+Samp4	NODE_185_length_111714_cov_19.776489	6337	17811	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene end	15954	18233	ID=JFMPDDIF_02544	gene=Null	gene begin
+Samp4	NODE_185_length_111714_cov_19.776489	58495	58549	label=duplication	56757	58691	ID=JFMPDDIF_02581	gene=ygjK	gene middle
+Samp4	NODE_188_length_110575_cov_17.447485	50557	66681	label=insertion	
+Samp4	NODE_188_length_110575_cov_17.447485	50557	66681	label=deletion	
+Samp4	NODE_192_length_108808_cov_18.739042	84362	98840	label=transloc	
+Samp4	NODE_20_length_423139_cov_20.286650	12579	12585	label=insertion	
+Samp4	NODE_20_length_423139_cov_20.286650	14134	14186	label=deletion	
+Samp4	NODE_20_length_423139_cov_20.286650	14134	14186	label=insertion	
+Samp4	NODE_20_length_423139_cov_20.286650	71350	71369	label=insertion	
+Samp4	NODE_20_length_423139_cov_20.286650	79796	79850	label=duplication	79845	81185	ID=JFMPDDIF_00472	gene=pdhD	gene begin
+Samp4	NODE_20_length_423139_cov_20.286650	115423	150788	label=deletion	150780	151529	ID=JFMPDDIF_00529	gene=Null	gene begin
+Samp4	NODE_20_length_423139_cov_20.286650	309315	324049	label=insertion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp4	NODE_20_length_423139_cov_20.286650	309315	324049	label=deletion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp4	NODE_215_length_99527_cov_14.979753	15618	89107	label=transloc	87844	90147	ID=JFMPDDIF_02930	gene=srmB	gene begin
+Samp4	NODE_215_length_99527_cov_14.979753	82491	82993	label=insertion	81527	82912	ID=JFMPDDIF_02922	gene=Null	gene end
+Samp4	NODE_233_length_93916_cov_22.191997	7698	9383	label=deletion	9382	9834	ID=JFMPDDIF_02955	gene=Null	gene begin
+Samp4	NODE_233_length_93916_cov_22.191997	73060	73224	label=deletion	
+Samp4	NODE_24_length_404374_cov_16.340946	38724	61050	label=transloc	
+Samp4	NODE_24_length_404374_cov_16.340946	101625	101634	label=insertion	
+Samp4	NODE_252_length_87227_cov_28.360850	53206	53794	label=deletion	53185	53886	ID=JFMPDDIF_03083	gene=Null	gene middle
+Samp4	NODE_267_length_83533_cov_22.223915	1275	4908	label=deletion	746	1561	ID=JFMPDDIF_03116	gene=tolQ_3	gene end	4678	6093	ID=JFMPDDIF_03121	gene=lapB	gene begin
+Samp4	NODE_267_length_83533_cov_22.223915	59040	60091	label=deletion	
+Samp4	NODE_276_length_81074_cov_19.037818	60672	62356	label=deletion	
+Samp4	NODE_300_length_75942_cov_17.531870	30513	30519	label=insertion	30079	31032	ID=JFMPDDIF_03352	gene=Null	gene middle
+Samp4	NODE_41_length_307170_cov_23.010153	192820	194662	label=deletion	
+Samp4	NODE_41_length_307170_cov_23.010153	214760	214767	label=insertion	
+Samp4	NODE_48_length_288824_cov_19.256967	68198	69885	label=deletion	
+Samp4	NODE_48_length_288824_cov_19.256967	134722	142196	label=deletion	
+Samp4	NODE_58_length_257392_cov_18.205897	10824	12147	label=deletion	10680	10832	ID=JFMPDDIF_01587	gene=Null	gene end	12099	13334	ID=JFMPDDIF_01589	gene=Null	gene begin
+Samp4	NODE_58_length_257392_cov_18.205897	84845	85392	label=deletion	
+Samp4	NODE_58_length_257392_cov_18.205897	84845	85392	label=insertion	
+Samp4	NODE_58_length_257392_cov_18.205897	131137	134367	label=deletion	
+Samp4	NODE_58_length_257392_cov_18.205897	163346	163390	label=insertion	159024	163349	ID=JFMPDDIF_01714	gene=rcsC_17	gene end
+Samp4	NODE_64_length_243723_cov_18.867590	11526	13210	label=deletion	
+Samp4	NODE_64_length_243723_cov_18.867590	198219	201126	label=deletion	
+Samp4	NODE_64_length_243723_cov_18.867590	203605	203768	label=deletion	
+Samp4	NODE_64_length_243723_cov_18.867590	218394	220359	label=deletion	217082	218437	ID=JFMPDDIF_01987	gene=mepA_6	gene end
+Samp4	NODE_662_length_44349_cov_15.467422	26461	29609	label=deletion	26409	27638	ID=JFMPDDIF_03548	gene=Null	gene end	28888	29616	ID=JFMPDDIF_03550	gene=Null	gene begin
+Samp4	NODE_69_length_223667_cov_17.004190	188526	217765	label=transloc	
+Samp7	NODE_116_length_164593_cov_18.639633	57919	58048	label=deletion	57646	57927	ID=JFMPDDIF_02246	gene=Null	gene end
+Samp7	NODE_116_length_164593_cov_18.639633	57919	58048	label=insertion	57646	57927	ID=JFMPDDIF_02246	gene=Null	gene end
+Samp7	NODE_116_length_164593_cov_18.639633	87229	87244	label=insertion	
+Samp7	NODE_116_length_164593_cov_18.639633	126471	126480	label=insertion	
+Samp7	NODE_116_length_164593_cov_18.639633	135465	140008	label=deletion	132658	135495	ID=JFMPDDIF_02292	gene=Null	gene end	137187	140315	ID=JFMPDDIF_02294	gene=Null	gene begin
+Samp7	NODE_116_length_164593_cov_18.639633	148777	148828	label=duplication	148794	151766	ID=JFMPDDIF_02299	gene=susC_5	gene begin
+Samp7	NODE_116_length_164593_cov_18.639633	156771	156778	label=insertion	
+Samp7	NODE_11_length_517270_cov_19.519805	358	79735	label=insertion	79374	81257	ID=JFMPDDIF_00069	gene=purF_1	gene begin
+Samp7	NODE_11_length_517270_cov_19.519805	358	281909	label=transloc	
+Samp7	NODE_11_length_517270_cov_19.519805	39773	43910	label=deletion	39168	39779	ID=JFMPDDIF_00034	gene=Null	gene end	39764	40588	ID=JFMPDDIF_00035	gene=Null	gene end	43326	44597	ID=JFMPDDIF_00039	gene=btuD_1	gene begin
+Samp7	NODE_11_length_517270_cov_19.519805	39773	43910	label=insertion	39168	39779	ID=JFMPDDIF_00034	gene=Null	gene end	39764	40588	ID=JFMPDDIF_00035	gene=Null	gene end	43326	44597	ID=JFMPDDIF_00039	gene=btuD_1	gene begin
+Samp7	NODE_11_length_517270_cov_19.519805	72261	72266	label=insertion	71827	72267	ID=JFMPDDIF_00065	gene=Null	gene middle
+Samp7	NODE_11_length_517270_cov_19.519805	86198	136088	label=insertion	85826	87184	ID=JFMPDDIF_00072	gene=amtB	gene end
+Samp7	NODE_11_length_517270_cov_19.519805	99081	99082	label=insertion	
+Samp7	NODE_11_length_517270_cov_19.519805	99500	101184	label=deletion	99102	99563	ID=JFMPDDIF_00080	gene=Null	gene end
+Samp7	NODE_11_length_517270_cov_19.519805	104039	111404	label=deletion	
+Samp7	NODE_11_length_517270_cov_19.519805	114116	136088	label=deletion	
+Samp7	NODE_11_length_517270_cov_19.519805	176523	182207	label=insertion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp7	NODE_11_length_517270_cov_19.519805	176523	182207	label=deletion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp7	NODE_11_length_517270_cov_19.519805	237344	238501	label=deletion	
+Samp7	NODE_11_length_517270_cov_19.519805	240135	240364	label=deletion	239487	240140	ID=JFMPDDIF_00206	gene=bcrA_1	gene end
+Samp7	NODE_11_length_517270_cov_19.519805	240135	240364	label=insertion	239487	240140	ID=JFMPDDIF_00206	gene=bcrA_1	gene end
+Samp7	NODE_11_length_517270_cov_19.519805	321061	322921	label=deletion	
+Samp7	NODE_11_length_517270_cov_19.519805	326600	328282	label=deletion	
+Samp7	NODE_11_length_517270_cov_19.519805	341617	353675	label=insertion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp7	NODE_11_length_517270_cov_19.519805	341617	353675	label=deletion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp7	NODE_11_length_517270_cov_19.519805	380848	380852	label=insertion	379731	380852	ID=JFMPDDIF_00310	gene=xylI	gene middle
+Samp7	NODE_120_length_160732_cov_18.890619	39571	40622	label=deletion	39446	40426	ID=JFMPDDIF_02339	gene=pfkA_1	gene end
+Samp7	NODE_120_length_160732_cov_18.890619	66878	66884	label=insertion	66681	66896	ID=JFMPDDIF_02365	gene=Null	gene middle
+Samp7	NODE_120_length_160732_cov_18.890619	105462	105467	label=insertion	103194	105464	ID=JFMPDDIF_02399	gene=relA_2	gene end
+Samp7	NODE_120_length_160732_cov_18.890619	120808	120878	label=duplication	120839	120914	ID=JFMPDDIF_02412	gene=Null	gene begin
+Samp7	NODE_120_length_160732_cov_18.890619	150351	150358	label=insertion	
+Samp7	NODE_172_length_117454_cov_19.196995	40102	40251	label=deletion	
+Samp7	NODE_172_length_117454_cov_19.196995	60116	70923	label=deletion	
+Samp7	NODE_172_length_117454_cov_19.196995	104312	104707	label=deletion	104068	104754	ID=JFMPDDIF_02515	gene=Null	gene middle
+Samp7	NODE_185_length_111714_cov_19.776489	136	4618	label=deletion	
+Samp7	NODE_185_length_111714_cov_19.776489	4935	5606	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene middle
+Samp7	NODE_185_length_111714_cov_19.776489	6337	17811	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene end	15954	18233	ID=JFMPDDIF_02544	gene=Null	gene begin
+Samp7	NODE_1875_length_21678_cov_18.152430	2941	9025	label=insertion	
+Samp7	NODE_188_length_110575_cov_17.447485	21678	25013	label=deletion	20354	23575	ID=JFMPDDIF_02636	gene=Null	gene end	23597	25105	ID=JFMPDDIF_02637	gene=Null	gene begin
+Samp7	NODE_188_length_110575_cov_17.447485	50557	66681	label=insertion	
+Samp7	NODE_188_length_110575_cov_17.447485	50557	66681	label=deletion	
+Samp7	NODE_192_length_108808_cov_18.739042	9025	98840	label=transloc	8949	10139	ID=JFMPDDIF_02701	gene=pal	gene end
+Samp7	NODE_192_length_108808_cov_18.739042	9237	36665	label=inversion	8949	10139	ID=JFMPDDIF_02701	gene=pal	gene end
+Samp7	NODE_192_length_108808_cov_18.739042	70649	72487	label=deletion	
+Samp7	NODE_20_length_423139_cov_20.286650	12579	12585	label=insertion	
+Samp7	NODE_20_length_423139_cov_20.286650	14134	14186	label=deletion	
+Samp7	NODE_20_length_423139_cov_20.286650	14134	14186	label=insertion	
+Samp7	NODE_20_length_423139_cov_20.286650	79795	79796	label=insertion	
+Samp7	NODE_20_length_423139_cov_20.286650	115420	150788	label=deletion	150780	151529	ID=JFMPDDIF_00529	gene=Null	gene begin
+Samp7	NODE_20_length_423139_cov_20.286650	172622	185422	label=insertion	185408	186313	ID=JFMPDDIF_00555	gene=Null	gene begin
+Samp7	NODE_20_length_423139_cov_20.286650	172622	185422	label=deletion	185408	186313	ID=JFMPDDIF_00555	gene=Null	gene begin
+Samp7	NODE_20_length_423139_cov_20.286650	228987	228992	label=insertion	
+Samp7	NODE_20_length_423139_cov_20.286650	309315	324049	label=insertion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp7	NODE_20_length_423139_cov_20.286650	309315	324049	label=deletion	309208	313332	ID=JFMPDDIF_00644	gene=rcsC_10	gene end	323975	324274	ID=JFMPDDIF_00653	gene=Null	gene begin
+Samp7	NODE_20_length_423139_cov_20.286650	367700	369386	label=inversion	
+Samp7	NODE_20_length_423139_cov_20.286650	408637	408644	label=insertion	407714	408832	ID=JFMPDDIF_00719	gene=Null	gene middle
+Samp7	NODE_20_length_423139_cov_20.286650	415449	415466	label=insertion	
+Samp7	NODE_210_length_100457_cov_18.441973	43553	55281	label=insertion	55203	57146	ID=JFMPDDIF_02814	gene=Null	gene begin
+Samp7	NODE_210_length_100457_cov_18.441973	43553	55281	label=deletion	55203	57146	ID=JFMPDDIF_02814	gene=Null	gene begin
+Samp7	NODE_210_length_100457_cov_18.441973	64986	64990	label=insertion	62235	65090	ID=JFMPDDIF_02817	gene=rhaS_7	gene middle
+Samp7	NODE_215_length_99527_cov_14.979753	82491	82993	label=insertion	81527	82912	ID=JFMPDDIF_02922	gene=Null	gene end
+Samp7	NODE_233_length_93916_cov_22.191997	7698	9383	label=deletion	9382	9834	ID=JFMPDDIF_02955	gene=Null	gene begin
+Samp7	NODE_233_length_93916_cov_22.191997	30537	30591	label=duplication	30548	32035	ID=JFMPDDIF_02973	gene=Null	gene begin
+Samp7	NODE_233_length_93916_cov_22.191997	64130	64912	label=insertion	
+Samp7	NODE_233_length_93916_cov_22.191997	73060	73224	label=deletion	
+Samp7	NODE_233_length_93916_cov_22.191997	76393	76393	label=insertion	74796	76679	ID=JFMPDDIF_03014	gene=Null	gene middle
+Samp7	NODE_233_length_93916_cov_22.191997	79735	83482	label=deletion	79595	80407	ID=JFMPDDIF_03018	gene=Null	gene end
+Samp7	NODE_233_length_93916_cov_22.191997	85525	85710	label=deletion	
+Samp7	NODE_24_length_404374_cov_16.340946	61057	61317	label=insertion	
+Samp7	NODE_24_length_404374_cov_16.340946	101625	101634	label=insertion	
+Samp7	NODE_24_length_404374_cov_16.340946	141027	141077	label=duplication	141004	141079	ID=JFMPDDIF_00862	gene=Null	gene middle
+Samp7	NODE_24_length_404374_cov_16.340946	143884	143911	label=insertion	
+Samp7	NODE_24_length_404374_cov_16.340946	172070	173392	label=deletion	171829	172077	ID=JFMPDDIF_00894	gene=Null	gene end	173344	175557	ID=JFMPDDIF_00896	gene=Null	gene begin
+Samp7	NODE_24_length_404374_cov_16.340946	187590	187595	label=insertion	
+Samp7	NODE_24_length_404374_cov_16.340946	209842	209864	label=insertion	
+Samp7	NODE_24_length_404374_cov_16.340946	212906	212915	label=insertion	212823	213653	ID=JFMPDDIF_00932	gene=Null	gene middle
+Samp7	NODE_24_length_404374_cov_16.340946	245362	245458	label=deletion	
+Samp7	NODE_24_length_404374_cov_16.340946	279480	281164	label=deletion	
+Samp7	NODE_24_length_404374_cov_16.340946	350768	350776	label=insertion	
+Samp7	NODE_24_length_404374_cov_16.340946	359654	359700	label=insertion	359653	361965	ID=JFMPDDIF_01063	gene=Null	gene middle
+Samp7	NODE_24_length_404374_cov_16.340946	379718	382478	label=deletion	
+Samp7	NODE_24_length_404374_cov_16.340946	386996	388945	label=deletion	
+Samp7	NODE_267_length_83533_cov_22.223915	1275	4908	label=deletion	746	1561	ID=JFMPDDIF_03116	gene=tolQ_3	gene end	4678	6093	ID=JFMPDDIF_03121	gene=lapB	gene begin
+Samp7	NODE_267_length_83533_cov_22.223915	59040	60091	label=deletion	
+Samp7	NODE_267_length_83533_cov_22.223915	69384	71208	label=deletion	
+Samp7	NODE_276_length_81074_cov_19.037818	60672	62356	label=deletion	
+Samp7	NODE_276_length_81074_cov_19.037818	68515	68521	label=insertion	
+Samp7	NODE_286_length_79039_cov_21.544465	45873	45880	label=insertion	
+Samp7	NODE_300_length_75942_cov_17.531870	16661	25013	label=insertion	15265	17718	ID=JFMPDDIF_03341	gene=Null	gene end
+Samp7	NODE_300_length_75942_cov_17.531870	70470	71341	label=deletion	70978	73116	ID=JFMPDDIF_03381	gene=Null	gene begin
+Samp7	NODE_310_length_73272_cov_18.773167	129	16731	label=insertion	
+Samp7	NODE_310_length_73272_cov_18.773167	129	16731	label=deletion	
+Samp7	NODE_310_length_73272_cov_18.773167	28072	33989	label=insertion	
+Samp7	NODE_310_length_73272_cov_18.773167	28072	33989	label=deletion	
+Samp7	NODE_41_length_307170_cov_23.010153	192821	194662	label=deletion	
+Samp7	NODE_41_length_307170_cov_23.010153	224979	224985	label=insertion	
+Samp7	NODE_41_length_307170_cov_23.010153	230987	232672	label=deletion	
+Samp7	NODE_41_length_307170_cov_23.010153	239526	239540	label=insertion	
+Samp7	NODE_445_length_57812_cov_23.568381	24941	30775	label=deletion	30074	31090	ID=JFMPDDIF_03475	gene=Null	gene begin
+Samp7	NODE_445_length_57812_cov_23.568381	24941	30775	label=insertion	30074	31090	ID=JFMPDDIF_03475	gene=Null	gene begin
+Samp7	NODE_48_length_288824_cov_19.256967	402	234275	label=transloc	398	1231	ID=JFMPDDIF_01370	gene=Null	gene end
+Samp7	NODE_48_length_288824_cov_19.256967	60213	60214	label=insertion	
+Samp7	NODE_48_length_288824_cov_19.256967	68198	69885	label=deletion	
+Samp7	NODE_48_length_288824_cov_19.256967	86543	86551	label=insertion	
+Samp7	NODE_48_length_288824_cov_19.256967	87463	87472	label=insertion	
+Samp7	NODE_48_length_288824_cov_19.256967	121007	121244	label=deletion	121109	121411	ID=JFMPDDIF_01453	gene=dapF_2	gene begin
+Samp7	NODE_48_length_288824_cov_19.256967	134722	142196	label=deletion	
+Samp7	NODE_48_length_288824_cov_19.256967	185967	185976	label=insertion	185718	188855	ID=JFMPDDIF_01508	gene=rcsC_15	gene middle
+Samp7	NODE_48_length_288824_cov_19.256967	234367	288769	label=transloc	
+Samp7	NODE_48_length_288824_cov_19.256967	264898	265913	label=deletion	265912	268617	ID=JFMPDDIF_01558	gene=Null	gene begin
+Samp7	NODE_58_length_257392_cov_18.205897	10824	12147	label=deletion	10680	10832	ID=JFMPDDIF_01587	gene=Null	gene end	12099	13334	ID=JFMPDDIF_01589	gene=Null	gene begin
+Samp7	NODE_58_length_257392_cov_18.205897	84845	85392	label=deletion	
+Samp7	NODE_58_length_257392_cov_18.205897	84845	85392	label=insertion	
+Samp7	NODE_58_length_257392_cov_18.205897	93586	93591	label=insertion	
+Samp7	NODE_58_length_257392_cov_18.205897	131137	134367	label=deletion	
+Samp7	NODE_58_length_257392_cov_18.205897	139041	139048	label=insertion	
+Samp7	NODE_58_length_257392_cov_18.205897	146826	147246	label=deletion	
+Samp7	NODE_58_length_257392_cov_18.205897	146826	147246	label=insertion	
+Samp7	NODE_58_length_257392_cov_18.205897	163346	163390	label=insertion	159024	163349	ID=JFMPDDIF_01714	gene=rcsC_17	gene end
+Samp7	NODE_58_length_257392_cov_18.205897	184889	184895	label=insertion	
+Samp7	NODE_598_length_47754_cov_20.522820	135	142	label=insertion	
+Samp7	NODE_598_length_47754_cov_20.522820	43024	43030	label=insertion	
+Samp7	NODE_64_length_243723_cov_18.867590	11526	13210	label=deletion	
+Samp7	NODE_64_length_243723_cov_18.867590	24704	24712	label=insertion	24405	25604	ID=JFMPDDIF_01815	gene=fucP_2	gene middle
+Samp7	NODE_64_length_243723_cov_18.867590	57403	57408	label=insertion	
+Samp7	NODE_64_length_243723_cov_18.867590	78566	78575	label=insertion	
+Samp7	NODE_64_length_243723_cov_18.867590	107417	107423	label=insertion	
+Samp7	NODE_64_length_243723_cov_18.867590	128313	128319	label=insertion	
+Samp7	NODE_64_length_243723_cov_18.867590	130741	130924	label=duplication	129909	130919	ID=JFMPDDIF_01910	gene=Null	gene end
+Samp7	NODE_64_length_243723_cov_18.867590	142155	142155	label=insertion	
+Samp7	NODE_64_length_243723_cov_18.867590	198219	201126	label=deletion	
+Samp7	NODE_64_length_243723_cov_18.867590	203880	203897	label=insertion	203860	205041	ID=JFMPDDIF_01979	gene=resA_9	gene middle
+Samp7	NODE_64_length_243723_cov_18.867590	212349	212399	label=duplication	212350	213948	ID=JFMPDDIF_01984	gene=clcA	gene begin
+Samp7	NODE_64_length_243723_cov_18.867590	218394	220359	label=deletion	217082	218437	ID=JFMPDDIF_01987	gene=mepA_6	gene end
+Samp7	NODE_662_length_44349_cov_15.467422	26417	29609	label=deletion	26409	27638	ID=JFMPDDIF_03548	gene=Null	gene end	28888	29616	ID=JFMPDDIF_03550	gene=Null	gene begin
+Samp7	NODE_69_length_223667_cov_17.004190	13085	217765	label=transloc	
+Samp7	NODE_69_length_223667_cov_17.004190	31448	61346	label=deletion	61338	61850	ID=JFMPDDIF_02060	gene=pinR_2	gene begin
+Samp7	NODE_69_length_223667_cov_17.004190	102371	102375	label=insertion	102247	102501	ID=JFMPDDIF_02098	gene=Null	gene middle
+Samp7	NODE_69_length_223667_cov_17.004190	103061	103067	label=insertion	
+Samp7	NODE_69_length_223667_cov_17.004190	115386	115428	label=insertion	
+Samp7	NODE_69_length_223667_cov_17.004190	116132	118889	label=deletion	
+Samp7	NODE_69_length_223667_cov_17.004190	188526	188532	label=insertion	
+Samp7	NODE_830_length_38176_cov_20.251384	1273	1374	label=deletion	
+Samp7	NODE_830_length_38176_cov_20.251384	16842	16976	label=duplication	16934	17008	ID=JFMPDDIF_03655	gene=Null	gene begin
+Samp7	NODE_979_length_34067_cov_19.713248	27184	27191	label=insertion	
+Samp7	NODE_979_length_34067_cov_19.713248	33982	33990	label=insertion	
+Samp8	NODE_116_length_164593_cov_18.639633	108	60919	label=transloc	58133	60922	ID=JFMPDDIF_02247	gene=rhaR_3	gene begin
+Samp8	NODE_116_length_164593_cov_18.639633	108	82714	label=insertion	82146	84134	ID=JFMPDDIF_02260	gene=egtB	gene begin
+Samp8	NODE_116_length_164593_cov_18.639633	11528	11590	label=deletion	10279	11529	ID=JFMPDDIF_02210	gene=yciC	gene end
+Samp8	NODE_116_length_164593_cov_18.639633	11528	11590	label=insertion	10279	11529	ID=JFMPDDIF_02210	gene=yciC	gene end
+Samp8	NODE_116_length_164593_cov_18.639633	13285	13453	label=insertion	13434	13676	ID=JFMPDDIF_02212	gene=Null	gene begin
+Samp8	NODE_116_length_164593_cov_18.639633	13666	13666	label=insertion	13434	13676	ID=JFMPDDIF_02212	gene=Null	gene middle
+Samp8	NODE_116_length_164593_cov_18.639633	38904	39074	label=deletion	
+Samp8	NODE_116_length_164593_cov_18.639633	40645	40780	label=insertion	39074	40858	ID=JFMPDDIF_02234	gene=Null	gene middle
+Samp8	NODE_116_length_164593_cov_18.639633	41748	43283	label=deletion	41071	41766	ID=JFMPDDIF_02235	gene=Null	gene end
+Samp8	NODE_116_length_164593_cov_18.639633	41748	43283	label=insertion	41071	41766	ID=JFMPDDIF_02235	gene=Null	gene end
+Samp8	NODE_116_length_164593_cov_18.639633	55903	55908	label=insertion	
+Samp8	NODE_116_length_164593_cov_18.639633	57919	58048	label=deletion	57646	57927	ID=JFMPDDIF_02246	gene=Null	gene end
+Samp8	NODE_116_length_164593_cov_18.639633	57919	58048	label=insertion	57646	57927	ID=JFMPDDIF_02246	gene=Null	gene end
+Samp8	NODE_116_length_164593_cov_18.639633	84131	84505	label=deletion	82146	84134	ID=JFMPDDIF_02260	gene=egtB	gene end
+Samp8	NODE_116_length_164593_cov_18.639633	84131	84505	label=insertion	82146	84134	ID=JFMPDDIF_02260	gene=egtB	gene end
+Samp8	NODE_116_length_164593_cov_18.639633	87229	87229	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	83427	91141	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	83427	91141	label=deletion	
+Samp8	NODE_11_length_517270_cov_19.519805	99081	99082	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	99500	101184	label=deletion	99102	99563	ID=JFMPDDIF_00080	gene=Null	gene end
+Samp8	NODE_11_length_517270_cov_19.519805	104172	139189	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	104172	139189	label=deletion	
+Samp8	NODE_11_length_517270_cov_19.519805	139377	139401	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	143068	143076	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	146835	146881	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	164440	165599	label=deletion	165592	167031	ID=JFMPDDIF_00143	gene=xylE	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	176523	182207	label=insertion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	176523	182207	label=deletion	175688	176533	ID=JFMPDDIF_00149	gene=rhaS_1	gene end	182197	184647	ID=JFMPDDIF_00155	gene=tolB	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	193230	193234	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	322905	511830	label=transloc	
+Samp8	NODE_11_length_517270_cov_19.519805	326600	328292	label=deletion	328291	329172	ID=JFMPDDIF_00272	gene=Null	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	336790	336796	label=insertion	336791	337489	ID=JFMPDDIF_00283	gene=mprA_1	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	344410	345443	label=deletion	343170	344411	ID=JFMPDDIF_00289	gene=Null	gene end	345393	346859	ID=JFMPDDIF_00291	gene=Null	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	361888	364266	label=deletion	361870	364377	ID=JFMPDDIF_00302	gene=Null	gene middle
+Samp8	NODE_11_length_517270_cov_19.519805	369039	371411	label=deletion	
+Samp8	NODE_11_length_517270_cov_19.519805	395812	395891	label=deletion	
+Samp8	NODE_11_length_517270_cov_19.519805	395812	395891	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	415060	416163	label=deletion	414380	415378	ID=JFMPDDIF_00338	gene=Null	gene end	416143	417222	ID=JFMPDDIF_00339	gene=Null	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	417416	417423	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	432962	432998	label=insertion	
+Samp8	NODE_11_length_517270_cov_19.519805	445249	447466	label=deletion	
+Samp8	NODE_11_length_517270_cov_19.519805	461103	472418	label=deletion	
+Samp8	NODE_11_length_517270_cov_19.519805	484317	501161	label=deletion	501132	501539	ID=JFMPDDIF_00405	gene=Null	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	504324	505384	label=deletion	504324	505409	ID=JFMPDDIF_00407	gene=Null	gene middle
+Samp8	NODE_11_length_517270_cov_19.519805	507367	507549	label=insertion	505487	507409	ID=JFMPDDIF_00408	gene=Null	gene end	507536	508921	ID=JFMPDDIF_00409	gene=Null	gene begin
+Samp8	NODE_11_length_517270_cov_19.519805	510749	510765	label=insertion	
+Samp8	NODE_120_length_160732_cov_18.890619	40659	40663	label=insertion	
+Samp8	NODE_120_length_160732_cov_18.890619	47314	47544	label=deletion	
+Samp8	NODE_120_length_160732_cov_18.890619	47314	47544	label=insertion	
+Samp8	NODE_120_length_160732_cov_18.890619	83894	83904	label=insertion	
+Samp8	NODE_120_length_160732_cov_18.890619	92555	92571	label=insertion	
+Samp8	NODE_120_length_160732_cov_18.890619	150658	152328	label=deletion	
+Samp8	NODE_172_length_117454_cov_19.196995	53	21129	label=transloc	
+Samp8	NODE_172_length_117454_cov_19.196995	15086	15118	label=insertion	14893	15315	ID=JFMPDDIF_02458	gene=Null	gene middle
+Samp8	NODE_172_length_117454_cov_19.196995	29577	29798	label=deletion	29726	30145	ID=JFMPDDIF_02466	gene=Null	gene begin
+Samp8	NODE_172_length_117454_cov_19.196995	29577	29798	label=insertion	29726	30145	ID=JFMPDDIF_02466	gene=Null	gene begin
+Samp8	NODE_172_length_117454_cov_19.196995	33115	48857	label=insertion	
+Samp8	NODE_172_length_117454_cov_19.196995	33115	48857	label=deletion	
+Samp8	NODE_172_length_117454_cov_19.196995	59476	59476	label=insertion	
+Samp8	NODE_172_length_117454_cov_19.196995	77962	81602	label=deletion	77444	80011	ID=JFMPDDIF_02498	gene=Null	gene end
+Samp8	NODE_172_length_117454_cov_19.196995	83008	83081	label=insertion	
+Samp8	NODE_172_length_117454_cov_19.196995	87983	88022	label=insertion	
+Samp8	NODE_172_length_117454_cov_19.196995	104225	106207	label=deletion	104068	104754	ID=JFMPDDIF_02515	gene=Null	gene end
+Samp8	NODE_185_length_111714_cov_19.776489	238	706	label=deletion	289	789	ID=JFMPDDIF_02530	gene=Null	gene begin
+Samp8	NODE_185_length_111714_cov_19.776489	238	706	label=insertion	289	789	ID=JFMPDDIF_02530	gene=Null	gene begin
+Samp8	NODE_185_length_111714_cov_19.776489	7819	12595	label=deletion	12586	13953	ID=JFMPDDIF_02540	gene=sasA_8	gene begin
+Samp8	NODE_185_length_111714_cov_19.776489	13349	15871	label=deletion	12586	13953	ID=JFMPDDIF_02540	gene=sasA_8	gene end	14672	15970	ID=JFMPDDIF_02543	gene=Null	gene begin
+Samp8	NODE_185_length_111714_cov_19.776489	56147	56297	label=deletion	55892	56395	ID=JFMPDDIF_02580	gene=Null	gene middle
+Samp8	NODE_185_length_111714_cov_19.776489	58705	58707	label=insertion	
+Samp8	NODE_185_length_111714_cov_19.776489	92394	92700	label=insertion	
+Samp8	NODE_188_length_110575_cov_17.447485	9587	11404	label=deletion	
+Samp8	NODE_188_length_110575_cov_17.447485	27889	27892	label=insertion	26834	27916	ID=JFMPDDIF_02639	gene=Null	gene middle
+Samp8	NODE_188_length_110575_cov_17.447485	47753	48792	label=deletion	46585	47754	ID=JFMPDDIF_02651	gene=Null	gene end
+Samp8	NODE_188_length_110575_cov_17.447485	50557	66687	label=insertion	
+Samp8	NODE_188_length_110575_cov_17.447485	50557	66687	label=deletion	
+Samp8	NODE_188_length_110575_cov_17.447485	73962	73969	label=insertion	
+Samp8	NODE_188_length_110575_cov_17.447485	77840	77840	label=insertion	
+Samp8	NODE_188_length_110575_cov_17.447485	85940	86059	label=deletion	84910	85941	ID=JFMPDDIF_02673	gene=btuC	gene end	86057	87193	ID=JFMPDDIF_02674	gene=Null	gene begin
+Samp8	NODE_188_length_110575_cov_17.447485	91929	91934	label=insertion	91869	91988	ID=JFMPDDIF_02678	gene=Null	gene middle
+Samp8	NODE_192_length_108808_cov_18.739042	55218	108767	label=transloc	54295	55374	ID=JFMPDDIF_02736	gene=Null	gene end
+Samp8	NODE_192_length_108808_cov_18.739042	70649	72487	label=deletion	
+Samp8	NODE_20_length_423139_cov_20.286650	22975	23223	label=deletion	23099	23224	ID=JFMPDDIF_00439	gene=Null	gene begin	23221	24213	ID=JFMPDDIF_00440	gene=nadA	gene begin
+Samp8	NODE_20_length_423139_cov_20.286650	22975	23223	label=insertion	23099	23224	ID=JFMPDDIF_00439	gene=Null	gene begin	23221	24213	ID=JFMPDDIF_00440	gene=nadA	gene begin
+Samp8	NODE_20_length_423139_cov_20.286650	31541	32395	label=insertion	
+Samp8	NODE_20_length_423139_cov_20.286650	35276	35289	label=insertion	
+Samp8	NODE_20_length_423139_cov_20.286650	47297	61174	label=inversion	
+Samp8	NODE_20_length_423139_cov_20.286650	71350	71369	label=insertion	
+Samp8	NODE_20_length_423139_cov_20.286650	74975	77009	label=deletion	73629	74984	ID=JFMPDDIF_00467	gene=Null	gene end
+Samp8	NODE_20_length_423139_cov_20.286650	79795	79796	label=insertion	
+Samp8	NODE_20_length_423139_cov_20.286650	85690	85748	label=deletion	84535	85707	ID=JFMPDDIF_00476	gene=Null	gene end
+Samp8	NODE_20_length_423139_cov_20.286650	85690	85748	label=insertion	84535	85707	ID=JFMPDDIF_00476	gene=Null	gene end
+Samp8	NODE_20_length_423139_cov_20.286650	104374	104376	label=insertion	
+Samp8	NODE_20_length_423139_cov_20.286650	115423	150784	label=deletion	150780	151529	ID=JFMPDDIF_00529	gene=Null	gene begin
+Samp8	NODE_20_length_423139_cov_20.286650	173992	184065	label=deletion	172708	174042	ID=JFMPDDIF_00545	gene=Null	gene end
+Samp8	NODE_20_length_423139_cov_20.286650	198370	198535	label=deletion	197876	198385	ID=JFMPDDIF_00567	gene=Null	gene end
+Samp8	NODE_20_length_423139_cov_20.286650	198370	198535	label=insertion	197876	198385	ID=JFMPDDIF_00567	gene=Null	gene end
+Samp8	NODE_20_length_423139_cov_20.286650	246472	246793	label=deletion	246774	247466	ID=JFMPDDIF_00601	gene=Null	gene begin
+Samp8	NODE_20_length_423139_cov_20.286650	246472	246793	label=insertion	246774	247466	ID=JFMPDDIF_00601	gene=Null	gene begin
+Samp8	NODE_20_length_423139_cov_20.286650	342300	342319	label=insertion	
+Samp8	NODE_20_length_423139_cov_20.286650	367618	369418	label=deletion	
+Samp8	NODE_20_length_423139_cov_20.286650	367618	369418	label=insertion	
+Samp8	NODE_20_length_423139_cov_20.286650	370114	370118	label=insertion	
+Samp8	NODE_20_length_423139_cov_20.286650	376562	376641	label=insertion	
+Samp8	NODE_210_length_100457_cov_18.441973	64	39796	label=transloc	38766	40319	ID=JFMPDDIF_02804	gene=Null	gene begin
+Samp8	NODE_210_length_100457_cov_18.441973	64986	64990	label=insertion	62235	65090	ID=JFMPDDIF_02817	gene=rhaS_7	gene middle
+Samp8	NODE_210_length_100457_cov_18.441973	69695	72276	label=deletion	68062	69696	ID=JFMPDDIF_02819	gene=Null	gene end
+Samp8	NODE_210_length_100457_cov_18.441973	79766	79767	label=insertion	
+Samp8	NODE_210_length_100457_cov_18.441973	81112	81124	label=insertion	
+Samp8	NODE_215_length_99527_cov_14.979753	9960	37760	label=insertion	36668	37891	ID=JFMPDDIF_02885	gene=Null	gene begin
+Samp8	NODE_215_length_99527_cov_14.979753	17771	17807	label=insertion	
+Samp8	NODE_215_length_99527_cov_14.979753	42209	42210	label=insertion	
+Samp8	NODE_215_length_99527_cov_14.979753	90262	91350	label=deletion	90250	90651	ID=JFMPDDIF_02931	gene=Null	gene end	91139	92707	ID=JFMPDDIF_02933	gene=Null	gene begin
+Samp8	NODE_215_length_99527_cov_14.979753	91567	93574	label=deletion	91139	92707	ID=JFMPDDIF_02933	gene=Null	gene end	93568	93765	ID=JFMPDDIF_02936	gene=Null	gene begin
+Samp8	NODE_215_length_99527_cov_14.979753	96746	96936	label=deletion	
+Samp8	NODE_233_length_93916_cov_22.191997	7698	9383	label=deletion	9382	9834	ID=JFMPDDIF_02955	gene=Null	gene begin
+Samp8	NODE_233_length_93916_cov_22.191997	64604	64773	label=deletion	64643	64831	ID=JFMPDDIF_03001	gene=Null	gene begin
+Samp8	NODE_233_length_93916_cov_22.191997	73044	73224	label=deletion	
+Samp8	NODE_233_length_93916_cov_22.191997	76402	76402	label=insertion	74796	76679	ID=JFMPDDIF_03014	gene=Null	gene middle
+Samp8	NODE_24_length_404374_cov_16.340946	37760	155130	label=transloc	
+Samp8	NODE_24_length_404374_cov_16.340946	141077	147578	label=deletion	141004	141079	ID=JFMPDDIF_00862	gene=Null	gene end
+Samp8	NODE_24_length_404374_cov_16.340946	171850	171855	label=insertion	171829	172077	ID=JFMPDDIF_00894	gene=Null	gene middle
+Samp8	NODE_24_length_404374_cov_16.340946	172070	173392	label=deletion	171829	172077	ID=JFMPDDIF_00894	gene=Null	gene end	173344	175557	ID=JFMPDDIF_00896	gene=Null	gene begin
+Samp8	NODE_24_length_404374_cov_16.340946	212906	212915	label=insertion	212823	213653	ID=JFMPDDIF_00932	gene=Null	gene middle
+Samp8	NODE_24_length_404374_cov_16.340946	239327	239521	label=insertion	238509	239468	ID=JFMPDDIF_00956	gene=per1_2	gene end
+Samp8	NODE_24_length_404374_cov_16.340946	247162	247308	label=deletion	
+Samp8	NODE_24_length_404374_cov_16.340946	279470	281375	label=deletion	
+Samp8	NODE_24_length_404374_cov_16.340946	292834	292953	label=insertion	
+Samp8	NODE_24_length_404374_cov_16.340946	292924	293050	label=deletion	293047	293121	ID=JFMPDDIF_01005	gene=Null	gene begin
+Samp8	NODE_24_length_404374_cov_16.340946	325423	326554	label=deletion	326553	327380	ID=JFMPDDIF_01038	gene=Null	gene begin
+Samp8	NODE_24_length_404374_cov_16.340946	350750	351450	label=deletion	
+Samp8	NODE_24_length_404374_cov_16.340946	379767	382478	label=deletion	
+Samp8	NODE_24_length_404374_cov_16.340946	384139	386319	label=deletion	386130	386357	ID=JFMPDDIF_01087	gene=Null	gene begin
+Samp8	NODE_24_length_404374_cov_16.340946	386993	388945	label=deletion	
+Samp8	NODE_252_length_87227_cov_28.360850	38925	81349	label=transloc	
+Samp8	NODE_252_length_87227_cov_28.360850	45281	45314	label=insertion	
+Samp8	NODE_252_length_87227_cov_28.360850	53206	53794	label=deletion	53185	53886	ID=JFMPDDIF_03083	gene=Null	gene middle
+Samp8	NODE_267_length_83533_cov_22.223915	144	82714	label=transloc	
+Samp8	NODE_267_length_83533_cov_22.223915	47723	47846	label=deletion	47786	49753	ID=JFMPDDIF_03165	gene=Null	gene begin
+Samp8	NODE_267_length_83533_cov_22.223915	69374	71208	label=deletion	
+Samp8	NODE_276_length_81074_cov_19.037818	60672	62357	label=deletion	
+Samp8	NODE_276_length_81074_cov_19.037818	67100	67123	label=insertion	
+Samp8	NODE_286_length_79039_cov_21.544465	2024	2112	label=deletion	
+Samp8	NODE_286_length_79039_cov_21.544465	2024	2112	label=insertion	
+Samp8	NODE_286_length_79039_cov_21.544465	13705	13780	label=deletion	13770	14276	ID=JFMPDDIF_03276	gene=Null	gene begin
+Samp8	NODE_286_length_79039_cov_21.544465	13705	13780	label=insertion	13770	14276	ID=JFMPDDIF_03276	gene=Null	gene begin
+Samp8	NODE_286_length_79039_cov_21.544465	21541	22855	label=deletion	
+Samp8	NODE_286_length_79039_cov_21.544465	44303	44348	label=insertion	44346	45578	ID=JFMPDDIF_03302	gene=Null	gene begin
+Samp8	NODE_286_length_79039_cov_21.544465	46084	46088	label=insertion	
+Samp8	NODE_286_length_79039_cov_21.544465	46250	46250	label=insertion	46094	46351	ID=JFMPDDIF_03303	gene=Null	gene middle
+Samp8	NODE_300_length_75942_cov_17.531870	13225	17730	label=deletion	13207	15090	ID=JFMPDDIF_03340	gene=Null	gene end
+Samp8	NODE_310_length_73272_cov_18.773167	33870	36398	label=deletion	36393	36836	ID=JFMPDDIF_03408	gene=Null	gene begin
+Samp8	NODE_41_length_307170_cov_23.010153	28330	34769	label=deletion	28272	29297	ID=JFMPDDIF_01121	gene=ttgD	gene end	33794	34822	ID=JFMPDDIF_01124	gene=Null	gene begin
+Samp8	NODE_41_length_307170_cov_23.010153	34849	35269	label=deletion	34815	35588	ID=JFMPDDIF_01125	gene=btsR_1	gene middle
+Samp8	NODE_41_length_307170_cov_23.010153	36047	36143	label=deletion	36141	39575	ID=JFMPDDIF_01128	gene=rocA	gene begin
+Samp8	NODE_41_length_307170_cov_23.010153	36047	36143	label=insertion	36141	39575	ID=JFMPDDIF_01128	gene=rocA	gene begin
+Samp8	NODE_41_length_307170_cov_23.010153	50597	50862	label=insertion	
+Samp8	NODE_41_length_307170_cov_23.010153	53750	54040	label=insertion	
+Samp8	NODE_41_length_307170_cov_23.010153	171638	171640	label=insertion	171578	171892	ID=JFMPDDIF_01249	gene=Null	gene middle
+Samp8	NODE_41_length_307170_cov_23.010153	191306	191307	label=insertion	
+Samp8	NODE_41_length_307170_cov_23.010153	192821	194662	label=deletion	
+Samp8	NODE_41_length_307170_cov_23.010153	200330	200333	label=insertion	200319	200432	ID=JFMPDDIF_01269	gene=Null	gene middle
+Samp8	NODE_41_length_307170_cov_23.010153	210041	210065	label=insertion	
+Samp8	NODE_41_length_307170_cov_23.010153	224097	224434	label=deletion	
+Samp8	NODE_41_length_307170_cov_23.010153	230960	232715	label=deletion	
+Samp8	NODE_445_length_57812_cov_23.568381	5220	6909	label=deletion	
+Samp8	NODE_445_length_57812_cov_23.568381	24952	30775	label=deletion	30074	31090	ID=JFMPDDIF_03475	gene=Null	gene begin
+Samp8	NODE_445_length_57812_cov_23.568381	24952	30775	label=insertion	30074	31090	ID=JFMPDDIF_03475	gene=Null	gene begin
+Samp8	NODE_445_length_57812_cov_23.568381	32295	36452	label=deletion	36443	39742	ID=JFMPDDIF_03480	gene=Null	gene begin
+Samp8	NODE_48_length_288824_cov_19.256967	397	287735	label=transloc	287245	287745	ID=JFMPDDIF_01576	gene=rfaH	gene begin
+Samp8	NODE_48_length_288824_cov_19.256967	28273	30108	label=deletion	
+Samp8	NODE_48_length_288824_cov_19.256967	58498	61372	label=deletion	
+Samp8	NODE_48_length_288824_cov_19.256967	68198	69885	label=deletion	
+Samp8	NODE_48_length_288824_cov_19.256967	86471	86597	label=insertion	86398	86472	ID=JFMPDDIF_01422	gene=Null	gene end
+Samp8	NODE_48_length_288824_cov_19.256967	90900	90939	label=insertion	
+Samp8	NODE_48_length_288824_cov_19.256967	120835	120849	label=insertion	
+Samp8	NODE_48_length_288824_cov_19.256967	121532	121533	label=insertion	
+Samp8	NODE_48_length_288824_cov_19.256967	122574	122752	label=insertion	
+Samp8	NODE_48_length_288824_cov_19.256967	157368	157592	label=deletion	
+Samp8	NODE_48_length_288824_cov_19.256967	159173	159176	label=insertion	159058	159915	ID=JFMPDDIF_01488	gene=Null	gene middle
+Samp8	NODE_48_length_288824_cov_19.256967	165934	166098	label=deletion	
+Samp8	NODE_48_length_288824_cov_19.256967	165934	166098	label=insertion	
+Samp8	NODE_48_length_288824_cov_19.256967	181916	181918	label=insertion	
+Samp8	NODE_48_length_288824_cov_19.256967	216113	216119	label=insertion	215820	216134	ID=JFMPDDIF_01525	gene=Null	gene middle
+Samp8	NODE_48_length_288824_cov_19.256967	222946	223017	label=insertion	223015	224514	ID=JFMPDDIF_01531	gene=glcA	gene begin
+Samp8	NODE_48_length_288824_cov_19.256967	234250	234334	label=deletion	
+Samp8	NODE_48_length_288824_cov_19.256967	234250	234334	label=insertion	
+Samp8	NODE_48_length_288824_cov_19.256967	260548	260572	label=insertion	260571	264851	ID=JFMPDDIF_01555	gene=lacZ_4	gene begin
+Samp8	NODE_48_length_288824_cov_19.256967	264898	265913	label=deletion	265912	268617	ID=JFMPDDIF_01558	gene=Null	gene begin
+Samp8	NODE_58_length_257392_cov_18.205897	1546	1754	label=deletion	1309	2046	ID=JFMPDDIF_01580	gene=Null	gene middle
+Samp8	NODE_58_length_257392_cov_18.205897	10824	12147	label=deletion	10680	10832	ID=JFMPDDIF_01587	gene=Null	gene end	12099	13334	ID=JFMPDDIF_01589	gene=Null	gene begin
+Samp8	NODE_58_length_257392_cov_18.205897	29331	29423	label=duplication	28208	29413	ID=JFMPDDIF_01601	gene=Null	gene end
+Samp8	NODE_58_length_257392_cov_18.205897	63888	64037	label=duplication	62442	64037	ID=JFMPDDIF_01631	gene=Null	gene middle
+Samp8	NODE_58_length_257392_cov_18.205897	68255	68569	label=deletion	68343	68738	ID=JFMPDDIF_01635	gene=Null	gene begin
+Samp8	NODE_58_length_257392_cov_18.205897	80358	80365	label=insertion	
+Samp8	NODE_58_length_257392_cov_18.205897	80554	80949	label=deletion	
+Samp8	NODE_58_length_257392_cov_18.205897	84845	85392	label=deletion	
+Samp8	NODE_58_length_257392_cov_18.205897	84845	85392	label=insertion	
+Samp8	NODE_58_length_257392_cov_18.205897	98706	98714	label=insertion	
+Samp8	NODE_58_length_257392_cov_18.205897	111443	112542	label=deletion	111287	112108	ID=JFMPDDIF_01668	gene=Null	gene end	112105	112683	ID=JFMPDDIF_01669	gene=Null	gene begin
+Samp8	NODE_58_length_257392_cov_18.205897	112833	113350	label=deletion	112680	113744	ID=JFMPDDIF_01670	gene=Null	gene middle
+Samp8	NODE_58_length_257392_cov_18.205897	116358	116826	label=deletion	115349	116368	ID=JFMPDDIF_01673	gene=carE	gene end
+Samp8	NODE_64_length_243723_cov_18.867590	11526	13217	label=deletion	
+Samp8	NODE_64_length_243723_cov_18.867590	44043	44051	label=insertion	
+Samp8	NODE_64_length_243723_cov_18.867590	78251	78880	label=insertion	
+Samp8	NODE_64_length_243723_cov_18.867590	87760	94318	label=insertion	87226	87804	ID=JFMPDDIF_01872	gene=slyD	gene end
+Samp8	NODE_64_length_243723_cov_18.867590	87760	94318	label=deletion	87226	87804	ID=JFMPDDIF_01872	gene=slyD	gene end
+Samp8	NODE_64_length_243723_cov_18.867590	117040	124476	label=insertion	
+Samp8	NODE_64_length_243723_cov_18.867590	117040	124476	label=deletion	
+Samp8	NODE_64_length_243723_cov_18.867590	142075	142236	label=deletion	141725	142087	ID=JFMPDDIF_01920	gene=Null	gene end	142221	142736	ID=JFMPDDIF_01921	gene=resA_8	gene begin
+Samp8	NODE_64_length_243723_cov_18.867590	142075	142236	label=insertion	141725	142087	ID=JFMPDDIF_01920	gene=Null	gene end	142221	142736	ID=JFMPDDIF_01921	gene=resA_8	gene begin
+Samp8	NODE_64_length_243723_cov_18.867590	163380	180179	label=insertion	
+Samp8	NODE_64_length_243723_cov_18.867590	163380	180179	label=deletion	
+Samp8	NODE_64_length_243723_cov_18.867590	182965	182972	label=insertion	180462	182972	ID=JFMPDDIF_01963	gene=mutS2	gene middle
+Samp8	NODE_64_length_243723_cov_18.867590	189835	189850	label=insertion	
+Samp8	NODE_64_length_243723_cov_18.867590	198221	201126	label=deletion	
+Samp8	NODE_662_length_44349_cov_15.467422	2588	5102	label=deletion	3781	5367	ID=JFMPDDIF_03535	gene=Null	gene begin
+Samp8	NODE_69_length_223667_cov_17.004190	11866	223619	label=transloc	223451	223633	ID=JFMPDDIF_02202	gene=Null	gene begin
+Samp8	NODE_69_length_223667_cov_17.004190	13254	21388	label=deletion	
+Samp8	NODE_69_length_223667_cov_17.004190	23743	68122	label=deletion	23046	23756	ID=JFMPDDIF_02029	gene=Null	gene end	66994	68256	ID=JFMPDDIF_02067	gene=xerC_14	gene begin
+Samp8	NODE_69_length_223667_cov_17.004190	23743	68122	label=insertion	23046	23756	ID=JFMPDDIF_02029	gene=Null	gene end	66994	68256	ID=JFMPDDIF_02067	gene=xerC_14	gene begin
+Samp8	NODE_69_length_223667_cov_17.004190	90161	90195	label=insertion	
+Samp8	NODE_69_length_223667_cov_17.004190	102005	102009	label=insertion	
+Samp8	NODE_69_length_223667_cov_17.004190	116132	118889	label=deletion	
+Samp8	NODE_69_length_223667_cov_17.004190	125663	125669	label=insertion	
+Samp8	NODE_69_length_223667_cov_17.004190	126695	127324	label=deletion	126334	127386	ID=JFMPDDIF_02122	gene=Null	gene middle
+Samp8	NODE_69_length_223667_cov_17.004190	158355	158355	label=insertion	157229	158356	ID=JFMPDDIF_02150	gene=Null	gene middle
+Samp8	NODE_69_length_223667_cov_17.004190	161593	161774	label=insertion	
+Samp8	NODE_69_length_223667_cov_17.004190	180267	182281	label=deletion	180259	182043	ID=JFMPDDIF_02167	gene=Null	gene end	182279	182695	ID=JFMPDDIF_02168	gene=Null	gene begin
+Samp8	NODE_69_length_223667_cov_17.004190	217671	217690	label=insertion	
+Samp8	NODE_830_length_38176_cov_20.251384	106	217	label=insertion	215	1210	ID=JFMPDDIF_03637	gene=buk2	gene begin
+Samp8	NODE_830_length_38176_cov_20.251384	1273	1532	label=deletion	
+Samp8	NODE_830_length_38176_cov_20.251384	16575	16931	label=insertion	
+Samp8	NODE_830_length_38176_cov_20.251384	25312	25410	label=insertion	
+Samp8	NODE_979_length_34067_cov_19.713248	26859	27088	label=deletion	26847	27092	ID=JFMPDDIF_03708	gene=Null	gene middle
+Samp8	NODE_979_length_34067_cov_19.713248	26859	27088	label=insertion	26847	27092	ID=JFMPDDIF_03708	gene=Null	gene middle
+Samp9	NODE_116_length_164593_cov_18.639633	135465	140008	label=deletion	132658	135495	ID=JFMPDDIF_02292	gene=Null	gene end	137187	140315	ID=JFMPDDIF_02294	gene=Null	gene begin
+Samp9	NODE_11_length_517270_cov_19.519805	105031	136088	label=insertion	
+Samp9	NODE_11_length_517270_cov_19.519805	105031	136088	label=deletion	
+Samp9	NODE_11_length_517270_cov_19.519805	267756	267841	label=deletion	
+Samp9	NODE_11_length_517270_cov_19.519805	267756	267841	label=insertion	
+Samp9	NODE_11_length_517270_cov_19.519805	341617	353675	label=insertion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp9	NODE_11_length_517270_cov_19.519805	341617	353675	label=deletion	341514	341660	ID=JFMPDDIF_00286	gene=Null	gene end	353664	355601	ID=JFMPDDIF_00298	gene=Null	gene begin
+Samp9	NODE_11_length_517270_cov_19.519805	413052	413106	label=duplication	413035	413901	ID=JFMPDDIF_00336	gene=Null	gene middle
+Samp9	NODE_172_length_117454_cov_19.196995	26193	26247	label=duplication	24467	26437	ID=JFMPDDIF_02462	gene=Null	gene middle
+Samp9	NODE_172_length_117454_cov_19.196995	53205	53219	label=insertion	
+Samp9	NODE_172_length_117454_cov_19.196995	104312	104707	label=deletion	104068	104754	ID=JFMPDDIF_02515	gene=Null	gene middle
+Samp9	NODE_185_length_111714_cov_19.776489	136	4618	label=deletion	
+Samp9	NODE_185_length_111714_cov_19.776489	4935	5606	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene middle
+Samp9	NODE_185_length_111714_cov_19.776489	6337	17811	label=deletion	4627	7026	ID=JFMPDDIF_02534	gene=Null	gene end	15954	18233	ID=JFMPDDIF_02544	gene=Null	gene begin
+Samp9	NODE_1875_length_21678_cov_18.152430	16699	16724	label=insertion	16649	16722	ID=JFMPDDIF_03730	gene=Null	gene end
+Samp9	NODE_188_length_110575_cov_17.447485	50557	66681	label=insertion	
+Samp9	NODE_188_length_110575_cov_17.447485	50557	66681	label=deletion	
+Samp9	NODE_188_length_110575_cov_17.447485	83789	83818	label=insertion	
+Samp9	NODE_192_length_108808_cov_18.739042	70649	72487	label=deletion	
+Samp9	NODE_20_length_423139_cov_20.286650	121	47125	label=transloc	44000	47179	ID=JFMPDDIF_00453	gene=Null	gene begin
+Samp9	NODE_20_length_423139_cov_20.286650	12579	12585	label=insertion	
+Samp9	NODE_20_length_423139_cov_20.286650	14133	14186	label=deletion	
+Samp9	NODE_20_length_423139_cov_20.286650	14133	14186	label=insertion	
+Samp9	NODE_20_length_423139_cov_20.286650	17493	17583	label=deletion	
+Samp9	NODE_20_length_423139_cov_20.286650	17493	17583	label=insertion	
+Samp9	NODE_20_length_423139_cov_20.286650	79795	79796	label=insertion	
+Samp9	NODE_20_length_423139_cov_20.286650	115423	150790	label=deletion	150780	151529	ID=JFMPDDIF_00529	gene=Null	gene begin
+Samp9	NODE_20_length_423139_cov_20.286650	170907	185422	label=insertion	185408	186313	ID=JFMPDDIF_00555	gene=Null	gene begin
+Samp9	NODE_20_length_423139_cov_20.286650	170907	185422	label=deletion	185408	186313	ID=JFMPDDIF_00555	gene=Null	gene begin
+Samp9	NODE_20_length_423139_cov_20.286650	367708	369196	label=deletion	
+Samp9	NODE_20_length_423139_cov_20.286650	372653	372661	label=insertion	
+Samp9	NODE_210_length_100457_cov_18.441973	56	95244	label=transloc	
+Samp9	NODE_210_length_100457_cov_18.441973	20191	36231	label=insertion	18491	22525	ID=JFMPDDIF_02795	gene=rcsC_23	gene end	36178	37320	ID=JFMPDDIF_02802	gene=Null	gene begin
+Samp9	NODE_210_length_100457_cov_18.441973	64986	64990	label=insertion	62235	65090	ID=JFMPDDIF_02817	gene=rhaS_7	gene middle
+Samp9	NODE_210_length_100457_cov_18.441973	79766	79767	label=insertion	
+Samp9	NODE_215_length_99527_cov_14.979753	63790	66868	label=deletion	63768	64682	ID=JFMPDDIF_02907	gene=ppx2	gene end
+Samp9	NODE_233_length_93916_cov_22.191997	7698	9383	label=deletion	9382	9834	ID=JFMPDDIF_02955	gene=Null	gene begin
+Samp9	NODE_24_length_404374_cov_16.340946	100229	100240	label=insertion	
+Samp9	NODE_24_length_404374_cov_16.340946	101625	101636	label=insertion	
+Samp9	NODE_24_length_404374_cov_16.340946	172070	173392	label=deletion	171829	172077	ID=JFMPDDIF_00894	gene=Null	gene end	173344	175557	ID=JFMPDDIF_00896	gene=Null	gene begin
+Samp9	NODE_24_length_404374_cov_16.340946	236834	236954	label=insertion	236939	237727	ID=JFMPDDIF_00954	gene=COQ5	gene begin
+Samp9	NODE_24_length_404374_cov_16.340946	237961	253955	label=insertion	
+Samp9	NODE_252_length_87227_cov_28.360850	53000	53054	label=duplication	
+Samp9	NODE_252_length_87227_cov_28.360850	53206	53794	label=deletion	53185	53886	ID=JFMPDDIF_03083	gene=Null	gene middle
+Samp9	NODE_267_length_83533_cov_22.223915	69384	71208	label=deletion	
+Samp9	NODE_276_length_81074_cov_19.037818	45255	45734	label=deletion	
+Samp9	NODE_276_length_81074_cov_19.037818	60672	62356	label=deletion	
+Samp9	NODE_276_length_81074_cov_19.037818	66941	66951	label=insertion	
+Samp9	NODE_41_length_307170_cov_23.010153	77871	77874	label=insertion	
+Samp9	NODE_41_length_307170_cov_23.010153	192821	194662	label=deletion	
+Samp9	NODE_41_length_307170_cov_23.010153	230982	232672	label=deletion	
+Samp9	NODE_445_length_57812_cov_23.568381	7142	22457	label=transloc	7028	7195	ID=JFMPDDIF_03460	gene=Null	gene end
+Samp9	NODE_48_length_288824_cov_19.256967	398	13496	label=transloc	398	1231	ID=JFMPDDIF_01370	gene=Null	gene end	13363	15609	ID=JFMPDDIF_01380	gene=Null	gene begin
+Samp9	NODE_48_length_288824_cov_19.256967	398	99527	label=insertion	398	1231	ID=JFMPDDIF_01370	gene=Null	gene end	99394	100137	ID=JFMPDDIF_01436	gene=yknY_3	gene begin
+Samp9	NODE_48_length_288824_cov_19.256967	157478	157485	label=insertion	
+Samp9	NODE_48_length_288824_cov_19.256967	260924	260978	label=duplication	260571	264851	ID=JFMPDDIF_01555	gene=lacZ_4	gene middle
+Samp9	NODE_58_length_257392_cov_18.205897	10824	12147	label=deletion	10680	10832	ID=JFMPDDIF_01587	gene=Null	gene end	12099	13334	ID=JFMPDDIF_01589	gene=Null	gene begin
+Samp9	NODE_58_length_257392_cov_18.205897	84845	85392	label=deletion	
+Samp9	NODE_58_length_257392_cov_18.205897	84845	85392	label=insertion	
+Samp9	NODE_64_length_243723_cov_18.867590	11526	13210	label=deletion	
+Samp9	NODE_662_length_44349_cov_15.467422	26461	29609	label=deletion	26409	27638	ID=JFMPDDIF_03548	gene=Null	gene end	28888	29616	ID=JFMPDDIF_03550	gene=Null	gene begin
+Samp9	NODE_662_length_44349_cov_15.467422	31365	31374	label=insertion	31358	31909	ID=JFMPDDIF_03553	gene=dapH_2	gene middle
+Samp9	NODE_69_length_223667_cov_17.004190	101974	103283	label=deletion	
+Samp9	NODE_69_length_223667_cov_17.004190	101974	103283	label=insertion	
+Samp9	NODE_69_length_223667_cov_17.004190	116132	118889	label=deletion	
+Samp9	NODE_830_length_38176_cov_20.251384	1273	1374	label=deletion	
+Samp9	NODE_830_length_38176_cov_20.251384	16934	16976	label=insertion	16934	17008	ID=JFMPDDIF_03655	gene=Null	gene middle
+Samp9	NODE_868_length_37134_cov_19.040023	7142	36842	label=insertion	5307	7334	ID=JFMPDDIF_03680	gene=Null	gene end	34080	36884	ID=JFMPDDIF_03693	gene=Null	gene begin
+Samp9	NODE_868_length_37134_cov_19.040023	21323	36842	label=transloc	18980	21346	ID=JFMPDDIF_03686	gene=Null	gene end	34080	36884	ID=JFMPDDIF_03693	gene=Null	gene begin
+Samp9	NODE_979_length_34067_cov_19.713248	51	34019	label=transloc	

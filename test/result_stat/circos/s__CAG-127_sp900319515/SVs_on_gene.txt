@@ -1,0 +1,136 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 2530 gene of reference genome
+Samp10	NODE_111_length_143338_cov_23.878974	21563	21590	label=insertion	21583	22446	ID=NOFCBALI_02258	gene=dapF	gene begin
+Samp10	NODE_111_length_143338_cov_23.878974	57880	57889	label=insertion	57869	58129	ID=NOFCBALI_02289	gene=Null	gene middle
+Samp10	NODE_111_length_143338_cov_23.878974	64095	65106	label=deletion	
+Samp10	NODE_111_length_143338_cov_23.878974	68531	68535	label=insertion	67895	69055	ID=NOFCBALI_02304	gene=hemA	gene middle
+Samp10	NODE_111_length_143338_cov_23.878974	69150	69242	label=duplication	
+Samp10	NODE_111_length_143338_cov_23.878974	69204	69242	label=insertion	
+Samp10	NODE_111_length_143338_cov_23.878974	143067	143177	label=duplication	143165	143240	ID=NOFCBALI_02369	gene=Null	gene begin
+Samp10	NODE_159_length_109547_cov_26.738337	8655	8762	label=insertion	
+Samp10	NODE_159_length_109547_cov_26.738337	51177	51973	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	34575	34587	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	34700	34873	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	53779	53780	label=insertion	53779	54111	ID=NOFCBALI_00040	gene=Null	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	54471	54476	label=insertion	54108	54557	ID=NOFCBALI_00041	gene=Null	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	59279	59572	label=deletion	57592	59280	ID=NOFCBALI_00043	gene=Null	gene end
+Samp10	NODE_1_length_1461675_cov_22.623961	67022	75883	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	76927	76928	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	91438	91438	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	108505	108845	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	118890	118991	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	145088	145202	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	161629	170580	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	184747	184854	label=deletion	184491	184829	ID=NOFCBALI_00146	gene=Null	gene end
+Samp10	NODE_1_length_1461675_cov_22.623961	205406	205422	label=insertion	205407	206516	ID=NOFCBALI_00165	gene=ybiR	gene begin
+Samp10	NODE_1_length_1461675_cov_22.623961	255113	255366	label=deletion	254556	255125	ID=NOFCBALI_00209	gene=pabA	gene end
+Samp10	NODE_1_length_1461675_cov_22.623961	260505	261433	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	266583	266851	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	273493	273997	label=deletion	272742	274022	ID=NOFCBALI_00227	gene=hutI	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	276765	276766	label=insertion	276654	277325	ID=NOFCBALI_00231	gene=Null	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	289104	290061	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	301556	301583	label=insertion	300787	301572	ID=NOFCBALI_00255	gene=rnfB	gene end
+Samp10	NODE_1_length_1461675_cov_22.623961	312648	312859	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	312648	312859	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	312980	313124	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	385751	385815	label=insertion	385075	385758	ID=NOFCBALI_00335	gene=dinG	gene end
+Samp10	NODE_1_length_1461675_cov_22.623961	386410	386412	label=insertion	386395	386769	ID=NOFCBALI_00337	gene=Null	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	386509	386521	label=insertion	386395	386769	ID=NOFCBALI_00337	gene=Null	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	386863	402748	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	386863	402748	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	431500	440818	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	458674	465848	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	592928	593184	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	612965	613096	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	639672	641762	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	660238	660239	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	701162	701210	label=insertion	701177	701365	ID=NOFCBALI_00602	gene=Null	gene begin
+Samp10	NODE_1_length_1461675_cov_22.623961	863938	863986	label=insertion	863965	864078	ID=NOFCBALI_00759	gene=Null	gene begin
+Samp10	NODE_1_length_1461675_cov_22.623961	934230	934352	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	936487	948602	label=insertion	936324	936599	ID=NOFCBALI_00824	gene=yccX	gene end
+Samp10	NODE_1_length_1461675_cov_22.623961	936487	948602	label=deletion	936324	936599	ID=NOFCBALI_00824	gene=yccX	gene end
+Samp10	NODE_1_length_1461675_cov_22.623961	950258	950259	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1018269	1018545	label=insertion	1017663	1021916	ID=NOFCBALI_00902	gene=Null	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	1069719	1069865	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1077021	1077183	label=deletion	1075828	1077027	ID=NOFCBALI_00949	gene=epsF_2	gene end	1077170	1077958	ID=NOFCBALI_00950	gene=comC_2	gene begin
+Samp10	NODE_1_length_1461675_cov_22.623961	1116941	1117595	label=deletion	1116949	1117947	ID=NOFCBALI_00979	gene=yhcG	gene begin
+Samp10	NODE_1_length_1461675_cov_22.623961	1117697	1117973	label=deletion	1116949	1117947	ID=NOFCBALI_00979	gene=yhcG	gene end
+Samp10	NODE_1_length_1461675_cov_22.623961	1119211	1144967	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1119211	1144967	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1145252	1145252	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1148051	1154642	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1148051	1154642	label=deletion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1207175	1207183	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1276892	1276913	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1289498	1289673	label=duplication	1289089	1291407	ID=NOFCBALI_01125	gene=Null	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	1289777	1289850	label=duplication	1289089	1291407	ID=NOFCBALI_01125	gene=Null	gene middle
+Samp10	NODE_1_length_1461675_cov_22.623961	1309942	1309942	label=insertion	
+Samp10	NODE_1_length_1461675_cov_22.623961	1310267	1310281	label=insertion	1310174	1312351	ID=NOFCBALI_01152	gene=Null	gene middle
+Samp10	NODE_20_length_427363_cov_31.927818	9348	30070	label=insertion	8054	9427	ID=NOFCBALI_01293	gene=Null	gene end	29875	30165	ID=NOFCBALI_01314	gene=Null	gene begin
+Samp10	NODE_20_length_427363_cov_31.927818	9348	36712	label=transloc	8054	9427	ID=NOFCBALI_01293	gene=Null	gene end	35496	36731	ID=NOFCBALI_01320	gene=rlmCD_2	gene begin
+Samp10	NODE_20_length_427363_cov_31.927818	16544	17888	label=deletion	16442	16879	ID=NOFCBALI_01301	gene=Null	gene end	17508	17915	ID=NOFCBALI_01304	gene=Null	gene begin
+Samp10	NODE_20_length_427363_cov_31.927818	30554	30560	label=insertion	
+Samp10	NODE_20_length_427363_cov_31.927818	43733	43748	label=insertion	43636	43953	ID=NOFCBALI_01326	gene=eno_2	gene middle
+Samp10	NODE_20_length_427363_cov_31.927818	43898	43900	label=insertion	43636	43953	ID=NOFCBALI_01326	gene=eno_2	gene middle
+Samp10	NODE_20_length_427363_cov_31.927818	51041	51077	label=insertion	50539	51072	ID=NOFCBALI_01333	gene=Null	gene end
+Samp10	NODE_20_length_427363_cov_31.927818	111352	111601	label=deletion	111306	111581	ID=NOFCBALI_01375	gene=Null	gene end
+Samp10	NODE_20_length_427363_cov_31.927818	167293	167300	label=insertion	167015	167395	ID=NOFCBALI_01430	gene=Null	gene middle
+Samp10	NODE_20_length_427363_cov_31.927818	169077	169127	label=insertion	169084	170121	ID=NOFCBALI_01433	gene=Null	gene begin
+Samp10	NODE_20_length_427363_cov_31.927818	181630	181640	label=insertion	
+Samp10	NODE_20_length_427363_cov_31.927818	228522	228802	label=deletion	
+Samp10	NODE_20_length_427363_cov_31.927818	235976	236069	label=deletion	
+Samp10	NODE_20_length_427363_cov_31.927818	236951	237000	label=insertion	
+Samp10	NODE_20_length_427363_cov_31.927818	272686	279222	label=deletion	
+Samp10	NODE_20_length_427363_cov_31.927818	272686	279222	label=insertion	
+Samp10	NODE_20_length_427363_cov_31.927818	284884	284888	label=insertion	284882	285025	ID=NOFCBALI_01546	gene=Null	gene middle
+Samp10	NODE_20_length_427363_cov_31.927818	294483	294601	label=deletion	294482	294913	ID=NOFCBALI_01558	gene=Null	gene middle
+Samp10	NODE_20_length_427363_cov_31.927818	297066	297072	label=insertion	
+Samp10	NODE_20_length_427363_cov_31.927818	299533	299542	label=insertion	
+Samp10	NODE_20_length_427363_cov_31.927818	307205	308964	label=deletion	
+Samp10	NODE_20_length_427363_cov_31.927818	313333	313335	label=insertion	312341	313336	ID=NOFCBALI_01574	gene=Null	gene middle
+Samp10	NODE_20_length_427363_cov_31.927818	332576	333687	label=deletion	332757	333719	ID=NOFCBALI_01597	gene=Null	gene begin
+Samp10	NODE_20_length_427363_cov_31.927818	333821	334098	label=deletion	333732	334109	ID=NOFCBALI_01598	gene=Null	gene middle
+Samp10	NODE_20_length_427363_cov_31.927818	402976	403256	label=deletion	
+Samp10	NODE_20_length_427363_cov_31.927818	421236	421340	label=deletion	419012	421408	ID=NOFCBALI_01669	gene=glgB_2	gene middle
+Samp10	NODE_29_length_371213_cov_30.052484	85	132533	label=transloc	
+Samp10	NODE_29_length_371213_cov_30.052484	14452	14500	label=insertion	
+Samp10	NODE_29_length_371213_cov_30.052484	105606	105625	label=insertion	105624	106253	ID=NOFCBALI_01769	gene=tmk	gene begin
+Samp10	NODE_29_length_371213_cov_30.052484	116736	116837	label=deletion	
+Samp10	NODE_29_length_371213_cov_30.052484	127440	128785	label=deletion	128766	129584	ID=NOFCBALI_01791	gene=Null	gene begin
+Samp10	NODE_29_length_371213_cov_30.052484	129599	131570	label=deletion	131568	132464	ID=NOFCBALI_01794	gene=rmlA_1	gene begin
+Samp10	NODE_29_length_371213_cov_30.052484	132185	132480	label=duplication	131568	132464	ID=NOFCBALI_01794	gene=rmlA_1	gene end
+Samp10	NODE_29_length_371213_cov_30.052484	261664	261930	label=insertion	
+Samp10	NODE_29_length_371213_cov_30.052484	261893	262037	label=deletion	
+Samp10	NODE_29_length_371213_cov_30.052484	294048	295519	label=deletion	
+Samp10	NODE_29_length_371213_cov_30.052484	298883	302250	label=deletion	300815	302266	ID=NOFCBALI_01937	gene=Null	gene begin
+Samp10	NODE_29_length_371213_cov_30.052484	347465	358392	label=deletion	347077	347961	ID=NOFCBALI_01982	gene=Null	gene end	358265	359113	ID=NOFCBALI_01996	gene=Null	gene begin
+Samp10	NODE_29_length_371213_cov_30.052484	361038	362774	label=deletion	360200	361039	ID=NOFCBALI_01998	gene=Null	gene end	361885	362907	ID=NOFCBALI_02000	gene=Null	gene begin
+Samp10	NODE_52_length_239657_cov_25.137081	17071	52281	label=deletion	16266	17072	ID=NOFCBALI_02024	gene=ecfT_1	gene end
+Samp10	NODE_52_length_239657_cov_25.137081	58134	58936	label=deletion	58087	58926	ID=NOFCBALI_02071	gene=Null	gene end	58907	59560	ID=NOFCBALI_02072	gene=Null	gene begin
+Samp10	NODE_52_length_239657_cov_25.137081	72976	72978	label=insertion	
+Samp10	NODE_52_length_239657_cov_25.137081	86717	86736	label=insertion	
+Samp10	NODE_52_length_239657_cov_25.137081	147620	147649	label=insertion	
+Samp10	NODE_52_length_239657_cov_25.137081	157616	157618	label=insertion	155722	157617	ID=NOFCBALI_02161	gene=ftsH4_2	gene end
+Samp10	NODE_52_length_239657_cov_25.137081	161130	161304	label=deletion	161127	161288	ID=NOFCBALI_02166	gene=Null	gene end
+Samp10	NODE_775_length_35731_cov_30.111672	517	30070	label=transloc	
+Samp1	NODE_1_length_1461675_cov_22.623961	419301	430225	label=insertion	429951	430262	ID=NOFCBALI_00369	gene=pgsA_1	gene begin
+Samp1	NODE_1_length_1461675_cov_22.623961	419301	430225	label=deletion	429951	430262	ID=NOFCBALI_00369	gene=pgsA_1	gene begin
+Samp2	NODE_1_length_1461675_cov_22.623961	118890	118991	label=deletion	
+Samp2	NODE_1_length_1461675_cov_22.623961	660161	660162	label=insertion	
+Samp2	NODE_1_length_1461675_cov_22.623961	702137	702191	label=duplication	702168	702791	ID=NOFCBALI_00604	gene=menG	gene begin
+Samp2	NODE_20_length_427363_cov_31.927818	8844	35350	label=insertion	8054	9427	ID=NOFCBALI_01293	gene=Null	gene end	34716	35492	ID=NOFCBALI_01319	gene=Null	gene begin
+Samp2	NODE_20_length_427363_cov_31.927818	8844	426864	label=transloc	8054	9427	ID=NOFCBALI_01293	gene=Null	gene end	425082	427115	ID=NOFCBALI_01674	gene=epmA	gene begin
+Samp2	NODE_29_length_371213_cov_30.052484	352908	352962	label=duplication	
+Samp2	NODE_29_length_371213_cov_30.052484	354017	354071	label=duplication	
+Samp3	NODE_1_length_1461675_cov_22.623961	118890	118991	label=deletion	
+Samp3	NODE_1_length_1461675_cov_22.623961	419301	430225	label=insertion	429951	430262	ID=NOFCBALI_00369	gene=pgsA_1	gene begin
+Samp3	NODE_1_length_1461675_cov_22.623961	419301	430225	label=deletion	429951	430262	ID=NOFCBALI_00369	gene=pgsA_1	gene begin
+Samp3	NODE_29_length_371213_cov_30.052484	116736	116837	label=deletion	
+Samp3	NODE_52_length_239657_cov_25.137081	86663	86860	label=duplication	
+Samp3	NODE_775_length_35731_cov_30.111672	3456	35350	label=insertion	2228	3814	ID=NOFCBALI_02498	gene=Null	gene end	35121	35669	ID=NOFCBALI_02529	gene=Null	gene begin
+Samp4	NODE_1_length_1461675_cov_22.623961	118890	118991	label=deletion	
+Samp4	NODE_1_length_1461675_cov_22.623961	419301	430225	label=insertion	429951	430262	ID=NOFCBALI_00369	gene=pgsA_1	gene begin
+Samp4	NODE_1_length_1461675_cov_22.623961	419301	430225	label=deletion	429951	430262	ID=NOFCBALI_00369	gene=pgsA_1	gene begin
+Samp4	NODE_29_length_371213_cov_30.052484	354017	354071	label=duplication	
+Samp4	NODE_52_length_239657_cov_25.137081	86689	86717	label=insertion	
+Samp4	NODE_52_length_239657_cov_25.137081	86860	86961	label=deletion	

@@ -1,0 +1,42 @@
+debuggroup summary 0.27s welcome to circos v0.69-8 15 Jun 2019 on Perl 5.032001
+debuggroup summary 0.28s current working directory /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__CAG-279_sp000437795
+debuggroup summary 0.28s command /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/circos -conf circos.conf
+debuggroup summary 0.28s loading configuration from file circos.conf
+debuggroup summary 0.28s found conf file circos.conf
+debuggroup summary 0.59s debug will appear for these features: output,summary
+debuggroup summary 0.59s bitmap output image ./sample.png
+debuggroup summary 0.59s SVG output image ./sample.svg
+debuggroup summary 0.59s parsing karyotype and organizing ideograms
+debuggroup summary 0.60s karyotype has 32 chromosomes of total size 2,619,256
+debuggroup summary 0.61s applying global and local scaling
+debuggroup summary 0.62s allocating image, colors and brushes
+debuggroup summary 3.01s drawing 32 ideograms of total size 2,619,256
+debuggroup summary 3.01s drawing highlights and ideograms
+debuggroup summary 3.10s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.11s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.11s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.11s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.11s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.11s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/tile.conf
+debuggroup summary 3.11s processing track_0 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__CAG-279_sp000437795/query_Samp1.bin.19.orig.dat
+debuggroup summary 3.33s processing track_1 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__CAG-279_sp000437795/query_Samp2.bin.48.orig.dat
+debuggroup summary 3.57s processing track_2 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__CAG-279_sp000437795/query_Samp3.bin.35.orig.dat
+debuggroup summary 3.81s processing track_3 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__CAG-279_sp000437795/query_Samp4.bin.3.orig.dat
+debuggroup summary 4.05s processing track_4 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__CAG-279_sp000437795/query_Samp5.bin.5.orig.dat
+debuggroup summary 4.29s processing track_5 tile /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__CAG-279_sp000437795/query_Samp6.bin.36.orig.dat
+debuggroup summary 4.53s drawing track_0 tile z 0 query_Samp1.bin.19.orig.dat orient in
+debuggroup summary 4.53s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 4.67s drawing track_1 tile z 0 query_Samp2.bin.48.orig.dat orient in
+debuggroup summary 4.68s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 4.81s drawing track_2 tile z 0 query_Samp3.bin.35.orig.dat orient in
+debuggroup summary 4.81s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 4.93s drawing track_3 tile z 0 query_Samp4.bin.3.orig.dat orient in
+debuggroup summary 4.94s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 5.06s drawing track_4 tile z 0 query_Samp5.bin.5.orig.dat orient in
+debuggroup summary 5.06s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup summary 5.18s drawing track_5 tile z 0 query_Samp6.bin.36.orig.dat orient out
+debuggroup summary 5.19s found conf file /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../etc/tracks/axis.conf
+debuggroup output 5.34s generating output
+debuggroup output 5.46s created PNG image ./sample.png (67 kb)
+debuggroup output 5.46s created SVG image ./sample.svg (116 kb)
+This-Work-is-Completed!
