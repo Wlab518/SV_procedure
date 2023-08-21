@@ -112,4 +112,4 @@ By now, the program will be able to recover from the nearest checkpoint rather t
 
 # Examples
 
-The example project can be found in the following directory: SV_procedure/test 
+The example data is deposited in NCBI SRA database (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA820119) and the example project can be found in the following directory: SV_procedure/test 
