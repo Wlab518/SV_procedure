@@ -1,0 +1,460 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 2540 gene of reference genome
+Samp10	NODE_101_length_215705_cov_7.131245	95153	215555	label=transloc	
+Samp10	NODE_101_length_215705_cov_7.131245	132467	132473	label=insertion	132259	132468	ID=IOKHHAPI_00130	gene=Null	gene end
+Samp10	NODE_101_length_215705_cov_7.131245	132562	137106	label=deletion	132555	134195	ID=IOKHHAPI_00131	gene=treA	gene end
+Samp10	NODE_101_length_215705_cov_7.131245	145476	145525	label=insertion	
+Samp10	NODE_101_length_215705_cov_7.131245	147874	148598	label=insertion	148508	148846	ID=IOKHHAPI_00142	gene=Null	gene begin
+Samp10	NODE_101_length_215705_cov_7.131245	148677	165587	label=deletion	148508	148846	ID=IOKHHAPI_00142	gene=Null	gene end
+Samp10	NODE_101_length_215705_cov_7.131245	148677	165587	label=insertion	148508	148846	ID=IOKHHAPI_00142	gene=Null	gene end
+Samp10	NODE_101_length_215705_cov_7.131245	207921	207921	label=insertion	
+Samp10	NODE_1096_length_40566_cov_10.398583	22705	22788	label=insertion	22775	25357	ID=IOKHHAPI_02323	gene=clpB	gene begin
+Samp10	NODE_1096_length_40566_cov_10.398583	34513	36366	label=deletion	
+Samp10	NODE_112_length_206091_cov_11.584218	8331	8369	label=insertion	7627	8433	ID=IOKHHAPI_00218	gene=Null	gene middle
+Samp10	NODE_112_length_206091_cov_11.584218	8513	8627	label=deletion	
+Samp10	NODE_112_length_206091_cov_11.584218	47321	49609	label=deletion	
+Samp10	NODE_112_length_206091_cov_11.584218	50654	60160	label=deletion	
+Samp10	NODE_112_length_206091_cov_11.584218	68030	68165	label=insertion	66460	68034	ID=IOKHHAPI_00270	gene=Null	gene end
+Samp10	NODE_112_length_206091_cov_11.584218	77139	77178	label=insertion	76274	77149	ID=IOKHHAPI_00279	gene=cmpR	gene end
+Samp10	NODE_112_length_206091_cov_11.584218	99250	99255	label=insertion	98374	99279	ID=IOKHHAPI_00301	gene=Null	gene middle
+Samp10	NODE_112_length_206091_cov_11.584218	99349	99494	label=insertion	
+Samp10	NODE_112_length_206091_cov_11.584218	106154	106154	label=insertion	
+Samp10	NODE_112_length_206091_cov_11.584218	110684	114253	label=deletion	110644	114288	ID=IOKHHAPI_00310	gene=Null	gene middle
+Samp10	NODE_112_length_206091_cov_11.584218	117494	117615	label=deletion	117262	118071	ID=IOKHHAPI_00312	gene=ycsE_2	gene middle
+Samp10	NODE_112_length_206091_cov_11.584218	139688	205866	label=transloc	
+Samp10	NODE_112_length_206091_cov_11.584218	148933	148987	label=duplication	148225	149073	ID=IOKHHAPI_00340	gene=rhaR_2	gene middle
+Samp10	NODE_112_length_206091_cov_11.584218	175884	176012	label=deletion	
+Samp10	NODE_112_length_206091_cov_11.584218	175884	176012	label=insertion	
+Samp10	NODE_112_length_206091_cov_11.584218	176752	176821	label=deletion	
+Samp10	NODE_112_length_206091_cov_11.584218	176752	176821	label=insertion	
+Samp10	NODE_150_length_171689_cov_8.160854	16624	16627	label=insertion	
+Samp10	NODE_150_length_171689_cov_8.160854	18183	33599	label=insertion	
+Samp10	NODE_150_length_171689_cov_8.160854	18183	33599	label=deletion	
+Samp10	NODE_150_length_171689_cov_8.160854	34598	38751	label=deletion	33685	34602	ID=IOKHHAPI_00448	gene=Null	gene end
+Samp10	NODE_150_length_171689_cov_8.160854	34598	38751	label=insertion	33685	34602	ID=IOKHHAPI_00448	gene=Null	gene end
+Samp10	NODE_150_length_171689_cov_8.160854	39838	40724	label=insertion	
+Samp10	NODE_150_length_171689_cov_8.160854	68442	68566	label=insertion	
+Samp10	NODE_150_length_171689_cov_8.160854	69494	69500	label=insertion	
+Samp10	NODE_150_length_171689_cov_8.160854	78079	80078	label=deletion	
+Samp10	NODE_150_length_171689_cov_8.160854	91362	91383	label=insertion	
+Samp10	NODE_150_length_171689_cov_8.160854	92992	93049	label=insertion	
+Samp10	NODE_150_length_171689_cov_8.160854	103676	103944	label=insertion	103240	103680	ID=IOKHHAPI_00518	gene=Null	gene end
+Samp10	NODE_150_length_171689_cov_8.160854	108777	109246	label=deletion	109226	109327	ID=IOKHHAPI_00524	gene=Null	gene begin
+Samp10	NODE_150_length_171689_cov_8.160854	122034	123731	label=deletion	
+Samp10	NODE_150_length_171689_cov_8.160854	126026	126180	label=deletion	
+Samp10	NODE_150_length_171689_cov_8.160854	147484	168919	label=insertion	168901	168971	ID=IOKHHAPI_00582	gene=Null	gene begin
+Samp10	NODE_150_length_171689_cov_8.160854	147484	168919	label=deletion	168901	168971	ID=IOKHHAPI_00582	gene=Null	gene begin
+Samp10	NODE_161_length_164527_cov_8.605033	51754	51839	label=deletion	
+Samp10	NODE_161_length_164527_cov_8.605033	57324	57894	label=insertion	
+Samp10	NODE_161_length_164527_cov_8.605033	58472	60048	label=deletion	
+Samp10	NODE_161_length_164527_cov_8.605033	82630	82789	label=insertion	
+Samp10	NODE_161_length_164527_cov_8.605033	85047	85068	label=insertion	
+Samp10	NODE_161_length_164527_cov_8.605033	114417	114418	label=insertion	
+Samp10	NODE_161_length_164527_cov_8.605033	128541	142542	label=deletion	
+Samp10	NODE_161_length_164527_cov_8.605033	154281	154288	label=insertion	
+Samp10	NODE_162_length_164493_cov_10.898375	2849	4927	label=deletion	2074	2856	ID=IOKHHAPI_00724	gene=tuf	gene end	2991	4973	ID=IOKHHAPI_00725	gene=Null	gene begin
+Samp10	NODE_162_length_164493_cov_10.898375	7782	7836	label=duplication	6768	8699	ID=IOKHHAPI_00729	gene=Null	gene middle
+Samp10	NODE_162_length_164493_cov_10.898375	33947	34048	label=deletion	
+Samp10	NODE_162_length_164493_cov_10.898375	74690	74905	label=deletion	74685	74909	ID=IOKHHAPI_00794	gene=davT	gene middle
+Samp10	NODE_162_length_164493_cov_10.898375	82267	82659	label=deletion	82658	83101	ID=IOKHHAPI_00805	gene=Null	gene begin
+Samp10	NODE_162_length_164493_cov_10.898375	82267	82659	label=insertion	82658	83101	ID=IOKHHAPI_00805	gene=Null	gene begin
+Samp10	NODE_162_length_164493_cov_10.898375	86216	86218	label=insertion	
+Samp10	NODE_162_length_164493_cov_10.898375	90670	90725	label=insertion	
+Samp10	NODE_162_length_164493_cov_10.898375	106520	108190	label=deletion	
+Samp10	NODE_162_length_164493_cov_10.898375	106520	108190	label=insertion	
+Samp10	NODE_162_length_164493_cov_10.898375	109727	111444	label=deletion	
+Samp10	NODE_162_length_164493_cov_10.898375	112770	112791	label=insertion	
+Samp10	NODE_162_length_164493_cov_10.898375	112916	112923	label=insertion	
+Samp10	NODE_162_length_164493_cov_10.898375	133777	133778	label=insertion	
+Samp10	NODE_184_length_150053_cov_13.914332	44855	44980	label=deletion	
+Samp10	NODE_184_length_150053_cov_13.914332	44855	44980	label=insertion	
+Samp10	NODE_184_length_150053_cov_13.914332	50125	50134	label=insertion	
+Samp10	NODE_184_length_150053_cov_13.914332	78903	80241	label=deletion	
+Samp10	NODE_184_length_150053_cov_13.914332	83869	83871	label=insertion	
+Samp10	NODE_184_length_150053_cov_13.914332	83980	93363	label=insertion	92629	93396	ID=IOKHHAPI_00981	gene=srlR_2	gene begin
+Samp10	NODE_184_length_150053_cov_13.914332	83980	93363	label=deletion	92629	93396	ID=IOKHHAPI_00981	gene=srlR_2	gene begin
+Samp10	NODE_184_length_150053_cov_13.914332	100284	100290	label=insertion	100257	100622	ID=IOKHHAPI_00986	gene=Null	gene middle
+Samp10	NODE_184_length_150053_cov_13.914332	118856	119396	label=deletion	118362	119312	ID=IOKHHAPI_01007	gene=Null	gene end
+Samp10	NODE_184_length_150053_cov_13.914332	129911	129995	label=deletion	129983	130618	ID=IOKHHAPI_01015	gene=Null	gene begin
+Samp10	NODE_184_length_150053_cov_13.914332	129911	129995	label=insertion	129983	130618	ID=IOKHHAPI_01015	gene=Null	gene begin
+Samp10	NODE_184_length_150053_cov_13.914332	130757	130897	label=deletion	
+Samp10	NODE_207_length_143058_cov_9.621805	11574	11625	label=duplication	
+Samp10	NODE_207_length_143058_cov_9.621805	14352	16978	label=deletion	15015	17072	ID=IOKHHAPI_01045	gene=Null	gene begin
+Samp10	NODE_207_length_143058_cov_9.621805	18369	20289	label=deletion	
+Samp10	NODE_207_length_143058_cov_9.621805	25950	25968	label=insertion	
+Samp10	NODE_207_length_143058_cov_9.621805	29823	31486	label=deletion	
+Samp10	NODE_207_length_143058_cov_9.621805	55224	56325	label=deletion	55313	56728	ID=IOKHHAPI_01084	gene=Null	gene begin
+Samp10	NODE_207_length_143058_cov_9.621805	56678	70798	label=insertion	55313	56728	ID=IOKHHAPI_01084	gene=Null	gene end	70782	71981	ID=IOKHHAPI_01101	gene=icd	gene begin
+Samp10	NODE_207_length_143058_cov_9.621805	56678	70798	label=deletion	55313	56728	ID=IOKHHAPI_01084	gene=Null	gene end	70782	71981	ID=IOKHHAPI_01101	gene=icd	gene begin
+Samp10	NODE_207_length_143058_cov_9.621805	104265	107191	label=deletion	104236	106233	ID=IOKHHAPI_01125	gene=Null	gene end	106244	107212	ID=IOKHHAPI_01126	gene=ykoT	gene begin
+Samp10	NODE_207_length_143058_cov_9.621805	116420	116420	label=insertion	116364	116777	ID=IOKHHAPI_01134	gene=Null	gene middle
+Samp10	NODE_207_length_143058_cov_9.621805	116804	139510	label=insertion	116774	116863	ID=IOKHHAPI_01135	gene=Null	gene end	139401	139904	ID=IOKHHAPI_01154	gene=Null	gene begin
+Samp10	NODE_207_length_143058_cov_9.621805	116804	139510	label=deletion	116774	116863	ID=IOKHHAPI_01135	gene=Null	gene end	139401	139904	ID=IOKHHAPI_01154	gene=Null	gene begin
+Samp10	NODE_214_length_141091_cov_23.366077	1312	1366	label=duplication	1179	1403	ID=IOKHHAPI_01160	gene=Null	gene middle
+Samp10	NODE_214_length_141091_cov_23.366077	58465	63014	label=deletion	
+Samp10	NODE_214_length_141091_cov_23.366077	67067	68644	label=deletion	68632	69006	ID=IOKHHAPI_01225	gene=Null	gene begin
+Samp10	NODE_214_length_141091_cov_23.366077	106745	111123	label=deletion	
+Samp10	NODE_214_length_141091_cov_23.366077	111739	111748	label=insertion	
+Samp10	NODE_214_length_141091_cov_23.366077	136182	136495	label=deletion	134636	136999	ID=IOKHHAPI_01283	gene=Null	gene middle
+Samp10	NODE_222_length_137967_cov_9.970880	1626	1744	label=deletion	1332	2687	ID=IOKHHAPI_01290	gene=dauA	gene middle
+Samp10	NODE_222_length_137967_cov_9.970880	5282	5494	label=deletion	5007	5723	ID=IOKHHAPI_01293	gene=ypdB_1	gene middle
+Samp10	NODE_222_length_137967_cov_9.970880	19405	23569	label=deletion	19283	21883	ID=IOKHHAPI_01309	gene=Null	gene end	21915	23594	ID=IOKHHAPI_01310	gene=Null	gene begin
+Samp10	NODE_222_length_137967_cov_9.970880	24076	24080	label=insertion	23810	24448	ID=IOKHHAPI_01311	gene=Null	gene middle
+Samp10	NODE_222_length_137967_cov_9.970880	24562	24605	label=insertion	
+Samp10	NODE_222_length_137967_cov_9.970880	25393	25400	label=insertion	25326	25772	ID=IOKHHAPI_01314	gene=Null	gene middle
+Samp10	NODE_222_length_137967_cov_9.970880	25819	46598	label=insertion	
+Samp10	NODE_222_length_137967_cov_9.970880	25819	46598	label=deletion	
+Samp10	NODE_222_length_137967_cov_9.970880	51039	51170	label=deletion	
+Samp10	NODE_222_length_137967_cov_9.970880	56404	57750	label=deletion	57749	58549	ID=IOKHHAPI_01339	gene=Null	gene begin
+Samp10	NODE_222_length_137967_cov_9.970880	122417	122418	label=insertion	
+Samp10	NODE_245_length_128448_cov_8.753413	110509	110509	label=insertion	
+Samp10	NODE_245_length_128448_cov_8.753413	110884	111072	label=deletion	
+Samp10	NODE_245_length_128448_cov_8.753413	110884	111072	label=insertion	
+Samp10	NODE_328_length_104316_cov_10.199020	37859	37871	label=insertion	37387	37959	ID=IOKHHAPI_01554	gene=Null	gene middle
+Samp10	NODE_328_length_104316_cov_10.199020	55974	56064	label=deletion	
+Samp10	NODE_328_length_104316_cov_10.199020	55974	56064	label=insertion	
+Samp10	NODE_328_length_104316_cov_10.199020	56670	56759	label=insertion	56080	56745	ID=IOKHHAPI_01570	gene=gph_2	gene end
+Samp10	NODE_328_length_104316_cov_10.199020	75157	75230	label=deletion	
+Samp10	NODE_328_length_104316_cov_10.199020	80682	85198	label=deletion	84658	85305	ID=IOKHHAPI_01589	gene=Null	gene begin
+Samp10	NODE_328_length_104316_cov_10.199020	85847	90937	label=deletion	85734	86207	ID=IOKHHAPI_01591	gene=Null	gene end
+Samp10	NODE_377_length_91519_cov_8.979216	7989	90534	label=transloc	2604	8294	ID=IOKHHAPI_01610	gene=Null	gene end	90388	90624	ID=IOKHHAPI_01692	gene=rcsC_3	gene begin
+Samp10	NODE_377_length_91519_cov_8.979216	9330	10084	label=insertion	9185	9682	ID=IOKHHAPI_01612	gene=Null	gene end	9850	10143	ID=IOKHHAPI_01613	gene=Null	gene begin
+Samp10	NODE_377_length_91519_cov_8.979216	10861	11251	label=deletion	10653	11045	ID=IOKHHAPI_01615	gene=Null	gene end
+Samp10	NODE_377_length_91519_cov_8.979216	12022	13176	label=deletion	
+Samp10	NODE_377_length_91519_cov_8.979216	14819	14819	label=insertion	
+Samp10	NODE_377_length_91519_cov_8.979216	15328	16278	label=insertion	14821	15333	ID=IOKHHAPI_01622	gene=Null	gene end
+Samp10	NODE_377_length_91519_cov_8.979216	16488	16490	label=insertion	
+Samp10	NODE_377_length_91519_cov_8.979216	17445	17691	label=deletion	17251	17556	ID=IOKHHAPI_01627	gene=fumC	gene end	17507	17818	ID=IOKHHAPI_01628	gene=aspA_3	gene begin
+Samp10	NODE_377_length_91519_cov_8.979216	47348	47354	label=insertion	
+Samp10	NODE_377_length_91519_cov_8.979216	66498	71118	label=deletion	
+Samp10	NODE_377_length_91519_cov_8.979216	77052	79506	label=deletion	76292	77068	ID=IOKHHAPI_01677	gene=yitU_2	gene end
+Samp10	NODE_377_length_91519_cov_8.979216	82673	84224	label=deletion	79522	82677	ID=IOKHHAPI_01682	gene=rcsC_2	gene end	83840	84265	ID=IOKHHAPI_01684	gene=yiaC	gene begin
+Samp10	NODE_377_length_91519_cov_8.979216	86383	90392	label=deletion	90388	90624	ID=IOKHHAPI_01692	gene=rcsC_3	gene begin
+Samp10	NODE_377_length_91519_cov_8.979216	86383	90392	label=insertion	90388	90624	ID=IOKHHAPI_01692	gene=rcsC_3	gene begin
+Samp10	NODE_409_length_86374_cov_7.614152	35229	35240	label=insertion	
+Samp10	NODE_409_length_86374_cov_7.614152	43754	43756	label=insertion	
+Samp10	NODE_409_length_86374_cov_7.614152	47426	47431	label=insertion	47407	47634	ID=IOKHHAPI_01740	gene=Null	gene middle
+Samp10	NODE_478_length_75884_cov_7.392000	347	348	label=insertion	
+Samp10	NODE_510_length_73020_cov_29.676914	8862	41118	label=transloc	
+Samp10	NODE_510_length_73020_cov_29.676914	21186	21701	label=insertion	
+Samp10	NODE_510_length_73020_cov_29.676914	28491	28503	label=insertion	28000	28536	ID=IOKHHAPI_01932	gene=Null	gene middle
+Samp10	NODE_510_length_73020_cov_29.676914	36228	36726	label=deletion	
+Samp10	NODE_510_length_73020_cov_29.676914	37043	37250	label=deletion	36737	37051	ID=IOKHHAPI_01940	gene=Null	gene end
+Samp10	NODE_510_length_73020_cov_29.676914	37043	37250	label=insertion	36737	37051	ID=IOKHHAPI_01940	gene=Null	gene end
+Samp10	NODE_539_length_70639_cov_7.829409	26250	26250	label=insertion	
+Samp10	NODE_539_length_70639_cov_7.829409	32813	32825	label=insertion	
+Samp10	NODE_539_length_70639_cov_7.829409	37304	37311	label=insertion	37293	38666	ID=IOKHHAPI_02034	gene=sasA_5	gene middle
+Samp10	NODE_539_length_70639_cov_7.829409	39937	39977	label=insertion	
+Samp10	NODE_539_length_70639_cov_7.829409	41302	41350	label=insertion	41349	42590	ID=IOKHHAPI_02038	gene=Null	gene begin
+Samp10	NODE_539_length_70639_cov_7.829409	42606	42861	label=insertion	42659	42874	ID=IOKHHAPI_02039	gene=Null	gene begin	42858	44309	ID=IOKHHAPI_02040	gene=Null	gene begin
+Samp10	NODE_539_length_70639_cov_7.829409	45465	45596	label=deletion	45439	45588	ID=IOKHHAPI_02043	gene=Null	gene end
+Samp10	NODE_539_length_70639_cov_7.829409	65228	65233	label=insertion	64817	65542	ID=IOKHHAPI_02066	gene=Null	gene middle
+Samp10	NODE_539_length_70639_cov_7.829409	67034	67046	label=insertion	
+Samp10	NODE_539_length_70639_cov_7.829409	67249	69230	label=deletion	67108	67395	ID=IOKHHAPI_02070	gene=Null	gene end	69193	70380	ID=IOKHHAPI_02072	gene=wapA	gene begin
+Samp10	NODE_539_length_70639_cov_7.829409	67249	69230	label=insertion	67108	67395	ID=IOKHHAPI_02070	gene=Null	gene end	69193	70380	ID=IOKHHAPI_02072	gene=wapA	gene begin
+Samp10	NODE_562_length_68369_cov_7.991671	2315	65566	label=transloc	
+Samp10	NODE_562_length_68369_cov_7.991671	4088	4433	label=insertion	
+Samp10	NODE_562_length_68369_cov_7.991671	4606	5902	label=deletion	4437	5750	ID=IOKHHAPI_02078	gene=murJ_4	gene end
+Samp10	NODE_562_length_68369_cov_7.991671	59438	59671	label=deletion	59479	60747	ID=IOKHHAPI_02134	gene=rsmH_3	gene begin
+Samp10	NODE_590_length_66255_cov_12.524396	12167	12521	label=insertion	11734	12168	ID=IOKHHAPI_02151	gene=Null	gene end	12464	13075	ID=IOKHHAPI_02152	gene=Null	gene begin
+Samp10	NODE_590_length_66255_cov_12.524396	14137	14279	label=deletion	14194	14877	ID=IOKHHAPI_02155	gene=vanYB	gene begin
+Samp10	NODE_590_length_66255_cov_12.524396	54573	54704	label=deletion	53887	56043	ID=IOKHHAPI_02195	gene=rcsC_7	gene middle
+Samp10	NODE_903_length_46796_cov_11.389444	6903	7077	label=deletion	6560	7129	ID=IOKHHAPI_02215	gene=Null	gene middle
+Samp10	NODE_903_length_46796_cov_11.389444	18699	18707	label=insertion	18702	19178	ID=IOKHHAPI_02226	gene=Null	gene begin
+Samp10	NODE_903_length_46796_cov_11.389444	19179	19187	label=insertion	
+Samp10	NODE_943_length_45417_cov_12.459790	28428	28481	label=deletion	28474	29007	ID=IOKHHAPI_02280	gene=Null	gene begin
+Samp10	NODE_943_length_45417_cov_12.459790	28428	28481	label=insertion	28474	29007	ID=IOKHHAPI_02280	gene=Null	gene begin
+Samp1	NODE_112_length_206091_cov_11.584218	104883	104937	label=duplication	
+Samp1	NODE_162_length_164493_cov_10.898375	33947	34048	label=deletion	
+Samp1	NODE_214_length_141091_cov_23.366077	68644	140298	label=transloc	68632	69006	ID=IOKHHAPI_01225	gene=Null	gene end	139036	141091	ID=IOKHHAPI_01285	gene=Null	gene begin
+Samp1	NODE_245_length_128448_cov_8.753413	116294	116348	label=duplication	115659	118745	ID=IOKHHAPI_01513	gene=Null	gene middle
+Samp1	NODE_245_length_128448_cov_8.753413	120689	120743	label=duplication	118760	121852	ID=IOKHHAPI_01514	gene=Null	gene middle
+Samp1	NODE_510_length_73020_cov_29.676914	29256	29261	label=insertion	
+Samp1	NODE_539_length_70639_cov_7.829409	39937	41302	label=duplication	
+Samp3	NODE_112_length_206091_cov_11.584218	104038	104092	label=duplication	
+Samp3	NODE_162_length_164493_cov_10.898375	33947	34048	label=deletion	
+Samp3	NODE_162_length_164493_cov_10.898375	47074	47128	label=duplication	46274	47143	ID=IOKHHAPI_00767	gene=Null	gene middle
+Samp3	NODE_184_length_150053_cov_13.914332	5085	5139	label=duplication	5072	7012	ID=IOKHHAPI_00906	gene=epmA	gene middle
+Samp3	NODE_184_length_150053_cov_13.914332	50302	51033	label=insertion	
+Samp3	NODE_214_length_141091_cov_23.366077	68592	68644	label=duplication	68632	69006	ID=IOKHHAPI_01225	gene=Null	gene begin
+Samp3	NODE_328_length_104316_cov_10.199020	63	48807	label=transloc	
+Samp3	NODE_409_length_86374_cov_7.614152	43702	43756	label=duplication	42759	43724	ID=IOKHHAPI_01736	gene=Null	gene end
+Samp4	NODE_162_length_164493_cov_10.898375	33644	33829	label=deletion	
+Samp4	NODE_162_length_164493_cov_10.898375	33947	34048	label=deletion	
+Samp4	NODE_207_length_143058_cov_9.621805	121017	124563	label=deletion	
+Samp5	NODE_162_length_164493_cov_10.898375	33947	34048	label=deletion	
+Samp5	NODE_207_length_143058_cov_9.621805	81323	95492	label=transloc	92707	96360	ID=IOKHHAPI_01120	gene=Null	gene begin
+Samp5	NODE_2104_length_23974_cov_12.564781	3391	23918	label=transloc	2093	4576	ID=IOKHHAPI_02435	gene=gyrA_2	gene end
+Samp5	NODE_214_length_141091_cov_23.366077	67056	68660	label=deletion	68632	69006	ID=IOKHHAPI_01225	gene=Null	gene begin
+Samp5	NODE_590_length_66255_cov_12.524396	39617	39715	label=deletion	
+Samp5	NODE_903_length_46796_cov_11.389444	3135	4332	label=deletion	4327	5367	ID=IOKHHAPI_02212	gene=Null	gene begin
+Samp5	NODE_943_length_45417_cov_12.459790	6965	29737	label=transloc	29542	30150	ID=IOKHHAPI_02282	gene=Null	gene begin
+Samp6	NODE_101_length_215705_cov_7.131245	56309	56413	label=deletion	
+Samp6	NODE_112_length_206091_cov_11.584218	29132	29241	label=deletion	
+Samp6	NODE_245_length_128448_cov_8.753413	89322	89391	label=insertion	89271	89344	ID=IOKHHAPI_01483	gene=Null	gene end
+Samp6	NODE_245_length_128448_cov_8.753413	89554	91373	label=deletion	
+Samp6	NODE_903_length_46796_cov_11.389444	19179	19187	label=insertion	
+Samp8	NODE_101_length_215705_cov_7.131245	3340	3385	label=insertion	3377	3979	ID=IOKHHAPI_00006	gene=Null	gene begin
+Samp8	NODE_101_length_215705_cov_7.131245	9508	56145	label=deletion	9496	9669	ID=IOKHHAPI_00014	gene=Null	gene end
+Samp8	NODE_101_length_215705_cov_7.131245	9508	56278	label=insertion	9496	9669	ID=IOKHHAPI_00014	gene=Null	gene end
+Samp8	NODE_101_length_215705_cov_7.131245	56309	56478	label=deletion	
+Samp8	NODE_101_length_215705_cov_7.131245	56442	56478	label=insertion	
+Samp8	NODE_101_length_215705_cov_7.131245	56706	57006	label=deletion	
+Samp8	NODE_101_length_215705_cov_7.131245	85243	85982	label=deletion	84817	86274	ID=IOKHHAPI_00083	gene=Null	gene middle
+Samp8	NODE_101_length_215705_cov_7.131245	93114	93319	label=insertion	
+Samp8	NODE_101_length_215705_cov_7.131245	97156	97179	label=insertion	
+Samp8	NODE_101_length_215705_cov_7.131245	100817	100906	label=deletion	100292	101263	ID=IOKHHAPI_00097	gene=Null	gene middle
+Samp8	NODE_101_length_215705_cov_7.131245	103724	103997	label=deletion	103497	103766	ID=IOKHHAPI_00101	gene=Null	gene end	103760	104215	ID=IOKHHAPI_00102	gene=Null	gene begin
+Samp8	NODE_101_length_215705_cov_7.131245	132467	132473	label=insertion	132259	132468	ID=IOKHHAPI_00130	gene=Null	gene end
+Samp8	NODE_101_length_215705_cov_7.131245	132562	137106	label=deletion	132555	134195	ID=IOKHHAPI_00131	gene=treA	gene end
+Samp8	NODE_101_length_215705_cov_7.131245	137961	138323	label=deletion	138013	139578	ID=IOKHHAPI_00135	gene=Null	gene begin
+Samp8	NODE_101_length_215705_cov_7.131245	139573	139805	label=deletion	138013	139578	ID=IOKHHAPI_00135	gene=Null	gene end
+Samp8	NODE_101_length_215705_cov_7.131245	139573	139805	label=insertion	138013	139578	ID=IOKHHAPI_00135	gene=Null	gene end
+Samp8	NODE_101_length_215705_cov_7.131245	145506	145525	label=insertion	
+Samp8	NODE_101_length_215705_cov_7.131245	148067	148131	label=insertion	148087	148530	ID=IOKHHAPI_00141	gene=Null	gene begin
+Samp8	NODE_101_length_215705_cov_7.131245	148597	148598	label=insertion	148508	148846	ID=IOKHHAPI_00142	gene=Null	gene middle
+Samp8	NODE_101_length_215705_cov_7.131245	209673	209735	label=deletion	207932	209674	ID=IOKHHAPI_00206	gene=rqcH	gene end
+Samp8	NODE_101_length_215705_cov_7.131245	209673	209735	label=insertion	207932	209674	ID=IOKHHAPI_00206	gene=rqcH	gene end
+Samp8	NODE_1096_length_40566_cov_10.398583	10305	38733	label=transloc	37190	39481	ID=IOKHHAPI_02335	gene=rcsC_8	gene begin
+Samp8	NODE_1096_length_40566_cov_10.398583	22705	22788	label=insertion	22775	25357	ID=IOKHHAPI_02323	gene=clpB	gene begin
+Samp8	NODE_1096_length_40566_cov_10.398583	34502	36365	label=deletion	
+Samp8	NODE_112_length_206091_cov_11.584218	8638	205866	label=transloc	
+Samp8	NODE_112_length_206091_cov_11.584218	21207	21471	label=insertion	19852	21225	ID=IOKHHAPI_00227	gene=rlmCD_1	gene end
+Samp8	NODE_112_length_206091_cov_11.584218	29132	29241	label=deletion	
+Samp8	NODE_112_length_206091_cov_11.584218	42850	43144	label=deletion	42663	43628	ID=IOKHHAPI_00248	gene=mmuM	gene middle
+Samp8	NODE_112_length_206091_cov_11.584218	48570	48580	label=insertion	48387	48701	ID=IOKHHAPI_00253	gene=deoC_1	gene middle
+Samp8	NODE_112_length_206091_cov_11.584218	50686	60176	label=deletion	
+Samp8	NODE_112_length_206091_cov_11.584218	68030	68165	label=insertion	66460	68034	ID=IOKHHAPI_00270	gene=Null	gene end
+Samp8	NODE_112_length_206091_cov_11.584218	77139	77178	label=insertion	76274	77149	ID=IOKHHAPI_00279	gene=cmpR	gene end
+Samp8	NODE_112_length_206091_cov_11.584218	99481	99494	label=insertion	
+Samp8	NODE_112_length_206091_cov_11.584218	104351	104610	label=deletion	
+Samp8	NODE_112_length_206091_cov_11.584218	107376	107412	label=insertion	
+Samp8	NODE_112_length_206091_cov_11.584218	110684	114253	label=deletion	110644	114288	ID=IOKHHAPI_00310	gene=Null	gene middle
+Samp8	NODE_112_length_206091_cov_11.584218	151645	152155	label=deletion	151640	151999	ID=IOKHHAPI_00343	gene=Null	gene end
+Samp8	NODE_112_length_206091_cov_11.584218	158430	158438	label=insertion	
+Samp8	NODE_112_length_206091_cov_11.584218	175884	176012	label=insertion	
+Samp8	NODE_112_length_206091_cov_11.584218	199727	199739	label=insertion	199033	199728	ID=IOKHHAPI_00408	gene=Null	gene end
+Samp8	NODE_150_length_171689_cov_8.160854	91669	170625	label=transloc	
+Samp8	NODE_150_length_171689_cov_8.160854	92992	93049	label=insertion	
+Samp8	NODE_150_length_171689_cov_8.160854	110228	110673	label=insertion	
+Samp8	NODE_150_length_171689_cov_8.160854	122034	123731	label=deletion	
+Samp8	NODE_150_length_171689_cov_8.160854	126026	126180	label=deletion	
+Samp8	NODE_150_length_171689_cov_8.160854	147414	168912	label=insertion	168901	168971	ID=IOKHHAPI_00582	gene=Null	gene begin
+Samp8	NODE_150_length_171689_cov_8.160854	147414	168912	label=deletion	168901	168971	ID=IOKHHAPI_00582	gene=Null	gene begin
+Samp8	NODE_1563_length_30512_cov_11.698132	12148	12152	label=insertion	10979	12166	ID=IOKHHAPI_02389	gene=Null	gene middle
+Samp8	NODE_161_length_164527_cov_8.605033	18903	18964	label=deletion	18939	19955	ID=IOKHHAPI_00600	gene=melR	gene begin
+Samp8	NODE_161_length_164527_cov_8.605033	18903	18964	label=insertion	18939	19955	ID=IOKHHAPI_00600	gene=melR	gene begin
+Samp8	NODE_161_length_164527_cov_8.605033	51754	51839	label=deletion	
+Samp8	NODE_161_length_164527_cov_8.605033	57270	57891	label=insertion	
+Samp8	NODE_161_length_164527_cov_8.605033	58472	60046	label=deletion	
+Samp8	NODE_161_length_164527_cov_8.605033	82630	82792	label=deletion	
+Samp8	NODE_161_length_164527_cov_8.605033	82630	82792	label=insertion	
+Samp8	NODE_161_length_164527_cov_8.605033	85027	85047	label=insertion	
+Samp8	NODE_161_length_164527_cov_8.605033	128541	142542	label=deletion	
+Samp8	NODE_162_length_164493_cov_10.898375	2849	4927	label=deletion	2074	2856	ID=IOKHHAPI_00724	gene=tuf	gene end	2991	4973	ID=IOKHHAPI_00725	gene=Null	gene begin
+Samp8	NODE_162_length_164493_cov_10.898375	33644	33824	label=deletion	
+Samp8	NODE_162_length_164493_cov_10.898375	33947	34048	label=deletion	
+Samp8	NODE_162_length_164493_cov_10.898375	65321	65325	label=insertion	
+Samp8	NODE_162_length_164493_cov_10.898375	65979	66513	label=insertion	65562	66497	ID=IOKHHAPI_00785	gene=iolU_1	gene end
+Samp8	NODE_162_length_164493_cov_10.898375	69163	70950	label=deletion	68922	69167	ID=IOKHHAPI_00789	gene=Null	gene end	70938	71927	ID=IOKHHAPI_00791	gene=Null	gene begin
+Samp8	NODE_162_length_164493_cov_10.898375	74690	74905	label=deletion	74685	74909	ID=IOKHHAPI_00794	gene=davT	gene middle
+Samp8	NODE_162_length_164493_cov_10.898375	82267	82374	label=deletion	
+Samp8	NODE_162_length_164493_cov_10.898375	82267	82374	label=insertion	
+Samp8	NODE_162_length_164493_cov_10.898375	87705	164019	label=transloc	
+Samp8	NODE_162_length_164493_cov_10.898375	90724	90725	label=insertion	
+Samp8	NODE_162_length_164493_cov_10.898375	106513	106513	label=insertion	
+Samp8	NODE_162_length_164493_cov_10.898375	107252	107262	label=insertion	106616	107266	ID=IOKHHAPI_00837	gene=mntR_2	gene middle	107220	107795	ID=IOKHHAPI_00838	gene=Null	gene middle
+Samp8	NODE_162_length_164493_cov_10.898375	108631	108701	label=deletion	
+Samp8	NODE_162_length_164493_cov_10.898375	108631	108701	label=insertion	
+Samp8	NODE_162_length_164493_cov_10.898375	109747	111445	label=deletion	
+Samp8	NODE_162_length_164493_cov_10.898375	133777	133778	label=insertion	
+Samp8	NODE_184_length_150053_cov_13.914332	25180	25287	label=insertion	
+Samp8	NODE_184_length_150053_cov_13.914332	44855	44980	label=deletion	
+Samp8	NODE_184_length_150053_cov_13.914332	44855	44980	label=insertion	
+Samp8	NODE_184_length_150053_cov_13.914332	50121	50125	label=insertion	
+Samp8	NODE_184_length_150053_cov_13.914332	50247	51525	label=deletion	51515	51961	ID=IOKHHAPI_00945	gene=Null	gene begin
+Samp8	NODE_184_length_150053_cov_13.914332	52098	52098	label=insertion	
+Samp8	NODE_184_length_150053_cov_13.914332	52704	54549	label=deletion	
+Samp8	NODE_184_length_150053_cov_13.914332	79799	80362	label=deletion	79073	80056	ID=IOKHHAPI_00969	gene=Null	gene end
+Samp8	NODE_184_length_150053_cov_13.914332	83811	93047	label=insertion	92629	93396	ID=IOKHHAPI_00981	gene=srlR_2	gene begin
+Samp8	NODE_184_length_150053_cov_13.914332	83811	93047	label=deletion	92629	93396	ID=IOKHHAPI_00981	gene=srlR_2	gene begin
+Samp8	NODE_184_length_150053_cov_13.914332	100284	100290	label=insertion	100257	100622	ID=IOKHHAPI_00986	gene=Null	gene middle
+Samp8	NODE_184_length_150053_cov_13.914332	100730	100735	label=insertion	
+Samp8	NODE_184_length_150053_cov_13.914332	118302	119397	label=deletion	
+Samp8	NODE_184_length_150053_cov_13.914332	128977	128984	label=insertion	
+Samp8	NODE_207_length_143058_cov_9.621805	5394	5725	label=deletion	4643	6109	ID=IOKHHAPI_01036	gene=Null	gene middle
+Samp8	NODE_207_length_143058_cov_9.621805	14352	15335	label=deletion	15015	17072	ID=IOKHHAPI_01045	gene=Null	gene begin
+Samp8	NODE_207_length_143058_cov_9.621805	15493	16926	label=deletion	15015	17072	ID=IOKHHAPI_01045	gene=Null	gene middle
+Samp8	NODE_207_length_143058_cov_9.621805	24204	24735	label=insertion	24344	25039	ID=IOKHHAPI_01055	gene=gph_1	gene begin
+Samp8	NODE_207_length_143058_cov_9.621805	25950	25968	label=insertion	
+Samp8	NODE_207_length_143058_cov_9.621805	29823	31486	label=deletion	
+Samp8	NODE_207_length_143058_cov_9.621805	55224	56325	label=deletion	55313	56728	ID=IOKHHAPI_01084	gene=Null	gene begin
+Samp8	NODE_207_length_143058_cov_9.621805	56678	70798	label=insertion	55313	56728	ID=IOKHHAPI_01084	gene=Null	gene end	70782	71981	ID=IOKHHAPI_01101	gene=icd	gene begin
+Samp8	NODE_207_length_143058_cov_9.621805	56678	70798	label=deletion	55313	56728	ID=IOKHHAPI_01084	gene=Null	gene end	70782	71981	ID=IOKHHAPI_01101	gene=icd	gene begin
+Samp8	NODE_207_length_143058_cov_9.621805	113482	115193	label=deletion	113477	115147	ID=IOKHHAPI_01132	gene=Null	gene end
+Samp8	NODE_207_length_143058_cov_9.621805	121017	124563	label=deletion	
+Samp8	NODE_214_length_141091_cov_23.366077	107	7710	label=insertion	7365	8213	ID=IOKHHAPI_01168	gene=ybbH_2	gene begin
+Samp8	NODE_214_length_141091_cov_23.366077	107	138964	label=transloc	
+Samp8	NODE_214_length_141091_cov_23.366077	486	714	label=deletion	189	662	ID=IOKHHAPI_01158	gene=Null	gene end
+Samp8	NODE_214_length_141091_cov_23.366077	28565	28587	label=insertion	
+Samp8	NODE_214_length_141091_cov_23.366077	58465	63014	label=deletion	
+Samp8	NODE_214_length_141091_cov_23.366077	67067	68644	label=deletion	68632	69006	ID=IOKHHAPI_01225	gene=Null	gene begin
+Samp8	NODE_214_length_141091_cov_23.366077	106875	111156	label=deletion	
+Samp8	NODE_214_length_141091_cov_23.366077	111725	111748	label=insertion	
+Samp8	NODE_214_length_141091_cov_23.366077	111854	111866	label=insertion	
+Samp8	NODE_222_length_137967_cov_9.970880	19405	23569	label=deletion	19283	21883	ID=IOKHHAPI_01309	gene=Null	gene end	21915	23594	ID=IOKHHAPI_01310	gene=Null	gene begin
+Samp8	NODE_222_length_137967_cov_9.970880	24077	24080	label=insertion	23810	24448	ID=IOKHHAPI_01311	gene=Null	gene middle
+Samp8	NODE_222_length_137967_cov_9.970880	24562	24605	label=insertion	
+Samp8	NODE_222_length_137967_cov_9.970880	25400	25400	label=insertion	25326	25772	ID=IOKHHAPI_01314	gene=Null	gene middle
+Samp8	NODE_222_length_137967_cov_9.970880	25819	46598	label=insertion	
+Samp8	NODE_222_length_137967_cov_9.970880	25819	46598	label=deletion	
+Samp8	NODE_222_length_137967_cov_9.970880	51042	51171	label=insertion	
+Samp8	NODE_222_length_137967_cov_9.970880	56697	57396	label=insertion	56440	57465	ID=IOKHHAPI_01338	gene=Null	gene middle
+Samp8	NODE_222_length_137967_cov_9.970880	57673	57750	label=insertion	57749	58549	ID=IOKHHAPI_01339	gene=Null	gene begin
+Samp8	NODE_222_length_137967_cov_9.970880	89028	89129	label=deletion	
+Samp8	NODE_245_length_128448_cov_8.753413	352	128396	label=transloc	
+Samp8	NODE_245_length_128448_cov_8.753413	32662	32670	label=insertion	
+Samp8	NODE_245_length_128448_cov_8.753413	33830	33841	label=insertion	33700	33855	ID=IOKHHAPI_01434	gene=Null	gene middle
+Samp8	NODE_245_length_128448_cov_8.753413	89270	89318	label=insertion	89271	89344	ID=IOKHHAPI_01483	gene=Null	gene begin
+Samp8	NODE_245_length_128448_cov_8.753413	110497	110509	label=insertion	
+Samp8	NODE_328_length_104316_cov_10.199020	54748	104258	label=transloc	
+Samp8	NODE_328_length_104316_cov_10.199020	55975	56064	label=deletion	
+Samp8	NODE_328_length_104316_cov_10.199020	55975	56064	label=insertion	
+Samp8	NODE_328_length_104316_cov_10.199020	56670	56759	label=insertion	56080	56745	ID=IOKHHAPI_01570	gene=gph_2	gene end
+Samp8	NODE_328_length_104316_cov_10.199020	80682	85198	label=deletion	84658	85305	ID=IOKHHAPI_01589	gene=Null	gene begin
+Samp8	NODE_328_length_104316_cov_10.199020	85847	90937	label=deletion	85734	86207	ID=IOKHHAPI_01591	gene=Null	gene end
+Samp8	NODE_377_length_91519_cov_8.979216	8255	10084	label=deletion	2604	8294	ID=IOKHHAPI_01610	gene=Null	gene end	9850	10143	ID=IOKHHAPI_01613	gene=Null	gene begin
+Samp8	NODE_377_length_91519_cov_8.979216	8255	10084	label=insertion	2604	8294	ID=IOKHHAPI_01610	gene=Null	gene end	9850	10143	ID=IOKHHAPI_01613	gene=Null	gene begin
+Samp8	NODE_377_length_91519_cov_8.979216	17457	17457	label=insertion	17251	17556	ID=IOKHHAPI_01627	gene=fumC	gene middle
+Samp8	NODE_377_length_91519_cov_8.979216	17585	17591	label=insertion	17507	17818	ID=IOKHHAPI_01628	gene=aspA_3	gene middle
+Samp8	NODE_377_length_91519_cov_8.979216	47354	49028	label=deletion	48545	49594	ID=IOKHHAPI_01656	gene=lgoD	gene begin
+Samp8	NODE_377_length_91519_cov_8.979216	62710	62725	label=insertion	
+Samp8	NODE_377_length_91519_cov_8.979216	66890	66897	label=insertion	66694	66909	ID=IOKHHAPI_01670	gene=bglG	gene middle
+Samp8	NODE_377_length_91519_cov_8.979216	68850	68950	label=deletion	67608	69491	ID=IOKHHAPI_01672	gene=bglF_2	gene middle
+Samp8	NODE_377_length_91519_cov_8.979216	74041	74671	label=insertion	74131	74814	ID=IOKHHAPI_01675	gene=yfnB	gene begin
+Samp8	NODE_377_length_91519_cov_8.979216	83967	84231	label=deletion	83840	84265	ID=IOKHHAPI_01684	gene=yiaC	gene middle
+Samp8	NODE_377_length_91519_cov_8.979216	90366	90388	label=insertion	
+Samp8	NODE_377_length_91519_cov_8.979216	90601	91366	label=deletion	90388	90624	ID=IOKHHAPI_01692	gene=rcsC_3	gene end
+Samp8	NODE_409_length_86374_cov_7.614152	41591	42160	label=deletion	
+Samp8	NODE_409_length_86374_cov_7.614152	47426	47431	label=insertion	47407	47634	ID=IOKHHAPI_01740	gene=Null	gene middle
+Samp8	NODE_409_length_86374_cov_7.614152	64230	64231	label=insertion	
+Samp8	NODE_478_length_75884_cov_7.392000	347	348	label=insertion	
+Samp8	NODE_478_length_75884_cov_7.392000	1542	4443	label=deletion	460	1575	ID=IOKHHAPI_01779	gene=Null	gene end	4304	4480	ID=IOKHHAPI_01781	gene=Null	gene begin
+Samp8	NODE_478_length_75884_cov_7.392000	1542	4443	label=insertion	460	1575	ID=IOKHHAPI_01779	gene=Null	gene end	4304	4480	ID=IOKHHAPI_01781	gene=Null	gene begin
+Samp8	NODE_494_length_74570_cov_11.118325	7949	7951	label=insertion	
+Samp8	NODE_494_length_74570_cov_11.118325	21377	21386	label=insertion	
+Samp8	NODE_494_length_74570_cov_11.118325	25235	37739	label=deletion	
+Samp8	NODE_494_length_74570_cov_11.118325	55183	55184	label=insertion	
+Samp8	NODE_494_length_74570_cov_11.118325	69014	69175	label=deletion	
+Samp8	NODE_510_length_73020_cov_29.676914	8862	41118	label=transloc	
+Samp8	NODE_510_length_73020_cov_29.676914	21186	21701	label=insertion	
+Samp8	NODE_510_length_73020_cov_29.676914	28491	28503	label=insertion	28000	28536	ID=IOKHHAPI_01932	gene=Null	gene middle
+Samp8	NODE_510_length_73020_cov_29.676914	28766	29286	label=insertion	
+Samp8	NODE_539_length_70639_cov_7.829409	29468	29468	label=insertion	
+Samp8	NODE_539_length_70639_cov_7.829409	32649	32842	label=insertion	
+Samp8	NODE_539_length_70639_cov_7.829409	37304	37310	label=insertion	37293	38666	ID=IOKHHAPI_02034	gene=sasA_5	gene middle
+Samp8	NODE_539_length_70639_cov_7.829409	39937	39973	label=insertion	
+Samp8	NODE_539_length_70639_cov_7.829409	41302	41350	label=insertion	41349	42590	ID=IOKHHAPI_02038	gene=Null	gene begin
+Samp8	NODE_539_length_70639_cov_7.829409	42638	44781	label=deletion	
+Samp8	NODE_539_length_70639_cov_7.829409	45465	45596	label=deletion	45439	45588	ID=IOKHHAPI_02043	gene=Null	gene end
+Samp8	NODE_562_length_68369_cov_7.991671	2315	59519	label=transloc	59479	60747	ID=IOKHHAPI_02134	gene=rsmH_3	gene begin
+Samp8	NODE_562_length_68369_cov_7.991671	4088	4433	label=insertion	
+Samp8	NODE_562_length_68369_cov_7.991671	4606	5902	label=deletion	4437	5750	ID=IOKHHAPI_02078	gene=murJ_4	gene end
+Samp8	NODE_562_length_68369_cov_7.991671	49459	50135	label=deletion	49492	50841	ID=IOKHHAPI_02126	gene=mdtK_2	gene begin
+Samp8	NODE_562_length_68369_cov_7.991671	50662	50930	label=deletion	49492	50841	ID=IOKHHAPI_02126	gene=mdtK_2	gene end
+Samp8	NODE_562_length_68369_cov_7.991671	54752	54752	label=insertion	
+Samp8	NODE_590_length_66255_cov_12.524396	12201	12403	label=deletion	
+Samp8	NODE_590_length_66255_cov_12.524396	12711	18302	label=deletion	12464	13075	ID=IOKHHAPI_02152	gene=Null	gene end	17118	18317	ID=IOKHHAPI_02159	gene=Null	gene begin
+Samp8	NODE_590_length_66255_cov_12.524396	36101	36134	label=insertion	
+Samp8	NODE_590_length_66255_cov_12.524396	54573	54704	label=deletion	53887	56043	ID=IOKHHAPI_02195	gene=rcsC_7	gene middle
+Samp8	NODE_903_length_46796_cov_11.389444	5398	6314	label=deletion	5380	6021	ID=IOKHHAPI_02213	gene=Null	gene end
+Samp8	NODE_903_length_46796_cov_11.389444	6752	7133	label=deletion	6560	7129	ID=IOKHHAPI_02215	gene=Null	gene end
+Samp8	NODE_903_length_46796_cov_11.389444	9732	9846	label=deletion	9722	10609	ID=IOKHHAPI_02219	gene=yicL	gene middle
+Samp8	NODE_903_length_46796_cov_11.389444	17955	17960	label=insertion	
+Samp8	NODE_903_length_46796_cov_11.389444	18067	19414	label=deletion	
+Samp8	NODE_903_length_46796_cov_11.389444	37528	37537	label=insertion	37483	37776	ID=IOKHHAPI_02244	gene=Null	gene middle
+Samp8	NODE_903_length_46796_cov_11.389444	37998	38073	label=deletion	
+Samp8	NODE_903_length_46796_cov_11.389444	46231	46535	label=deletion	
+Samp8	NODE_943_length_45417_cov_12.459790	6779	6984	label=deletion	
+Samp8	NODE_943_length_45417_cov_12.459790	28431	28440	label=insertion	
+Samp9	NODE_101_length_215705_cov_7.131245	93114	93360	label=insertion	93353	93607	ID=IOKHHAPI_00091	gene=Null	gene begin
+Samp9	NODE_101_length_215705_cov_7.131245	97156	97231	label=deletion	
+Samp9	NODE_101_length_215705_cov_7.131245	97156	97231	label=insertion	
+Samp9	NODE_101_length_215705_cov_7.131245	103362	104365	label=deletion	104358	105665	ID=IOKHHAPI_00103	gene=Null	gene begin
+Samp9	NODE_101_length_215705_cov_7.131245	132467	132473	label=insertion	132259	132468	ID=IOKHHAPI_00130	gene=Null	gene end
+Samp9	NODE_101_length_215705_cov_7.131245	132562	137106	label=deletion	132555	134195	ID=IOKHHAPI_00131	gene=treA	gene end
+Samp9	NODE_112_length_206091_cov_11.584218	41865	42079	label=deletion	41227	42666	ID=IOKHHAPI_00247	gene=alsT_1	gene middle
+Samp9	NODE_112_length_206091_cov_11.584218	47420	47530	label=deletion	47515	47652	ID=IOKHHAPI_00251	gene=Null	gene begin
+Samp9	NODE_112_length_206091_cov_11.584218	48828	48909	label=deletion	48726	49295	ID=IOKHHAPI_00254	gene=Null	gene middle
+Samp9	NODE_112_length_206091_cov_11.584218	68101	68165	label=deletion	
+Samp9	NODE_112_length_206091_cov_11.584218	68101	68165	label=insertion	
+Samp9	NODE_112_length_206091_cov_11.584218	80912	80991	label=deletion	
+Samp9	NODE_112_length_206091_cov_11.584218	80912	80991	label=insertion	
+Samp9	NODE_112_length_206091_cov_11.584218	99481	99494	label=insertion	
+Samp9	NODE_112_length_206091_cov_11.584218	106154	106154	label=insertion	
+Samp9	NODE_112_length_206091_cov_11.584218	107376	107405	label=insertion	
+Samp9	NODE_112_length_206091_cov_11.584218	110684	114253	label=deletion	110644	114288	ID=IOKHHAPI_00310	gene=Null	gene middle
+Samp9	NODE_112_length_206091_cov_11.584218	117494	117615	label=deletion	117262	118071	ID=IOKHHAPI_00312	gene=ycsE_2	gene middle
+Samp9	NODE_112_length_206091_cov_11.584218	136454	136456	label=insertion	
+Samp9	NODE_112_length_206091_cov_11.584218	175884	176012	label=deletion	
+Samp9	NODE_112_length_206091_cov_11.584218	175884	176012	label=insertion	
+Samp9	NODE_112_length_206091_cov_11.584218	176752	176821	label=deletion	
+Samp9	NODE_112_length_206091_cov_11.584218	176752	176821	label=insertion	
+Samp9	NODE_112_length_206091_cov_11.584218	198835	199731	label=deletion	
+Samp9	NODE_112_length_206091_cov_11.584218	198835	199731	label=insertion	
+Samp9	NODE_150_length_171689_cov_8.160854	34603	38665	label=deletion	
+Samp9	NODE_150_length_171689_cov_8.160854	34603	38665	label=insertion	
+Samp9	NODE_150_length_171689_cov_8.160854	38856	39333	label=deletion	38770	39402	ID=IOKHHAPI_00454	gene=Null	gene middle
+Samp9	NODE_150_length_171689_cov_8.160854	38856	39333	label=insertion	38770	39402	ID=IOKHHAPI_00454	gene=Null	gene middle
+Samp9	NODE_150_length_171689_cov_8.160854	45767	47424	label=deletion	
+Samp9	NODE_150_length_171689_cov_8.160854	52051	52055	label=insertion	
+Samp9	NODE_150_length_171689_cov_8.160854	68442	68566	label=insertion	
+Samp9	NODE_150_length_171689_cov_8.160854	69494	69500	label=insertion	
+Samp9	NODE_150_length_171689_cov_8.160854	78079	80078	label=deletion	
+Samp9	NODE_150_length_171689_cov_8.160854	92992	93049	label=insertion	
+Samp9	NODE_161_length_164527_cov_8.605033	57324	57891	label=insertion	
+Samp9	NODE_161_length_164527_cov_8.605033	58472	60048	label=deletion	
+Samp9	NODE_161_length_164527_cov_8.605033	128541	142542	label=deletion	
+Samp9	NODE_162_length_164493_cov_10.898375	32903	32909	label=insertion	32902	33585	ID=IOKHHAPI_00753	gene=Null	gene middle
+Samp9	NODE_162_length_164493_cov_10.898375	33947	34048	label=deletion	
+Samp9	NODE_184_length_150053_cov_13.914332	83811	93047	label=insertion	92629	93396	ID=IOKHHAPI_00981	gene=srlR_2	gene begin
+Samp9	NODE_184_length_150053_cov_13.914332	83811	93047	label=deletion	92629	93396	ID=IOKHHAPI_00981	gene=srlR_2	gene begin
+Samp9	NODE_184_length_150053_cov_13.914332	100284	100290	label=insertion	100257	100622	ID=IOKHHAPI_00986	gene=Null	gene middle
+Samp9	NODE_184_length_150053_cov_13.914332	100735	100993	label=deletion	
+Samp9	NODE_184_length_150053_cov_13.914332	100735	100993	label=insertion	
+Samp9	NODE_184_length_150053_cov_13.914332	109475	109566	label=deletion	109488	109823	ID=IOKHHAPI_00997	gene=Null	gene begin
+Samp9	NODE_184_length_150053_cov_13.914332	111308	111362	label=duplication	110890	111795	ID=IOKHHAPI_00999	gene=Null	gene middle
+Samp9	NODE_184_length_150053_cov_13.914332	129365	129986	label=deletion	129071	129778	ID=IOKHHAPI_01014	gene=Null	gene end	129983	130618	ID=IOKHHAPI_01015	gene=Null	gene begin
+Samp9	NODE_184_length_150053_cov_13.914332	129365	129986	label=insertion	129071	129778	ID=IOKHHAPI_01014	gene=Null	gene end	129983	130618	ID=IOKHHAPI_01015	gene=Null	gene begin
+Samp9	NODE_184_length_150053_cov_13.914332	130452	131195	label=deletion	129983	130618	ID=IOKHHAPI_01015	gene=Null	gene end
+Samp9	NODE_184_length_150053_cov_13.914332	130452	131195	label=insertion	129983	130618	ID=IOKHHAPI_01015	gene=Null	gene end
+Samp9	NODE_207_length_143058_cov_9.621805	25950	25968	label=insertion	
+Samp9	NODE_207_length_143058_cov_9.621805	29823	31486	label=deletion	
+Samp9	NODE_207_length_143058_cov_9.621805	65351	66952	label=deletion	
+Samp9	NODE_207_length_143058_cov_9.621805	69123	70306	label=deletion	69062	69217	ID=IOKHHAPI_01098	gene=Null	gene end	70081	70413	ID=IOKHHAPI_01100	gene=Null	gene begin
+Samp9	NODE_207_length_143058_cov_9.621805	113482	115205	label=deletion	113477	115147	ID=IOKHHAPI_01132	gene=Null	gene end	115198	116316	ID=IOKHHAPI_01133	gene=glf	gene begin
+Samp9	NODE_214_length_141091_cov_23.366077	51295	51333	label=insertion	50513	52450	ID=IOKHHAPI_01211	gene=mutL	gene middle
+Samp9	NODE_214_length_141091_cov_23.366077	58465	63020	label=deletion	
+Samp9	NODE_214_length_141091_cov_23.366077	67067	68644	label=deletion	68632	69006	ID=IOKHHAPI_01225	gene=Null	gene begin
+Samp9	NODE_214_length_141091_cov_23.366077	106737	111123	label=deletion	
+Samp9	NODE_214_length_141091_cov_23.366077	136953	136987	label=insertion	134636	136999	ID=IOKHHAPI_01283	gene=Null	gene middle
+Samp9	NODE_222_length_137967_cov_9.970880	74536	74590	label=duplication	74229	75176	ID=IOKHHAPI_01353	gene=Null	gene middle
+Samp9	NODE_245_length_128448_cov_8.753413	113673	113761	label=duplication	113718	113791	ID=IOKHHAPI_01509	gene=Null	gene begin
+Samp9	NODE_328_length_104316_cov_10.199020	2238	2292	label=duplication	2229	3101	ID=IOKHHAPI_01525	gene=pdxY	gene middle
+Samp9	NODE_328_length_104316_cov_10.199020	91018	104258	label=transloc	
+Samp9	NODE_409_length_86374_cov_7.614152	33299	33353	label=duplication	32488	33528	ID=IOKHHAPI_01725	gene=argC	gene middle
+Samp9	NODE_409_length_86374_cov_7.614152	47436	47443	label=insertion	47407	47634	ID=IOKHHAPI_01740	gene=Null	gene middle
+Samp9	NODE_409_length_86374_cov_7.614152	49193	49314	label=insertion	
+Samp9	NODE_478_length_75884_cov_7.392000	347	348	label=insertion	
+Samp9	NODE_478_length_75884_cov_7.392000	1542	4443	label=deletion	460	1575	ID=IOKHHAPI_01779	gene=Null	gene end	4304	4480	ID=IOKHHAPI_01781	gene=Null	gene begin
+Samp9	NODE_478_length_75884_cov_7.392000	1542	4443	label=insertion	460	1575	ID=IOKHHAPI_01779	gene=Null	gene end	4304	4480	ID=IOKHHAPI_01781	gene=Null	gene begin
+Samp9	NODE_494_length_74570_cov_11.118325	42244	42298	label=duplication	40101	42965	ID=IOKHHAPI_01880	gene=Null	gene middle
+Samp9	NODE_510_length_73020_cov_29.676914	23655	23823	label=deletion	23539	24369	ID=IOKHHAPI_01925	gene=Null	gene middle
+Samp9	NODE_510_length_73020_cov_29.676914	25698	26800	label=deletion	25460	26137	ID=IOKHHAPI_01927	gene=Null	gene end	26710	26904	ID=IOKHHAPI_01929	gene=Null	gene begin
+Samp9	NODE_510_length_73020_cov_29.676914	28765	28766	label=insertion	
+Samp9	NODE_510_length_73020_cov_29.676914	29160	29320	label=deletion	
+Samp9	NODE_539_length_70639_cov_7.829409	38760	42861	label=deletion	38663	39355	ID=IOKHHAPI_02035	gene=mprA	gene end	42659	42874	ID=IOKHHAPI_02039	gene=Null	gene begin	42858	44309	ID=IOKHHAPI_02040	gene=Null	gene begin
+Samp9	NODE_539_length_70639_cov_7.829409	38760	42861	label=insertion	38663	39355	ID=IOKHHAPI_02035	gene=mprA	gene end	42659	42874	ID=IOKHHAPI_02039	gene=Null	gene begin	42858	44309	ID=IOKHHAPI_02040	gene=Null	gene begin
+Samp9	NODE_539_length_70639_cov_7.829409	45465	45596	label=deletion	45439	45588	ID=IOKHHAPI_02043	gene=Null	gene end
+Samp9	NODE_562_length_68369_cov_7.991671	48543	50922	label=deletion	48526	49383	ID=IOKHHAPI_02125	gene=Null	gene end
+Samp9	NODE_562_length_68369_cov_7.991671	54752	54752	label=insertion	

@@ -1,0 +1,312 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 2817 gene of reference genome
+Samp10	NODE_1056_length_38603_cov_18.450036	19346	19485	label=deletion	
+Samp10	NODE_1057_length_38586_cov_14.030469	14363	14363	label=insertion	
+Samp10	NODE_1118_length_37052_cov_15.865476	26883	28912	label=deletion	
+Samp10	NODE_118_length_191921_cov_13.148687	50311	50740	label=deletion	50367	51752	ID=JKMNAICC_00503	gene=gltA	gene begin
+Samp10	NODE_118_length_191921_cov_13.148687	50311	50740	label=insertion	50367	51752	ID=JKMNAICC_00503	gene=gltA	gene begin
+Samp10	NODE_118_length_191921_cov_13.148687	125253	125254	label=insertion	
+Samp10	NODE_118_length_191921_cov_13.148687	137491	137545	label=duplication	
+Samp10	NODE_118_length_191921_cov_13.148687	169076	169081	label=insertion	
+Samp10	NODE_1462_length_30173_cov_19.298194	434	12205	label=insertion	
+Samp10	NODE_1462_length_30173_cov_19.298194	434	12205	label=deletion	
+Samp10	NODE_158_length_153978_cov_19.025961	82410	82450	label=insertion	
+Samp10	NODE_158_length_153978_cov_19.025961	106232	106392	label=deletion	
+Samp10	NODE_158_length_153978_cov_19.025961	136397	136407	label=insertion	
+Samp10	NODE_181_length_140300_cov_22.564776	14347	14467	label=deletion	14462	15658	ID=JKMNAICC_00753	gene=Null	gene begin
+Samp10	NODE_207_length_126828_cov_12.644759	12853	69485	label=deletion	11765	12913	ID=JKMNAICC_00885	gene=spoIVB	gene end
+Samp10	NODE_207_length_126828_cov_12.644759	94509	94610	label=deletion	
+Samp10	NODE_209_length_126797_cov_20.769256	65810	69176	label=deletion	65104	65841	ID=JKMNAICC_01038	gene=fabG_1	gene end	69124	69351	ID=JKMNAICC_01042	gene=Null	gene begin
+Samp10	NODE_218_length_119072_cov_16.305141	72865	72904	label=insertion	
+Samp10	NODE_269_length_104799_cov_17.083881	81892	86984	label=deletion	
+Samp10	NODE_269_length_104799_cov_17.083881	92867	92921	label=duplication	92074	93009	ID=JKMNAICC_01378	gene=melR_2	gene middle
+Samp10	NODE_332_length_87912_cov_19.065550	33850	33942	label=deletion	
+Samp10	NODE_332_length_87912_cov_19.065550	50938	50945	label=insertion	
+Samp10	NODE_357_length_83388_cov_16.376802	43681	43681	label=insertion	
+Samp10	NODE_357_length_83388_cov_16.376802	43777	43782	label=insertion	43769	44215	ID=JKMNAICC_01586	gene=Null	gene middle
+Samp10	NODE_427_length_73719_cov_21.723786	62171	62225	label=duplication	60939	62174	ID=JKMNAICC_01797	gene=Null	gene end
+Samp10	NODE_481_length_66651_cov_19.388492	50740	50975	label=deletion	
+Samp10	NODE_48_length_308213_cov_18.415624	56908	56962	label=duplication	56511	57257	ID=JKMNAICC_00046	gene=cutC	gene middle
+Samp10	NODE_48_length_308213_cov_18.415624	64430	67560	label=deletion	64770	67571	ID=JKMNAICC_00053	gene=cheB_1	gene begin
+Samp10	NODE_48_length_308213_cov_18.415624	164330	164331	label=insertion	
+Samp10	NODE_48_length_308213_cov_18.415624	176407	183454	label=insertion	176232	177095	ID=JKMNAICC_00148	gene=Null	gene end
+Samp10	NODE_48_length_308213_cov_18.415624	176407	183454	label=deletion	176232	177095	ID=JKMNAICC_00148	gene=Null	gene end
+Samp10	NODE_48_length_308213_cov_18.415624	210193	210356	label=deletion	
+Samp10	NODE_518_length_63483_cov_15.372249	6898	6906	label=insertion	
+Samp10	NODE_518_length_63483_cov_15.372249	51344	51398	label=duplication	50167	51513	ID=JKMNAICC_01913	gene=accC_2	gene middle
+Samp10	NODE_530_length_62479_cov_12.774125	54609	57360	label=deletion	
+Samp10	NODE_530_length_62479_cov_12.774125	58742	58818	label=deletion	57363	59216	ID=JKMNAICC_01970	gene=bamB	gene middle
+Samp10	NODE_530_length_62479_cov_12.774125	58906	59219	label=deletion	57363	59216	ID=JKMNAICC_01970	gene=bamB	gene end
+Samp10	NODE_548_length_61228_cov_18.424076	16309	16464	label=deletion	
+Samp10	NODE_623_length_55538_cov_25.688661	12654	12807	label=deletion	
+Samp10	NODE_623_length_55538_cov_25.688661	35170	35176	label=insertion	
+Samp10	NODE_623_length_55538_cov_25.688661	51679	51821	label=deletion	
+Samp10	NODE_86_length_232640_cov_16.650244	25032	25037	label=insertion	23569	25050	ID=JKMNAICC_00280	gene=Null	gene middle
+Samp10	NODE_86_length_232640_cov_16.650244	48841	48843	label=insertion	
+Samp10	NODE_86_length_232640_cov_16.650244	66585	66871	label=deletion	
+Samp10	NODE_86_length_232640_cov_16.650244	73534	73702	label=deletion	
+Samp10	NODE_946_length_41953_cov_15.757435	14742	14742	label=insertion	
+Samp10	NODE_946_length_41953_cov_15.757435	15617	15763	label=deletion	
+Samp1	NODE_1057_length_38586_cov_14.030469	4900	5001	label=deletion	
+Samp1	NODE_118_length_191921_cov_13.148687	137544	137545	label=insertion	
+Samp1	NODE_118_length_191921_cov_13.148687	141955	141968	label=insertion	
+Samp1	NODE_1230_length_34598_cov_12.848595	12679	12841	label=deletion	
+Samp1	NODE_158_length_153978_cov_19.025961	124443	124497	label=duplication	122447	124891	ID=JKMNAICC_00717	gene=Null	gene middle
+Samp1	NODE_181_length_140300_cov_22.564776	5705	5759	label=duplication	5706	5780	ID=JKMNAICC_00745	gene=Null	gene begin
+Samp1	NODE_181_length_140300_cov_22.564776	9216	9252	label=insertion	
+Samp1	NODE_207_length_126828_cov_12.644759	72365	75961	label=insertion	
+Samp1	NODE_207_length_126828_cov_12.644759	75961	76015	label=duplication	
+Samp1	NODE_207_length_126828_cov_12.644759	94509	94610	label=deletion	
+Samp1	NODE_209_length_126797_cov_20.769256	53728	53782	label=duplication	52615	53754	ID=JKMNAICC_01030	gene=glgC_3	gene end
+Samp1	NODE_209_length_126797_cov_20.769256	56337	56482	label=deletion	
+Samp1	NODE_218_length_119072_cov_16.305141	7140	7194	label=duplication	7188	7997	ID=JKMNAICC_01096	gene=eno_2	gene begin
+Samp1	NODE_218_length_119072_cov_16.305141	25154	25208	label=duplication	25065	25529	ID=JKMNAICC_01112	gene=Null	gene middle
+Samp1	NODE_218_length_119072_cov_16.305141	71356	71410	label=duplication	70212	72305	ID=JKMNAICC_01153	gene=pnp	gene middle
+Samp1	NODE_332_length_87912_cov_19.065550	50865	50919	label=duplication	
+Samp1	NODE_350_length_84519_cov_14.448913	13407	13410	label=insertion	
+Samp1	NODE_48_length_308213_cov_18.415624	49376	49430	label=duplication	48637	49494	ID=JKMNAICC_00039	gene=mscS	gene middle
+Samp1	NODE_48_length_308213_cov_18.415624	194174	194228	label=duplication	193940	195286	ID=JKMNAICC_00162	gene=glmM	gene middle
+Samp1	NODE_48_length_308213_cov_18.415624	210193	210356	label=deletion	
+Samp1	NODE_48_length_308213_cov_18.415624	262704	262868	label=insertion	
+Samp1	NODE_530_length_62479_cov_12.774125	45017	54588	label=duplication	43743	52727	ID=JKMNAICC_01967	gene=srfAB	gene end
+Samp1	NODE_535_length_62173_cov_12.779693	12924	12978	label=duplication	11948	14356	ID=JKMNAICC_02038	gene=secDF	gene middle
+Samp1	NODE_535_length_62173_cov_12.779693	24357	24411	label=duplication	23357	25153	ID=JKMNAICC_02046	gene=aspS	gene middle
+Samp1	NODE_535_length_62173_cov_12.779693	27586	27638	label=duplication	27577	29073	ID=JKMNAICC_02049	gene=Null	gene middle
+Samp1	NODE_548_length_61228_cov_18.424076	28807	28840	label=insertion	
+Samp1	NODE_86_length_232640_cov_16.650244	66585	66871	label=deletion	
+Samp1	NODE_86_length_232640_cov_16.650244	79128	79269	label=deletion	
+Samp2	NODE_1057_length_38586_cov_14.030469	4900	5001	label=deletion	
+Samp2	NODE_118_length_191921_cov_13.148687	17704	17758	label=duplication	17724	18593	ID=JKMNAICC_00473	gene=purC	gene begin
+Samp2	NODE_118_length_191921_cov_13.148687	24661	24715	label=duplication	
+Samp2	NODE_118_length_191921_cov_13.148687	26713	26767	label=duplication	25458	27617	ID=JKMNAICC_00482	gene=feoB_1	gene middle
+Samp2	NODE_118_length_191921_cov_13.148687	31395	31448	label=duplication	
+Samp2	NODE_118_length_191921_cov_13.148687	109906	110673	label=insertion	108449	111643	ID=JKMNAICC_00557	gene=Null	gene middle
+Samp2	NODE_118_length_191921_cov_13.148687	116320	116374	label=duplication	115787	118441	ID=JKMNAICC_00561	gene=copA	gene middle
+Samp2	NODE_118_length_191921_cov_13.148687	173312	173366	label=duplication	172199	173530	ID=JKMNAICC_00604	gene=ssnA	gene middle
+Samp2	NODE_118_length_191921_cov_13.148687	181354	181408	label=duplication	178788	181523	ID=JKMNAICC_00612	gene=Null	gene middle
+Samp2	NODE_1230_length_34598_cov_12.848595	12679	12841	label=deletion	
+Samp2	NODE_1277_length_33748_cov_11.612679	17245	17299	label=duplication	17060	17320	ID=JKMNAICC_02521	gene=Null	gene middle
+Samp2	NODE_158_length_153978_cov_19.025961	108717	108771	label=duplication	
+Samp2	NODE_218_length_119072_cov_16.305141	25154	25208	label=duplication	25065	25529	ID=JKMNAICC_01112	gene=Null	gene middle
+Samp2	NODE_357_length_83388_cov_16.376802	30413	30467	label=duplication	
+Samp2	NODE_402_length_77003_cov_18.873317	22348	22402	label=duplication	22353	23684	ID=JKMNAICC_01702	gene=aspS2	gene begin
+Samp2	NODE_427_length_73719_cov_21.723786	38854	38908	label=duplication	35442	38909	ID=JKMNAICC_01775	gene=dnaE	gene middle
+Samp2	NODE_48_length_308213_cov_18.415624	111887	111941	label=duplication	110917	111945	ID=JKMNAICC_00089	gene=yjmD_1	gene middle
+Samp2	NODE_48_length_308213_cov_18.415624	115692	115746	label=duplication	114983	115801	ID=JKMNAICC_00092	gene=rlmB_1	gene middle
+Samp2	NODE_48_length_308213_cov_18.415624	172916	172970	label=duplication	172616	174580	ID=JKMNAICC_00145	gene=rsxC_1	gene middle
+Samp2	NODE_48_length_308213_cov_18.415624	281791	281845	label=duplication	280944	281939	ID=JKMNAICC_00236	gene=gpr_1	gene middle
+Samp2	NODE_48_length_308213_cov_18.415624	284171	284225	label=duplication	282055	284277	ID=JKMNAICC_00237	gene=agaA_1	gene middle
+Samp2	NODE_611_length_56508_cov_18.360707	6584	28676	label=transloc	
+Samp2	NODE_623_length_55538_cov_25.688661	32660	32714	label=duplication	32471	32683	ID=JKMNAICC_02210	gene=yidD	gene end
+Samp2	NODE_86_length_232640_cov_16.650244	128803	128842	label=insertion	127686	128834	ID=JKMNAICC_00369	gene=gcdB	gene end
+Samp4	NODE_1056_length_38603_cov_18.450036	9222	9276	label=duplication	9248	9829	ID=JKMNAICC_02346	gene=clpP	gene begin
+Samp4	NODE_1230_length_34598_cov_12.848595	12679	12841	label=deletion	
+Samp4	NODE_158_length_153978_cov_19.025961	3472	3526	label=duplication	
+Samp4	NODE_181_length_140300_cov_22.564776	92512	92566	label=duplication	91722	92528	ID=JKMNAICC_00829	gene=Null	gene end
+Samp4	NODE_1864_length_25276_cov_17.662979	18892	18946	label=duplication	
+Samp4	NODE_1864_length_25276_cov_17.662979	24341	24395	label=duplication	24041	24889	ID=JKMNAICC_02580	gene=Null	gene middle
+Samp4	NODE_207_length_126828_cov_12.644759	94509	94610	label=deletion	
+Samp4	NODE_209_length_126797_cov_20.769256	45	114272	label=transloc	
+Samp4	NODE_209_length_126797_cov_20.769256	111636	111690	label=duplication	
+Samp4	NODE_209_length_126797_cov_20.769256	114272	114925	label=insertion	114455	115072	ID=JKMNAICC_01080	gene=Null	gene begin
+Samp4	NODE_254_length_108296_cov_16.560730	2070	2124	label=duplication	2009	2398	ID=JKMNAICC_01197	gene=rplV_1	gene middle
+Samp4	NODE_254_length_108296_cov_16.560730	3506	4003	label=deletion	3985	4353	ID=JKMNAICC_01199	gene=rplN	gene begin
+Samp4	NODE_2588_length_20064_cov_19.618222	19776	19776	label=insertion	
+Samp4	NODE_357_length_83388_cov_16.376802	98	4003	label=insertion	1	210	ID=JKMNAICC_01541	gene=rpmC	gene end	3990	4622	ID=JKMNAICC_01549	gene=rplC	gene begin
+Samp4	NODE_357_length_83388_cov_16.376802	1579	1633	label=duplication	1305	1694	ID=JKMNAICC_01544	gene=rplV_2	gene middle
+Samp4	NODE_357_length_83388_cov_16.376802	69839	69892	label=duplication	
+Samp4	NODE_530_length_62479_cov_12.774125	56841	56942	label=deletion	
+Samp4	NODE_611_length_56508_cov_18.360707	2482	6686	label=insertion	154	6207	ID=JKMNAICC_02132	gene=Null	gene end
+Samp4	NODE_623_length_55538_cov_25.688661	722	53798	label=transloc	684	773	ID=JKMNAICC_02181	gene=Null	gene end	53735	54604	ID=JKMNAICC_02228	gene=noc_4	gene begin
+Samp4	NODE_842_length_45512_cov_24.021537	45	45298	label=insertion	
+Samp4	NODE_842_length_45512_cov_24.021537	968	45298	label=transloc	52	1008	ID=JKMNAICC_02267	gene=Null	gene end
+Samp4	NODE_842_length_45512_cov_24.021537	39941	39995	label=duplication	
+Samp4	NODE_86_length_232640_cov_16.650244	2482	159617	label=transloc	158703	159746	ID=JKMNAICC_00396	gene=Null	gene begin
+Samp5	NODE_158_length_153978_cov_19.025961	62354	62408	label=duplication	
+Samp5	NODE_158_length_153978_cov_19.025961	116199	116314	label=deletion	
+Samp5	NODE_181_length_140300_cov_22.564776	117826	117845	label=insertion	
+Samp5	NODE_357_length_83388_cov_16.376802	67495	67502	label=insertion	
+Samp5	NODE_48_length_308213_cov_18.415624	174873	175161	label=duplication	174582	175202	ID=JKMNAICC_00146	gene=Null	gene middle
+Samp5	NODE_548_length_61228_cov_18.424076	1650	49632	label=transloc	48937	50520	ID=JKMNAICC_02121	gene=rhaS_4	gene begin
+Samp5	NODE_548_length_61228_cov_18.424076	4253	4307	label=duplication	4240	5097	ID=JKMNAICC_02084	gene=atpG_2	gene middle
+Samp5	NODE_86_length_232640_cov_16.650244	66585	66871	label=deletion	
+Samp7	NODE_1056_length_38603_cov_18.450036	19346	19485	label=deletion	
+Samp7	NODE_1056_length_38603_cov_18.450036	34189	34216	label=insertion	
+Samp7	NODE_1118_length_37052_cov_15.865476	26883	28912	label=deletion	
+Samp7	NODE_158_length_153978_cov_19.025961	106232	106392	label=deletion	
+Samp7	NODE_158_length_153978_cov_19.025961	114577	114737	label=deletion	
+Samp7	NODE_158_length_153978_cov_19.025961	136397	136407	label=insertion	
+Samp7	NODE_158_length_153978_cov_19.025961	148844	148846	label=insertion	
+Samp7	NODE_181_length_140300_cov_22.564776	90000	91356	label=deletion	
+Samp7	NODE_181_length_140300_cov_22.564776	97918	98061	label=deletion	
+Samp7	NODE_181_length_140300_cov_22.564776	107423	109944	label=deletion	
+Samp7	NODE_181_length_140300_cov_22.564776	107423	109944	label=insertion	
+Samp7	NODE_181_length_140300_cov_22.564776	114952	114958	label=insertion	
+Samp7	NODE_181_length_140300_cov_22.564776	117826	117858	label=insertion	117847	118470	ID=JKMNAICC_00853	gene=ywaC_1	gene begin
+Samp7	NODE_181_length_140300_cov_22.564776	118678	121661	label=deletion	
+Samp7	NODE_181_length_140300_cov_22.564776	122165	122254	label=insertion	121693	122175	ID=JKMNAICC_00858	gene=Null	gene end	122238	123203	ID=JKMNAICC_00859	gene=oppF_2	gene begin
+Samp7	NODE_181_length_140300_cov_22.564776	123240	123242	label=insertion	
+Samp7	NODE_181_length_140300_cov_22.564776	123389	124739	label=deletion	123440	124846	ID=JKMNAICC_00860	gene=Null	gene begin
+Samp7	NODE_207_length_126828_cov_12.644759	12853	69485	label=deletion	11765	12913	ID=JKMNAICC_00885	gene=spoIVB	gene end
+Samp7	NODE_207_length_126828_cov_12.644759	94509	94610	label=deletion	
+Samp7	NODE_209_length_126797_cov_20.769256	2769	2778	label=insertion	1870	2772	ID=JKMNAICC_00983	gene=Null	gene end
+Samp7	NODE_209_length_126797_cov_20.769256	47146	47227	label=deletion	
+Samp7	NODE_209_length_126797_cov_20.769256	50529	50576	label=insertion	
+Samp7	NODE_209_length_126797_cov_20.769256	51419	51419	label=insertion	
+Samp7	NODE_209_length_126797_cov_20.769256	58194	58201	label=insertion	
+Samp7	NODE_209_length_126797_cov_20.769256	65841	69010	label=deletion	
+Samp7	NODE_209_length_126797_cov_20.769256	75829	75832	label=insertion	
+Samp7	NODE_209_length_126797_cov_20.769256	80725	80727	label=insertion	79959	80738	ID=JKMNAICC_01054	gene=dtd3	gene middle
+Samp7	NODE_209_length_126797_cov_20.769256	98821	98970	label=deletion	
+Samp7	NODE_218_length_119072_cov_16.305141	47942	114773	label=transloc	47344	47967	ID=JKMNAICC_01134	gene=Null	gene end
+Samp7	NODE_218_length_119072_cov_16.305141	52081	56279	label=deletion	
+Samp7	NODE_218_length_119072_cov_16.305141	72864	72865	label=insertion	
+Samp7	NODE_218_length_119072_cov_16.305141	108199	108210	label=insertion	
+Samp7	NODE_254_length_108296_cov_16.560730	17024	18243	label=deletion	
+Samp7	NODE_269_length_104799_cov_17.083881	43681	45481	label=duplication	
+Samp7	NODE_269_length_104799_cov_17.083881	81892	86781	label=deletion	
+Samp7	NODE_269_length_104799_cov_17.083881	86987	86987	label=insertion	
+Samp7	NODE_332_length_87912_cov_19.065550	16037	16044	label=insertion	
+Samp7	NODE_350_length_84519_cov_14.448913	13407	13410	label=insertion	
+Samp7	NODE_350_length_84519_cov_14.448913	13761	13790	label=insertion	13497	13793	ID=JKMNAICC_01471	gene=Null	gene middle
+Samp7	NODE_350_length_84519_cov_14.448913	46809	46809	label=insertion	
+Samp7	NODE_350_length_84519_cov_14.448913	47950	72865	label=deletion	47947	48867	ID=JKMNAICC_01504	gene=rcsC_4	gene end	72864	73210	ID=JKMNAICC_01533	gene=ssrA	gene begin
+Samp7	NODE_357_length_83388_cov_16.376802	43681	43681	label=insertion	
+Samp7	NODE_357_length_83388_cov_16.376802	43777	43785	label=insertion	43769	44215	ID=JKMNAICC_01586	gene=Null	gene middle
+Samp7	NODE_368_length_81752_cov_16.463738	41780	41974	label=insertion	40372	41790	ID=JKMNAICC_01637	gene=pyk	gene end	41802	41990	ID=JKMNAICC_01638	gene=Null	gene begin
+Samp7	NODE_368_length_81752_cov_16.463738	43631	43631	label=insertion	
+Samp7	NODE_368_length_81752_cov_16.463738	44733	44735	label=insertion	
+Samp7	NODE_368_length_81752_cov_16.463738	48192	48934	label=deletion	48093	49067	ID=JKMNAICC_01645	gene=rhaB_2	gene middle
+Samp7	NODE_368_length_81752_cov_16.463738	50546	50619	label=deletion	
+Samp7	NODE_368_length_81752_cov_16.463738	50546	50619	label=insertion	
+Samp7	NODE_402_length_77003_cov_18.873317	52873	57024	label=deletion	
+Samp7	NODE_402_length_77003_cov_18.873317	73331	73494	label=deletion	
+Samp7	NODE_481_length_66651_cov_19.388492	22987	23003	label=insertion	
+Samp7	NODE_481_length_66651_cov_19.388492	44816	44816	label=insertion	
+Samp7	NODE_481_length_66651_cov_19.388492	50740	50975	label=deletion	
+Samp7	NODE_481_length_66651_cov_19.388492	55648	55815	label=deletion	
+Samp7	NODE_481_length_66651_cov_19.388492	65893	65895	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	76667	76919	label=deletion	76602	77060	ID=JKMNAICC_00065	gene=Null	gene middle
+Samp7	NODE_48_length_308213_cov_18.415624	83441	83446	label=insertion	83142	83987	ID=JKMNAICC_00072	gene=Null	gene middle
+Samp7	NODE_48_length_308213_cov_18.415624	84360	84362	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	109339	109339	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	114890	114906	label=insertion	113612	114904	ID=JKMNAICC_00091	gene=mepA_2	gene end
+Samp7	NODE_48_length_308213_cov_18.415624	115801	116238	label=deletion	115828	116301	ID=JKMNAICC_00093	gene=Null	gene begin
+Samp7	NODE_48_length_308213_cov_18.415624	116402	116468	label=deletion	116385	116852	ID=JKMNAICC_00094	gene=Null	gene middle
+Samp7	NODE_48_length_308213_cov_18.415624	116402	116468	label=insertion	116385	116852	ID=JKMNAICC_00094	gene=Null	gene middle
+Samp7	NODE_48_length_308213_cov_18.415624	116861	116998	label=deletion	
+Samp7	NODE_48_length_308213_cov_18.415624	116861	116998	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	117445	118102	label=insertion	117012	117449	ID=JKMNAICC_00095	gene=Null	gene end
+Samp7	NODE_48_length_308213_cov_18.415624	164330	164331	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	172215	172258	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	210193	210356	label=deletion	
+Samp7	NODE_48_length_308213_cov_18.415624	215697	215697	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	236519	236683	label=deletion	235831	236562	ID=JKMNAICC_00197	gene=thiN	gene end
+Samp7	NODE_48_length_308213_cov_18.415624	236519	236683	label=insertion	235831	236562	ID=JKMNAICC_00197	gene=thiN	gene end
+Samp7	NODE_48_length_308213_cov_18.415624	261008	261357	label=deletion	
+Samp7	NODE_48_length_308213_cov_18.415624	266027	266029	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	280820	280928	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	281941	282051	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	291788	302238	label=insertion	
+Samp7	NODE_48_length_308213_cov_18.415624	291788	302238	label=deletion	
+Samp7	NODE_518_length_63483_cov_15.372249	44148	44291	label=deletion	
+Samp7	NODE_530_length_62479_cov_12.774125	54609	57360	label=deletion	
+Samp7	NODE_534_length_62215_cov_21.038208	46391	46391	label=insertion	
+Samp7	NODE_548_length_61228_cov_18.424076	43359	50590	label=insertion	40636	43401	ID=JKMNAICC_02116	gene=Null	gene end	50589	52229	ID=JKMNAICC_02122	gene=phoR	gene begin
+Samp7	NODE_548_length_61228_cov_18.424076	43359	50590	label=deletion	40636	43401	ID=JKMNAICC_02116	gene=Null	gene end	50589	52229	ID=JKMNAICC_02122	gene=phoR	gene begin
+Samp7	NODE_548_length_61228_cov_18.424076	55746	55853	label=deletion	
+Samp7	NODE_548_length_61228_cov_18.424076	58553	60410	label=deletion	
+Samp7	NODE_623_length_55538_cov_25.688661	12654	12815	label=deletion	
+Samp7	NODE_623_length_55538_cov_25.688661	44151	44253	label=deletion	43187	45043	ID=JKMNAICC_02219	gene=Null	gene middle
+Samp7	NODE_805_length_46752_cov_19.757008	11021	11166	label=deletion	11148	13013	ID=JKMNAICC_02241	gene=uvrC	gene begin
+Samp7	NODE_805_length_46752_cov_19.757008	25092	25280	label=deletion	23587	25941	ID=JKMNAICC_02250	gene=Null	gene middle
+Samp7	NODE_86_length_232640_cov_16.650244	4658	4819	label=deletion	
+Samp7	NODE_946_length_41953_cov_15.757435	27301	27303	label=insertion	
+Samp7	NODE_946_length_41953_cov_15.757435	27390	27394	label=insertion	
+Samp7	NODE_946_length_41953_cov_15.757435	33332	33451	label=deletion	
+Samp7	NODE_946_length_41953_cov_15.757435	39020	39123	label=insertion	38759	39079	ID=JKMNAICC_02333	gene=Null	gene end
+Samp7	NODE_946_length_41953_cov_15.757435	39246	39247	label=insertion	
+Samp7	NODE_946_length_41953_cov_15.757435	41164	41165	label=insertion	
+Samp8	NODE_1056_length_38603_cov_18.450036	13248	19596	label=insertion	12122	13558	ID=JKMNAICC_02349	gene=abgB	gene end
+Samp8	NODE_1056_length_38603_cov_18.450036	13248	19596	label=deletion	12122	13558	ID=JKMNAICC_02349	gene=abgB	gene end
+Samp8	NODE_1057_length_38586_cov_14.030469	14352	14352	label=insertion	
+Samp8	NODE_1057_length_38586_cov_14.030469	21519	21657	label=deletion	
+Samp8	NODE_1118_length_37052_cov_15.865476	554	26418	label=transloc	212	1879	ID=JKMNAICC_02445	gene=glnS	gene end
+Samp8	NODE_118_length_191921_cov_13.148687	15917	15955	label=insertion	
+Samp8	NODE_118_length_191921_cov_13.148687	68692	68701	label=insertion	
+Samp8	NODE_118_length_191921_cov_13.148687	79043	80301	label=deletion	
+Samp8	NODE_118_length_191921_cov_13.148687	83530	83600	label=duplication	
+Samp8	NODE_118_length_191921_cov_13.148687	118895	118902	label=insertion	
+Samp8	NODE_118_length_191921_cov_13.148687	137538	137545	label=insertion	
+Samp8	NODE_118_length_191921_cov_13.148687	140094	140300	label=deletion	
+Samp8	NODE_118_length_191921_cov_13.148687	178711	178756	label=insertion	
+Samp8	NODE_1230_length_34598_cov_12.848595	1232	1235	label=insertion	
+Samp8	NODE_1230_length_34598_cov_12.848595	13702	14289	label=deletion	13543	14127	ID=JKMNAICC_02492	gene=tag	gene end	14270	14950	ID=JKMNAICC_02493	gene=Null	gene begin
+Samp8	NODE_158_length_153978_cov_19.025961	13646	13759	label=deletion	
+Samp8	NODE_158_length_153978_cov_19.025961	13867	14010	label=deletion	
+Samp8	NODE_158_length_153978_cov_19.025961	13867	14010	label=insertion	
+Samp8	NODE_158_length_153978_cov_19.025961	26418	72497	label=insertion	25911	27230	ID=JKMNAICC_00636	gene=Null	gene end
+Samp8	NODE_158_length_153978_cov_19.025961	72497	100813	label=transloc	
+Samp8	NODE_158_length_153978_cov_19.025961	106232	106392	label=deletion	
+Samp8	NODE_158_length_153978_cov_19.025961	114572	114736	label=deletion	
+Samp8	NODE_158_length_153978_cov_19.025961	116199	116314	label=deletion	
+Samp8	NODE_158_length_153978_cov_19.025961	127810	127830	label=insertion	
+Samp8	NODE_158_length_153978_cov_19.025961	133369	133446	label=duplication	132272	133696	ID=JKMNAICC_00723	gene=tagU_2	gene middle
+Samp8	NODE_158_length_153978_cov_19.025961	136397	136407	label=insertion	
+Samp8	NODE_181_length_140300_cov_22.564776	3126	3126	label=insertion	
+Samp8	NODE_181_length_140300_cov_22.564776	9216	9252	label=insertion	
+Samp8	NODE_181_length_140300_cov_22.564776	14347	14467	label=deletion	14462	15658	ID=JKMNAICC_00753	gene=Null	gene begin
+Samp8	NODE_181_length_140300_cov_22.564776	33727	33889	label=deletion	
+Samp8	NODE_181_length_140300_cov_22.564776	76246	76319	label=deletion	75672	76259	ID=JKMNAICC_00813	gene=Null	gene end
+Samp8	NODE_181_length_140300_cov_22.564776	77162	77163	label=insertion	77162	78145	ID=JKMNAICC_00815	gene=Null	gene middle
+Samp8	NODE_181_length_140300_cov_22.564776	122165	123491	label=deletion	121693	122175	ID=JKMNAICC_00858	gene=Null	gene end	123440	124846	ID=JKMNAICC_00860	gene=Null	gene begin
+Samp8	NODE_181_length_140300_cov_22.564776	122165	123491	label=insertion	121693	122175	ID=JKMNAICC_00858	gene=Null	gene end	123440	124846	ID=JKMNAICC_00860	gene=Null	gene begin
+Samp8	NODE_207_length_126828_cov_12.644759	12853	69485	label=deletion	11765	12913	ID=JKMNAICC_00885	gene=spoIVB	gene end
+Samp8	NODE_207_length_126828_cov_12.644759	94509	94610	label=deletion	
+Samp8	NODE_207_length_126828_cov_12.644759	111095	111097	label=insertion	
+Samp8	NODE_209_length_126797_cov_20.769256	107591	107856	label=deletion	
+Samp8	NODE_332_length_87912_cov_19.065550	41674	42224	label=deletion	41396	41872	ID=JKMNAICC_01423	gene=Null	gene end	42211	42486	ID=JKMNAICC_01425	gene=pduA	gene begin
+Samp8	NODE_350_length_84519_cov_14.448913	22576	84422	label=transloc	
+Samp8	NODE_350_length_84519_cov_14.448913	40610	40610	label=insertion	
+Samp8	NODE_350_length_84519_cov_14.448913	46809	72865	label=deletion	72864	73210	ID=JKMNAICC_01533	gene=ssrA	gene begin
+Samp8	NODE_350_length_84519_cov_14.448913	79935	79966	label=insertion	
+Samp8	NODE_357_length_83388_cov_16.376802	5400	5405	label=insertion	
+Samp8	NODE_357_length_83388_cov_16.376802	11308	11333	label=insertion	
+Samp8	NODE_357_length_83388_cov_16.376802	65067	65092	label=insertion	65082	65894	ID=JKMNAICC_01601	gene=Null	gene begin
+Samp8	NODE_402_length_77003_cov_18.873317	33633	33639	label=insertion	33606	35231	ID=JKMNAICC_01709	gene=pyrG	gene middle
+Samp8	NODE_427_length_73719_cov_21.723786	26281	27362	label=deletion	26468	29125	ID=JKMNAICC_01768	gene=sasA_4	gene begin
+Samp8	NODE_427_length_73719_cov_21.723786	62222	62225	label=insertion	
+Samp8	NODE_481_length_66651_cov_19.388492	43124	43298	label=deletion	
+Samp8	NODE_481_length_66651_cov_19.388492	43592	44635	label=duplication	43493	44638	ID=JKMNAICC_01843	gene=Null	gene middle
+Samp8	NODE_481_length_66651_cov_19.388492	65946	66040	label=deletion	
+Samp8	NODE_48_length_308213_cov_18.415624	163079	163087	label=insertion	163069	163395	ID=JKMNAICC_00136	gene=Null	gene middle
+Samp8	NODE_48_length_308213_cov_18.415624	166348	166502	label=deletion	165662	166792	ID=JKMNAICC_00139	gene=Null	gene middle
+Samp8	NODE_48_length_308213_cov_18.415624	210193	210356	label=deletion	
+Samp8	NODE_48_length_308213_cov_18.415624	222752	222861	label=deletion	
+Samp8	NODE_48_length_308213_cov_18.415624	253461	253617	label=deletion	
+Samp8	NODE_48_length_308213_cov_18.415624	261008	261364	label=deletion	
+Samp8	NODE_48_length_308213_cov_18.415624	286955	287031	label=duplication	286957	287850	ID=JKMNAICC_00240	gene=melD_1	gene begin
+Samp8	NODE_518_length_63483_cov_15.372249	6906	6907	label=insertion	
+Samp8	NODE_518_length_63483_cov_15.372249	37865	37867	label=insertion	
+Samp8	NODE_518_length_63483_cov_15.372249	44148	44300	label=deletion	
+Samp8	NODE_611_length_56508_cov_18.360707	6686	51740	label=transloc	51405	51962	ID=JKMNAICC_02176	gene=folE	gene begin
+Samp8	NODE_611_length_56508_cov_18.360707	11859	11882	label=insertion	10553	11878	ID=JKMNAICC_02138	gene=gabR	gene end	11875	12519	ID=JKMNAICC_02139	gene=cbiC	gene begin
+Samp8	NODE_611_length_56508_cov_18.360707	16327	16328	label=insertion	16315	17709	ID=JKMNAICC_02143	gene=cbiA	gene middle
+Samp8	NODE_611_length_56508_cov_18.360707	25502	25513	label=insertion	
+Samp8	NODE_611_length_56508_cov_18.360707	36852	37012	label=deletion	
+Samp8	NODE_611_length_56508_cov_18.360707	44895	45048	label=deletion	
+Samp8	NODE_611_length_56508_cov_18.360707	48234	48396	label=deletion	
+Samp8	NODE_611_length_56508_cov_18.360707	48948	49115	label=deletion	
+Samp8	NODE_623_length_55538_cov_25.688661	12654	12815	label=deletion	
+Samp8	NODE_623_length_55538_cov_25.688661	35170	35176	label=insertion	
+Samp8	NODE_623_length_55538_cov_25.688661	44041	44261	label=deletion	43187	45043	ID=JKMNAICC_02219	gene=Null	gene middle
+Samp8	NODE_805_length_46752_cov_19.757008	11021	11166	label=deletion	11148	13013	ID=JKMNAICC_02241	gene=uvrC	gene begin
+Samp8	NODE_805_length_46752_cov_19.757008	17792	25955	label=deletion	
+Samp8	NODE_805_length_46752_cov_19.757008	26888	27413	label=deletion	
+Samp8	NODE_86_length_232640_cov_16.650244	2495	6686	label=insertion	6449	7153	ID=JKMNAICC_00265	gene=kdpE	gene begin
+Samp8	NODE_86_length_232640_cov_16.650244	2495	35149	label=transloc	
+Samp8	NODE_86_length_232640_cov_16.650244	4658	4820	label=deletion	
+Samp8	NODE_86_length_232640_cov_16.650244	7153	7293	label=deletion	
+Samp8	NODE_86_length_232640_cov_16.650244	26392	26424	label=insertion	26335	26418	ID=JKMNAICC_00282	gene=Null	gene end
+Samp8	NODE_86_length_232640_cov_16.650244	48841	48843	label=insertion	
+Samp8	NODE_86_length_232640_cov_16.650244	50200	53707	label=insertion	48859	50211	ID=JKMNAICC_00303	gene=mepA_3	gene end	52627	54531	ID=JKMNAICC_00305	gene=Null	gene begin

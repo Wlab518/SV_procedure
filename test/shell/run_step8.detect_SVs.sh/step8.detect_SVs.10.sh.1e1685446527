@@ -1,0 +1,150 @@
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp1.bin.24.orig.fa_run_ref.ntref" of length 2503868
+# construct suffix tree for sequence of length 2503868
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 25038 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp1.bin.24.orig.fa_run_ref.ntref 0.96
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp1.bin.24.orig.fa" of length 2475225
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp1.bin.24.orig.fa"
+# against subject-file "query_Samp1.bin.24.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp1.bin.24.orig.fa_run_ref.ntref 3.26
+# SPACE /usr/bin/mummer query_Samp1.bin.24.orig.fa_run_ref.ntref 4.83
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp1.bin.24.orig.fa_run_query.ntref" of length 2475226
+# construct suffix tree for sequence of length 2475226
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 24752 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp1.bin.24.orig.fa_run_query.ntref 0.89
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa" of length 2503867
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa"
+# against subject-file "query_Samp1.bin.24.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp1.bin.24.orig.fa_run_query.ntref 3.14
+# SPACE /usr/bin/mummer query_Samp1.bin.24.orig.fa_run_query.ntref 4.83
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp2.bin.53.orig.fa_run_ref.ntref" of length 2503868
+# construct suffix tree for sequence of length 2503868
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 25038 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp2.bin.53.orig.fa_run_ref.ntref 1.11
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp2.bin.53.orig.fa" of length 2681670
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp2.bin.53.orig.fa"
+# against subject-file "query_Samp2.bin.53.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp2.bin.53.orig.fa_run_ref.ntref 3.87
+# SPACE /usr/bin/mummer query_Samp2.bin.53.orig.fa_run_ref.ntref 5.03
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp2.bin.53.orig.fa_run_query.ntref" of length 2681671
+# construct suffix tree for sequence of length 2681671
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 26816 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp2.bin.53.orig.fa_run_query.ntref 0.85
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa" of length 2503867
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa"
+# against subject-file "query_Samp2.bin.53.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp2.bin.53.orig.fa_run_query.ntref 2.92
+# SPACE /usr/bin/mummer query_Samp2.bin.53.orig.fa_run_query.ntref 5.03
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp4.bin.18.orig.fa_run_ref.ntref" of length 2503868
+# construct suffix tree for sequence of length 2503868
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 25038 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp4.bin.18.orig.fa_run_ref.ntref 0.99
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp4.bin.18.orig.fa" of length 2553240
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp4.bin.18.orig.fa"
+# against subject-file "query_Samp4.bin.18.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp4.bin.18.orig.fa_run_ref.ntref 3.35
+# SPACE /usr/bin/mummer query_Samp4.bin.18.orig.fa_run_ref.ntref 4.90
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp4.bin.18.orig.fa_run_query.ntref" of length 2553241
+# construct suffix tree for sequence of length 2553241
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 25532 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp4.bin.18.orig.fa_run_query.ntref 1.29
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa" of length 2503867
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa"
+# against subject-file "query_Samp4.bin.18.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp4.bin.18.orig.fa_run_query.ntref 4.06
+# SPACE /usr/bin/mummer query_Samp4.bin.18.orig.fa_run_query.ntref 4.90
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp5.bin.25.orig.fa_run_ref.ntref" of length 2503868
+# construct suffix tree for sequence of length 2503868
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 25038 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp5.bin.25.orig.fa_run_ref.ntref 1.17
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp5.bin.25.orig.fa" of length 2550529
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp5.bin.25.orig.fa"
+# against subject-file "query_Samp5.bin.25.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp5.bin.25.orig.fa_run_ref.ntref 3.75
+# SPACE /usr/bin/mummer query_Samp5.bin.25.orig.fa_run_ref.ntref 4.90
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp5.bin.25.orig.fa_run_query.ntref" of length 2550530
+# construct suffix tree for sequence of length 2550530
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 25505 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp5.bin.25.orig.fa_run_query.ntref 1.29
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa" of length 2503867
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa"
+# against subject-file "query_Samp5.bin.25.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp5.bin.25.orig.fa_run_query.ntref 3.85
+# SPACE /usr/bin/mummer query_Samp5.bin.25.orig.fa_run_query.ntref 4.90
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp9.bin.33.orig.fa_run_ref.ntref" of length 2503868
+# construct suffix tree for sequence of length 2503868
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 25038 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp9.bin.33.orig.fa_run_ref.ntref 1.36
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp9.bin.33.orig.fa" of length 2411789
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/query_Samp9.bin.33.orig.fa"
+# against subject-file "query_Samp9.bin.33.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp9.bin.33.orig.fa_run_ref.ntref 4.09
+# SPACE /usr/bin/mummer query_Samp9.bin.33.orig.fa_run_ref.ntref 4.77
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp9.bin.33.orig.fa_run_query.ntref" of length 2411790
+# construct suffix tree for sequence of length 2411790
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 24117 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp9.bin.33.orig.fa_run_query.ntref 0.98
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa" of length 2503867
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Mediterraneibacter_lactaris/ref_Samp3.bin.5.orig.fa"
+# against subject-file "query_Samp9.bin.33.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp9.bin.33.orig.fa_run_query.ntref 3.42
+# SPACE /usr/bin/mummer query_Samp9.bin.33.orig.fa_run_query.ntref 4.77
+4: FINISHING DATA

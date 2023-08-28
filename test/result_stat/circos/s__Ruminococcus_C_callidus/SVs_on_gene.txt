@@ -1,0 +1,178 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 2505 gene of reference genome
+Samp10	NODE_105_length_211987_cov_13.111040	48037	48040	label=insertion	
+Samp10	NODE_106_length_210260_cov_22.069960	19196	19339	label=deletion	
+Samp10	NODE_106_length_210260_cov_22.069960	64082	64445	label=deletion	
+Samp10	NODE_106_length_210260_cov_22.069960	68734	70077	label=deletion	
+Samp10	NODE_106_length_210260_cov_22.069960	77327	183877	label=insertion	
+Samp10	NODE_217_length_120007_cov_17.062258	65274	65307	label=insertion	
+Samp10	NODE_217_length_120007_cov_17.062258	93074	93096	label=insertion	92207	93076	ID=NOKKJBDP_01721	gene=rlmL_2	gene end
+Samp10	NODE_217_length_120007_cov_17.062258	103808	103980	label=deletion	
+Samp10	NODE_252_length_108562_cov_18.569825	87885	89215	label=deletion	88812	89222	ID=NOKKJBDP_01939	gene=Null	gene begin
+Samp10	NODE_252_length_108562_cov_18.569825	101349	101353	label=insertion	101351	102304	ID=NOKKJBDP_01949	gene=murB	gene begin
+Samp10	NODE_252_length_108562_cov_18.569825	104632	104830	label=deletion	
+Samp10	NODE_252_length_108562_cov_18.569825	106797	106797	label=insertion	106796	107320	ID=NOKKJBDP_01954	gene=btuR	gene middle
+Samp10	NODE_409_length_76143_cov_21.119493	57821	58119	label=deletion	
+Samp10	NODE_493_length_65778_cov_20.716188	36023	36196	label=deletion	
+Samp10	NODE_493_length_65778_cov_20.716188	59035	59043	label=insertion	58375	59037	ID=NOKKJBDP_02238	gene=Null	gene end
+Samp10	NODE_50_length_304576_cov_21.993252	119486	119498	label=insertion	118927	119487	ID=NOKKJBDP_00114	gene=Null	gene end
+Samp10	NODE_50_length_304576_cov_21.993252	120468	120489	label=insertion	119700	120470	ID=NOKKJBDP_00115	gene=spo0A	gene end
+Samp10	NODE_50_length_304576_cov_21.993252	131604	131777	label=deletion	
+Samp10	NODE_50_length_304576_cov_21.993252	141509	141644	label=deletion	
+Samp10	NODE_50_length_304576_cov_21.993252	151643	151891	label=deletion	150727	151653	ID=NOKKJBDP_00144	gene=Null	gene end
+Samp10	NODE_50_length_304576_cov_21.993252	168513	168686	label=deletion	
+Samp10	NODE_50_length_304576_cov_21.993252	180966	181220	label=deletion	
+Samp10	NODE_50_length_304576_cov_21.993252	183616	183842	label=deletion	183165	183635	ID=NOKKJBDP_00176	gene=Null	gene end
+Samp10	NODE_50_length_304576_cov_21.993252	184674	185131	label=deletion	184728	185417	ID=NOKKJBDP_00178	gene=Null	gene begin
+Samp10	NODE_565_length_59764_cov_21.887186	16884	16884	label=insertion	
+Samp10	NODE_565_length_59764_cov_21.887186	17875	17997	label=deletion	
+Samp10	NODE_79_length_244018_cov_22.381623	8752	8767	label=insertion	
+Samp10	NODE_79_length_244018_cov_22.381623	16369	17514	label=deletion	
+Samp10	NODE_79_length_244018_cov_22.381623	29381	29381	label=insertion	29272	29802	ID=NOKKJBDP_00532	gene=Null	gene middle
+Samp10	NODE_79_length_244018_cov_22.381623	31351	31529	label=deletion	31296	31544	ID=NOKKJBDP_00535	gene=Null	gene middle
+Samp10	NODE_79_length_244018_cov_22.381623	34848	34848	label=insertion	
+Samp10	NODE_79_length_244018_cov_22.381623	36905	36909	label=insertion	
+Samp10	NODE_79_length_244018_cov_22.381623	210807	211568	label=deletion	210806	211372	ID=NOKKJBDP_00669	gene=Null	gene end
+Samp10	NODE_85_length_237236_cov_19.647067	135840	136055	label=deletion	
+Samp10	NODE_85_length_237236_cov_19.647067	139408	139576	label=deletion	
+Samp10	NODE_91_length_224312_cov_20.817219	51054	51088	label=insertion	
+Samp10	NODE_91_length_224312_cov_20.817219	53625	53656	label=insertion	
+Samp10	NODE_91_length_224312_cov_20.817219	70629	70827	label=deletion	
+Samp10	NODE_91_length_224312_cov_20.817219	84130	84266	label=deletion	
+Samp10	NODE_91_length_224312_cov_20.817219	87557	87557	label=insertion	
+Samp10	NODE_91_length_224312_cov_20.817219	90072	90296	label=deletion	90285	91604	ID=NOKKJBDP_00984	gene=murAA	gene begin
+Samp10	NODE_91_length_224312_cov_20.817219	100526	100532	label=insertion	
+Samp10	NODE_94_length_219689_cov_23.093874	103574	104833	label=deletion	
+Samp10	NODE_94_length_219689_cov_23.093874	122878	122901	label=insertion	
+Samp10	NODE_94_length_219689_cov_23.093874	127775	127776	label=insertion	
+Samp10	NODE_94_length_219689_cov_23.093874	128244	128399	label=deletion	
+Samp10	NODE_94_length_219689_cov_23.093874	132533	167461	label=insertion	
+Samp10	NODE_94_length_219689_cov_23.093874	150170	150170	label=insertion	
+Samp10	NODE_94_length_219689_cov_23.093874	168779	170244	label=deletion	
+Samp10	NODE_94_length_219689_cov_23.093874	170395	170581	label=deletion	170572	171873	ID=NOKKJBDP_01243	gene=eno	gene begin
+Samp1	NODE_105_length_211987_cov_13.111040	146328	146378	label=duplication	
+Samp1	NODE_106_length_210260_cov_22.069960	19162	19216	label=duplication	
+Samp1	NODE_106_length_210260_cov_22.069960	103808	103909	label=deletion	
+Samp1	NODE_221_length_118681_cov_17.380524	76478	117631	label=transloc	75328	76695	ID=NOKKJBDP_01835	gene=Null	gene end
+Samp1	NODE_252_length_108562_cov_18.569825	28754	108526	label=transloc	
+Samp1	NODE_278_length_102340_cov_23.044493	12109	13706	label=deletion	13619	13870	ID=NOKKJBDP_01967	gene=Null	gene begin
+Samp1	NODE_50_length_304576_cov_21.993252	93827	93881	label=duplication	91891	94347	ID=NOKKJBDP_00091	gene=cbpA	gene middle
+Samp1	NODE_50_length_304576_cov_21.993252	168635	168685	label=duplication	
+Samp1	NODE_50_length_304576_cov_21.993252	187219	187273	label=duplication	
+Samp1	NODE_50_length_304576_cov_21.993252	211974	212028	label=duplication	
+Samp1	NODE_565_length_59764_cov_21.887186	60	12315	label=insertion	11606	13012	ID=NOKKJBDP_02258	gene=Null	gene begin
+Samp1	NODE_565_length_59764_cov_21.887186	15297	15430	label=deletion	
+Samp1	NODE_565_length_59764_cov_21.887186	42369	42423	label=duplication	
+Samp1	NODE_70_length_260986_cov_20.584154	172095	172183	label=duplication	172097	172183	ID=NOKKJBDP_00437	gene=Null	gene begin
+Samp1	NODE_79_length_244018_cov_22.381623	194589	194641	label=duplication	
+Samp1	NODE_79_length_244018_cov_22.381623	205246	205297	label=duplication	
+Samp1	NODE_91_length_224312_cov_20.817219	15124	15205	label=deletion	
+Samp1	NODE_91_length_224312_cov_20.817219	42578	42637	label=deletion	
+Samp1	NODE_91_length_224312_cov_20.817219	106561	106615	label=duplication	106146	106616	ID=NOKKJBDP_00996	gene=rpsG	gene middle
+Samp1	NODE_94_length_219689_cov_23.093874	13477	13527	label=duplication	13350	13673	ID=NOKKJBDP_01108	gene=Null	gene middle
+Samp1	NODE_94_length_219689_cov_23.093874	132533	136662	label=deletion	
+Samp1	NODE_94_length_219689_cov_23.093874	136783	136833	label=duplication	
+Samp1	NODE_94_length_219689_cov_23.093874	138657	219634	label=transloc	
+Samp1	NODE_94_length_219689_cov_23.093874	170391	170445	label=duplication	
+Samp2	NODE_106_length_210260_cov_22.069960	103756	103909	label=deletion	98066	103795	ID=NOKKJBDP_01563	gene=Null	gene end
+Samp2	NODE_106_length_210260_cov_22.069960	104769	105002	label=deletion	
+Samp2	NODE_106_length_210260_cov_22.069960	108562	165598	label=insertion	107690	109651	ID=NOKKJBDP_01565	gene=Null	gene end
+Samp2	NODE_106_length_210260_cov_22.069960	145739	145840	label=deletion	
+Samp2	NODE_106_length_210260_cov_22.069960	165598	177642	label=transloc	
+Samp2	NODE_106_length_210260_cov_22.069960	201854	202100	label=deletion	
+Samp2	NODE_2275_length_21979_cov_17.447957	6271	6402	label=deletion	
+Samp2	NODE_409_length_76143_cov_21.119493	15385	15768	label=deletion	
+Samp2	NODE_50_length_304576_cov_21.993252	218062	220575	label=deletion	217234	218073	ID=NOKKJBDP_00208	gene=Null	gene end	220139	221005	ID=NOKKJBDP_00210	gene=Null	gene begin
+Samp2	NODE_85_length_237236_cov_19.647067	83975	84230	label=deletion	83957	84094	ID=NOKKJBDP_00768	gene=Null	gene end
+Samp2	NODE_91_length_224312_cov_20.817219	42578	42637	label=deletion	
+Samp4	NODE_105_length_211987_cov_13.111040	115755	115927	label=insertion	
+Samp4	NODE_105_length_211987_cov_13.111040	115755	115927	label=duplication	
+Samp4	NODE_106_length_210260_cov_22.069960	145739	145840	label=deletion	
+Samp4	NODE_106_length_210260_cov_22.069960	159170	159224	label=duplication	
+Samp4	NODE_106_length_210260_cov_22.069960	180389	180439	label=duplication	
+Samp4	NODE_106_length_210260_cov_22.069960	201854	202100	label=deletion	
+Samp4	NODE_252_length_108562_cov_18.569825	10294	104835	label=insertion	
+Samp4	NODE_252_length_108562_cov_18.569825	32099	104835	label=transloc	
+Samp4	NODE_307_length_94646_cov_16.690933	63085	63138	label=duplication	
+Samp4	NODE_409_length_76143_cov_21.119493	15385	15528	label=deletion	
+Samp4	NODE_50_length_304576_cov_21.993252	93827	93881	label=duplication	91891	94347	ID=NOKKJBDP_00091	gene=cbpA	gene middle
+Samp4	NODE_565_length_59764_cov_21.887186	60	12315	label=insertion	11606	13012	ID=NOKKJBDP_02258	gene=Null	gene begin
+Samp4	NODE_565_length_59764_cov_21.887186	32826	32880	label=duplication	
+Samp4	NODE_565_length_59764_cov_21.887186	39987	40041	label=duplication	38335	40137	ID=NOKKJBDP_02282	gene=lepA	gene middle
+Samp4	NODE_85_length_237236_cov_19.647067	40993	41671	label=insertion	
+Samp4	NODE_85_length_237236_cov_19.647067	123659	123711	label=duplication	
+Samp4	NODE_91_length_224312_cov_20.817219	42578	42637	label=deletion	
+Samp4	NODE_94_length_219689_cov_23.093874	60584	60650	label=duplication	
+Samp4	NODE_94_length_219689_cov_23.093874	170518	170570	label=duplication	
+Samp4	NODE_94_length_219689_cov_23.093874	193348	193402	label=duplication	
+Samp4	NODE_94_length_219689_cov_23.093874	207159	207213	label=duplication	
+Samp5	NODE_106_length_210260_cov_22.069960	145739	145840	label=deletion	
+Samp5	NODE_409_length_76143_cov_21.119493	57981	58057	label=duplication	
+Samp5	NODE_50_length_304576_cov_21.993252	301286	301371	label=duplication	301217	301292	ID=NOKKJBDP_00277	gene=Null	gene end	301296	301372	ID=NOKKJBDP_00278	gene=Null	gene begin
+Samp5	NODE_70_length_260986_cov_20.584154	146931	173794	label=transloc	
+Samp5	NODE_70_length_260986_cov_20.584154	155452	157262	label=deletion	
+Samp5	NODE_70_length_260986_cov_20.584154	155458	157262	label=insertion	
+Samp5	NODE_70_length_260986_cov_20.584154	170634	170706	label=duplication	
+Samp5	NODE_70_length_260986_cov_20.584154	172095	172183	label=duplication	172097	172183	ID=NOKKJBDP_00437	gene=Null	gene begin
+Samp5	NODE_70_length_260986_cov_20.584154	187375	187451	label=duplication	
+Samp5	NODE_79_length_244018_cov_22.381623	23821	24594	label=deletion	
+Samp5	NODE_79_length_244018_cov_22.381623	24766	24850	label=duplication	
+Samp5	NODE_85_length_237236_cov_19.647067	96433	96509	label=duplication	95922	96617	ID=NOKKJBDP_00783	gene=Null	gene middle
+Samp5	NODE_85_length_237236_cov_19.647067	105773	105872	label=deletion	
+Samp5	NODE_91_length_224312_cov_20.817219	17141	17500	label=deletion	
+Samp5	NODE_91_length_224312_cov_20.817219	18475	18619	label=deletion	
+Samp6	NODE_105_length_211987_cov_13.111040	9935	10102	label=deletion	
+Samp6	NODE_105_length_211987_cov_13.111040	18092	18211	label=deletion	
+Samp6	NODE_105_length_211987_cov_13.111040	141063	141063	label=insertion	
+Samp6	NODE_105_length_211987_cov_13.111040	145815	145819	label=insertion	
+Samp6	NODE_105_length_211987_cov_13.111040	146329	146492	label=deletion	
+Samp6	NODE_106_length_210260_cov_22.069960	68734	70568	label=deletion	
+Samp6	NODE_106_length_210260_cov_22.069960	71433	83538	label=insertion	83335	83556	ID=NOKKJBDP_01550	gene=rpoZ	gene begin
+Samp6	NODE_106_length_210260_cov_22.069960	71433	83538	label=deletion	83335	83556	ID=NOKKJBDP_01550	gene=rpoZ	gene begin
+Samp6	NODE_106_length_210260_cov_22.069960	93744	188368	label=insertion	
+Samp6	NODE_217_length_120007_cov_17.062258	33506	33747	label=deletion	
+Samp6	NODE_217_length_120007_cov_17.062258	37521	37759	label=deletion	
+Samp6	NODE_217_length_120007_cov_17.062258	62809	62982	label=deletion	
+Samp6	NODE_221_length_118681_cov_17.380524	68271	68307	label=insertion	
+Samp6	NODE_252_length_108562_cov_18.569825	68983	68983	label=insertion	
+Samp6	NODE_409_length_76143_cov_21.119493	13201	13385	label=deletion	
+Samp6	NODE_493_length_65778_cov_20.716188	28435	28673	label=deletion	27424	28446	ID=NOKKJBDP_02205	gene=Null	gene end
+Samp6	NODE_493_length_65778_cov_20.716188	35095	35098	label=insertion	34514	35098	ID=NOKKJBDP_02209	gene=rdgB	gene middle
+Samp6	NODE_493_length_65778_cov_20.716188	36023	36196	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	91862	91865	label=insertion	
+Samp6	NODE_50_length_304576_cov_21.993252	102537	102549	label=insertion	
+Samp6	NODE_50_length_304576_cov_21.993252	110670	110844	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	111377	111379	label=insertion	
+Samp6	NODE_50_length_304576_cov_21.993252	114901	115275	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	131587	131777	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	141430	141538	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	147090	147134	label=insertion	
+Samp6	NODE_50_length_304576_cov_21.993252	151646	151891	label=deletion	150727	151653	ID=NOKKJBDP_00144	gene=Null	gene end
+Samp6	NODE_50_length_304576_cov_21.993252	163448	163451	label=insertion	
+Samp6	NODE_50_length_304576_cov_21.993252	168513	168686	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	170502	170635	label=deletion	169862	170599	ID=NOKKJBDP_00162	gene=Null	gene end
+Samp6	NODE_50_length_304576_cov_21.993252	206606	206638	label=insertion	
+Samp6	NODE_50_length_304576_cov_21.993252	244511	244684	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	255415	255428	label=insertion	
+Samp6	NODE_50_length_304576_cov_21.993252	261059	261239	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	271409	271714	label=deletion	
+Samp6	NODE_50_length_304576_cov_21.993252	279124	280601	label=deletion	280538	280804	ID=NOKKJBDP_00262	gene=Null	gene begin
+Samp6	NODE_79_length_244018_cov_22.381623	34344	34484	label=deletion	
+Samp6	NODE_79_length_244018_cov_22.381623	49388	72731	label=deletion	
+Samp6	NODE_79_length_244018_cov_22.381623	118174	118174	label=insertion	118124	119071	ID=NOKKJBDP_00603	gene=Null	gene middle
+Samp6	NODE_79_length_244018_cov_22.381623	208312	208318	label=insertion	
+Samp6	NODE_79_length_244018_cov_22.381623	210807	211568	label=deletion	210806	211372	ID=NOKKJBDP_00669	gene=Null	gene end
+Samp6	NODE_79_length_244018_cov_22.381623	224056	224232	label=deletion	
+Samp6	NODE_79_length_244018_cov_22.381623	225874	225876	label=insertion	
+Samp6	NODE_85_length_237236_cov_19.647067	155159	155851	label=insertion	
+Samp6	NODE_85_length_237236_cov_19.647067	163409	163582	label=deletion	
+Samp6	NODE_85_length_237236_cov_19.647067	220048	220051	label=insertion	219256	220050	ID=NOKKJBDP_00897	gene=trpA	gene end
+Samp6	NODE_91_length_224312_cov_20.817219	73629	77188	label=deletion	
+Samp6	NODE_91_length_224312_cov_20.817219	110624	132677	label=deletion	
+Samp6	NODE_94_length_219689_cov_23.093874	46955	46966	label=insertion	
+Samp6	NODE_94_length_219689_cov_23.093874	85967	86165	label=insertion	85875	86054	ID=NOKKJBDP_01175	gene=Null	gene end
+Samp6	NODE_94_length_219689_cov_23.093874	87094	90481	label=deletion	
+Samp6	NODE_94_length_219689_cov_23.093874	95516	95749	label=deletion	
+Samp6	NODE_94_length_219689_cov_23.093874	127775	127776	label=insertion	
+Samp6	NODE_94_length_219689_cov_23.093874	167609	167609	label=insertion	
+Samp6	NODE_94_length_219689_cov_23.093874	170395	170581	label=deletion	170572	171873	ID=NOKKJBDP_01243	gene=eno	gene begin

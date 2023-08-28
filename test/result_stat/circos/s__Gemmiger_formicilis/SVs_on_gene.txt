@@ -1,0 +1,871 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 2651 gene of reference genome
+Samp10	NODE_131_length_219432_cov_42.097503	1460	214841	label=transloc	214579	214857	ID=BEKJMKOH_01923	gene=Null	gene begin
+Samp10	NODE_131_length_219432_cov_42.097503	23989	23990	label=insertion	23989	24073	ID=BEKJMKOH_01750	gene=Null	gene middle
+Samp10	NODE_131_length_219432_cov_42.097503	26236	28282	label=deletion	
+Samp10	NODE_131_length_219432_cov_42.097503	40429	40599	label=deletion	
+Samp10	NODE_131_length_219432_cov_42.097503	53981	54019	label=insertion	
+Samp10	NODE_131_length_219432_cov_42.097503	58079	58134	label=insertion	
+Samp10	NODE_131_length_219432_cov_42.097503	59927	60080	label=deletion	
+Samp10	NODE_131_length_219432_cov_42.097503	69570	69727	label=duplication	
+Samp10	NODE_131_length_219432_cov_42.097503	76055	76065	label=insertion	
+Samp10	NODE_131_length_219432_cov_42.097503	79032	80457	label=deletion	
+Samp10	NODE_131_length_219432_cov_42.097503	106850	106987	label=deletion	
+Samp10	NODE_131_length_219432_cov_42.097503	117338	117343	label=insertion	
+Samp10	NODE_131_length_219432_cov_42.097503	123137	123172	label=insertion	
+Samp10	NODE_131_length_219432_cov_42.097503	123560	123578	label=insertion	123555	124412	ID=BEKJMKOH_01834	gene=Null	gene middle
+Samp10	NODE_131_length_219432_cov_42.097503	134087	134141	label=duplication	134035	134991	ID=BEKJMKOH_01845	gene=rnfD	gene middle
+Samp10	NODE_131_length_219432_cov_42.097503	136630	136633	label=insertion	136630	138033	ID=BEKJMKOH_01847	gene=pepV	gene middle
+Samp10	NODE_131_length_219432_cov_42.097503	138457	138796	label=deletion	138142	138567	ID=BEKJMKOH_01848	gene=Null	gene end
+Samp10	NODE_131_length_219432_cov_42.097503	140634	140800	label=deletion	
+Samp10	NODE_131_length_219432_cov_42.097503	140634	140800	label=insertion	
+Samp10	NODE_131_length_219432_cov_42.097503	169710	169712	label=insertion	
+Samp10	NODE_131_length_219432_cov_42.097503	194741	194906	label=deletion	
+Samp10	NODE_131_length_219432_cov_42.097503	209465	209791	label=deletion	
+Samp10	NODE_199_length_172600_cov_39.319772	75	148831	label=transloc	
+Samp10	NODE_199_length_172600_cov_39.319772	3481	3724	label=deletion	
+Samp10	NODE_199_length_172600_cov_39.319772	13422	13444	label=insertion	
+Samp10	NODE_199_length_172600_cov_39.319772	22154	22630	label=insertion	
+Samp10	NODE_199_length_172600_cov_39.319772	26377	26422	label=insertion	24307	26379	ID=BEKJMKOH_01945	gene=ctpC	gene end
+Samp10	NODE_199_length_172600_cov_39.319772	35147	35845	label=insertion	
+Samp10	NODE_199_length_172600_cov_39.319772	59436	59442	label=insertion	
+Samp10	NODE_199_length_172600_cov_39.319772	61087	61715	label=deletion	59518	61239	ID=BEKJMKOH_01968	gene=oppA_1	gene end
+Samp10	NODE_199_length_172600_cov_39.319772	68191	70002	label=deletion	
+Samp10	NODE_199_length_172600_cov_39.319772	75742	75890	label=deletion	
+Samp10	NODE_199_length_172600_cov_39.319772	78626	78629	label=insertion	
+Samp10	NODE_199_length_172600_cov_39.319772	81249	81258	label=insertion	
+Samp10	NODE_199_length_172600_cov_39.319772	84848	84907	label=duplication	
+Samp10	NODE_199_length_172600_cov_39.319772	92129	92136	label=insertion	
+Samp10	NODE_199_length_172600_cov_39.319772	106196	106315	label=duplication	
+Samp10	NODE_199_length_172600_cov_39.319772	108291	108303	label=insertion	108293	109201	ID=BEKJMKOH_02004	gene=Null	gene begin
+Samp10	NODE_199_length_172600_cov_39.319772	116486	116540	label=insertion	115051	116496	ID=BEKJMKOH_02009	gene=rcsC_3	gene end
+Samp10	NODE_199_length_172600_cov_39.319772	118593	118976	label=deletion	
+Samp10	NODE_199_length_172600_cov_39.319772	145677	145777	label=deletion	
+Samp10	NODE_199_length_172600_cov_39.319772	148831	161186	label=insertion	161135	161524	ID=BEKJMKOH_02045	gene=Null	gene begin
+Samp10	NODE_217_length_161432_cov_39.442318	19574	21509	label=deletion	21462	21824	ID=BEKJMKOH_02078	gene=Null	gene begin
+Samp10	NODE_217_length_161432_cov_39.442318	24466	24555	label=deletion	
+Samp10	NODE_217_length_161432_cov_39.442318	60717	60718	label=insertion	60613	60816	ID=BEKJMKOH_02108	gene=Null	gene middle
+Samp10	NODE_217_length_161432_cov_39.442318	63421	63444	label=insertion	
+Samp10	NODE_217_length_161432_cov_39.442318	70452	70452	label=insertion	
+Samp10	NODE_217_length_161432_cov_39.442318	80505	93239	label=insertion	
+Samp10	NODE_217_length_161432_cov_39.442318	80505	93239	label=deletion	
+Samp10	NODE_217_length_161432_cov_39.442318	95888	95981	label=insertion	
+Samp10	NODE_217_length_161432_cov_39.442318	96083	161186	label=transloc	
+Samp10	NODE_217_length_161432_cov_39.442318	151798	151823	label=insertion	151747	151821	ID=BEKJMKOH_02174	gene=Null	gene end
+Samp10	NODE_217_length_161432_cov_39.442318	153343	153574	label=deletion	
+Samp10	NODE_266_length_141546_cov_34.325427	3122	136575	label=transloc	3100	7848	ID=BEKJMKOH_02183	gene=Null	gene end
+Samp10	NODE_266_length_141546_cov_34.325427	15530	15736	label=deletion	
+Samp10	NODE_266_length_141546_cov_34.325427	36980	36984	label=insertion	
+Samp10	NODE_266_length_141546_cov_34.325427	80331	91555	label=deletion	
+Samp10	NODE_266_length_141546_cov_34.325427	95709	95709	label=insertion	
+Samp10	NODE_266_length_141546_cov_34.325427	101551	101551	label=insertion	
+Samp10	NODE_266_length_141546_cov_34.325427	108700	108872	label=deletion	
+Samp10	NODE_266_length_141546_cov_34.325427	123377	123377	label=insertion	
+Samp10	NODE_293_length_131036_cov_35.673716	216	17472	label=deletion	
+Samp10	NODE_293_length_131036_cov_35.673716	18582	18683	label=deletion	
+Samp10	NODE_293_length_131036_cov_35.673716	29799	29885	label=deletion	
+Samp10	NODE_293_length_131036_cov_35.673716	84245	84292	label=insertion	
+Samp10	NODE_293_length_131036_cov_35.673716	84596	85144	label=insertion	
+Samp10	NODE_293_length_131036_cov_35.673716	103883	104143	label=deletion	
+Samp10	NODE_322_length_123771_cov_32.134954	8164	88092	label=transloc	85448	88114	ID=BEKJMKOH_02482	gene=ppdK	gene begin
+Samp10	NODE_322_length_123771_cov_32.134954	14540	14744	label=deletion	
+Samp10	NODE_322_length_123771_cov_32.134954	35823	35895	label=deletion	
+Samp10	NODE_322_length_123771_cov_32.134954	41412	41552	label=deletion	
+Samp10	NODE_322_length_123771_cov_32.134954	41839	42258	label=deletion	
+Samp10	NODE_322_length_123771_cov_32.134954	67441	68928	label=deletion	
+Samp10	NODE_322_length_123771_cov_32.134954	69063	70074	label=deletion	68995	70230	ID=BEKJMKOH_02469	gene=Null	gene middle
+Samp10	NODE_322_length_123771_cov_32.134954	76478	76481	label=insertion	
+Samp10	NODE_322_length_123771_cov_32.134954	79211	79315	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	16583	19946	label=deletion	16814	20038	ID=BEKJMKOH_00794	gene=cas9	gene begin
+Samp10	NODE_42_length_391869_cov_32.193030	20054	21208	label=deletion	20042	20923	ID=BEKJMKOH_00795	gene=cas1	gene end	20928	21236	ID=BEKJMKOH_00796	gene=cas2	gene begin
+Samp10	NODE_42_length_391869_cov_32.193030	21320	22323	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	23117	23119	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	29649	47269	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	57814	57817	label=insertion	57814	58833	ID=BEKJMKOH_00828	gene=aroF_1	gene middle
+Samp10	NODE_42_length_391869_cov_32.193030	93804	93934	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	105038	107515	label=deletion	104245	105042	ID=BEKJMKOH_00873	gene=Null	gene end
+Samp10	NODE_42_length_391869_cov_32.193030	114510	114527	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	119819	119820	label=insertion	119246	120265	ID=BEKJMKOH_00888	gene=Null	gene middle
+Samp10	NODE_42_length_391869_cov_32.193030	124978	125414	label=deletion	124838	125620	ID=BEKJMKOH_00893	gene=Null	gene middle
+Samp10	NODE_42_length_391869_cov_32.193030	153138	153142	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	155624	156794	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	177070	177074	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	185935	186037	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	200462	201759	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	216661	216842	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	217503	217532	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	224644	224644	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	241079	241167	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	244026	244035	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	245036	245045	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	250819	250819	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	272057	273380	label=deletion	
+Samp10	NODE_42_length_391869_cov_32.193030	276878	276925	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	277803	277836	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	289473	293351	label=deletion	287974	289479	ID=BEKJMKOH_01032	gene=lysS	gene end	293116	293751	ID=BEKJMKOH_01037	gene=Null	gene begin
+Samp10	NODE_42_length_391869_cov_32.193030	289473	293351	label=insertion	287974	289479	ID=BEKJMKOH_01032	gene=lysS	gene end	293116	293751	ID=BEKJMKOH_01037	gene=Null	gene begin
+Samp10	NODE_42_length_391869_cov_32.193030	304787	304794	label=insertion	
+Samp10	NODE_42_length_391869_cov_32.193030	310314	312137	label=deletion	310308	311174	ID=BEKJMKOH_01057	gene=Null	gene end
+Samp10	NODE_42_length_391869_cov_32.193030	348102	348136	label=insertion	348129	348449	ID=BEKJMKOH_01087	gene=Null	gene begin
+Samp10	NODE_46_length_380002_cov_36.710581	46215	134426	label=transloc	44704	46365	ID=BEKJMKOH_01160	gene=Null	gene end	134368	134643	ID=BEKJMKOH_01246	gene=Null	gene begin
+Samp10	NODE_46_length_380002_cov_36.710581	46393	47694	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	63574	63752	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	77420	77430	label=insertion	
+Samp10	NODE_46_length_380002_cov_36.710581	89846	90030	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	116927	116951	label=insertion	
+Samp10	NODE_46_length_380002_cov_36.710581	136888	136901	label=insertion	135119	136900	ID=BEKJMKOH_01248	gene=aspS	gene end
+Samp10	NODE_46_length_380002_cov_36.710581	165279	165465	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	169922	169945	label=insertion	
+Samp10	NODE_46_length_380002_cov_36.710581	171749	171770	label=insertion	
+Samp10	NODE_46_length_380002_cov_36.710581	175776	181934	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	186626	186630	label=insertion	185190	186629	ID=BEKJMKOH_01294	gene=proS	gene end
+Samp10	NODE_46_length_380002_cov_36.710581	198604	200433	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	208151	208154	label=insertion	
+Samp10	NODE_46_length_380002_cov_36.710581	222965	223159	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	247270	247443	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	288141	296630	label=insertion	
+Samp10	NODE_46_length_380002_cov_36.710581	288141	296630	label=deletion	
+Samp10	NODE_46_length_380002_cov_36.710581	321646	321649	label=insertion	
+Samp10	NODE_46_length_380002_cov_36.710581	322152	324867	label=deletion	321686	322345	ID=BEKJMKOH_01409	gene=Null	gene end
+Samp10	NODE_46_length_380002_cov_36.710581	330481	330485	label=insertion	
+Samp10	NODE_474_length_88320_cov_24.430238	34118	34127	label=insertion	33984	34751	ID=BEKJMKOH_02541	gene=Null	gene middle
+Samp10	NODE_474_length_88320_cov_24.430238	38029	38033	label=insertion	
+Samp10	NODE_474_length_88320_cov_24.430238	78299	78475	label=deletion	
+Samp10	NODE_5_length_784366_cov_31.183298	4995	6625	label=deletion	3914	5650	ID=BEKJMKOH_00003	gene=Null	gene end	6613	7488	ID=BEKJMKOH_00005	gene=nagK	gene begin
+Samp10	NODE_5_length_784366_cov_31.183298	37650	37652	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	37888	37895	label=insertion	37890	37976	ID=BEKJMKOH_00028	gene=Null	gene begin
+Samp10	NODE_5_length_784366_cov_31.183298	116043	116045	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	129130	129136	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	160246	210407	label=deletion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp10	NODE_5_length_784366_cov_31.183298	237420	237422	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	242319	242321	label=insertion	242148	243296	ID=BEKJMKOH_00266	gene=xerC_1	gene middle
+Samp10	NODE_5_length_784366_cov_31.183298	243757	249291	label=deletion	
+Samp10	NODE_5_length_784366_cov_31.183298	243757	249291	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	249657	249659	label=insertion	249552	249725	ID=BEKJMKOH_00271	gene=Null	gene middle
+Samp10	NODE_5_length_784366_cov_31.183298	252258	252258	label=insertion	251025	253457	ID=BEKJMKOH_00273	gene=Null	gene middle
+Samp10	NODE_5_length_784366_cov_31.183298	253622	253623	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	274784	296640	label=insertion	274243	274851	ID=BEKJMKOH_00289	gene=Null	gene end
+Samp10	NODE_5_length_784366_cov_31.183298	274784	296640	label=deletion	274243	274851	ID=BEKJMKOH_00289	gene=Null	gene end
+Samp10	NODE_5_length_784366_cov_31.183298	304977	304985	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	355225	356172	label=insertion	355382	356776	ID=BEKJMKOH_00366	gene=atpD_1	gene begin
+Samp10	NODE_5_length_784366_cov_31.183298	404363	404436	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	413057	413061	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	480265	480418	label=deletion	
+Samp10	NODE_5_length_784366_cov_31.183298	566332	566388	label=duplication	566303	566388	ID=BEKJMKOH_00564	gene=Null	gene middle
+Samp10	NODE_5_length_784366_cov_31.183298	574363	634715	label=deletion	
+Samp10	NODE_5_length_784366_cov_31.183298	635076	647981	label=insertion	
+Samp10	NODE_5_length_784366_cov_31.183298	637727	637821	label=deletion	
+Samp10	NODE_5_length_784366_cov_31.183298	682593	682703	label=duplication	682658	682733	ID=BEKJMKOH_00674	gene=Null	gene begin
+Samp10	NODE_5_length_784366_cov_31.183298	689559	690887	label=deletion	688997	689572	ID=BEKJMKOH_00682	gene=Null	gene end
+Samp10	NODE_74_length_301687_cov_36.520376	1649	40724	label=transloc	40683	40755	ID=BEKJMKOH_01504	gene=Null	gene begin
+Samp10	NODE_74_length_301687_cov_36.520376	19555	21126	label=deletion	21085	21972	ID=BEKJMKOH_01480	gene=Null	gene begin
+Samp10	NODE_74_length_301687_cov_36.520376	25259	25508	label=deletion	25175	25564	ID=BEKJMKOH_01484	gene=Null	gene middle
+Samp10	NODE_74_length_301687_cov_36.520376	37444	38352	label=deletion	
+Samp10	NODE_74_length_301687_cov_36.520376	37444	38352	label=insertion	
+Samp10	NODE_74_length_301687_cov_36.520376	61777	62292	label=deletion	
+Samp10	NODE_74_length_301687_cov_36.520376	75031	75208	label=deletion	75206	76654	ID=BEKJMKOH_01532	gene=sasA_5	gene begin
+Samp10	NODE_74_length_301687_cov_36.520376	96922	96961	label=insertion	96947	98101	ID=BEKJMKOH_01553	gene=ade	gene begin
+Samp10	NODE_74_length_301687_cov_36.520376	98098	98219	label=insertion	96947	98101	ID=BEKJMKOH_01553	gene=ade	gene end
+Samp10	NODE_74_length_301687_cov_36.520376	120191	120227	label=insertion	
+Samp10	NODE_74_length_301687_cov_36.520376	129853	129903	label=duplication	
+Samp10	NODE_74_length_301687_cov_36.520376	146200	146202	label=insertion	
+Samp10	NODE_74_length_301687_cov_36.520376	154648	156368	label=deletion	
+Samp10	NODE_74_length_301687_cov_36.520376	186607	186625	label=insertion	184921	186609	ID=BEKJMKOH_01618	gene=Null	gene end
+Samp10	NODE_74_length_301687_cov_36.520376	195077	195089	label=insertion	
+Samp10	NODE_74_length_301687_cov_36.520376	201874	201880	label=insertion	201700	202239	ID=BEKJMKOH_01638	gene=Null	gene middle
+Samp10	NODE_74_length_301687_cov_36.520376	233877	234055	label=deletion	
+Samp10	NODE_74_length_301687_cov_36.520376	259293	259347	label=duplication	258711	259457	ID=BEKJMKOH_01687	gene=ywqD	gene middle
+Samp10	NODE_74_length_301687_cov_36.520376	276354	276530	label=deletion	
+Samp1	NODE_131_length_219432_cov_42.097503	34006	34249	label=deletion	
+Samp1	NODE_131_length_219432_cov_42.097503	51399	51399	label=insertion	
+Samp1	NODE_131_length_219432_cov_42.097503	53981	54019	label=insertion	
+Samp1	NODE_131_length_219432_cov_42.097503	58532	58586	label=duplication	58256	59839	ID=BEKJMKOH_01779	gene=galT	gene middle
+Samp1	NODE_131_length_219432_cov_42.097503	59484	59538	label=duplication	58256	59839	ID=BEKJMKOH_01779	gene=galT	gene middle
+Samp1	NODE_131_length_219432_cov_42.097503	61465	61704	label=deletion	
+Samp1	NODE_131_length_219432_cov_42.097503	69529	69570	label=insertion	
+Samp1	NODE_131_length_219432_cov_42.097503	76055	76065	label=insertion	
+Samp1	NODE_131_length_219432_cov_42.097503	79032	80457	label=deletion	
+Samp1	NODE_131_length_219432_cov_42.097503	147713	147767	label=duplication	146808	148094	ID=BEKJMKOH_01860	gene=hisD	gene middle
+Samp1	NODE_1368_length_33922_cov_38.510615	17784	17790	label=insertion	17775	18173	ID=BEKJMKOH_02634	gene=Null	gene middle
+Samp1	NODE_1368_length_33922_cov_38.510615	18285	18288	label=insertion	
+Samp1	NODE_1368_length_33922_cov_38.510615	24309	24431	label=deletion	
+Samp1	NODE_1368_length_33922_cov_38.510615	25782	25782	label=insertion	
+Samp1	NODE_199_length_172600_cov_39.319772	22154	22629	label=insertion	
+Samp1	NODE_199_length_172600_cov_39.319772	26377	26422	label=insertion	24307	26379	ID=BEKJMKOH_01945	gene=ctpC	gene end
+Samp1	NODE_199_length_172600_cov_39.319772	32167	33604	label=deletion	
+Samp1	NODE_199_length_172600_cov_39.319772	34506	34560	label=duplication	33768	35114	ID=BEKJMKOH_01951	gene=alsT_2	gene middle
+Samp1	NODE_199_length_172600_cov_39.319772	47187	47187	label=insertion	
+Samp1	NODE_199_length_172600_cov_39.319772	100926	101107	label=deletion	
+Samp1	NODE_199_length_172600_cov_39.319772	106325	106329	label=insertion	
+Samp1	NODE_199_length_172600_cov_39.319772	118593	118976	label=deletion	
+Samp1	NODE_199_length_172600_cov_39.319772	145677	145777	label=deletion	
+Samp1	NODE_217_length_161432_cov_39.442318	5683	5737	label=duplication	
+Samp1	NODE_217_length_161432_cov_39.442318	19574	21509	label=deletion	21462	21824	ID=BEKJMKOH_02078	gene=Null	gene begin
+Samp1	NODE_217_length_161432_cov_39.442318	26945	26964	label=insertion	
+Samp1	NODE_217_length_161432_cov_39.442318	60717	60718	label=insertion	60613	60816	ID=BEKJMKOH_02108	gene=Null	gene middle
+Samp1	NODE_217_length_161432_cov_39.442318	80062	80771	label=insertion	
+Samp1	NODE_217_length_161432_cov_39.442318	82191	94211	label=deletion	80822	82201	ID=BEKJMKOH_02124	gene=Null	gene end	94155	94388	ID=BEKJMKOH_02126	gene=Null	gene begin
+Samp1	NODE_217_length_161432_cov_39.442318	82191	94211	label=insertion	80822	82201	ID=BEKJMKOH_02124	gene=Null	gene end	94155	94388	ID=BEKJMKOH_02126	gene=Null	gene begin
+Samp1	NODE_266_length_141546_cov_34.325427	15530	15736	label=deletion	
+Samp1	NODE_266_length_141546_cov_34.325427	36973	36980	label=insertion	
+Samp1	NODE_266_length_141546_cov_34.325427	80331	91555	label=deletion	
+Samp1	NODE_266_length_141546_cov_34.325427	95709	95709	label=insertion	
+Samp1	NODE_266_length_141546_cov_34.325427	108700	108872	label=deletion	
+Samp1	NODE_293_length_131036_cov_35.673716	3543	3553	label=insertion	
+Samp1	NODE_293_length_131036_cov_35.673716	12207	13233	label=deletion	12137	12769	ID=BEKJMKOH_02312	gene=Null	gene end	12814	13383	ID=BEKJMKOH_02313	gene=Null	gene begin
+Samp1	NODE_293_length_131036_cov_35.673716	13383	13384	label=insertion	
+Samp1	NODE_293_length_131036_cov_35.673716	18582	18683	label=deletion	
+Samp1	NODE_293_length_131036_cov_35.673716	27296	27474	label=deletion	
+Samp1	NODE_293_length_131036_cov_35.673716	56690	59698	label=deletion	58268	59704	ID=BEKJMKOH_02351	gene=Null	gene begin
+Samp1	NODE_293_length_131036_cov_35.673716	67931	67937	label=insertion	
+Samp1	NODE_293_length_131036_cov_35.673716	90854	90908	label=duplication	90811	92628	ID=BEKJMKOH_02374	gene=asnB_3	gene middle
+Samp1	NODE_322_length_123771_cov_32.134954	14540	14744	label=deletion	
+Samp1	NODE_322_length_123771_cov_32.134954	27134	27295	label=deletion	
+Samp1	NODE_322_length_123771_cov_32.134954	41414	41552	label=deletion	
+Samp1	NODE_322_length_123771_cov_32.134954	68953	70314	label=deletion	
+Samp1	NODE_322_length_123771_cov_32.134954	73472	73522	label=duplication	73485	74168	ID=BEKJMKOH_02472	gene=Null	gene begin
+Samp1	NODE_42_length_391869_cov_32.193030	23779	23820	label=insertion	
+Samp1	NODE_42_length_391869_cov_32.193030	29649	47269	label=deletion	
+Samp1	NODE_42_length_391869_cov_32.193030	48437	48491	label=duplication	47725	48465	ID=BEKJMKOH_00818	gene=minD	gene end
+Samp1	NODE_42_length_391869_cov_32.193030	53609	53623	label=insertion	52981	53610	ID=BEKJMKOH_00823	gene=Null	gene end
+Samp1	NODE_42_length_391869_cov_32.193030	84091	84145	label=duplication	84036	84212	ID=BEKJMKOH_00854	gene=rpsU	gene middle
+Samp1	NODE_42_length_391869_cov_32.193030	105033	107515	label=deletion	104245	105042	ID=BEKJMKOH_00873	gene=Null	gene end
+Samp1	NODE_42_length_391869_cov_32.193030	124572	124665	label=deletion	
+Samp1	NODE_42_length_391869_cov_32.193030	154868	154961	label=deletion	
+Samp1	NODE_42_length_391869_cov_32.193030	155624	155625	label=insertion	
+Samp1	NODE_42_length_391869_cov_32.193030	177070	177074	label=insertion	
+Samp1	NODE_42_length_391869_cov_32.193030	185931	186037	label=deletion	
+Samp1	NODE_42_length_391869_cov_32.193030	214280	219753	label=insertion	213610	215289	ID=BEKJMKOH_00967	gene=ptsI_2	gene end	219515	220534	ID=BEKJMKOH_00972	gene=ilvC	gene begin
+Samp1	NODE_42_length_391869_cov_32.193030	224662	224662	label=insertion	
+Samp1	NODE_42_length_391869_cov_32.193030	241049	241225	label=deletion	
+Samp1	NODE_42_length_391869_cov_32.193030	244026	244035	label=insertion	
+Samp1	NODE_42_length_391869_cov_32.193030	245015	245045	label=insertion	
+Samp1	NODE_42_length_391869_cov_32.193030	250819	250819	label=insertion	
+Samp1	NODE_42_length_391869_cov_32.193030	270643	270694	label=duplication	270255	271748	ID=BEKJMKOH_01018	gene=pehX	gene middle
+Samp1	NODE_42_length_391869_cov_32.193030	272057	273380	label=deletion	
+Samp1	NODE_42_length_391869_cov_32.193030	285459	286182	label=insertion	285007	285468	ID=BEKJMKOH_01028	gene=yfkJ	gene end
+Samp1	NODE_42_length_391869_cov_32.193030	289473	374830	label=deletion	287974	289479	ID=BEKJMKOH_01032	gene=lysS	gene end
+Samp1	NODE_46_length_380002_cov_36.710581	63575	63751	label=deletion	
+Samp1	NODE_46_length_380002_cov_36.710581	66281	66451	label=deletion	
+Samp1	NODE_46_length_380002_cov_36.710581	77428	77454	label=insertion	
+Samp1	NODE_46_length_380002_cov_36.710581	80065	80066	label=insertion	
+Samp1	NODE_46_length_380002_cov_36.710581	156224	156278	label=duplication	156247	157764	ID=BEKJMKOH_01264	gene=malQ	gene begin
+Samp1	NODE_46_length_380002_cov_36.710581	175701	183219	label=insertion	174746	175774	ID=BEKJMKOH_01283	gene=gap	gene end	182236	183423	ID=BEKJMKOH_01290	gene=Null	gene begin
+Samp1	NODE_46_length_380002_cov_36.710581	175701	183219	label=deletion	174746	175774	ID=BEKJMKOH_01283	gene=gap	gene end	182236	183423	ID=BEKJMKOH_01290	gene=Null	gene begin
+Samp1	NODE_46_length_380002_cov_36.710581	247267	247443	label=deletion	246475	247269	ID=BEKJMKOH_01345	gene=Null	gene end
+Samp1	NODE_46_length_380002_cov_36.710581	288231	296580	label=deletion	
+Samp1	NODE_46_length_380002_cov_36.710581	324875	324877	label=insertion	
+Samp1	NODE_46_length_380002_cov_36.710581	338819	338828	label=insertion	
+Samp1	NODE_46_length_380002_cov_36.710581	359396	377657	label=transloc	359350	360564	ID=BEKJMKOH_01444	gene=pepT	gene end	377571	377657	ID=BEKJMKOH_01458	gene=Null	gene begin
+Samp1	NODE_474_length_88320_cov_24.430238	34118	34127	label=insertion	33984	34751	ID=BEKJMKOH_02541	gene=Null	gene middle
+Samp1	NODE_474_length_88320_cov_24.430238	72105	72105	label=insertion	
+Samp1	NODE_474_length_88320_cov_24.430238	78299	78475	label=deletion	
+Samp1	NODE_5_length_784366_cov_31.183298	35955	140681	label=transloc	140257	141102	ID=BEKJMKOH_00140	gene=ttdA	gene begin
+Samp1	NODE_5_length_784366_cov_31.183298	37650	37652	label=insertion	
+Samp1	NODE_5_length_784366_cov_31.183298	47137	88066	label=deletion	88053	88727	ID=BEKJMKOH_00096	gene=comM_2	gene begin
+Samp1	NODE_5_length_784366_cov_31.183298	115990	116123	label=insertion	
+Samp1	NODE_5_length_784366_cov_31.183298	124875	124919	label=insertion	
+Samp1	NODE_5_length_784366_cov_31.183298	156020	156024	label=insertion	
+Samp1	NODE_5_length_784366_cov_31.183298	158270	210407	label=insertion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp1	NODE_5_length_784366_cov_31.183298	158270	210407	label=deletion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp1	NODE_5_length_784366_cov_31.183298	212678	212678	label=insertion	
+Samp1	NODE_5_length_784366_cov_31.183298	376696	376696	label=insertion	
+Samp1	NODE_5_length_784366_cov_31.183298	413057	413057	label=insertion	
+Samp1	NODE_5_length_784366_cov_31.183298	432993	433195	label=deletion	
+Samp1	NODE_5_length_784366_cov_31.183298	742867	742867	label=insertion	
+Samp1	NODE_5_length_784366_cov_31.183298	757077	757395	label=deletion	756923	757132	ID=BEKJMKOH_00752	gene=Null	gene end	757150	757656	ID=BEKJMKOH_00753	gene=Null	gene begin
+Samp1	NODE_5_length_784366_cov_31.183298	757077	757578	label=insertion	756923	757132	ID=BEKJMKOH_00752	gene=Null	gene end	757150	757656	ID=BEKJMKOH_00753	gene=Null	gene begin
+Samp1	NODE_5_length_784366_cov_31.183298	767866	767870	label=insertion	
+Samp1	NODE_74_length_301687_cov_36.520376	57019	57047	label=insertion	
+Samp1	NODE_74_length_301687_cov_36.520376	61777	62268	label=deletion	
+Samp1	NODE_74_length_301687_cov_36.520376	75031	75208	label=deletion	75206	76654	ID=BEKJMKOH_01532	gene=sasA_5	gene begin
+Samp1	NODE_74_length_301687_cov_36.520376	78964	78966	label=insertion	
+Samp1	NODE_74_length_301687_cov_36.520376	129730	129903	label=deletion	
+Samp1	NODE_74_length_301687_cov_36.520376	154648	156368	label=deletion	
+Samp1	NODE_74_length_301687_cov_36.520376	186607	186625	label=insertion	184921	186609	ID=BEKJMKOH_01618	gene=Null	gene end
+Samp1	NODE_74_length_301687_cov_36.520376	194006	194024	label=insertion	192501	194021	ID=BEKJMKOH_01625	gene=Null	gene end
+Samp1	NODE_74_length_301687_cov_36.520376	195077	195089	label=insertion	
+Samp1	NODE_74_length_301687_cov_36.520376	197910	197948	label=insertion	
+Samp1	NODE_74_length_301687_cov_36.520376	201877	201880	label=insertion	201700	202239	ID=BEKJMKOH_01638	gene=Null	gene middle
+Samp1	NODE_74_length_301687_cov_36.520376	203709	203720	label=insertion	203719	205275	ID=BEKJMKOH_01640	gene=ywiE	gene begin
+Samp1	NODE_74_length_301687_cov_36.520376	214159	214213	label=duplication	214004	214798	ID=BEKJMKOH_01649	gene=Null	gene middle
+Samp1	NODE_74_length_301687_cov_36.520376	221383	221562	label=deletion	
+Samp1	NODE_74_length_301687_cov_36.520376	233880	234053	label=deletion	
+Samp2	NODE_131_length_219432_cov_42.097503	34006	34249	label=deletion	
+Samp2	NODE_131_length_219432_cov_42.097503	51404	51404	label=insertion	
+Samp2	NODE_131_length_219432_cov_42.097503	53981	54019	label=insertion	
+Samp2	NODE_131_length_219432_cov_42.097503	76055	76065	label=insertion	
+Samp2	NODE_131_length_219432_cov_42.097503	79032	80457	label=deletion	
+Samp2	NODE_131_length_219432_cov_42.097503	123560	123578	label=insertion	123555	124412	ID=BEKJMKOH_01834	gene=Null	gene middle
+Samp2	NODE_131_length_219432_cov_42.097503	161951	162029	label=duplication	160670	162115	ID=BEKJMKOH_01877	gene=pncB2	gene middle
+Samp2	NODE_131_length_219432_cov_42.097503	178654	214841	label=transloc	178210	178749	ID=BEKJMKOH_01889	gene=nusG	gene end	214579	214857	ID=BEKJMKOH_01923	gene=Null	gene begin
+Samp2	NODE_131_length_219432_cov_42.097503	209465	209791	label=deletion	
+Samp2	NODE_199_length_172600_cov_39.319772	32167	33604	label=deletion	
+Samp2	NODE_199_length_172600_cov_39.319772	47187	47187	label=insertion	
+Samp2	NODE_199_length_172600_cov_39.319772	100926	101107	label=deletion	
+Samp2	NODE_199_length_172600_cov_39.319772	106325	106325	label=insertion	
+Samp2	NODE_199_length_172600_cov_39.319772	111749	111886	label=deletion	
+Samp2	NODE_199_length_172600_cov_39.319772	118593	118976	label=deletion	
+Samp2	NODE_199_length_172600_cov_39.319772	137365	137533	label=deletion	
+Samp2	NODE_266_length_141546_cov_34.325427	15530	15736	label=deletion	
+Samp2	NODE_266_length_141546_cov_34.325427	21642	21860	label=deletion	
+Samp2	NODE_266_length_141546_cov_34.325427	36973	36980	label=insertion	
+Samp2	NODE_266_length_141546_cov_34.325427	80331	91555	label=deletion	
+Samp2	NODE_266_length_141546_cov_34.325427	95709	95709	label=insertion	
+Samp2	NODE_266_length_141546_cov_34.325427	108700	108872	label=deletion	
+Samp2	NODE_293_length_131036_cov_35.673716	52088	52267	label=deletion	
+Samp2	NODE_322_length_123771_cov_32.134954	41414	41552	label=deletion	
+Samp2	NODE_322_length_123771_cov_32.134954	68953	70314	label=deletion	
+Samp2	NODE_42_length_391869_cov_32.193030	23779	23820	label=insertion	
+Samp2	NODE_42_length_391869_cov_32.193030	29649	47269	label=deletion	
+Samp2	NODE_42_length_391869_cov_32.193030	53609	53623	label=insertion	52981	53610	ID=BEKJMKOH_00823	gene=Null	gene end
+Samp2	NODE_42_length_391869_cov_32.193030	105033	107515	label=deletion	104245	105042	ID=BEKJMKOH_00873	gene=Null	gene end
+Samp2	NODE_42_length_391869_cov_32.193030	124572	124665	label=deletion	
+Samp2	NODE_42_length_391869_cov_32.193030	154868	154961	label=deletion	
+Samp2	NODE_42_length_391869_cov_32.193030	155624	155625	label=insertion	
+Samp2	NODE_42_length_391869_cov_32.193030	177070	177074	label=insertion	
+Samp2	NODE_42_length_391869_cov_32.193030	180071	180147	label=duplication	179798	181351	ID=BEKJMKOH_00937	gene=ptsI_1	gene middle
+Samp2	NODE_42_length_391869_cov_32.193030	185931	186037	label=deletion	
+Samp2	NODE_42_length_391869_cov_32.193030	200462	201759	label=deletion	
+Samp2	NODE_42_length_391869_cov_32.193030	216663	216842	label=deletion	
+Samp2	NODE_42_length_391869_cov_32.193030	224662	224662	label=insertion	
+Samp2	NODE_42_length_391869_cov_32.193030	241049	241225	label=deletion	
+Samp2	NODE_46_length_380002_cov_36.710581	288231	296580	label=deletion	
+Samp2	NODE_46_length_380002_cov_36.710581	324875	324877	label=insertion	
+Samp2	NODE_46_length_380002_cov_36.710581	338819	338828	label=insertion	
+Samp2	NODE_46_length_380002_cov_36.710581	346977	347177	label=deletion	
+Samp2	NODE_5_length_784366_cov_31.183298	47137	88066	label=deletion	88053	88727	ID=BEKJMKOH_00096	gene=comM_2	gene begin
+Samp2	NODE_5_length_784366_cov_31.183298	115990	116123	label=insertion	
+Samp2	NODE_5_length_784366_cov_31.183298	124875	124919	label=insertion	
+Samp2	NODE_5_length_784366_cov_31.183298	156020	156024	label=insertion	
+Samp2	NODE_5_length_784366_cov_31.183298	158270	210407	label=insertion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp2	NODE_5_length_784366_cov_31.183298	158270	210407	label=deletion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp2	NODE_5_length_784366_cov_31.183298	376696	376696	label=insertion	
+Samp2	NODE_5_length_784366_cov_31.183298	413057	413057	label=insertion	
+Samp2	NODE_5_length_784366_cov_31.183298	432993	433176	label=deletion	
+Samp2	NODE_5_length_784366_cov_31.183298	742867	742870	label=insertion	
+Samp2	NODE_5_length_784366_cov_31.183298	757077	757395	label=deletion	756923	757132	ID=BEKJMKOH_00752	gene=Null	gene end	757150	757656	ID=BEKJMKOH_00753	gene=Null	gene begin
+Samp2	NODE_5_length_784366_cov_31.183298	757578	757592	label=insertion	757150	757656	ID=BEKJMKOH_00753	gene=Null	gene middle
+Samp2	NODE_5_length_784366_cov_31.183298	767866	767870	label=insertion	
+Samp2	NODE_74_length_301687_cov_36.520376	107858	107955	label=deletion	
+Samp2	NODE_74_length_301687_cov_36.520376	221383	221562	label=deletion	
+Samp2	NODE_74_length_301687_cov_36.520376	233880	234053	label=deletion	
+Samp2	NODE_74_length_301687_cov_36.520376	276341	276356	label=insertion	
+Samp2	NODE_74_length_301687_cov_36.520376	284492	284512	label=insertion	284423	284511	ID=BEKJMKOH_01715	gene=Null	gene end
+Samp2	NODE_74_length_301687_cov_36.520376	284682	287268	label=deletion	287248	288432	ID=BEKJMKOH_01718	gene=xerC_5	gene begin
+Samp3	NODE_131_length_219432_cov_42.097503	34006	34249	label=deletion	
+Samp3	NODE_131_length_219432_cov_42.097503	37741	141182	label=insertion	36947	38755	ID=BEKJMKOH_01761	gene=lepA	gene end
+Samp3	NODE_131_length_219432_cov_42.097503	51399	51399	label=insertion	
+Samp3	NODE_131_length_219432_cov_42.097503	53981	54019	label=insertion	
+Samp3	NODE_131_length_219432_cov_42.097503	61465	61704	label=deletion	
+Samp3	NODE_131_length_219432_cov_42.097503	76055	76065	label=insertion	
+Samp3	NODE_131_length_219432_cov_42.097503	79032	80457	label=deletion	
+Samp3	NODE_131_length_219432_cov_42.097503	123560	123578	label=insertion	123555	124412	ID=BEKJMKOH_01834	gene=Null	gene middle
+Samp3	NODE_131_length_219432_cov_42.097503	129333	129338	label=insertion	129134	129514	ID=BEKJMKOH_01838	gene=Null	gene middle
+Samp3	NODE_131_length_219432_cov_42.097503	136630	136633	label=insertion	136630	138033	ID=BEKJMKOH_01847	gene=pepV	gene middle
+Samp3	NODE_131_length_219432_cov_42.097503	140462	140720	label=deletion	
+Samp3	NODE_131_length_219432_cov_42.097503	140462	140720	label=insertion	
+Samp3	NODE_131_length_219432_cov_42.097503	141182	169712	label=transloc	
+Samp3	NODE_131_length_219432_cov_42.097503	209465	209791	label=deletion	
+Samp3	NODE_1368_length_33922_cov_38.510615	17790	17790	label=insertion	17775	18173	ID=BEKJMKOH_02634	gene=Null	gene middle
+Samp3	NODE_1368_length_33922_cov_38.510615	18285	18288	label=insertion	
+Samp3	NODE_1368_length_33922_cov_38.510615	24309	24431	label=deletion	
+Samp3	NODE_1368_length_33922_cov_38.510615	25782	25782	label=insertion	
+Samp3	NODE_199_length_172600_cov_39.319772	22154	22629	label=insertion	
+Samp3	NODE_199_length_172600_cov_39.319772	26377	26422	label=insertion	24307	26379	ID=BEKJMKOH_01945	gene=ctpC	gene end
+Samp3	NODE_199_length_172600_cov_39.319772	28150	118561	label=insertion	
+Samp3	NODE_199_length_172600_cov_39.319772	32167	33604	label=deletion	
+Samp3	NODE_199_length_172600_cov_39.319772	47187	47187	label=insertion	
+Samp3	NODE_199_length_172600_cov_39.319772	77691	77870	label=deletion	77849	78478	ID=BEKJMKOH_01981	gene=Null	gene begin
+Samp3	NODE_199_length_172600_cov_39.319772	84764	84907	label=duplication	
+Samp3	NODE_199_length_172600_cov_39.319772	100926	101107	label=deletion	
+Samp3	NODE_199_length_172600_cov_39.319772	137365	137533	label=deletion	
+Samp3	NODE_199_length_172600_cov_39.319772	145677	145777	label=deletion	
+Samp3	NODE_199_length_172600_cov_39.319772	147284	147398	label=deletion	147131	147709	ID=BEKJMKOH_02034	gene=Null	gene middle
+Samp3	NODE_217_length_161432_cov_39.442318	5615	101986	label=transloc	
+Samp3	NODE_217_length_161432_cov_39.442318	19574	21509	label=deletion	21462	21824	ID=BEKJMKOH_02078	gene=Null	gene begin
+Samp3	NODE_217_length_161432_cov_39.442318	60717	60718	label=insertion	60613	60816	ID=BEKJMKOH_02108	gene=Null	gene middle
+Samp3	NODE_217_length_161432_cov_39.442318	80062	80771	label=deletion	
+Samp3	NODE_217_length_161432_cov_39.442318	80073	80771	label=insertion	
+Samp3	NODE_217_length_161432_cov_39.442318	82191	93183	label=deletion	80822	82201	ID=BEKJMKOH_02124	gene=Null	gene end
+Samp3	NODE_217_length_161432_cov_39.442318	82191	93183	label=insertion	80822	82201	ID=BEKJMKOH_02124	gene=Null	gene end
+Samp3	NODE_217_length_161432_cov_39.442318	95762	96087	label=insertion	94442	95878	ID=BEKJMKOH_02127	gene=xerC_6	gene end	96086	96161	ID=BEKJMKOH_02128	gene=Null	gene begin
+Samp3	NODE_217_length_161432_cov_39.442318	101603	101622	label=insertion	101398	101946	ID=BEKJMKOH_02133	gene=Null	gene middle
+Samp3	NODE_266_length_141546_cov_34.325427	15530	15736	label=deletion	
+Samp3	NODE_266_length_141546_cov_34.325427	21642	21860	label=deletion	
+Samp3	NODE_266_length_141546_cov_34.325427	36973	36980	label=insertion	
+Samp3	NODE_266_length_141546_cov_34.325427	80331	91555	label=deletion	
+Samp3	NODE_266_length_141546_cov_34.325427	95709	95709	label=insertion	
+Samp3	NODE_266_length_141546_cov_34.325427	108700	108872	label=deletion	
+Samp3	NODE_293_length_131036_cov_35.673716	12207	13233	label=deletion	12137	12769	ID=BEKJMKOH_02312	gene=Null	gene end	12814	13383	ID=BEKJMKOH_02313	gene=Null	gene begin
+Samp3	NODE_293_length_131036_cov_35.673716	13383	13384	label=insertion	
+Samp3	NODE_293_length_131036_cov_35.673716	18582	18683	label=deletion	
+Samp3	NODE_293_length_131036_cov_35.673716	27296	27474	label=deletion	
+Samp3	NODE_293_length_131036_cov_35.673716	67931	67937	label=insertion	
+Samp3	NODE_322_length_123771_cov_32.134954	14540	14744	label=deletion	
+Samp3	NODE_322_length_123771_cov_32.134954	27295	41414	label=transloc	
+Samp3	NODE_322_length_123771_cov_32.134954	68953	70314	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	23779	23820	label=insertion	
+Samp3	NODE_42_length_391869_cov_32.193030	29649	47269	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	53609	53623	label=insertion	52981	53610	ID=BEKJMKOH_00823	gene=Null	gene end
+Samp3	NODE_42_length_391869_cov_32.193030	80758	80772	label=insertion	
+Samp3	NODE_42_length_391869_cov_32.193030	105033	107515	label=deletion	104245	105042	ID=BEKJMKOH_00873	gene=Null	gene end
+Samp3	NODE_42_length_391869_cov_32.193030	124572	124665	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	154868	154961	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	155624	155625	label=insertion	
+Samp3	NODE_42_length_391869_cov_32.193030	177070	177074	label=insertion	
+Samp3	NODE_42_length_391869_cov_32.193030	185931	186037	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	200462	201759	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	216663	216842	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	224662	224662	label=insertion	
+Samp3	NODE_42_length_391869_cov_32.193030	241049	241225	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	250819	250819	label=insertion	
+Samp3	NODE_42_length_391869_cov_32.193030	272057	273380	label=deletion	
+Samp3	NODE_42_length_391869_cov_32.193030	285459	286182	label=insertion	285007	285468	ID=BEKJMKOH_01028	gene=yfkJ	gene end
+Samp3	NODE_42_length_391869_cov_32.193030	289473	374830	label=deletion	287974	289479	ID=BEKJMKOH_01032	gene=lysS	gene end
+Samp3	NODE_46_length_380002_cov_36.710581	63575	63751	label=deletion	
+Samp3	NODE_46_length_380002_cov_36.710581	66281	66451	label=deletion	
+Samp3	NODE_46_length_380002_cov_36.710581	77428	77454	label=insertion	
+Samp3	NODE_46_length_380002_cov_36.710581	80065	80066	label=insertion	
+Samp3	NODE_46_length_380002_cov_36.710581	169922	169945	label=insertion	
+Samp3	NODE_46_length_380002_cov_36.710581	175776	181934	label=deletion	
+Samp3	NODE_46_length_380002_cov_36.710581	186626	186630	label=insertion	185190	186629	ID=BEKJMKOH_01294	gene=proS	gene end
+Samp3	NODE_46_length_380002_cov_36.710581	247267	247443	label=deletion	246475	247269	ID=BEKJMKOH_01345	gene=Null	gene end
+Samp3	NODE_46_length_380002_cov_36.710581	288231	296580	label=deletion	
+Samp3	NODE_46_length_380002_cov_36.710581	324875	324877	label=insertion	
+Samp3	NODE_46_length_380002_cov_36.710581	338819	338828	label=insertion	
+Samp3	NODE_474_length_88320_cov_24.430238	34118	34127	label=insertion	33984	34751	ID=BEKJMKOH_02541	gene=Null	gene middle
+Samp3	NODE_474_length_88320_cov_24.430238	72105	72111	label=insertion	
+Samp3	NODE_474_length_88320_cov_24.430238	78299	78475	label=deletion	
+Samp3	NODE_5_length_784366_cov_31.183298	37741	212679	label=transloc	
+Samp3	NODE_5_length_784366_cov_31.183298	47137	88066	label=deletion	88053	88727	ID=BEKJMKOH_00096	gene=comM_2	gene begin
+Samp3	NODE_5_length_784366_cov_31.183298	115990	116123	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	124875	124919	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	156020	156024	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	158270	210407	label=insertion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp3	NODE_5_length_784366_cov_31.183298	158270	210407	label=deletion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp3	NODE_5_length_784366_cov_31.183298	243860	244070	label=deletion	
+Samp3	NODE_5_length_784366_cov_31.183298	243860	244070	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	247529	249643	label=deletion	249552	249725	ID=BEKJMKOH_00271	gene=Null	gene begin
+Samp3	NODE_5_length_784366_cov_31.183298	252252	252276	label=insertion	251025	253457	ID=BEKJMKOH_00273	gene=Null	gene middle
+Samp3	NODE_5_length_784366_cov_31.183298	253622	253623	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	255674	270653	label=deletion	270648	271886	ID=BEKJMKOH_00287	gene=ugd_2	gene begin
+Samp3	NODE_5_length_784366_cov_31.183298	255675	270653	label=insertion	270648	271886	ID=BEKJMKOH_00287	gene=ugd_2	gene begin
+Samp3	NODE_5_length_784366_cov_31.183298	304977	304985	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	376692	376696	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	413057	413057	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	432993	433176	label=deletion	
+Samp3	NODE_5_length_784366_cov_31.183298	574385	585033	label=deletion	
+Samp3	NODE_5_length_784366_cov_31.183298	585270	585346	label=duplication	585179	585820	ID=BEKJMKOH_00579	gene=yvdM	gene middle
+Samp3	NODE_5_length_784366_cov_31.183298	597232	597234	label=insertion	597231	597707	ID=BEKJMKOH_00587	gene=Null	gene middle
+Samp3	NODE_5_length_784366_cov_31.183298	614949	615186	label=deletion	614767	615630	ID=BEKJMKOH_00604	gene=Null	gene middle
+Samp3	NODE_5_length_784366_cov_31.183298	742867	742867	label=insertion	
+Samp3	NODE_5_length_784366_cov_31.183298	757077	757395	label=deletion	756923	757132	ID=BEKJMKOH_00752	gene=Null	gene end	757150	757656	ID=BEKJMKOH_00753	gene=Null	gene begin
+Samp3	NODE_5_length_784366_cov_31.183298	757578	757592	label=insertion	757150	757656	ID=BEKJMKOH_00753	gene=Null	gene middle
+Samp3	NODE_5_length_784366_cov_31.183298	767866	767870	label=insertion	
+Samp3	NODE_74_length_301687_cov_36.520376	5615	291914	label=insertion	5269	5682	ID=BEKJMKOH_01468	gene=Null	gene end
+Samp3	NODE_74_length_301687_cov_36.520376	40889	291914	label=transloc	
+Samp3	NODE_74_length_301687_cov_36.520376	57019	57047	label=insertion	
+Samp3	NODE_74_length_301687_cov_36.520376	57953	57955	label=insertion	
+Samp3	NODE_74_length_301687_cov_36.520376	61777	62268	label=deletion	
+Samp3	NODE_74_length_301687_cov_36.520376	75031	75208	label=deletion	75206	76654	ID=BEKJMKOH_01532	gene=sasA_5	gene begin
+Samp3	NODE_74_length_301687_cov_36.520376	78964	78966	label=insertion	
+Samp3	NODE_74_length_301687_cov_36.520376	107858	107955	label=deletion	
+Samp3	NODE_74_length_301687_cov_36.520376	113119	113241	label=deletion	
+Samp3	NODE_74_length_301687_cov_36.520376	129730	129903	label=deletion	
+Samp3	NODE_74_length_301687_cov_36.520376	154648	156368	label=deletion	
+Samp3	NODE_74_length_301687_cov_36.520376	186607	186625	label=insertion	184921	186609	ID=BEKJMKOH_01618	gene=Null	gene end
+Samp3	NODE_74_length_301687_cov_36.520376	194006	194024	label=insertion	192501	194021	ID=BEKJMKOH_01625	gene=Null	gene end
+Samp3	NODE_74_length_301687_cov_36.520376	195077	195089	label=insertion	
+Samp3	NODE_74_length_301687_cov_36.520376	197910	197948	label=insertion	
+Samp3	NODE_74_length_301687_cov_36.520376	201877	201880	label=insertion	201700	202239	ID=BEKJMKOH_01638	gene=Null	gene middle
+Samp3	NODE_74_length_301687_cov_36.520376	203709	203720	label=insertion	203719	205275	ID=BEKJMKOH_01640	gene=ywiE	gene begin
+Samp3	NODE_74_length_301687_cov_36.520376	221383	221562	label=deletion	
+Samp3	NODE_74_length_301687_cov_36.520376	233880	234053	label=deletion	
+Samp3	NODE_74_length_301687_cov_36.520376	276341	276356	label=insertion	
+Samp3	NODE_74_length_301687_cov_36.520376	284492	284512	label=insertion	284423	284511	ID=BEKJMKOH_01715	gene=Null	gene end
+Samp3	NODE_74_length_301687_cov_36.520376	284682	287268	label=deletion	287248	288432	ID=BEKJMKOH_01718	gene=xerC_5	gene begin
+Samp3	NODE_74_length_301687_cov_36.520376	291625	291638	label=insertion	
+Samp4	NODE_131_length_219432_cov_42.097503	34006	34249	label=deletion	
+Samp4	NODE_131_length_219432_cov_42.097503	51399	51399	label=insertion	
+Samp4	NODE_131_length_219432_cov_42.097503	53981	54019	label=insertion	
+Samp4	NODE_131_length_219432_cov_42.097503	61465	61704	label=deletion	
+Samp4	NODE_131_length_219432_cov_42.097503	69529	69570	label=insertion	
+Samp4	NODE_131_length_219432_cov_42.097503	76055	76065	label=insertion	
+Samp4	NODE_131_length_219432_cov_42.097503	79032	80457	label=deletion	
+Samp4	NODE_131_length_219432_cov_42.097503	123560	123578	label=insertion	123555	124412	ID=BEKJMKOH_01834	gene=Null	gene middle
+Samp4	NODE_131_length_219432_cov_42.097503	129333	214841	label=transloc	129134	129514	ID=BEKJMKOH_01838	gene=Null	gene end	214579	214857	ID=BEKJMKOH_01923	gene=Null	gene begin
+Samp4	NODE_131_length_219432_cov_42.097503	136630	136633	label=insertion	136630	138033	ID=BEKJMKOH_01847	gene=pepV	gene middle
+Samp4	NODE_131_length_219432_cov_42.097503	140462	140742	label=deletion	
+Samp4	NODE_131_length_219432_cov_42.097503	140864	141295	label=deletion	140801	140891	ID=BEKJMKOH_01851	gene=Null	gene end	141246	142073	ID=BEKJMKOH_01853	gene=hisK	gene begin
+Samp4	NODE_131_length_219432_cov_42.097503	140864	141295	label=insertion	140801	140891	ID=BEKJMKOH_01851	gene=Null	gene end	141246	142073	ID=BEKJMKOH_01853	gene=hisK	gene begin
+Samp4	NODE_131_length_219432_cov_42.097503	169710	169712	label=insertion	
+Samp4	NODE_131_length_219432_cov_42.097503	209465	209791	label=deletion	
+Samp4	NODE_199_length_172600_cov_39.319772	22154	22629	label=insertion	
+Samp4	NODE_199_length_172600_cov_39.319772	26377	26422	label=insertion	24307	26379	ID=BEKJMKOH_01945	gene=ctpC	gene end
+Samp4	NODE_199_length_172600_cov_39.319772	47187	47187	label=insertion	
+Samp4	NODE_199_length_172600_cov_39.319772	59348	59446	label=deletion	
+Samp4	NODE_199_length_172600_cov_39.319772	77691	77870	label=deletion	77849	78478	ID=BEKJMKOH_01981	gene=Null	gene begin
+Samp4	NODE_199_length_172600_cov_39.319772	100926	101107	label=deletion	
+Samp4	NODE_199_length_172600_cov_39.319772	106325	106329	label=insertion	
+Samp4	NODE_199_length_172600_cov_39.319772	137365	137533	label=deletion	
+Samp4	NODE_199_length_172600_cov_39.319772	137551	137749	label=duplication	
+Samp4	NODE_199_length_172600_cov_39.319772	139927	139928	label=insertion	
+Samp4	NODE_199_length_172600_cov_39.319772	145677	145777	label=deletion	
+Samp4	NODE_217_length_161432_cov_39.442318	5615	161349	label=transloc	
+Samp4	NODE_217_length_161432_cov_39.442318	19574	21509	label=deletion	21462	21824	ID=BEKJMKOH_02078	gene=Null	gene begin
+Samp4	NODE_217_length_161432_cov_39.442318	26945	26964	label=insertion	
+Samp4	NODE_217_length_161432_cov_39.442318	60717	60718	label=insertion	60613	60816	ID=BEKJMKOH_02108	gene=Null	gene middle
+Samp4	NODE_217_length_161432_cov_39.442318	80062	80771	label=insertion	
+Samp4	NODE_217_length_161432_cov_39.442318	82191	93183	label=deletion	80822	82201	ID=BEKJMKOH_02124	gene=Null	gene end
+Samp4	NODE_217_length_161432_cov_39.442318	82191	93183	label=insertion	80822	82201	ID=BEKJMKOH_02124	gene=Null	gene end
+Samp4	NODE_217_length_161432_cov_39.442318	95894	96064	label=insertion	
+Samp4	NODE_217_length_161432_cov_39.442318	96067	96130	label=duplication	96086	96161	ID=BEKJMKOH_02128	gene=Null	gene begin
+Samp4	NODE_217_length_161432_cov_39.442318	104466	104468	label=insertion	
+Samp4	NODE_217_length_161432_cov_39.442318	114042	114061	label=insertion	
+Samp4	NODE_217_length_161432_cov_39.442318	151798	151823	label=insertion	151747	151821	ID=BEKJMKOH_02174	gene=Null	gene end
+Samp4	NODE_217_length_161432_cov_39.442318	153334	153569	label=deletion	
+Samp4	NODE_266_length_141546_cov_34.325427	15530	15736	label=deletion	
+Samp4	NODE_266_length_141546_cov_34.325427	21424	21426	label=insertion	
+Samp4	NODE_266_length_141546_cov_34.325427	36973	36980	label=insertion	
+Samp4	NODE_266_length_141546_cov_34.325427	80331	91555	label=deletion	
+Samp4	NODE_266_length_141546_cov_34.325427	95709	95709	label=insertion	
+Samp4	NODE_266_length_141546_cov_34.325427	108700	108872	label=deletion	
+Samp4	NODE_293_length_131036_cov_35.673716	3543	3553	label=insertion	
+Samp4	NODE_293_length_131036_cov_35.673716	12207	13233	label=deletion	12137	12769	ID=BEKJMKOH_02312	gene=Null	gene end	12814	13383	ID=BEKJMKOH_02313	gene=Null	gene begin
+Samp4	NODE_293_length_131036_cov_35.673716	13383	13384	label=insertion	
+Samp4	NODE_293_length_131036_cov_35.673716	18582	18683	label=deletion	
+Samp4	NODE_293_length_131036_cov_35.673716	27296	27474	label=deletion	
+Samp4	NODE_293_length_131036_cov_35.673716	67931	67937	label=insertion	
+Samp4	NODE_322_length_123771_cov_32.134954	8133	85793	label=transloc	85448	88114	ID=BEKJMKOH_02482	gene=ppdK	gene begin
+Samp4	NODE_322_length_123771_cov_32.134954	14540	14744	label=deletion	
+Samp4	NODE_322_length_123771_cov_32.134954	27134	27295	label=deletion	
+Samp4	NODE_322_length_123771_cov_32.134954	41414	41552	label=deletion	
+Samp4	NODE_322_length_123771_cov_32.134954	47690	85793	label=insertion	47088	47855	ID=BEKJMKOH_02454	gene=proB	gene end	85448	88114	ID=BEKJMKOH_02482	gene=ppdK	gene begin
+Samp4	NODE_322_length_123771_cov_32.134954	68953	70314	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	23779	23820	label=insertion	
+Samp4	NODE_42_length_391869_cov_32.193030	29649	47269	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	53609	53623	label=insertion	52981	53610	ID=BEKJMKOH_00823	gene=Null	gene end
+Samp4	NODE_42_length_391869_cov_32.193030	80758	80772	label=insertion	
+Samp4	NODE_42_length_391869_cov_32.193030	105033	107515	label=deletion	104245	105042	ID=BEKJMKOH_00873	gene=Null	gene end
+Samp4	NODE_42_length_391869_cov_32.193030	124572	124665	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	154868	154961	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	155624	155625	label=insertion	
+Samp4	NODE_42_length_391869_cov_32.193030	177070	177074	label=insertion	
+Samp4	NODE_42_length_391869_cov_32.193030	185931	186037	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	200462	201759	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	216663	216842	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	224662	224662	label=insertion	
+Samp4	NODE_42_length_391869_cov_32.193030	241049	241225	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	244026	244035	label=insertion	
+Samp4	NODE_42_length_391869_cov_32.193030	245015	245045	label=insertion	
+Samp4	NODE_42_length_391869_cov_32.193030	250819	250819	label=insertion	
+Samp4	NODE_42_length_391869_cov_32.193030	272057	273380	label=deletion	
+Samp4	NODE_42_length_391869_cov_32.193030	285459	286182	label=insertion	285007	285468	ID=BEKJMKOH_01028	gene=yfkJ	gene end
+Samp4	NODE_42_length_391869_cov_32.193030	289473	374830	label=deletion	287974	289479	ID=BEKJMKOH_01032	gene=lysS	gene end
+Samp4	NODE_46_length_380002_cov_36.710581	47690	117094	label=transloc	
+Samp4	NODE_46_length_380002_cov_36.710581	63575	63751	label=deletion	
+Samp4	NODE_46_length_380002_cov_36.710581	66281	66451	label=deletion	
+Samp4	NODE_46_length_380002_cov_36.710581	77428	77454	label=insertion	
+Samp4	NODE_46_length_380002_cov_36.710581	80065	80066	label=insertion	
+Samp4	NODE_46_length_380002_cov_36.710581	116924	116951	label=insertion	
+Samp4	NODE_46_length_380002_cov_36.710581	144138	144192	label=duplication	143901	144899	ID=BEKJMKOH_01254	gene=Null	gene middle
+Samp4	NODE_46_length_380002_cov_36.710581	169922	169945	label=insertion	
+Samp4	NODE_46_length_380002_cov_36.710581	175776	181934	label=deletion	
+Samp4	NODE_46_length_380002_cov_36.710581	186626	186630	label=insertion	185190	186629	ID=BEKJMKOH_01294	gene=proS	gene end
+Samp4	NODE_46_length_380002_cov_36.710581	200706	200812	label=duplication	200676	200759	ID=BEKJMKOH_01309	gene=Null	gene end
+Samp4	NODE_46_length_380002_cov_36.710581	208151	208165	label=insertion	
+Samp4	NODE_46_length_380002_cov_36.710581	230504	230618	label=deletion	
+Samp4	NODE_46_length_380002_cov_36.710581	240840	240844	label=insertion	
+Samp4	NODE_46_length_380002_cov_36.710581	247267	247443	label=deletion	246475	247269	ID=BEKJMKOH_01345	gene=Null	gene end
+Samp4	NODE_46_length_380002_cov_36.710581	288231	296580	label=deletion	
+Samp4	NODE_46_length_380002_cov_36.710581	321073	321127	label=duplication	320065	321270	ID=BEKJMKOH_01408	gene=tuf	gene middle
+Samp4	NODE_46_length_380002_cov_36.710581	324875	324877	label=insertion	
+Samp4	NODE_46_length_380002_cov_36.710581	338819	338828	label=insertion	
+Samp4	NODE_474_length_88320_cov_24.430238	34118	34127	label=insertion	33984	34751	ID=BEKJMKOH_02541	gene=Null	gene middle
+Samp4	NODE_474_length_88320_cov_24.430238	72105	72111	label=insertion	
+Samp4	NODE_474_length_88320_cov_24.430238	78299	78475	label=deletion	
+Samp4	NODE_5_length_784366_cov_31.183298	47137	88066	label=deletion	88053	88727	ID=BEKJMKOH_00096	gene=comM_2	gene begin
+Samp4	NODE_5_length_784366_cov_31.183298	115990	116123	label=insertion	
+Samp4	NODE_5_length_784366_cov_31.183298	124875	124919	label=insertion	
+Samp4	NODE_5_length_784366_cov_31.183298	156020	156024	label=insertion	
+Samp4	NODE_5_length_784366_cov_31.183298	158270	210407	label=insertion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp4	NODE_5_length_784366_cov_31.183298	158270	210407	label=deletion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp4	NODE_5_length_784366_cov_31.183298	243860	244070	label=deletion	
+Samp4	NODE_5_length_784366_cov_31.183298	243860	244070	label=insertion	
+Samp4	NODE_5_length_784366_cov_31.183298	247529	249643	label=deletion	249552	249725	ID=BEKJMKOH_00271	gene=Null	gene begin
+Samp4	NODE_5_length_784366_cov_31.183298	252252	252276	label=insertion	251025	253457	ID=BEKJMKOH_00273	gene=Null	gene middle
+Samp4	NODE_5_length_784366_cov_31.183298	253622	253623	label=insertion	
+Samp4	NODE_5_length_784366_cov_31.183298	255674	270653	label=deletion	270648	271886	ID=BEKJMKOH_00287	gene=ugd_2	gene begin
+Samp4	NODE_5_length_784366_cov_31.183298	255675	270653	label=insertion	270648	271886	ID=BEKJMKOH_00287	gene=ugd_2	gene begin
+Samp4	NODE_5_length_784366_cov_31.183298	304977	304977	label=insertion	
+Samp4	NODE_5_length_784366_cov_31.183298	413057	413057	label=insertion	
+Samp4	NODE_5_length_784366_cov_31.183298	432993	433176	label=deletion	
+Samp4	NODE_5_length_784366_cov_31.183298	574385	585033	label=deletion	
+Samp4	NODE_5_length_784366_cov_31.183298	597232	597234	label=insertion	597231	597707	ID=BEKJMKOH_00587	gene=Null	gene middle
+Samp4	NODE_5_length_784366_cov_31.183298	742867	742870	label=insertion	
+Samp4	NODE_5_length_784366_cov_31.183298	757077	757578	label=insertion	756923	757132	ID=BEKJMKOH_00752	gene=Null	gene end	757150	757656	ID=BEKJMKOH_00753	gene=Null	gene begin
+Samp4	NODE_5_length_784366_cov_31.183298	767866	767870	label=insertion	
+Samp4	NODE_74_length_301687_cov_36.520376	40889	291914	label=transloc	
+Samp4	NODE_74_length_301687_cov_36.520376	57019	57047	label=insertion	
+Samp4	NODE_74_length_301687_cov_36.520376	61777	62268	label=deletion	
+Samp4	NODE_74_length_301687_cov_36.520376	75031	75208	label=deletion	75206	76654	ID=BEKJMKOH_01532	gene=sasA_5	gene begin
+Samp4	NODE_74_length_301687_cov_36.520376	78964	78966	label=insertion	
+Samp4	NODE_74_length_301687_cov_36.520376	107858	107955	label=deletion	
+Samp4	NODE_74_length_301687_cov_36.520376	113119	113241	label=deletion	
+Samp4	NODE_74_length_301687_cov_36.520376	129730	129903	label=deletion	
+Samp4	NODE_74_length_301687_cov_36.520376	138672	138694	label=insertion	
+Samp4	NODE_74_length_301687_cov_36.520376	154648	156368	label=deletion	
+Samp4	NODE_74_length_301687_cov_36.520376	186607	186625	label=insertion	184921	186609	ID=BEKJMKOH_01618	gene=Null	gene end
+Samp4	NODE_74_length_301687_cov_36.520376	194006	194024	label=insertion	192501	194021	ID=BEKJMKOH_01625	gene=Null	gene end
+Samp4	NODE_74_length_301687_cov_36.520376	195077	195089	label=insertion	
+Samp4	NODE_74_length_301687_cov_36.520376	197910	197948	label=insertion	
+Samp4	NODE_74_length_301687_cov_36.520376	201877	201880	label=insertion	201700	202239	ID=BEKJMKOH_01638	gene=Null	gene middle
+Samp4	NODE_74_length_301687_cov_36.520376	203709	203720	label=insertion	203719	205275	ID=BEKJMKOH_01640	gene=ywiE	gene begin
+Samp4	NODE_74_length_301687_cov_36.520376	221383	221562	label=deletion	
+Samp4	NODE_74_length_301687_cov_36.520376	233880	234053	label=deletion	
+Samp4	NODE_74_length_301687_cov_36.520376	276341	276356	label=insertion	
+Samp4	NODE_74_length_301687_cov_36.520376	284492	284512	label=insertion	284423	284511	ID=BEKJMKOH_01715	gene=Null	gene end
+Samp4	NODE_74_length_301687_cov_36.520376	284682	287268	label=deletion	287248	288432	ID=BEKJMKOH_01718	gene=xerC_5	gene begin
+Samp4	NODE_74_length_301687_cov_36.520376	291625	291638	label=insertion	
+Samp5	NODE_131_length_219432_cov_42.097503	34006	34249	label=deletion	
+Samp5	NODE_131_length_219432_cov_42.097503	51404	51404	label=insertion	
+Samp5	NODE_131_length_219432_cov_42.097503	53981	54019	label=insertion	
+Samp5	NODE_131_length_219432_cov_42.097503	61465	61704	label=deletion	
+Samp5	NODE_131_length_219432_cov_42.097503	65503	65800	label=duplication	64578	66350	ID=BEKJMKOH_01784	gene=Null	gene middle
+Samp5	NODE_131_length_219432_cov_42.097503	69570	69730	label=duplication	
+Samp5	NODE_131_length_219432_cov_42.097503	76055	76065	label=insertion	
+Samp5	NODE_131_length_219432_cov_42.097503	79032	80457	label=deletion	
+Samp5	NODE_131_length_219432_cov_42.097503	123560	123578	label=insertion	123555	124412	ID=BEKJMKOH_01834	gene=Null	gene middle
+Samp5	NODE_131_length_219432_cov_42.097503	141182	141189	label=insertion	
+Samp5	NODE_131_length_219432_cov_42.097503	169710	169712	label=insertion	
+Samp5	NODE_131_length_219432_cov_42.097503	171778	214841	label=transloc	169735	172965	ID=BEKJMKOH_01883	gene=Null	gene end	214579	214857	ID=BEKJMKOH_01923	gene=Null	gene begin
+Samp5	NODE_131_length_219432_cov_42.097503	209465	209791	label=deletion	
+Samp5	NODE_1368_length_33922_cov_38.510615	17784	17790	label=insertion	17775	18173	ID=BEKJMKOH_02634	gene=Null	gene middle
+Samp5	NODE_199_length_172600_cov_39.319772	22154	22629	label=insertion	
+Samp5	NODE_199_length_172600_cov_39.319772	26377	26422	label=insertion	24307	26379	ID=BEKJMKOH_01945	gene=ctpC	gene end
+Samp5	NODE_199_length_172600_cov_39.319772	32167	33604	label=deletion	
+Samp5	NODE_199_length_172600_cov_39.319772	47187	47187	label=insertion	
+Samp5	NODE_199_length_172600_cov_39.319772	112490	148914	label=transloc	112375	114168	ID=BEKJMKOH_02007	gene=Null	gene end
+Samp5	NODE_199_length_172600_cov_39.319772	118593	118976	label=deletion	
+Samp5	NODE_199_length_172600_cov_39.319772	137365	137533	label=deletion	
+Samp5	NODE_199_length_172600_cov_39.319772	145677	145777	label=deletion	
+Samp5	NODE_217_length_161432_cov_39.442318	5615	65724	label=transloc	
+Samp5	NODE_217_length_161432_cov_39.442318	19574	21509	label=deletion	21462	21824	ID=BEKJMKOH_02078	gene=Null	gene begin
+Samp5	NODE_217_length_161432_cov_39.442318	60717	60718	label=insertion	60613	60816	ID=BEKJMKOH_02108	gene=Null	gene middle
+Samp5	NODE_266_length_141546_cov_34.325427	15530	15736	label=deletion	
+Samp5	NODE_266_length_141546_cov_34.325427	36973	36980	label=insertion	
+Samp5	NODE_266_length_141546_cov_34.325427	80331	91555	label=deletion	
+Samp5	NODE_266_length_141546_cov_34.325427	95709	95709	label=insertion	
+Samp5	NODE_266_length_141546_cov_34.325427	108700	108872	label=deletion	
+Samp5	NODE_266_length_141546_cov_34.325427	136521	136575	label=insertion	
+Samp5	NODE_293_length_131036_cov_35.673716	58336	59463	label=deletion	58268	59704	ID=BEKJMKOH_02351	gene=Null	gene middle
+Samp5	NODE_322_length_123771_cov_32.134954	14540	14744	label=deletion	
+Samp5	NODE_322_length_123771_cov_32.134954	27134	27295	label=deletion	
+Samp5	NODE_322_length_123771_cov_32.134954	41414	41552	label=deletion	
+Samp5	NODE_322_length_123771_cov_32.134954	68953	70314	label=deletion	
+Samp5	NODE_42_length_391869_cov_32.193030	23779	23820	label=insertion	
+Samp5	NODE_42_length_391869_cov_32.193030	105033	107515	label=deletion	104245	105042	ID=BEKJMKOH_00873	gene=Null	gene end
+Samp5	NODE_42_length_391869_cov_32.193030	124572	124665	label=deletion	
+Samp5	NODE_42_length_391869_cov_32.193030	154868	154961	label=deletion	
+Samp5	NODE_42_length_391869_cov_32.193030	155624	155625	label=insertion	
+Samp5	NODE_42_length_391869_cov_32.193030	177070	177074	label=insertion	
+Samp5	NODE_42_length_391869_cov_32.193030	185931	186037	label=deletion	
+Samp5	NODE_42_length_391869_cov_32.193030	200462	201759	label=deletion	
+Samp5	NODE_42_length_391869_cov_32.193030	216663	216842	label=deletion	
+Samp5	NODE_42_length_391869_cov_32.193030	241049	241225	label=deletion	
+Samp5	NODE_42_length_391869_cov_32.193030	250819	250819	label=insertion	
+Samp5	NODE_42_length_391869_cov_32.193030	272057	273380	label=deletion	
+Samp5	NODE_42_length_391869_cov_32.193030	285459	286182	label=insertion	285007	285468	ID=BEKJMKOH_01028	gene=yfkJ	gene end
+Samp5	NODE_42_length_391869_cov_32.193030	289473	374830	label=deletion	287974	289479	ID=BEKJMKOH_01032	gene=lysS	gene end
+Samp5	NODE_46_length_380002_cov_36.710581	247267	247443	label=deletion	246475	247269	ID=BEKJMKOH_01345	gene=Null	gene end
+Samp5	NODE_46_length_380002_cov_36.710581	288231	296580	label=deletion	
+Samp5	NODE_46_length_380002_cov_36.710581	324875	324877	label=insertion	
+Samp5	NODE_46_length_380002_cov_36.710581	338819	338828	label=insertion	
+Samp5	NODE_46_length_380002_cov_36.710581	356714	356931	label=deletion	356923	358122	ID=BEKJMKOH_01442	gene=wbjC	gene begin
+Samp5	NODE_46_length_380002_cov_36.710581	363313	363681	label=insertion	362106	364718	ID=BEKJMKOH_01447	gene=clpB	gene middle
+Samp5	NODE_474_length_88320_cov_24.430238	72105	72111	label=insertion	
+Samp5	NODE_5_length_784366_cov_31.183298	47137	88066	label=deletion	88053	88727	ID=BEKJMKOH_00096	gene=comM_2	gene begin
+Samp5	NODE_5_length_784366_cov_31.183298	115990	116123	label=insertion	
+Samp5	NODE_5_length_784366_cov_31.183298	124875	124919	label=insertion	
+Samp5	NODE_5_length_784366_cov_31.183298	148914	756806	label=insertion	148496	150220	ID=BEKJMKOH_00151	gene=ykoD	gene end
+Samp5	NODE_5_length_784366_cov_31.183298	156020	156024	label=insertion	
+Samp5	NODE_5_length_784366_cov_31.183298	158270	210407	label=insertion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp5	NODE_5_length_784366_cov_31.183298	158270	210407	label=deletion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp5	NODE_5_length_784366_cov_31.183298	212678	212678	label=insertion	
+Samp5	NODE_5_length_784366_cov_31.183298	376692	376692	label=insertion	
+Samp5	NODE_5_length_784366_cov_31.183298	432993	433176	label=deletion	
+Samp5	NODE_5_length_784366_cov_31.183298	574385	585033	label=deletion	
+Samp5	NODE_5_length_784366_cov_31.183298	742867	742870	label=insertion	
+Samp5	NODE_5_length_784366_cov_31.183298	756806	771270	label=transloc	770662	771291	ID=BEKJMKOH_00766	gene=udk_2	gene begin
+Samp5	NODE_5_length_784366_cov_31.183298	757034	757050	label=insertion	756923	757132	ID=BEKJMKOH_00752	gene=Null	gene middle
+Samp5	NODE_5_length_784366_cov_31.183298	757578	757592	label=insertion	757150	757656	ID=BEKJMKOH_00753	gene=Null	gene middle
+Samp5	NODE_5_length_784366_cov_31.183298	767866	767870	label=insertion	
+Samp5	NODE_74_length_301687_cov_36.520376	5615	291914	label=insertion	5269	5682	ID=BEKJMKOH_01468	gene=Null	gene end
+Samp5	NODE_74_length_301687_cov_36.520376	57019	57047	label=insertion	
+Samp5	NODE_74_length_301687_cov_36.520376	57953	57955	label=insertion	
+Samp5	NODE_74_length_301687_cov_36.520376	61777	62268	label=deletion	
+Samp5	NODE_74_length_301687_cov_36.520376	75031	75208	label=deletion	75206	76654	ID=BEKJMKOH_01532	gene=sasA_5	gene begin
+Samp5	NODE_74_length_301687_cov_36.520376	78964	78966	label=insertion	
+Samp5	NODE_74_length_301687_cov_36.520376	107858	107955	label=deletion	
+Samp5	NODE_74_length_301687_cov_36.520376	113119	113241	label=deletion	
+Samp5	NODE_74_length_301687_cov_36.520376	129730	129903	label=deletion	
+Samp5	NODE_74_length_301687_cov_36.520376	157676	291914	label=transloc	
+Samp5	NODE_74_length_301687_cov_36.520376	186607	186625	label=insertion	184921	186609	ID=BEKJMKOH_01618	gene=Null	gene end
+Samp5	NODE_74_length_301687_cov_36.520376	194006	194024	label=insertion	192501	194021	ID=BEKJMKOH_01625	gene=Null	gene end
+Samp5	NODE_74_length_301687_cov_36.520376	195077	195089	label=insertion	
+Samp5	NODE_74_length_301687_cov_36.520376	197910	197948	label=insertion	
+Samp5	NODE_74_length_301687_cov_36.520376	201877	201880	label=insertion	201700	202239	ID=BEKJMKOH_01638	gene=Null	gene middle
+Samp5	NODE_74_length_301687_cov_36.520376	203709	203720	label=insertion	203719	205275	ID=BEKJMKOH_01640	gene=ywiE	gene begin
+Samp5	NODE_74_length_301687_cov_36.520376	221383	221562	label=deletion	
+Samp5	NODE_74_length_301687_cov_36.520376	233880	234053	label=deletion	
+Samp5	NODE_74_length_301687_cov_36.520376	276341	276356	label=insertion	
+Samp5	NODE_74_length_301687_cov_36.520376	284492	284512	label=insertion	284423	284511	ID=BEKJMKOH_01715	gene=Null	gene end
+Samp5	NODE_74_length_301687_cov_36.520376	284682	287268	label=deletion	287248	288432	ID=BEKJMKOH_01718	gene=xerC_5	gene begin
+Samp5	NODE_74_length_301687_cov_36.520376	291625	291638	label=insertion	
+Samp9	NODE_131_length_219432_cov_42.097503	23865	23984	label=deletion	
+Samp9	NODE_131_length_219432_cov_42.097503	34012	34249	label=deletion	
+Samp9	NODE_131_length_219432_cov_42.097503	53981	54019	label=insertion	
+Samp9	NODE_131_length_219432_cov_42.097503	69570	69725	label=duplication	
+Samp9	NODE_131_length_219432_cov_42.097503	76055	76065	label=insertion	
+Samp9	NODE_131_length_219432_cov_42.097503	79032	80457	label=deletion	
+Samp9	NODE_131_length_219432_cov_42.097503	117338	117343	label=insertion	
+Samp9	NODE_131_length_219432_cov_42.097503	122250	122253	label=insertion	120429	122252	ID=BEKJMKOH_01830	gene=Null	gene end
+Samp9	NODE_131_length_219432_cov_42.097503	136616	136624	label=insertion	
+Samp9	NODE_131_length_219432_cov_42.097503	141245	141248	label=insertion	141246	142073	ID=BEKJMKOH_01853	gene=hisK	gene begin
+Samp9	NODE_131_length_219432_cov_42.097503	165853	166464	label=deletion	
+Samp9	NODE_131_length_219432_cov_42.097503	194741	194906	label=deletion	
+Samp9	NODE_131_length_219432_cov_42.097503	196292	196304	label=insertion	
+Samp9	NODE_131_length_219432_cov_42.097503	209448	209785	label=deletion	
+Samp9	NODE_199_length_172600_cov_39.319772	3719	47948	label=transloc	
+Samp9	NODE_199_length_172600_cov_39.319772	16618	16849	label=duplication	
+Samp9	NODE_199_length_172600_cov_39.319772	22340	22452	label=deletion	
+Samp9	NODE_199_length_172600_cov_39.319772	32167	33603	label=deletion	
+Samp9	NODE_199_length_172600_cov_39.319772	53744	68288	label=transloc	
+Samp9	NODE_199_length_172600_cov_39.319772	77691	77867	label=deletion	77849	78478	ID=BEKJMKOH_01981	gene=Null	gene begin
+Samp9	NODE_199_length_172600_cov_39.319772	78626	78816	label=deletion	
+Samp9	NODE_199_length_172600_cov_39.319772	81243	81258	label=insertion	
+Samp9	NODE_199_length_172600_cov_39.319772	84753	84764	label=insertion	
+Samp9	NODE_199_length_172600_cov_39.319772	84764	84907	label=duplication	
+Samp9	NODE_199_length_172600_cov_39.319772	91753	91753	label=insertion	
+Samp9	NODE_199_length_172600_cov_39.319772	100926	101107	label=deletion	
+Samp9	NODE_199_length_172600_cov_39.319772	123968	124220	label=deletion	
+Samp9	NODE_199_length_172600_cov_39.319772	126282	126314	label=insertion	126203	126388	ID=BEKJMKOH_02017	gene=Null	gene middle
+Samp9	NODE_199_length_172600_cov_39.319772	126621	126630	label=insertion	126593	128053	ID=BEKJMKOH_02018	gene=moaA_2	gene middle
+Samp9	NODE_199_length_172600_cov_39.319772	137365	137533	label=deletion	
+Samp9	NODE_199_length_172600_cov_39.319772	137551	137749	label=duplication	
+Samp9	NODE_199_length_172600_cov_39.319772	139587	139599	label=insertion	
+Samp9	NODE_266_length_141546_cov_34.325427	13179	136575	label=transloc	
+Samp9	NODE_266_length_141546_cov_34.325427	13431	15334	label=deletion	15160	15351	ID=BEKJMKOH_02190	gene=Null	gene begin
+Samp9	NODE_266_length_141546_cov_34.325427	15565	15577	label=insertion	
+Samp9	NODE_266_length_141546_cov_34.325427	15577	15937	label=duplication	
+Samp9	NODE_266_length_141546_cov_34.325427	70249	70252	label=insertion	
+Samp9	NODE_266_length_141546_cov_34.325427	80237	94647	label=insertion	
+Samp9	NODE_266_length_141546_cov_34.325427	80237	94647	label=deletion	
+Samp9	NODE_266_length_141546_cov_34.325427	108696	108872	label=deletion	
+Samp9	NODE_266_length_141546_cov_34.325427	111938	123071	label=insertion	
+Samp9	NODE_266_length_141546_cov_34.325427	111938	123071	label=deletion	
+Samp9	NODE_266_length_141546_cov_34.325427	123377	123377	label=insertion	
+Samp9	NODE_293_length_131036_cov_35.673716	216	17472	label=deletion	
+Samp9	NODE_293_length_131036_cov_35.673716	48110	48219	label=deletion	
+Samp9	NODE_293_length_131036_cov_35.673716	56690	59698	label=deletion	58268	59704	ID=BEKJMKOH_02351	gene=Null	gene begin
+Samp9	NODE_293_length_131036_cov_35.673716	70222	70256	label=insertion	
+Samp9	NODE_293_length_131036_cov_35.673716	74618	76973	label=deletion	
+Samp9	NODE_293_length_131036_cov_35.673716	84245	84292	label=insertion	
+Samp9	NODE_293_length_131036_cov_35.673716	84596	85144	label=insertion	
+Samp9	NODE_293_length_131036_cov_35.673716	127287	127386	label=deletion	
+Samp9	NODE_322_length_123771_cov_32.134954	30659	30672	label=insertion	
+Samp9	NODE_322_length_123771_cov_32.134954	41412	41552	label=deletion	
+Samp9	NODE_322_length_123771_cov_32.134954	42057	42280	label=deletion	
+Samp9	NODE_322_length_123771_cov_32.134954	61544	61548	label=insertion	
+Samp9	NODE_322_length_123771_cov_32.134954	67353	68928	label=deletion	
+Samp9	NODE_322_length_123771_cov_32.134954	70451	80649	label=insertion	70314	71549	ID=BEKJMKOH_02470	gene=Null	gene end	79426	82890	ID=BEKJMKOH_02478	gene=mfd	gene begin
+Samp9	NODE_322_length_123771_cov_32.134954	88099	123646	label=insertion	85448	88114	ID=BEKJMKOH_02482	gene=ppdK	gene end
+Samp9	NODE_322_length_123771_cov_32.134954	88099	123646	label=deletion	85448	88114	ID=BEKJMKOH_02482	gene=ppdK	gene end
+Samp9	NODE_42_length_391869_cov_32.193030	24098	24800	label=deletion	23914	24819	ID=BEKJMKOH_00799	gene=yicL	gene middle
+Samp9	NODE_42_length_391869_cov_32.193030	78407	78522	label=deletion	
+Samp9	NODE_42_length_391869_cov_32.193030	80761	80772	label=insertion	
+Samp9	NODE_42_length_391869_cov_32.193030	84351	84363	label=insertion	84359	85117	ID=BEKJMKOH_00855	gene=Null	gene begin
+Samp9	NODE_42_length_391869_cov_32.193030	101560	101584	label=insertion	101063	101584	ID=BEKJMKOH_00870	gene=Null	gene middle
+Samp9	NODE_42_length_391869_cov_32.193030	105038	107515	label=deletion	104245	105042	ID=BEKJMKOH_00873	gene=Null	gene end
+Samp9	NODE_42_length_391869_cov_32.193030	119145	120385	label=deletion	120371	121243	ID=BEKJMKOH_00889	gene=Null	gene begin
+Samp9	NODE_42_length_391869_cov_32.193030	124572	124665	label=deletion	
+Samp9	NODE_42_length_391869_cov_32.193030	124978	125414	label=deletion	124838	125620	ID=BEKJMKOH_00893	gene=Null	gene middle
+Samp9	NODE_42_length_391869_cov_32.193030	155624	156794	label=deletion	
+Samp9	NODE_42_length_391869_cov_32.193030	160518	160611	label=insertion	
+Samp9	NODE_42_length_391869_cov_32.193030	177070	177074	label=insertion	
+Samp9	NODE_42_length_391869_cov_32.193030	200462	201759	label=deletion	
+Samp9	NODE_42_length_391869_cov_32.193030	202255	202355	label=deletion	
+Samp9	NODE_42_length_391869_cov_32.193030	216661	216842	label=deletion	
+Samp9	NODE_42_length_391869_cov_32.193030	224644	224662	label=insertion	
+Samp9	NODE_42_length_391869_cov_32.193030	234277	234282	label=insertion	
+Samp9	NODE_42_length_391869_cov_32.193030	241079	241167	label=deletion	
+Samp9	NODE_42_length_391869_cov_32.193030	244030	244035	label=insertion	
+Samp9	NODE_42_length_391869_cov_32.193030	245036	245045	label=insertion	
+Samp9	NODE_42_length_391869_cov_32.193030	250819	250819	label=insertion	
+Samp9	NODE_42_length_391869_cov_32.193030	272057	273373	label=deletion	
+Samp9	NODE_46_length_380002_cov_36.710581	32094	40104	label=inversion	
+Samp9	NODE_46_length_380002_cov_36.710581	46393	47690	label=deletion	
+Samp9	NODE_46_length_380002_cov_36.710581	53744	240597	label=insertion	52984	53985	ID=BEKJMKOH_01165	gene=Null	gene end
+Samp9	NODE_46_length_380002_cov_36.710581	63575	63746	label=deletion	
+Samp9	NODE_46_length_380002_cov_36.710581	77430	77454	label=insertion	
+Samp9	NODE_46_length_380002_cov_36.710581	89846	90028	label=deletion	
+Samp9	NODE_46_length_380002_cov_36.710581	136888	136901	label=insertion	135119	136900	ID=BEKJMKOH_01248	gene=aspS	gene end
+Samp9	NODE_46_length_380002_cov_36.710581	139584	139715	label=deletion	
+Samp9	NODE_46_length_380002_cov_36.710581	169922	169945	label=insertion	
+Samp9	NODE_46_length_380002_cov_36.710581	171749	171770	label=insertion	
+Samp9	NODE_46_length_380002_cov_36.710581	173907	173907	label=insertion	
+Samp9	NODE_46_length_380002_cov_36.710581	200043	200219	label=deletion	
+Samp9	NODE_46_length_380002_cov_36.710581	208151	208151	label=insertion	
+Samp9	NODE_46_length_380002_cov_36.710581	230495	230606	label=deletion	
+Samp9	NODE_46_length_380002_cov_36.710581	240597	377657	label=transloc	377571	377657	ID=BEKJMKOH_01458	gene=Null	gene begin
+Samp9	NODE_46_length_380002_cov_36.710581	279624	279631	label=insertion	
+Samp9	NODE_46_length_380002_cov_36.710581	288212	296580	label=deletion	
+Samp9	NODE_46_length_380002_cov_36.710581	338819	338828	label=insertion	
+Samp9	NODE_474_length_88320_cov_24.430238	31756	31756	label=insertion	
+Samp9	NODE_474_length_88320_cov_24.430238	34118	34127	label=insertion	33984	34751	ID=BEKJMKOH_02541	gene=Null	gene middle
+Samp9	NODE_474_length_88320_cov_24.430238	51635	51649	label=insertion	
+Samp9	NODE_474_length_88320_cov_24.430238	78299	78475	label=deletion	
+Samp9	NODE_5_length_784366_cov_31.183298	35955	253461	label=transloc	
+Samp9	NODE_5_length_784366_cov_31.183298	46224	46269	label=insertion	46268	47119	ID=BEKJMKOH_00036	gene=comM_1	gene begin
+Samp9	NODE_5_length_784366_cov_31.183298	47137	88066	label=deletion	88053	88727	ID=BEKJMKOH_00096	gene=comM_2	gene begin
+Samp9	NODE_5_length_784366_cov_31.183298	115990	116123	label=insertion	
+Samp9	NODE_5_length_784366_cov_31.183298	129141	129141	label=insertion	
+Samp9	NODE_5_length_784366_cov_31.183298	135944	135946	label=insertion	
+Samp9	NODE_5_length_784366_cov_31.183298	147640	147694	label=duplication	147619	147694	ID=BEKJMKOH_00149	gene=Null	gene middle
+Samp9	NODE_5_length_784366_cov_31.183298	158270	210407	label=insertion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp9	NODE_5_length_784366_cov_31.183298	158270	210407	label=deletion	210359	211741	ID=BEKJMKOH_00238	gene=rlmCD	gene begin
+Samp9	NODE_5_length_784366_cov_31.183298	220493	220504	label=insertion	218960	220504	ID=BEKJMKOH_00244	gene=guaA	gene middle
+Samp9	NODE_5_length_784366_cov_31.183298	237420	237422	label=insertion	
+Samp9	NODE_5_length_784366_cov_31.183298	243860	244033	label=deletion	
+Samp9	NODE_5_length_784366_cov_31.183298	243860	244033	label=insertion	
+Samp9	NODE_5_length_784366_cov_31.183298	247541	248839	label=deletion	
+Samp9	NODE_5_length_784366_cov_31.183298	252252	252263	label=insertion	251025	253457	ID=BEKJMKOH_00273	gene=Null	gene middle
+Samp9	NODE_5_length_784366_cov_31.183298	396744	396837	label=insertion	
+Samp9	NODE_5_length_784366_cov_31.183298	480265	480427	label=deletion	
+Samp9	NODE_5_length_784366_cov_31.183298	574363	634714	label=deletion	
+Samp9	NODE_5_length_784366_cov_31.183298	668602	668609	label=insertion	
+Samp9	NODE_5_length_784366_cov_31.183298	690170	690809	label=insertion	
+Samp9	NODE_5_length_784366_cov_31.183298	729530	729775	label=duplication	729381	730769	ID=BEKJMKOH_00725	gene=Null	gene middle
+Samp9	NODE_5_length_784366_cov_31.183298	742867	742870	label=insertion	
+Samp9	NODE_74_length_301687_cov_36.520376	40567	292555	label=transloc	39148	40632	ID=BEKJMKOH_01503	gene=xerC_4	gene end	292068	292559	ID=BEKJMKOH_01723	gene=Null	gene begin
+Samp9	NODE_74_length_301687_cov_36.520376	40756	40886	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	51418	51583	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	61777	62268	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	98095	98210	label=insertion	96947	98101	ID=BEKJMKOH_01553	gene=ade	gene end
+Samp9	NODE_74_length_301687_cov_36.520376	138680	138701	label=insertion	
+Samp9	NODE_74_length_301687_cov_36.520376	143765	144182	label=deletion	141412	144336	ID=BEKJMKOH_01587	gene=rcsC_1	gene middle
+Samp9	NODE_74_length_301687_cov_36.520376	154648	156368	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	194006	194024	label=insertion	192501	194021	ID=BEKJMKOH_01625	gene=Null	gene end
+Samp9	NODE_74_length_301687_cov_36.520376	197836	197932	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	201877	201880	label=insertion	201700	202239	ID=BEKJMKOH_01638	gene=Null	gene middle
+Samp9	NODE_74_length_301687_cov_36.520376	203709	203720	label=insertion	203719	205275	ID=BEKJMKOH_01640	gene=ywiE	gene begin
+Samp9	NODE_74_length_301687_cov_36.520376	221383	221562	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	228077	228098	label=insertion	
+Samp9	NODE_74_length_301687_cov_36.520376	233241	233371	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	233880	234053	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	254449	254456	label=insertion	
+Samp9	NODE_74_length_301687_cov_36.520376	263830	263832	label=insertion	
+Samp9	NODE_74_length_301687_cov_36.520376	270281	272388	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	284080	284264	label=deletion	
+Samp9	NODE_74_length_301687_cov_36.520376	284682	287268	label=deletion	287248	288432	ID=BEKJMKOH_01718	gene=xerC_5	gene begin

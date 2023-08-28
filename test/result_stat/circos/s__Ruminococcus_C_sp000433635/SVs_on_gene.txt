@@ -1,0 +1,334 @@
+sample	seq_id	sv_start	sv_end	sv_type	gene_start	gene_end	gene_id	gene_namesv_location on gene
+total 2420 gene of reference genome
+Samp10	NODE_17_length_574228_cov_30.270626	107689	109563	label=deletion	
+Samp10	NODE_17_length_574228_cov_30.270626	112176	112767	label=deletion	
+Samp10	NODE_17_length_574228_cov_30.270626	188121	188121	label=insertion	
+Samp10	NODE_17_length_574228_cov_30.270626	209895	210022	label=insertion	209499	209984	ID=JHEOOLNL_00161	gene=Null	gene end
+Samp10	NODE_17_length_574228_cov_30.270626	209895	210022	label=duplication	209499	209984	ID=JHEOOLNL_00161	gene=Null	gene end
+Samp10	NODE_17_length_574228_cov_30.270626	224899	224930	label=insertion	
+Samp10	NODE_17_length_574228_cov_30.270626	417328	417448	label=deletion	416844	418658	ID=JHEOOLNL_00356	gene=ftsY	gene middle
+Samp10	NODE_17_length_574228_cov_30.270626	434033	435468	label=deletion	
+Samp10	NODE_18_length_544793_cov_27.630549	29165	29308	label=deletion	
+Samp10	NODE_18_length_544793_cov_27.630549	51212	416689	label=insertion	
+Samp10	NODE_18_length_544793_cov_27.630549	196799	196861	label=insertion	
+Samp10	NODE_18_length_544793_cov_27.630549	220280	239617	label=deletion	
+Samp10	NODE_18_length_544793_cov_27.630549	388428	390449	label=deletion	
+Samp10	NODE_18_length_544793_cov_27.630549	402159	402565	label=deletion	
+Samp10	NODE_18_length_544793_cov_27.630549	439669	439672	label=insertion	439669	439893	ID=JHEOOLNL_00888	gene=Null	gene middle
+Samp10	NODE_18_length_544793_cov_27.630549	455081	455201	label=deletion	
+Samp10	NODE_66_length_265172_cov_18.664352	63113	63138	label=insertion	
+Samp10	NODE_66_length_265172_cov_18.664352	64967	65164	label=deletion	65007	65327	ID=JHEOOLNL_01828	gene=Null	gene begin
+Samp2	NODE_17_length_574228_cov_30.270626	309082	309314	label=deletion	
+Samp2	NODE_17_length_574228_cov_30.270626	390512	391099	label=duplication	390855	392771	ID=JHEOOLNL_00337	gene=nadE	gene begin
+Samp2	NODE_17_length_574228_cov_30.270626	569660	570041	label=deletion	
+Samp2	NODE_18_length_544793_cov_27.630549	16187	16492	label=deletion	
+Samp2	NODE_18_length_544793_cov_27.630549	29165	29267	label=deletion	
+Samp2	NODE_18_length_544793_cov_27.630549	241196	241297	label=deletion	
+Samp2	NODE_18_length_544793_cov_27.630549	350570	350707	label=deletion	348951	365525	ID=JHEOOLNL_00820	gene=Null	gene middle
+Samp2	NODE_18_length_544793_cov_27.630549	354302	354537	label=deletion	348951	365525	ID=JHEOOLNL_00820	gene=Null	gene middle
+Samp2	NODE_19_length_528163_cov_21.087387	226282	226333	label=deletion	225804	226631	ID=JHEOOLNL_01177	gene=Null	gene middle
+Samp2	NODE_19_length_528163_cov_21.087387	229746	274317	label=deletion	
+Samp2	NODE_19_length_528163_cov_21.087387	346061	346177	label=deletion	344498	346462	ID=JHEOOLNL_01282	gene=mrdB	gene middle
+Samp2	NODE_19_length_528163_cov_21.087387	450291	450511	label=deletion	
+Samp2	NODE_234_length_111664_cov_15.530638	35294	35853	label=deletion	35751	35954	ID=JHEOOLNL_02032	gene=Null	gene begin
+Samp2	NODE_66_length_265172_cov_18.664352	128655	128717	label=deletion	128009	131761	ID=JHEOOLNL_01882	gene=Null	gene middle
+Samp2	NODE_66_length_265172_cov_18.664352	143379	143448	label=deletion	140657	143800	ID=JHEOOLNL_01890	gene=Null	gene middle
+Samp5	NODE_17_length_574228_cov_30.270626	309284	309404	label=duplication	
+Samp5	NODE_18_length_544793_cov_27.630549	29266	29453	label=duplication	
+Samp5	NODE_18_length_544793_cov_27.630549	385177	385231	label=duplication	
+Samp5	NODE_19_length_528163_cov_21.087387	270844	270968	label=deletion	
+Samp5	NODE_39_length_354004_cov_16.217879	236838	236963	label=deletion	234920	237451	ID=JHEOOLNL_01674	gene=Null	gene middle
+Samp6	NODE_17_length_574228_cov_30.270626	61948	94590	label=deletion	
+Samp6	NODE_17_length_574228_cov_30.270626	107689	109563	label=deletion	
+Samp6	NODE_17_length_574228_cov_30.270626	123543	125370	label=inversion	
+Samp6	NODE_17_length_574228_cov_30.270626	147449	570031	label=insertion	
+Samp6	NODE_17_length_574228_cov_30.270626	213082	213082	label=insertion	
+Samp6	NODE_17_length_574228_cov_30.270626	236440	236453	label=insertion	
+Samp6	NODE_17_length_574228_cov_30.270626	273450	275730	label=deletion	
+Samp6	NODE_17_length_574228_cov_30.270626	312319	312319	label=insertion	
+Samp6	NODE_17_length_574228_cov_30.270626	327623	327701	label=deletion	
+Samp6	NODE_17_length_574228_cov_30.270626	339200	340689	label=deletion	
+Samp6	NODE_17_length_574228_cov_30.270626	363382	363415	label=insertion	
+Samp6	NODE_17_length_574228_cov_30.270626	384276	384881	label=deletion	
+Samp6	NODE_17_length_574228_cov_30.270626	386303	386393	label=insertion	385220	386305	ID=JHEOOLNL_00330	gene=hemW	gene end	386384	386887	ID=JHEOOLNL_00331	gene=idi	gene begin
+Samp6	NODE_17_length_574228_cov_30.270626	395755	395847	label=deletion	394529	398911	ID=JHEOOLNL_00341	gene=Null	gene middle
+Samp6	NODE_17_length_574228_cov_30.270626	400759	400780	label=insertion	
+Samp6	NODE_17_length_574228_cov_30.270626	439701	440591	label=deletion	439721	440614	ID=JHEOOLNL_00382	gene=Null	gene begin
+Samp6	NODE_17_length_574228_cov_30.270626	446145	446507	label=deletion	
+Samp6	NODE_17_length_574228_cov_30.270626	534534	534653	label=deletion	534606	534719	ID=JHEOOLNL_00477	gene=Null	gene begin
+Samp6	NODE_18_length_544793_cov_27.630549	49813	51211	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	56401	56452	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	58552	58956	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	73748	74525	label=deletion	73381	73761	ID=JHEOOLNL_00577	gene=yabJ_1	gene end
+Samp6	NODE_18_length_544793_cov_27.630549	97891	97941	label=duplication	
+Samp6	NODE_18_length_544793_cov_27.630549	135303	135376	label=insertion	
+Samp6	NODE_18_length_544793_cov_27.630549	173057	173116	label=insertion	
+Samp6	NODE_18_length_544793_cov_27.630549	218791	218880	label=deletion	218203	218817	ID=JHEOOLNL_00706	gene=Null	gene end
+Samp6	NODE_18_length_544793_cov_27.630549	220280	239617	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	239771	249496	label=insertion	
+Samp6	NODE_18_length_544793_cov_27.630549	239771	249496	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	254386	254590	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	275709	277078	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	289828	289961	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	289961	290120	label=duplication	
+Samp6	NODE_18_length_544793_cov_27.630549	291454	291495	label=insertion	
+Samp6	NODE_18_length_544793_cov_27.630549	299811	300018	label=deletion	299776	299997	ID=JHEOOLNL_00775	gene=Null	gene end
+Samp6	NODE_18_length_544793_cov_27.630549	312058	312748	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	388428	390449	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	401903	402374	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	455081	455201	label=deletion	
+Samp6	NODE_18_length_544793_cov_27.630549	461576	461828	label=deletion	461323	461622	ID=JHEOOLNL_00912	gene=aguA_1	gene end	461576	461875	ID=JHEOOLNL_00913	gene=aguA_2	gene middle
+Samp6	NODE_18_length_544793_cov_27.630549	518723	519607	label=deletion	
+Samp6	NODE_19_length_528163_cov_21.087387	30487	30799	label=deletion	30443	30766	ID=JHEOOLNL_01009	gene=Null	gene end
+Samp6	NODE_19_length_528163_cov_21.087387	81769	81787	label=insertion	
+Samp6	NODE_19_length_528163_cov_21.087387	142976	143195	label=deletion	141897	143069	ID=JHEOOLNL_01101	gene=Null	gene end
+Samp6	NODE_19_length_528163_cov_21.087387	151055	151096	label=insertion	
+Samp6	NODE_19_length_528163_cov_21.087387	189124	189215	label=deletion	188998	190227	ID=JHEOOLNL_01141	gene=nrgA_1	gene middle
+Samp6	NODE_19_length_528163_cov_21.087387	210227	211329	label=deletion	
+Samp6	NODE_19_length_528163_cov_21.087387	229043	229772	label=insertion	228207	229052	ID=JHEOOLNL_01180	gene=Null	gene end
+Samp6	NODE_19_length_528163_cov_21.087387	243264	243265	label=insertion	
+Samp6	NODE_19_length_528163_cov_21.087387	246255	246278	label=insertion	246276	246689	ID=JHEOOLNL_01197	gene=def2	gene begin
+Samp6	NODE_19_length_528163_cov_21.087387	258916	258944	label=insertion	
+Samp6	NODE_19_length_528163_cov_21.087387	270834	270968	label=deletion	
+Samp6	NODE_19_length_528163_cov_21.087387	339776	341216	label=deletion	
+Samp6	NODE_19_length_528163_cov_21.087387	424750	426248	label=deletion	
+Samp6	NODE_19_length_528163_cov_21.087387	449691	449892	label=deletion	
+Samp6	NODE_19_length_528163_cov_21.087387	488350	488362	label=insertion	
+Samp6	NODE_19_length_528163_cov_21.087387	508564	508570	label=insertion	507500	508576	ID=JHEOOLNL_01426	gene=Null	gene middle
+Samp6	NODE_2651_length_19046_cov_21.083092	4913	5030	label=insertion	3198	4949	ID=JHEOOLNL_02314	gene=Null	gene end
+Samp6	NODE_39_length_354004_cov_16.217879	3881	37000	label=insertion	
+Samp6	NODE_39_length_354004_cov_16.217879	3881	37000	label=deletion	
+Samp6	NODE_39_length_354004_cov_16.217879	136462	138284	label=deletion	136052	137233	ID=JHEOOLNL_01573	gene=Null	gene end
+Samp6	NODE_39_length_354004_cov_16.217879	195018	195830	label=deletion	
+Samp6	NODE_39_length_354004_cov_16.217879	233097	248175	label=insertion	
+Samp6	NODE_39_length_354004_cov_16.217879	233097	248175	label=deletion	
+Samp6	NODE_495_length_68807_cov_14.832514	37823	39263	label=deletion	
+Samp6	NODE_495_length_68807_cov_14.832514	48465	49460	label=insertion	48318	48890	ID=JHEOOLNL_02173	gene=Null	gene end	48877	50190	ID=JHEOOLNL_02174	gene=xerC_6	gene begin
+Samp6	NODE_495_length_68807_cov_14.832514	50558	50603	label=insertion	50191	50595	ID=JHEOOLNL_02175	gene=Null	gene end
+Samp6	NODE_66_length_265172_cov_18.664352	63113	63138	label=insertion	
+Samp6	NODE_66_length_265172_cov_18.664352	72751	72783	label=insertion	
+Samp6	NODE_66_length_265172_cov_18.664352	83497	84536	label=deletion	
+Samp6	NODE_66_length_265172_cov_18.664352	99045	100721	label=deletion	
+Samp6	NODE_66_length_265172_cov_18.664352	143874	143908	label=insertion	
+Samp6	NODE_66_length_265172_cov_18.664352	229289	229961	label=insertion	229060	229356	ID=JHEOOLNL_01964	gene=Null	gene end
+Samp6	NODE_66_length_265172_cov_18.664352	231931	232253	label=deletion	230561	231970	ID=JHEOOLNL_01967	gene=mgtE	gene end
+Samp8	NODE_1397_length_31227_cov_28.872193	2382	2432	label=duplication	1987	2391	ID=JHEOOLNL_02248	gene=Null	gene end
+Samp8	NODE_1397_length_31227_cov_28.872193	16018	16021	label=insertion	15855	16307	ID=JHEOOLNL_02265	gene=Null	gene middle
+Samp8	NODE_17_length_574228_cov_30.270626	2725	2742	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	18259	574156	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	43252	43308	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	49601	50083	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	63223	63264	label=insertion	62890	63225	ID=JHEOOLNL_00041	gene=Null	gene end
+Samp8	NODE_17_length_574228_cov_30.270626	73027	74398	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	89381	89384	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	107689	109563	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	112176	112762	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	114324	115459	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	141026	141027	label=insertion	140461	141054	ID=JHEOOLNL_00101	gene=Null	gene middle
+Samp8	NODE_17_length_574228_cov_30.270626	147470	147473	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	150655	150662	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	154582	155686	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	188121	574156	label=transloc	
+Samp8	NODE_17_length_574228_cov_30.270626	194029	194194	label=duplication	192936	194099	ID=JHEOOLNL_00147	gene=dnaJ_1	gene end
+Samp8	NODE_17_length_574228_cov_30.270626	209895	210036	label=insertion	209499	209984	ID=JHEOOLNL_00161	gene=Null	gene end
+Samp8	NODE_17_length_574228_cov_30.270626	209895	210036	label=duplication	209499	209984	ID=JHEOOLNL_00161	gene=Null	gene end
+Samp8	NODE_17_length_574228_cov_30.270626	213079	213082	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	261197	261200	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	273496	275460	label=deletion	275409	275648	ID=JHEOOLNL_00215	gene=Null	gene begin
+Samp8	NODE_17_length_574228_cov_30.270626	282750	283129	label=duplication	282059	282973	ID=JHEOOLNL_00223	gene=Null	gene end	282978	283661	ID=JHEOOLNL_00224	gene=rluD_1	gene begin
+Samp8	NODE_17_length_574228_cov_30.270626	333814	333912	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	339200	340689	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	368125	369113	label=deletion	367772	368824	ID=JHEOOLNL_00313	gene=Null	gene end	368993	369988	ID=JHEOOLNL_00314	gene=Null	gene begin
+Samp8	NODE_17_length_574228_cov_30.270626	384276	384881	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	392913	392966	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	400759	400780	label=insertion	
+Samp8	NODE_17_length_574228_cov_30.270626	434033	435468	label=deletion	
+Samp8	NODE_17_length_574228_cov_30.270626	440577	440601	label=insertion	439721	440614	ID=JHEOOLNL_00382	gene=Null	gene middle
+Samp8	NODE_17_length_574228_cov_30.270626	496930	497177	label=duplication	496204	496971	ID=JHEOOLNL_00436	gene=Null	gene end	497077	498867	ID=JHEOOLNL_00437	gene=aspS	gene begin
+Samp8	NODE_17_length_574228_cov_30.270626	534534	534653	label=deletion	534606	534719	ID=JHEOOLNL_00477	gene=Null	gene begin
+Samp8	NODE_17_length_574228_cov_30.270626	536607	536686	label=insertion	536126	536776	ID=JHEOOLNL_00480	gene=Null	gene middle
+Samp8	NODE_18_length_544793_cov_27.630549	49813	51211	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	77824	78275	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	88066	88130	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	95720	96113	label=insertion	94741	95904	ID=JHEOOLNL_00601	gene=Null	gene end
+Samp8	NODE_18_length_544793_cov_27.630549	98053	99459	label=deletion	99278	100081	ID=JHEOOLNL_00605	gene=Null	gene begin
+Samp8	NODE_18_length_544793_cov_27.630549	101456	101613	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	102955	103060	label=deletion	102893	103090	ID=JHEOOLNL_00609	gene=Null	gene middle
+Samp8	NODE_18_length_544793_cov_27.630549	105902	106027	label=duplication	105041	106027	ID=JHEOOLNL_00612	gene=znuA	gene middle
+Samp8	NODE_18_length_544793_cov_27.630549	124055	124065	label=insertion	
+Samp8	NODE_18_length_544793_cov_27.630549	124401	125066	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	127070	128526	label=deletion	128518	130242	ID=JHEOOLNL_00629	gene=rcsC_3	gene begin
+Samp8	NODE_18_length_544793_cov_27.630549	173068	173116	label=insertion	
+Samp8	NODE_18_length_544793_cov_27.630549	196799	196861	label=insertion	
+Samp8	NODE_18_length_544793_cov_27.630549	220280	233934	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	241196	241297	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	243435	244262	label=deletion	241425	243449	ID=JHEOOLNL_00727	gene=Null	gene end	244246	249450	ID=JHEOOLNL_00730	gene=Null	gene begin
+Samp8	NODE_18_length_544793_cov_27.630549	275711	277066	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	368260	368302	label=insertion	
+Samp8	NODE_18_length_544793_cov_27.630549	388428	390449	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	401875	402374	label=deletion	399339	401900	ID=JHEOOLNL_00852	gene=yloB	gene end
+Samp8	NODE_18_length_544793_cov_27.630549	439669	439672	label=insertion	439669	439893	ID=JHEOOLNL_00888	gene=Null	gene middle
+Samp8	NODE_18_length_544793_cov_27.630549	455080	455201	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	462036	462037	label=insertion	461829	462923	ID=JHEOOLNL_00914	gene=aguA_3	gene middle
+Samp8	NODE_18_length_544793_cov_27.630549	470159	470397	label=duplication	470162	470569	ID=JHEOOLNL_00921	gene=Null	gene begin
+Samp8	NODE_18_length_544793_cov_27.630549	470266	470397	label=insertion	470162	470569	ID=JHEOOLNL_00921	gene=Null	gene middle
+Samp8	NODE_18_length_544793_cov_27.630549	476644	477416	label=deletion	
+Samp8	NODE_18_length_544793_cov_27.630549	492535	492809	label=insertion	
+Samp8	NODE_18_length_544793_cov_27.630549	504911	510794	label=inversion	
+Samp8	NODE_18_length_544793_cov_27.630549	514242	516092	label=deletion	
+Samp8	NODE_19_length_528163_cov_21.087387	50	3281	label=insertion	50	125	ID=JHEOOLNL_00983	gene=Null	gene end	2585	4663	ID=JHEOOLNL_00988	gene=nagZ_1	gene begin
+Samp8	NODE_19_length_528163_cov_21.087387	50	273887	label=transloc	50	125	ID=JHEOOLNL_00983	gene=Null	gene end
+Samp8	NODE_19_length_528163_cov_21.087387	88036	89399	label=deletion	86256	88052	ID=JHEOOLNL_01055	gene=Null	gene end
+Samp8	NODE_19_length_528163_cov_21.087387	96571	96972	label=deletion	96567	97151	ID=JHEOOLNL_01063	gene=Null	gene middle
+Samp8	NODE_19_length_528163_cov_21.087387	143092	143195	label=deletion	
+Samp8	NODE_19_length_528163_cov_21.087387	143292	143400	label=duplication	
+Samp8	NODE_19_length_528163_cov_21.087387	252346	252348	label=insertion	
+Samp8	NODE_19_length_528163_cov_21.087387	270834	270971	label=deletion	
+Samp8	NODE_19_length_528163_cov_21.087387	304309	304621	label=duplication	303635	304621	ID=JHEOOLNL_01251	gene=Null	gene middle	303635	304621	ID=JHEOOLNL_01251	gene=Null	gene middle
+Samp8	NODE_19_length_528163_cov_21.087387	310525	310611	label=insertion	309621	310529	ID=JHEOOLNL_01255	gene=Null	gene end	310598	313132	ID=JHEOOLNL_01256	gene=Null	gene begin
+Samp8	NODE_19_length_528163_cov_21.087387	327547	327581	label=insertion	
+Samp8	NODE_19_length_528163_cov_21.087387	339841	341211	label=deletion	
+Samp8	NODE_19_length_528163_cov_21.087387	356902	359706	label=deletion	
+Samp8	NODE_19_length_528163_cov_21.087387	364323	365144	label=deletion	364160	364699	ID=JHEOOLNL_01296	gene=Null	gene end	364999	365247	ID=JHEOOLNL_01298	gene=Null	gene begin
+Samp8	NODE_19_length_528163_cov_21.087387	376827	379043	label=deletion	
+Samp8	NODE_19_length_528163_cov_21.087387	389905	393173	label=deletion	389870	390064	ID=JHEOOLNL_01323	gene=Null	gene end
+Samp8	NODE_19_length_528163_cov_21.087387	397081	397082	label=insertion	
+Samp8	NODE_19_length_528163_cov_21.087387	424804	426163	label=deletion	
+Samp8	NODE_19_length_528163_cov_21.087387	430805	430806	label=insertion	
+Samp8	NODE_19_length_528163_cov_21.087387	449680	449891	label=deletion	
+Samp8	NODE_19_length_528163_cov_21.087387	450027	450511	label=deletion	450021	450134	ID=JHEOOLNL_01383	gene=Null	gene end
+Samp8	NODE_19_length_528163_cov_21.087387	481360	481544	label=duplication	480018	481529	ID=JHEOOLNL_01400	gene=Null	gene end	481530	482015	ID=JHEOOLNL_01401	gene=ybaK	gene begin
+Samp8	NODE_19_length_528163_cov_21.087387	503208	503230	label=insertion	503189	503443	ID=JHEOOLNL_01420	gene=Null	gene middle
+Samp8	NODE_2651_length_19046_cov_21.083092	409	18259	label=transloc	
+Samp8	NODE_39_length_354004_cov_16.217879	19928	21032	label=deletion	
+Samp8	NODE_39_length_354004_cov_16.217879	35440	36278	label=deletion	
+Samp8	NODE_39_length_354004_cov_16.217879	71263	71452	label=deletion	71205	71852	ID=JHEOOLNL_01505	gene=Null	gene middle
+Samp8	NODE_39_length_354004_cov_16.217879	136457	138296	label=deletion	136052	137233	ID=JHEOOLNL_01573	gene=Null	gene end
+Samp8	NODE_39_length_354004_cov_16.217879	183748	184374	label=deletion	183729	184349	ID=JHEOOLNL_01620	gene=udk_1	gene end
+Samp8	NODE_39_length_354004_cov_16.217879	195018	195830	label=deletion	
+Samp8	NODE_39_length_354004_cov_16.217879	250718	258872	label=deletion	
+Samp8	NODE_39_length_354004_cov_16.217879	316116	324264	label=deletion	
+Samp8	NODE_39_length_354004_cov_16.217879	325954	326197	label=deletion	
+Samp8	NODE_495_length_68807_cov_14.832514	3281	66966	label=transloc	2451	3302	ID=JHEOOLNL_02121	gene=Null	gene end	66091	67926	ID=JHEOOLNL_02194	gene=Null	gene begin
+Samp8	NODE_495_length_68807_cov_14.832514	9385	9441	label=duplication	9354	9440	ID=JHEOOLNL_02126	gene=Null	gene end
+Samp8	NODE_495_length_68807_cov_14.832514	15710	15715	label=insertion	
+Samp8	NODE_495_length_68807_cov_14.832514	20618	35873	label=insertion	
+Samp8	NODE_495_length_68807_cov_14.832514	20618	35873	label=deletion	
+Samp8	NODE_495_length_68807_cov_14.832514	37827	39263	label=inversion	
+Samp8	NODE_495_length_68807_cov_14.832514	40926	40953	label=insertion	
+Samp8	NODE_66_length_265172_cov_18.664352	46261	46367	label=deletion	
+Samp8	NODE_66_length_265172_cov_18.664352	50745	50773	label=insertion	
+Samp8	NODE_66_length_265172_cov_18.664352	99045	100721	label=deletion	
+Samp8	NODE_66_length_265172_cov_18.664352	147620	147680	label=duplication	
+Samp8	NODE_66_length_265172_cov_18.664352	160298	160307	label=insertion	
+Samp8	NODE_66_length_265172_cov_18.664352	209142	209145	label=insertion	
+Samp8	NODE_66_length_265172_cov_18.664352	236965	236965	label=insertion	
+Samp8	NODE_66_length_265172_cov_18.664352	240903	240912	label=insertion	240401	240925	ID=JHEOOLNL_01975	gene=Null	gene middle
+Samp8	NODE_66_length_265172_cov_18.664352	249754	251502	label=deletion	
+Samp8	NODE_66_length_265172_cov_18.664352	254609	254930	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	2725	2742	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	6011	6619	label=deletion	5893	6105	ID=JHEOOLNL_00007	gene=Null	gene end
+Samp9	NODE_17_length_574228_cov_30.270626	8871	8882	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	43252	43308	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	49601	49666	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	107689	109563	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	112176	112762	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	114324	115423	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	147470	147473	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	150655	150662	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	154582	155686	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	209895	210036	label=insertion	209499	209984	ID=JHEOOLNL_00161	gene=Null	gene end
+Samp9	NODE_17_length_574228_cov_30.270626	209895	210036	label=duplication	209499	209984	ID=JHEOOLNL_00161	gene=Null	gene end
+Samp9	NODE_17_length_574228_cov_30.270626	213079	213082	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	261197	261200	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	273504	275765	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	282750	283129	label=duplication	282059	282973	ID=JHEOOLNL_00223	gene=Null	gene end	282978	283661	ID=JHEOOLNL_00224	gene=rluD_1	gene begin
+Samp9	NODE_17_length_574228_cov_30.270626	333814	333912	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	368125	369113	label=deletion	367772	368824	ID=JHEOOLNL_00313	gene=Null	gene end	368993	369988	ID=JHEOOLNL_00314	gene=Null	gene begin
+Samp9	NODE_17_length_574228_cov_30.270626	384276	384881	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	390512	391099	label=duplication	390855	392771	ID=JHEOOLNL_00337	gene=nadE	gene begin
+Samp9	NODE_17_length_574228_cov_30.270626	392913	392966	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	400759	400780	label=insertion	
+Samp9	NODE_17_length_574228_cov_30.270626	434033	435468	label=deletion	
+Samp9	NODE_17_length_574228_cov_30.270626	440577	440601	label=insertion	439721	440614	ID=JHEOOLNL_00382	gene=Null	gene middle
+Samp9	NODE_17_length_574228_cov_30.270626	496930	497177	label=duplication	496204	496971	ID=JHEOOLNL_00436	gene=Null	gene end	497077	498867	ID=JHEOOLNL_00437	gene=aspS	gene begin
+Samp9	NODE_17_length_574228_cov_30.270626	534534	534653	label=deletion	534606	534719	ID=JHEOOLNL_00477	gene=Null	gene begin
+Samp9	NODE_17_length_574228_cov_30.270626	574134	574135	label=insertion	
+Samp9	NODE_18_length_544793_cov_27.630549	16181	16492	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	16187	16492	label=insertion	
+Samp9	NODE_18_length_544793_cov_27.630549	49813	51211	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	77824	78275	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	88066	88130	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	95720	96113	label=insertion	94741	95904	ID=JHEOOLNL_00601	gene=Null	gene end
+Samp9	NODE_18_length_544793_cov_27.630549	95720	96113	label=duplication	94741	95904	ID=JHEOOLNL_00601	gene=Null	gene end
+Samp9	NODE_18_length_544793_cov_27.630549	98053	99459	label=deletion	99278	100081	ID=JHEOOLNL_00605	gene=Null	gene begin
+Samp9	NODE_18_length_544793_cov_27.630549	101456	101613	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	102955	103060	label=deletion	102893	103090	ID=JHEOOLNL_00609	gene=Null	gene middle
+Samp9	NODE_18_length_544793_cov_27.630549	105963	106027	label=duplication	105041	106027	ID=JHEOOLNL_00612	gene=znuA	gene middle
+Samp9	NODE_18_length_544793_cov_27.630549	124055	124065	label=insertion	
+Samp9	NODE_18_length_544793_cov_27.630549	124401	125066	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	127070	128526	label=deletion	128518	130242	ID=JHEOOLNL_00629	gene=rcsC_3	gene begin
+Samp9	NODE_18_length_544793_cov_27.630549	173068	173116	label=insertion	
+Samp9	NODE_18_length_544793_cov_27.630549	196792	196861	label=insertion	
+Samp9	NODE_18_length_544793_cov_27.630549	220280	233934	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	241196	241297	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	243435	244262	label=deletion	241425	243449	ID=JHEOOLNL_00727	gene=Null	gene end	244246	249450	ID=JHEOOLNL_00730	gene=Null	gene begin
+Samp9	NODE_18_length_544793_cov_27.630549	368260	368302	label=insertion	
+Samp9	NODE_18_length_544793_cov_27.630549	388428	390449	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	401875	402374	label=deletion	399339	401900	ID=JHEOOLNL_00852	gene=yloB	gene end
+Samp9	NODE_18_length_544793_cov_27.630549	439669	439672	label=insertion	439669	439893	ID=JHEOOLNL_00888	gene=Null	gene middle
+Samp9	NODE_18_length_544793_cov_27.630549	455080	455201	label=deletion	
+Samp9	NODE_18_length_544793_cov_27.630549	462036	462037	label=insertion	461829	462923	ID=JHEOOLNL_00914	gene=aguA_3	gene middle
+Samp9	NODE_18_length_544793_cov_27.630549	470083	470397	label=duplication	469144	470127	ID=JHEOOLNL_00920	gene=Null	gene end	470162	470569	ID=JHEOOLNL_00921	gene=Null	gene begin
+Samp9	NODE_18_length_544793_cov_27.630549	476693	510794	label=insertion	
+Samp9	NODE_19_length_528163_cov_21.087387	30487	30797	label=deletion	30443	30766	ID=JHEOOLNL_01009	gene=Null	gene end
+Samp9	NODE_19_length_528163_cov_21.087387	66477	284299	label=insertion	
+Samp9	NODE_19_length_528163_cov_21.087387	87703	89399	label=deletion	86256	88052	ID=JHEOOLNL_01055	gene=Null	gene end
+Samp9	NODE_19_length_528163_cov_21.087387	96571	96972	label=deletion	96567	97151	ID=JHEOOLNL_01063	gene=Null	gene middle
+Samp9	NODE_19_length_528163_cov_21.087387	143092	143195	label=deletion	
+Samp9	NODE_19_length_528163_cov_21.087387	252346	252348	label=insertion	
+Samp9	NODE_19_length_528163_cov_21.087387	304309	304621	label=duplication	303635	304621	ID=JHEOOLNL_01251	gene=Null	gene middle
+Samp9	NODE_19_length_528163_cov_21.087387	310525	310611	label=insertion	309621	310529	ID=JHEOOLNL_01255	gene=Null	gene end	310598	313132	ID=JHEOOLNL_01256	gene=Null	gene begin
+Samp9	NODE_19_length_528163_cov_21.087387	327547	327581	label=insertion	
+Samp9	NODE_19_length_528163_cov_21.087387	339841	341211	label=deletion	
+Samp9	NODE_19_length_528163_cov_21.087387	356902	359706	label=deletion	
+Samp9	NODE_19_length_528163_cov_21.087387	364323	365144	label=deletion	364160	364699	ID=JHEOOLNL_01296	gene=Null	gene end	364999	365247	ID=JHEOOLNL_01298	gene=Null	gene begin
+Samp9	NODE_19_length_528163_cov_21.087387	376547	376633	label=duplication	
+Samp9	NODE_19_length_528163_cov_21.087387	377048	377057	label=insertion	
+Samp9	NODE_19_length_528163_cov_21.087387	379043	379136	label=duplication	
+Samp9	NODE_19_length_528163_cov_21.087387	389905	393173	label=deletion	389870	390064	ID=JHEOOLNL_01323	gene=Null	gene end
+Samp9	NODE_19_length_528163_cov_21.087387	397081	397082	label=insertion	
+Samp9	NODE_19_length_528163_cov_21.087387	424804	426163	label=deletion	
+Samp9	NODE_19_length_528163_cov_21.087387	430805	430806	label=insertion	
+Samp9	NODE_19_length_528163_cov_21.087387	449680	449891	label=deletion	
+Samp9	NODE_19_length_528163_cov_21.087387	450027	450511	label=deletion	450021	450134	ID=JHEOOLNL_01383	gene=Null	gene end
+Samp9	NODE_19_length_528163_cov_21.087387	481360	481544	label=duplication	480018	481529	ID=JHEOOLNL_01400	gene=Null	gene end	481530	482015	ID=JHEOOLNL_01401	gene=ybaK	gene begin
+Samp9	NODE_19_length_528163_cov_21.087387	503208	503230	label=insertion	503189	503443	ID=JHEOOLNL_01420	gene=Null	gene middle
+Samp9	NODE_2651_length_19046_cov_21.083092	18212	18979	label=deletion	
+Samp9	NODE_39_length_354004_cov_16.217879	19928	21032	label=deletion	
+Samp9	NODE_39_length_354004_cov_16.217879	35440	36278	label=deletion	
+Samp9	NODE_39_length_354004_cov_16.217879	71263	71452	label=deletion	71205	71852	ID=JHEOOLNL_01505	gene=Null	gene middle
+Samp9	NODE_39_length_354004_cov_16.217879	136457	138296	label=deletion	136052	137233	ID=JHEOOLNL_01573	gene=Null	gene end
+Samp9	NODE_39_length_354004_cov_16.217879	182637	182640	label=insertion	182555	182734	ID=JHEOOLNL_01618	gene=Null	gene middle
+Samp9	NODE_39_length_354004_cov_16.217879	183748	184374	label=deletion	183729	184349	ID=JHEOOLNL_01620	gene=udk_1	gene end
+Samp9	NODE_39_length_354004_cov_16.217879	193998	193999	label=insertion	193944	194019	ID=JHEOOLNL_01633	gene=Null	gene middle
+Samp9	NODE_39_length_354004_cov_16.217879	195018	195830	label=deletion	
+Samp9	NODE_39_length_354004_cov_16.217879	250718	258872	label=deletion	
+Samp9	NODE_39_length_354004_cov_16.217879	299538	299542	label=insertion	299308	299862	ID=JHEOOLNL_01724	gene=Null	gene middle
+Samp9	NODE_39_length_354004_cov_16.217879	314400	323279	label=deletion	313109	314455	ID=JHEOOLNL_01735	gene=Null	gene end
+Samp9	NODE_39_length_354004_cov_16.217879	324104	335449	label=deletion	324091	324231	ID=JHEOOLNL_01747	gene=Null	gene end
+Samp9	NODE_495_length_68807_cov_14.832514	44777	66477	label=transloc	44468	45277	ID=JHEOOLNL_02163	gene=Null	gene end	66091	67926	ID=JHEOOLNL_02194	gene=Null	gene begin
+Samp9	NODE_66_length_265172_cov_18.664352	721	2845	label=deletion	198	1391	ID=JHEOOLNL_01772	gene=Null	gene end
+Samp9	NODE_66_length_265172_cov_18.664352	5666	6493	label=deletion	5347	5682	ID=JHEOOLNL_01778	gene=Null	gene end	6479	6685	ID=JHEOOLNL_01781	gene=Null	gene begin
+Samp9	NODE_66_length_265172_cov_18.664352	12418	12868	label=insertion	
+Samp9	NODE_66_length_265172_cov_18.664352	46261	46367	label=deletion	
+Samp9	NODE_66_length_265172_cov_18.664352	50745	50773	label=insertion	
+Samp9	NODE_66_length_265172_cov_18.664352	64915	65451	label=insertion	
+Samp9	NODE_66_length_265172_cov_18.664352	99045	100721	label=deletion	
+Samp9	NODE_66_length_265172_cov_18.664352	147620	147680	label=duplication	
+Samp9	NODE_66_length_265172_cov_18.664352	160298	160307	label=insertion	
+Samp9	NODE_66_length_265172_cov_18.664352	209142	209145	label=insertion	
+Samp9	NODE_66_length_265172_cov_18.664352	236965	236965	label=insertion	
+Samp9	NODE_66_length_265172_cov_18.664352	240903	240912	label=insertion	240401	240925	ID=JHEOOLNL_01975	gene=Null	gene middle
+Samp9	NODE_66_length_265172_cov_18.664352	249754	251502	label=deletion	
+Samp9	NODE_66_length_265172_cov_18.664352	254609	254930	label=deletion	

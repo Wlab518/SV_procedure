@@ -1,0 +1,601 @@
+
+Nucmer alignment of genomes, filtering and converting to coordinates
+
+                               #
+                              # #
+                             #   #
+                ###############################
+                #                             #
+                # MUM&Co is open for business #
+                #           version 1         #
+                ###############################
+
+
+######################################################################################################
+          USING GLOBAL ALIGNMENT COORDINATES FOR DELETIONS, INSERTIONS AND TRANSLOCATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Finding alignment gaps
+
+
+Filtering for size labelling SV
+
+
+Finding translocation fragments
+
+
+Checking alignment sense for inversions involving majority of single chromosome bases
+
+
+
+######################################################################################################
+             USING NON-GLOBAL ALIGNMENT AGAINST REFERENCE FOR INVERSIONS AND DUPLICATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Removing calls in subtelomeric regions
+
+
+Looking for interchromosomal changes in alignment sense, filtering for 1kb fragments and merging closely neighbouring calls
+
+
+Locating alignment overlaps for duplication assignment
+
+
+
+##############################################################################################################
+Combining both deletions, insertion, inversions and duplications and identifying regions of more than one call
+##############################################################################################################
+
+
+Filtering clean inversions using deletion and insertion information
+
+
+Combining all called SVs
+
+
+Removing deletions and insertions called during global alignment due to inversions
+
+
+Counting number of detected SVs
+
+
+query_Samp10.bin.30.orig.fa_run  Total SVs  = 183
+query_Samp10.bin.30.orig.fa_run  Deletions  = 71
+query_Samp10.bin.30.orig.fa_run  Insertions  = 90
+query_Samp10.bin.30.orig.fa_run  Duplications  = 4
+query_Samp10.bin.30.orig.fa_run  Inversions  = 0
+query_Samp10.bin.30.orig.fa_run  Translocations  = 18
+
+Nucmer alignment of genomes, filtering and converting to coordinates
+
+                               #
+                              # #
+                             #   #
+                ###############################
+                #                             #
+                # MUM&Co is open for business #
+                #           version 1         #
+                ###############################
+
+
+######################################################################################################
+          USING GLOBAL ALIGNMENT COORDINATES FOR DELETIONS, INSERTIONS AND TRANSLOCATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Finding alignment gaps
+
+
+Filtering for size labelling SV
+
+
+Finding translocation fragments
+
+
+Checking alignment sense for inversions involving majority of single chromosome bases
+
+
+
+######################################################################################################
+             USING NON-GLOBAL ALIGNMENT AGAINST REFERENCE FOR INVERSIONS AND DUPLICATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Removing calls in subtelomeric regions
+
+
+Looking for interchromosomal changes in alignment sense, filtering for 1kb fragments and merging closely neighbouring calls
+
+
+Locating alignment overlaps for duplication assignment
+
+
+
+##############################################################################################################
+Combining both deletions, insertion, inversions and duplications and identifying regions of more than one call
+##############################################################################################################
+
+
+Filtering clean inversions using deletion and insertion information
+
+
+Combining all called SVs
+
+
+Removing deletions and insertions called during global alignment due to inversions
+
+
+Counting number of detected SVs
+
+
+query_Samp1.bin.8.orig.fa_run  Total SVs  = 36
+query_Samp1.bin.8.orig.fa_run  Deletions  = 1
+query_Samp1.bin.8.orig.fa_run  Insertions  = 11
+query_Samp1.bin.8.orig.fa_run  Duplications  = 4
+query_Samp1.bin.8.orig.fa_run  Inversions  = 0
+query_Samp1.bin.8.orig.fa_run  Translocations  = 20
+
+Nucmer alignment of genomes, filtering and converting to coordinates
+
+                               #
+                              # #
+                             #   #
+                ###############################
+                #                             #
+                # MUM&Co is open for business #
+                #           version 1         #
+                ###############################
+
+
+######################################################################################################
+          USING GLOBAL ALIGNMENT COORDINATES FOR DELETIONS, INSERTIONS AND TRANSLOCATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Finding alignment gaps
+
+
+Filtering for size labelling SV
+
+
+Finding translocation fragments
+
+
+Checking alignment sense for inversions involving majority of single chromosome bases
+
+
+
+######################################################################################################
+             USING NON-GLOBAL ALIGNMENT AGAINST REFERENCE FOR INVERSIONS AND DUPLICATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Removing calls in subtelomeric regions
+
+
+Looking for interchromosomal changes in alignment sense, filtering for 1kb fragments and merging closely neighbouring calls
+
+
+Locating alignment overlaps for duplication assignment
+
+
+
+##############################################################################################################
+Combining both deletions, insertion, inversions and duplications and identifying regions of more than one call
+##############################################################################################################
+
+
+Filtering clean inversions using deletion and insertion information
+
+
+Combining all called SVs
+
+
+Removing deletions and insertions called during global alignment due to inversions
+
+
+Counting number of detected SVs
+
+
+query_Samp3.bin.22.orig.fa_run  Total SVs  = 23
+query_Samp3.bin.22.orig.fa_run  Deletions  = 1
+query_Samp3.bin.22.orig.fa_run  Insertions  = 6
+query_Samp3.bin.22.orig.fa_run  Duplications  = 5
+query_Samp3.bin.22.orig.fa_run  Inversions  = 0
+query_Samp3.bin.22.orig.fa_run  Translocations  = 11
+
+Nucmer alignment of genomes, filtering and converting to coordinates
+
+                               #
+                              # #
+                             #   #
+                ###############################
+                #                             #
+                # MUM&Co is open for business #
+                #           version 1         #
+                ###############################
+
+
+######################################################################################################
+          USING GLOBAL ALIGNMENT COORDINATES FOR DELETIONS, INSERTIONS AND TRANSLOCATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Finding alignment gaps
+
+
+Filtering for size labelling SV
+
+
+Finding translocation fragments
+
+
+Checking alignment sense for inversions involving majority of single chromosome bases
+
+
+
+######################################################################################################
+             USING NON-GLOBAL ALIGNMENT AGAINST REFERENCE FOR INVERSIONS AND DUPLICATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Removing calls in subtelomeric regions
+
+
+Looking for interchromosomal changes in alignment sense, filtering for 1kb fragments and merging closely neighbouring calls
+
+
+Locating alignment overlaps for duplication assignment
+
+
+
+##############################################################################################################
+Combining both deletions, insertion, inversions and duplications and identifying regions of more than one call
+##############################################################################################################
+
+
+Filtering clean inversions using deletion and insertion information
+
+
+Combining all called SVs
+
+
+Removing deletions and insertions called during global alignment due to inversions
+
+
+Counting number of detected SVs
+
+
+query_Samp4.bin.39.strict.fa_run  Total SVs  = 9
+query_Samp4.bin.39.strict.fa_run  Deletions  = 3
+query_Samp4.bin.39.strict.fa_run  Insertions  = 2
+query_Samp4.bin.39.strict.fa_run  Duplications  = 0
+query_Samp4.bin.39.strict.fa_run  Inversions  = 0
+query_Samp4.bin.39.strict.fa_run  Translocations  = 4
+
+Nucmer alignment of genomes, filtering and converting to coordinates
+
+                               #
+                              # #
+                             #   #
+                ###############################
+                #                             #
+                # MUM&Co is open for business #
+                #           version 1         #
+                ###############################
+
+
+######################################################################################################
+          USING GLOBAL ALIGNMENT COORDINATES FOR DELETIONS, INSERTIONS AND TRANSLOCATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Finding alignment gaps
+
+
+Filtering for size labelling SV
+
+
+Finding translocation fragments
+
+
+Checking alignment sense for inversions involving majority of single chromosome bases
+
+
+
+######################################################################################################
+             USING NON-GLOBAL ALIGNMENT AGAINST REFERENCE FOR INVERSIONS AND DUPLICATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Removing calls in subtelomeric regions
+
+
+Looking for interchromosomal changes in alignment sense, filtering for 1kb fragments and merging closely neighbouring calls
+
+
+Locating alignment overlaps for duplication assignment
+
+
+
+##############################################################################################################
+Combining both deletions, insertion, inversions and duplications and identifying regions of more than one call
+##############################################################################################################
+
+
+Filtering clean inversions using deletion and insertion information
+
+
+Combining all called SVs
+
+
+Removing deletions and insertions called during global alignment due to inversions
+
+
+Counting number of detected SVs
+
+
+query_Samp5.bin.16.permissive.fa_run  Total SVs  = 9
+query_Samp5.bin.16.permissive.fa_run  Deletions  = 4
+query_Samp5.bin.16.permissive.fa_run  Insertions  = 1
+query_Samp5.bin.16.permissive.fa_run  Duplications  = 0
+query_Samp5.bin.16.permissive.fa_run  Inversions  = 0
+query_Samp5.bin.16.permissive.fa_run  Translocations  = 4
+
+Nucmer alignment of genomes, filtering and converting to coordinates
+
+                               #
+                              # #
+                             #   #
+                ###############################
+                #                             #
+                # MUM&Co is open for business #
+                #           version 1         #
+                ###############################
+
+
+######################################################################################################
+          USING GLOBAL ALIGNMENT COORDINATES FOR DELETIONS, INSERTIONS AND TRANSLOCATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Finding alignment gaps
+
+
+Filtering for size labelling SV
+
+
+Finding translocation fragments
+
+
+Checking alignment sense for inversions involving majority of single chromosome bases
+
+
+
+######################################################################################################
+             USING NON-GLOBAL ALIGNMENT AGAINST REFERENCE FOR INVERSIONS AND DUPLICATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Removing calls in subtelomeric regions
+
+
+Looking for interchromosomal changes in alignment sense, filtering for 1kb fragments and merging closely neighbouring calls
+
+
+Locating alignment overlaps for duplication assignment
+
+
+
+##############################################################################################################
+Combining both deletions, insertion, inversions and duplications and identifying regions of more than one call
+##############################################################################################################
+
+
+Filtering clean inversions using deletion and insertion information
+
+
+Combining all called SVs
+
+
+Removing deletions and insertions called during global alignment due to inversions
+
+
+Counting number of detected SVs
+
+
+query_Samp6.bin.32.orig.fa_run  Total SVs  = 5
+query_Samp6.bin.32.orig.fa_run  Deletions  = 3
+query_Samp6.bin.32.orig.fa_run  Insertions  = 2
+query_Samp6.bin.32.orig.fa_run  Duplications  = 0
+query_Samp6.bin.32.orig.fa_run  Inversions  = 0
+query_Samp6.bin.32.orig.fa_run  Translocations  = 0
+
+Nucmer alignment of genomes, filtering and converting to coordinates
+
+                               #
+                              # #
+                             #   #
+                ###############################
+                #                             #
+                # MUM&Co is open for business #
+                #           version 1         #
+                ###############################
+
+
+######################################################################################################
+          USING GLOBAL ALIGNMENT COORDINATES FOR DELETIONS, INSERTIONS AND TRANSLOCATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Finding alignment gaps
+
+
+Filtering for size labelling SV
+
+
+Finding translocation fragments
+
+
+Checking alignment sense for inversions involving majority of single chromosome bases
+
+
+
+######################################################################################################
+             USING NON-GLOBAL ALIGNMENT AGAINST REFERENCE FOR INVERSIONS AND DUPLICATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Removing calls in subtelomeric regions
+
+
+Looking for interchromosomal changes in alignment sense, filtering for 1kb fragments and merging closely neighbouring calls
+
+
+Locating alignment overlaps for duplication assignment
+
+
+
+##############################################################################################################
+Combining both deletions, insertion, inversions and duplications and identifying regions of more than one call
+##############################################################################################################
+
+
+Filtering clean inversions using deletion and insertion information
+
+
+Combining all called SVs
+
+
+Removing deletions and insertions called during global alignment due to inversions
+
+
+Counting number of detected SVs
+
+
+query_Samp8.bin.21.orig.fa_run  Total SVs  = 204
+query_Samp8.bin.21.orig.fa_run  Deletions  = 81
+query_Samp8.bin.21.orig.fa_run  Insertions  = 100
+query_Samp8.bin.21.orig.fa_run  Duplications  = 0
+query_Samp8.bin.21.orig.fa_run  Inversions  = 0
+query_Samp8.bin.21.orig.fa_run  Translocations  = 23
+
+Nucmer alignment of genomes, filtering and converting to coordinates
+
+                               #
+                              # #
+                             #   #
+                ###############################
+                #                             #
+                # MUM&Co is open for business #
+                #           version 1         #
+                ###############################
+
+
+######################################################################################################
+          USING GLOBAL ALIGNMENT COORDINATES FOR DELETIONS, INSERTIONS AND TRANSLOCATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Finding alignment gaps
+
+
+Filtering for size labelling SV
+
+
+Finding translocation fragments
+
+
+Checking alignment sense for inversions involving majority of single chromosome bases
+
+
+
+######################################################################################################
+             USING NON-GLOBAL ALIGNMENT AGAINST REFERENCE FOR INVERSIONS AND DUPLICATIONS
+######################################################################################################
+
+
+Matching chromosomes based on names, using '_' seperator and filtering chrMT
+
+
+Removing calls in subtelomeric regions
+
+
+Looking for interchromosomal changes in alignment sense, filtering for 1kb fragments and merging closely neighbouring calls
+
+
+Locating alignment overlaps for duplication assignment
+
+
+
+##############################################################################################################
+Combining both deletions, insertion, inversions and duplications and identifying regions of more than one call
+##############################################################################################################
+
+
+Filtering clean inversions using deletion and insertion information
+
+
+Combining all called SVs
+
+
+Removing deletions and insertions called during global alignment due to inversions
+
+
+Counting number of detected SVs
+
+
+query_Samp9.bin.6.orig.fa_run  Total SVs  = 85
+query_Samp9.bin.6.orig.fa_run  Deletions  = 39
+query_Samp9.bin.6.orig.fa_run  Insertions  = 36
+query_Samp9.bin.6.orig.fa_run  Duplications  = 6
+query_Samp9.bin.6.orig.fa_run  Inversions  = 0
+query_Samp9.bin.6.orig.fa_run  Translocations  = 4
+This-Work-is-Completed!

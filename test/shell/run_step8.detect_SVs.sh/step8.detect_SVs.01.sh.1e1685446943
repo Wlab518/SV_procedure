@@ -1,0 +1,150 @@
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp1.bin.36.orig.fa_run_ref.ntref" of length 3214969
+# construct suffix tree for sequence of length 3214969
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 32149 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp1.bin.36.orig.fa_run_ref.ntref 1.48
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp1.bin.36.orig.fa" of length 3133977
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp1.bin.36.orig.fa"
+# against subject-file "query_Samp1.bin.36.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp1.bin.36.orig.fa_run_ref.ntref 4.63
+# SPACE /usr/bin/mummer query_Samp1.bin.36.orig.fa_run_ref.ntref 6.16
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp1.bin.36.orig.fa_run_query.ntref" of length 3133978
+# construct suffix tree for sequence of length 3133978
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 31339 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp1.bin.36.orig.fa_run_query.ntref 1.65
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa" of length 3214968
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa"
+# against subject-file "query_Samp1.bin.36.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp1.bin.36.orig.fa_run_query.ntref 5.00
+# SPACE /usr/bin/mummer query_Samp1.bin.36.orig.fa_run_query.ntref 6.16
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp2.bin.21.orig.fa_run_ref.ntref" of length 3214969
+# construct suffix tree for sequence of length 3214969
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 32149 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp2.bin.21.orig.fa_run_ref.ntref 1.45
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp2.bin.21.orig.fa" of length 2787034
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp2.bin.21.orig.fa"
+# against subject-file "query_Samp2.bin.21.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp2.bin.21.orig.fa_run_ref.ntref 4.23
+# SPACE /usr/bin/mummer query_Samp2.bin.21.orig.fa_run_ref.ntref 5.82
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp2.bin.21.orig.fa_run_query.ntref" of length 2787035
+# construct suffix tree for sequence of length 2787035
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 27870 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp2.bin.21.orig.fa_run_query.ntref 1.38
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa" of length 3214968
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa"
+# against subject-file "query_Samp2.bin.21.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp2.bin.21.orig.fa_run_query.ntref 5.15
+# SPACE /usr/bin/mummer query_Samp2.bin.21.orig.fa_run_query.ntref 5.82
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp5.bin.14.orig.fa_run_ref.ntref" of length 3214969
+# construct suffix tree for sequence of length 3214969
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 32149 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp5.bin.14.orig.fa_run_ref.ntref 1.97
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp5.bin.14.orig.fa" of length 2581943
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp5.bin.14.orig.fa"
+# against subject-file "query_Samp5.bin.14.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp5.bin.14.orig.fa_run_ref.ntref 5.24
+# SPACE /usr/bin/mummer query_Samp5.bin.14.orig.fa_run_ref.ntref 5.62
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp5.bin.14.orig.fa_run_query.ntref" of length 2581944
+# construct suffix tree for sequence of length 2581944
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 25819 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp5.bin.14.orig.fa_run_query.ntref 1.08
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa" of length 3214968
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa"
+# against subject-file "query_Samp5.bin.14.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp5.bin.14.orig.fa_run_query.ntref 4.66
+# SPACE /usr/bin/mummer query_Samp5.bin.14.orig.fa_run_query.ntref 5.62
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp8.bin.39.orig.fa_run_ref.ntref" of length 3214969
+# construct suffix tree for sequence of length 3214969
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 32149 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp8.bin.39.orig.fa_run_ref.ntref 1.96
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp8.bin.39.orig.fa" of length 2806905
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp8.bin.39.orig.fa"
+# against subject-file "query_Samp8.bin.39.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp8.bin.39.orig.fa_run_ref.ntref 5.36
+# SPACE /usr/bin/mummer query_Samp8.bin.39.orig.fa_run_ref.ntref 5.84
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp8.bin.39.orig.fa_run_query.ntref" of length 2806906
+# construct suffix tree for sequence of length 2806906
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 28069 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp8.bin.39.orig.fa_run_query.ntref 1.73
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa" of length 3214968
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa"
+# against subject-file "query_Samp8.bin.39.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp8.bin.39.orig.fa_run_query.ntref 5.15
+# SPACE /usr/bin/mummer query_Samp8.bin.39.orig.fa_run_query.ntref 5.84
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp9.bin.19.orig.fa_run_ref.ntref" of length 3214969
+# construct suffix tree for sequence of length 3214969
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 32149 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp9.bin.19.orig.fa_run_ref.ntref 1.49
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp9.bin.19.orig.fa" of length 3145041
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/query_Samp9.bin.19.orig.fa"
+# against subject-file "query_Samp9.bin.19.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp9.bin.19.orig.fa_run_ref.ntref 5.05
+# SPACE /usr/bin/mummer query_Samp9.bin.19.orig.fa_run_ref.ntref 6.17
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp9.bin.19.orig.fa_run_query.ntref" of length 3145042
+# construct suffix tree for sequence of length 3145042
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 31450 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp9.bin.19.orig.fa_run_query.ntref 1.22
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa" of length 3214968
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Agathobacter_faecis/ref_Samp10.bin.17.orig.fa"
+# against subject-file "query_Samp9.bin.19.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp9.bin.19.orig.fa_run_query.ntref 4.44
+# SPACE /usr/bin/mummer query_Samp9.bin.19.orig.fa_run_query.ntref 6.17
+4: FINISHING DATA

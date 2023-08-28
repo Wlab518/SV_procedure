@@ -1,0 +1,41 @@
+[M::main::13.843*1.00] loaded/built the index for 297 target sequence(s)
+[M::mm_mapopt_update::15.625*1.00] mid_occ = 632
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 297
+[M::mm_idx_stat::16.691*1.00] distinct minimizers: 100072682 (37.75% are singletons); average occurrences: 5.634; average spacing: 5.738; total length: 3234834689
+[M::worker_pipeline::79.494*2.48] mapped 102164 sequences
+[M::worker_pipeline::123.020*2.75] mapped 102389 sequences
+[M::worker_pipeline::165.992*2.88] mapped 102320 sequences
+[M::worker_pipeline::207.567*2.95] mapped 101614 sequences
+[M::worker_pipeline::247.641*3.00] mapped 101236 sequences
+[M::worker_pipeline::287.778*3.04] mapped 100591 sequences
+[M::worker_pipeline::327.696*3.07] mapped 100839 sequences
+[M::worker_pipeline::362.669*3.09] mapped 101263 sequences
+[M::worker_pipeline::397.098*3.10] mapped 101196 sequences
+[M::worker_pipeline::432.213*3.11] mapped 101977 sequences
+[M::worker_pipeline::466.216*3.12] mapped 100979 sequences
+[M::worker_pipeline::498.211*3.13] mapped 101531 sequences
+[M::worker_pipeline::530.719*3.14] mapped 101305 sequences
+[M::worker_pipeline::562.859*3.15] mapped 101100 sequences
+[M::worker_pipeline::593.491*3.16] mapped 101186 sequences
+[M::worker_pipeline::623.563*3.16] mapped 101520 sequences
+[M::worker_pipeline::654.742*3.17] mapped 101153 sequences
+[M::worker_pipeline::685.192*3.16] mapped 101650 sequences
+[M::worker_pipeline::685.388*3.16] mapped 4601 sequences
+[M::main] Version: 2.24-r1122
+[M::main] CMD: minimap2 -a /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/GRCh37_latest_genomic.fna.gz.min /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//qc/Samp8/ONT_Samp8.fastq.gz
+[M::main] Real time: 686.343 sec; CPU: 2169.021 sec; Peak RSS: 9.604 GB
+26521255 reads; of these:
+  26521255 (100.00%) were paired; of these:
+    26365144 (99.41%) aligned concordantly 0 times
+    131554 (0.50%) aligned concordantly exactly 1 time
+    24557 (0.09%) aligned concordantly >1 times
+    ----
+    26365144 pairs aligned concordantly 0 times; of these:
+      3145 (0.01%) aligned discordantly 1 time
+    ----
+    26361999 pairs aligned 0 times concordantly or discordantly; of these:
+      52723998 mates make up the pairs; of these:
+        52717730 (99.99%) aligned 0 times
+        2874 (0.01%) aligned exactly 1 time
+        3394 (0.01%) aligned >1 times
+0.61% overall alignment rate

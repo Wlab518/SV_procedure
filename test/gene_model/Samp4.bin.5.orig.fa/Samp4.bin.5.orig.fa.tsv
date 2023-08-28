@@ -1,0 +1,1759 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+AOMBIHOA_00001	CDS	966	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+AOMBIHOA_00002	CDS	792				hypothetical protein
+AOMBIHOA_00003	CDS	1083				hypothetical protein
+AOMBIHOA_00004	CDS	1293				hypothetical protein
+AOMBIHOA_00005	CDS	483				hypothetical protein
+AOMBIHOA_00006	CDS	1281				hypothetical protein
+AOMBIHOA_00007	CDS	735				hypothetical protein
+AOMBIHOA_00008	CDS	612				hypothetical protein
+AOMBIHOA_00009	CDS	462	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+AOMBIHOA_00010	CDS	867				hypothetical protein
+AOMBIHOA_00011	CDS	204				hypothetical protein
+AOMBIHOA_00012	CDS	918	ttuA_1	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+AOMBIHOA_00013	CDS	1158				hypothetical protein
+AOMBIHOA_00014	CDS	858				hypothetical protein
+AOMBIHOA_00015	CDS	1605				hypothetical protein
+AOMBIHOA_00016	CDS	525	padE	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit gamma
+AOMBIHOA_00017	CDS	243	porD		COG1144	Pyruvate synthase subunit PorD
+AOMBIHOA_00018	CDS	1146	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+AOMBIHOA_00019	CDS	867		1.2.7.10	COG1013	Oxalate oxidoreductase subunit beta
+AOMBIHOA_00020	CDS	504				hypothetical protein
+AOMBIHOA_00021	CDS	246				hypothetical protein
+AOMBIHOA_00022	CDS	831	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+AOMBIHOA_00023	CDS	690	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+AOMBIHOA_00024	CDS	750	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+AOMBIHOA_00025	CDS	849	pstA		COG0581	Phosphate transport system permease protein PstA
+AOMBIHOA_00026	CDS	876	pstC		COG0573	Phosphate transport system permease protein PstC
+AOMBIHOA_00027	CDS	810	pstS1		COG0226	Phosphate-binding protein PstS 1
+AOMBIHOA_00028	CDS	882				hypothetical protein
+AOMBIHOA_00029	CDS	804				hypothetical protein
+AOMBIHOA_00030	CDS	1503				hypothetical protein
+AOMBIHOA_00031	CDS	1014				hypothetical protein
+AOMBIHOA_00032	CDS	999	bioB	2.8.1.6		Biotin synthase
+AOMBIHOA_00033	CDS	480				hypothetical protein
+AOMBIHOA_00034	CDS	786				hypothetical protein
+AOMBIHOA_00035	CDS	696				hypothetical protein
+AOMBIHOA_00036	CDS	639				hypothetical protein
+AOMBIHOA_00037	CDS	561				hypothetical protein
+AOMBIHOA_00038	tRNA	73				tRNA-Thr(ggt)
+AOMBIHOA_00039	tRNA	84				tRNA-Leu(taa)
+AOMBIHOA_00040	CDS	177	napF_1			Ferredoxin-type protein NapF
+AOMBIHOA_00041	CDS	789				hypothetical protein
+AOMBIHOA_00042	CDS	1287				hypothetical protein
+AOMBIHOA_00043	CDS	1044	msrAB			Peptide methionine sulfoxide reductase msrA/msrB
+AOMBIHOA_00044	CDS	642	nikMN		COG0310	Fused nickel transport protein NikMN
+AOMBIHOA_00045	CDS	306				hypothetical protein
+AOMBIHOA_00046	CDS	831	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+AOMBIHOA_00047	CDS	846	ecfA3_1	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA3
+AOMBIHOA_00048	CDS	201				hypothetical protein
+AOMBIHOA_00049	CDS	231				hypothetical protein
+AOMBIHOA_00050	CDS	2016	feoB		COG0370	Fe(2+) transporter FeoB
+AOMBIHOA_00051	CDS	717				hypothetical protein
+AOMBIHOA_00052	CDS	945	bcrA			Bacitracin transport ATP-binding protein BcrA
+AOMBIHOA_00053	CDS	723	bcrB_1			Bacitracin transport permease protein BcrB
+AOMBIHOA_00054	CDS	723	bcrB_2			Bacitracin transport permease protein BcrB
+AOMBIHOA_00055	CDS	918				hypothetical protein
+AOMBIHOA_00056	CDS	1467				hypothetical protein
+AOMBIHOA_00057	CDS	954				hypothetical protein
+AOMBIHOA_00058	CDS	1254				hypothetical protein
+AOMBIHOA_00059	CDS	474				hypothetical protein
+AOMBIHOA_00060	CDS	270				hypothetical protein
+AOMBIHOA_00061	CDS	162				hypothetical protein
+AOMBIHOA_00062	CDS	573				hypothetical protein
+AOMBIHOA_00063	CDS	339				hypothetical protein
+AOMBIHOA_00064	CDS	363				hypothetical protein
+AOMBIHOA_00065	CDS	1779	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AOMBIHOA_00066	CDS	378				hypothetical protein
+AOMBIHOA_00067	CDS	756				hypothetical protein
+AOMBIHOA_00068	CDS	1188	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+AOMBIHOA_00069	CDS	705	recA_1			Protein RecA
+AOMBIHOA_00070	CDS	582	yciO		COG0009	putative protein YciO
+AOMBIHOA_00071	CDS	567		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+AOMBIHOA_00072	CDS	246				hypothetical protein
+AOMBIHOA_00073	CDS	1095	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+AOMBIHOA_00074	CDS	11043				hypothetical protein
+AOMBIHOA_00075	CDS	1146	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+AOMBIHOA_00076	CDS	1188	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+AOMBIHOA_00077	CDS	2694	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+AOMBIHOA_00078	CDS	306				hypothetical protein
+AOMBIHOA_00079	CDS	1008				hypothetical protein
+AOMBIHOA_00080	CDS	639	rplA		COG0081	50S ribosomal protein L1
+AOMBIHOA_00081	CDS	483	rplK		COG0080	50S ribosomal protein L11
+AOMBIHOA_00082	CDS	471				hypothetical protein
+AOMBIHOA_00083	CDS	180				hypothetical protein
+AOMBIHOA_00084	CDS	597				hypothetical protein
+AOMBIHOA_00085	CDS	1287				hypothetical protein
+AOMBIHOA_00086	CDS	1008				hypothetical protein
+AOMBIHOA_00087	CDS	1134	ftsZ			Cell division protein FtsZ
+AOMBIHOA_00088	CDS	942	mtgA_1	2.1.1.-	COG1962	Methylcorrinoid:tetrahydrofolate methyltransferase
+AOMBIHOA_00089	CDS	570				hypothetical protein
+AOMBIHOA_00090	CDS	858				hypothetical protein
+AOMBIHOA_00091	CDS	522				hypothetical protein
+AOMBIHOA_00092	CDS	495	rny	3.1.-.-		Ribonuclease Y
+AOMBIHOA_00093	CDS	915				hypothetical protein
+AOMBIHOA_00094	CDS	285				hypothetical protein
+AOMBIHOA_00095	tRNA	76				tRNA-Ile(gat)
+AOMBIHOA_00096	CDS	504				hypothetical protein
+AOMBIHOA_00097	CDS	276				hypothetical protein
+AOMBIHOA_00098	CDS	1302		1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+AOMBIHOA_00099	CDS	1047				hypothetical protein
+AOMBIHOA_00100	CDS	963				hypothetical protein
+AOMBIHOA_00101	CDS	1062				hypothetical protein
+AOMBIHOA_00102	CDS	1311				hypothetical protein
+AOMBIHOA_00103	CDS	2193	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+AOMBIHOA_00104	CDS	879				hypothetical protein
+AOMBIHOA_00105	CDS	834				hypothetical protein
+AOMBIHOA_00106	CDS	1275	bzaF_1	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+AOMBIHOA_00107	CDS	1656	lig	6.5.1.1		DNA ligase
+AOMBIHOA_00108	CDS	639				queuosine precursor transporter
+AOMBIHOA_00109	CDS	396				hypothetical protein
+AOMBIHOA_00110	CDS	1365	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+AOMBIHOA_00111	CDS	873				hypothetical protein
+AOMBIHOA_00112	CDS	624				hypothetical protein
+AOMBIHOA_00113	CDS	1137	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+AOMBIHOA_00114	CDS	705	queE_1	4.3.99.3		7-carboxy-7-deazaguanine synthase
+AOMBIHOA_00115	CDS	1101	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+AOMBIHOA_00116	CDS	477	yrdA		COG0663	Protein YrdA
+AOMBIHOA_00117	CDS	1290	glmU	2.7.7.23		Bifunctional protein GlmU
+AOMBIHOA_00118	CDS	1374	glmM_2	5.4.2.10		Phosphoglucosamine mutase
+AOMBIHOA_00119	CDS	1239	apgM_1			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+AOMBIHOA_00120	CDS	189				hypothetical protein
+AOMBIHOA_00121	CDS	699				hypothetical protein
+AOMBIHOA_00122	CDS	633				hypothetical protein
+AOMBIHOA_00123	CDS	582				hypothetical protein
+AOMBIHOA_00124	CDS	363				hypothetical protein
+AOMBIHOA_00125	tRNA	75				tRNA-Thr(cgt)
+AOMBIHOA_00126	CDS	324				hypothetical protein
+AOMBIHOA_00127	CDS	570	sgcG	1.3.99.24		2-amino-4-deoxychorismate dehydrogenase
+AOMBIHOA_00128	CDS	759	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+AOMBIHOA_00129	CDS	1449	rtcB	6.5.1.-		RNA-splicing ligase RtcB
+AOMBIHOA_00130	CDS	321				hypothetical protein
+AOMBIHOA_00131	CDS	423				Protein archease
+AOMBIHOA_00132	CDS	180				hypothetical protein
+AOMBIHOA_00133	CDS	264				hypothetical protein
+AOMBIHOA_00134	CDS	1119				hypothetical protein
+AOMBIHOA_00135	CDS	720				hypothetical protein
+AOMBIHOA_00136	CDS	570				hypothetical protein
+AOMBIHOA_00137	CDS	654				hypothetical protein
+AOMBIHOA_00138	CDS	675				hypothetical protein
+AOMBIHOA_00139	CDS	1143		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+AOMBIHOA_00140	CDS	1215				hypothetical protein
+AOMBIHOA_00141	CDS	771				hypothetical protein
+AOMBIHOA_00142	CDS	168				hypothetical protein
+AOMBIHOA_00143	CDS	411				hypothetical protein
+AOMBIHOA_00144	CDS	510				hypothetical protein
+AOMBIHOA_00145	CDS	291				hypothetical protein
+AOMBIHOA_00146	CDS	1539	ilvB_1	2.2.1.6	COG0028	Acetolactate synthase large subunit
+AOMBIHOA_00147	CDS	456	dcd_1	3.5.4.13		dCTP deaminase, dUMP-forming
+AOMBIHOA_00148	CDS	189				hypothetical protein
+AOMBIHOA_00149	CDS	294				hypothetical protein
+AOMBIHOA_00150	CDS	2871	uvrB_1			UvrABC system protein B
+AOMBIHOA_00151	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+AOMBIHOA_00152	CDS	852	dpnB	3.1.21.4		Type-2 restriction enzyme DpnII
+AOMBIHOA_00153	CDS	939	dpnM	2.1.1.72		Modification methylase DpnIIA
+AOMBIHOA_00154	CDS	435				hypothetical protein
+AOMBIHOA_00155	CDS	378				hypothetical protein
+AOMBIHOA_00156	CDS	1458				hypothetical protein
+AOMBIHOA_00157	CDS	1086	capA			Capsule biosynthesis protein CapA
+AOMBIHOA_00158	CDS	1413	ftsY			Signal recognition particle receptor FtsY
+AOMBIHOA_00159	CDS	441	pfdA			Prefoldin subunit alpha
+AOMBIHOA_00160	CDS	225				hypothetical protein
+AOMBIHOA_00161	CDS	672				hypothetical protein
+AOMBIHOA_00162	CDS	246				hypothetical protein
+AOMBIHOA_00163	CDS	156				hypothetical protein
+AOMBIHOA_00164	CDS	585				hypothetical protein
+AOMBIHOA_00165	CDS	357				hypothetical protein
+AOMBIHOA_00166	CDS	438				hypothetical protein
+AOMBIHOA_00167	CDS	258				hypothetical protein
+AOMBIHOA_00168	CDS	366				hypothetical protein
+AOMBIHOA_00169	CDS	411				hypothetical protein
+AOMBIHOA_00170	CDS	546				hypothetical protein
+AOMBIHOA_00171	CDS	1095	obg	3.6.5.-		GTPase Obg
+AOMBIHOA_00172	CDS	2769				hypothetical protein
+AOMBIHOA_00173	CDS	2151	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+AOMBIHOA_00174	CDS	150				hypothetical protein
+AOMBIHOA_00175	CDS	1590				hypothetical protein
+AOMBIHOA_00176	CDS	546				hypothetical protein
+AOMBIHOA_00177	CDS	540				hypothetical protein
+AOMBIHOA_00178	CDS	1173	frbC	2.3.3.19		2-phosphonomethylmalate synthase
+AOMBIHOA_00179	CDS	1254	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+AOMBIHOA_00180	CDS	564	ubiC	4.1.3.40		Chorismate pyruvate-lyase
+AOMBIHOA_00181	CDS	984				hypothetical protein
+AOMBIHOA_00182	CDS	651				hypothetical protein
+AOMBIHOA_00183	CDS	1251	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+AOMBIHOA_00184	CDS	1167				hypothetical protein
+AOMBIHOA_00185	CDS	756	moeB	2.7.7.80	COG0476	Molybdopterin-synthase adenylyltransferase
+AOMBIHOA_00186	CDS	1359	glnA	6.3.1.2	COG0174	Glutamine synthetase
+AOMBIHOA_00187	CDS	1680				hypothetical protein
+AOMBIHOA_00188	CDS	291				hypothetical protein
+AOMBIHOA_00189	CDS	306				hypothetical protein
+AOMBIHOA_00190	CDS	867	fhcC		COG2218	Formyltransferase/hydrolase complex Fhc subunit C
+AOMBIHOA_00191	CDS	1710	fhcA	3.5.1.-	COG1229	Formyltransferase/hydrolase complex Fhc subunit A
+AOMBIHOA_00192	CDS	1377	napA	1.9.6.1		Periplasmic nitrate reductase
+AOMBIHOA_00193	CDS	570				hypothetical protein
+AOMBIHOA_00194	CDS	231	napF_2			Ferredoxin-type protein NapF
+AOMBIHOA_00195	CDS	1098	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+AOMBIHOA_00196	CDS	450	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AOMBIHOA_00197	CDS	1050				hypothetical protein
+AOMBIHOA_00198	CDS	930	moaA_1	4.1.99.22	COG2896	GTP 3',8-cyclase
+AOMBIHOA_00199	CDS	1206				hypothetical protein
+AOMBIHOA_00200	CDS	2058	fdhF	1.17.1.9	COG0243	Formate dehydrogenase H
+AOMBIHOA_00201	CDS	789	focA		COG2116	putative formate transporter 1
+AOMBIHOA_00202	CDS	300				hypothetical protein
+AOMBIHOA_00203	CDS	273				hypothetical protein
+AOMBIHOA_00204	CDS	576				hypothetical protein
+AOMBIHOA_00205	CDS	930	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AOMBIHOA_00206	CDS	750	fdhD_1			Sulfur carrier protein FdhD
+AOMBIHOA_00207	CDS	591	hxlB	5.3.1.27	COG0794	3-hexulose-6-phosphate isomerase
+AOMBIHOA_00208	CDS	870				hypothetical protein
+AOMBIHOA_00209	CDS	915	adoK	2.7.1.20	COG0524	Adenosine kinase
+AOMBIHOA_00210	CDS	1299	bzaF_2	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+AOMBIHOA_00211	CDS	1584	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+AOMBIHOA_00212	CDS	477	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+AOMBIHOA_00213	CDS	882	cpoB			Cell division coordinator CpoB
+AOMBIHOA_00214	CDS	3294				hypothetical protein
+AOMBIHOA_00215	CDS	2319				hypothetical protein
+AOMBIHOA_00216	CDS	612				queuosine precursor transporter
+AOMBIHOA_00217	CDS	1071	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+AOMBIHOA_00218	CDS	297	ycnE	1.-.-.-	COG1359	Putative monooxygenase YcnE
+AOMBIHOA_00219	CDS	297				hypothetical protein
+AOMBIHOA_00220	CDS	345				hypothetical protein
+AOMBIHOA_00221	CDS	657				hypothetical protein
+AOMBIHOA_00222	CDS	921	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+AOMBIHOA_00223	CDS	582	prmC_1	2.1.1.297		Release factor glutamine methyltransferase
+AOMBIHOA_00224	CDS	861	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+AOMBIHOA_00225	CDS	1284	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+AOMBIHOA_00226	CDS	1077				hypothetical protein
+AOMBIHOA_00227	CDS	435	nudI	3.6.1.12		Nucleoside triphosphatase NudI
+AOMBIHOA_00228	CDS	1167	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+AOMBIHOA_00229	CDS	435	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+AOMBIHOA_00230	CDS	357				hypothetical protein
+AOMBIHOA_00231	CDS	936				hypothetical protein
+AOMBIHOA_00232	CDS	825	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+AOMBIHOA_00233	CDS	162				hypothetical protein
+AOMBIHOA_00234	CDS	468	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+AOMBIHOA_00235	CDS	1215				hypothetical protein
+AOMBIHOA_00236	CDS	1344	ffh		COG0541	Signal recognition particle protein
+AOMBIHOA_00237	CDS	570	pyrE_1	2.4.2.10		Orotate phosphoribosyltransferase
+AOMBIHOA_00238	CDS	990				hypothetical protein
+AOMBIHOA_00239	CDS	573				hypothetical protein
+AOMBIHOA_00240	CDS	288				hypothetical protein
+AOMBIHOA_00241	CDS	423				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+AOMBIHOA_00242	CDS	315				hypothetical protein
+AOMBIHOA_00243	CDS	1020				hypothetical protein
+AOMBIHOA_00244	tRNA	76				tRNA-Arg(tcg)
+AOMBIHOA_00245	CDS	1839	dinG	3.1.-.-		3'-5' exonuclease DinG
+AOMBIHOA_00246	CDS	705	cobI	2.1.1.130		Precorrin-2 C(20)-methyltransferase
+AOMBIHOA_00247	CDS	762				hypothetical protein
+AOMBIHOA_00248	CDS	1227	fprA_1	1.-.-.-	COG0426	Nitric oxide reductase
+AOMBIHOA_00249	CDS	414	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+AOMBIHOA_00250	CDS	120				hypothetical protein
+AOMBIHOA_00251	CDS	1146				hypothetical protein
+AOMBIHOA_00252	CDS	1218	moeA_1	2.10.1.1		Molybdopterin molybdenumtransferase
+AOMBIHOA_00253	CDS	2151	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+AOMBIHOA_00254	CDS	3273	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+AOMBIHOA_00255	CDS	1206	mat	2.5.1.6		S-adenosylmethionine synthase
+AOMBIHOA_00256	CDS	354				hypothetical protein
+AOMBIHOA_00257	CDS	702	coaBC_1	6.3.2.5		Coenzyme A biosynthesis bifunctional protein CoaBC
+AOMBIHOA_00258	CDS	1269	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+AOMBIHOA_00259	CDS	1989	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AOMBIHOA_00260	CDS	906				hypothetical protein
+AOMBIHOA_00261	CDS	936	recA_2			Protein RecA
+AOMBIHOA_00262	CDS	2382				hypothetical protein
+AOMBIHOA_00263	CDS	1404	gumD	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+AOMBIHOA_00264	CDS	858	wbbL	2.4.1.289	COG1216	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+AOMBIHOA_00265	CDS	966				hypothetical protein
+AOMBIHOA_00266	CDS	963	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+AOMBIHOA_00267	CDS	1095	tarL	2.7.8.47		Teichoic acid poly(ribitol-phosphate) polymerase
+AOMBIHOA_00268	CDS	1761	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AOMBIHOA_00269	CDS	786	kpsM_1		COG1682	Polysialic acid transport protein KpsM
+AOMBIHOA_00270	CDS	1035	tarQ	2.4.1.53		Poly(ribitol-phosphate) beta-glucosyltransferase
+AOMBIHOA_00271	CDS	1047				hypothetical protein
+AOMBIHOA_00272	CDS	1509				hypothetical protein
+AOMBIHOA_00273	CDS	1602				hypothetical protein
+AOMBIHOA_00274	CDS	1041				hypothetical protein
+AOMBIHOA_00275	CDS	279				hypothetical protein
+AOMBIHOA_00276	CDS	267				hypothetical protein
+AOMBIHOA_00277	CDS	1539				hypothetical protein
+AOMBIHOA_00278	CDS	1110				hypothetical protein
+AOMBIHOA_00279	CDS	1542				hypothetical protein
+AOMBIHOA_00280	CDS	2571				hypothetical protein
+AOMBIHOA_00281	CDS	1539				hypothetical protein
+AOMBIHOA_00282	CDS	1416				hypothetical protein
+AOMBIHOA_00283	CDS	1140	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+AOMBIHOA_00284	CDS	1005	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+AOMBIHOA_00285	CDS	558	rmlC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+AOMBIHOA_00286	CDS	870	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+AOMBIHOA_00287	CDS	4359				hypothetical protein
+AOMBIHOA_00288	CDS	6150				hypothetical protein
+AOMBIHOA_00289	CDS	843	rmlD	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+AOMBIHOA_00290	CDS	1239	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+AOMBIHOA_00291	CDS	1176				hypothetical protein
+AOMBIHOA_00292	CDS	1209				hypothetical protein
+AOMBIHOA_00293	CDS	1248	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+AOMBIHOA_00294	CDS	483	DmdB_1	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+AOMBIHOA_00295	CDS	1011	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+AOMBIHOA_00296	CDS	2334				hypothetical protein
+AOMBIHOA_00297	CDS	93				hypothetical protein
+AOMBIHOA_00298	CDS	417	ribH_1	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+AOMBIHOA_00299	CDS	939				hypothetical protein
+AOMBIHOA_00300	CDS	1707	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+AOMBIHOA_00301	CDS	516				hypothetical protein
+AOMBIHOA_00302	CDS	2148	yhgF		COG2183	Protein YhgF
+AOMBIHOA_00303	CDS	927				hypothetical protein
+AOMBIHOA_00304	CDS	1311				hypothetical protein
+AOMBIHOA_00305	CDS	429				hypothetical protein
+AOMBIHOA_00306	CDS	1020	purE	5.4.99.18		N5-carboxyaminoimidazole ribonucleotide mutase
+AOMBIHOA_00307	CDS	1257	lpdC	4.1.1.59	COG0043	Gallate decarboxylase
+AOMBIHOA_00308	CDS	1263				hypothetical protein
+AOMBIHOA_00309	CDS	1002	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+AOMBIHOA_00310	CDS	921	thiL_1	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+AOMBIHOA_00311	CDS	1599				hypothetical protein
+AOMBIHOA_00312	CDS	492				hypothetical protein
+AOMBIHOA_00313	CDS	915				hypothetical protein
+AOMBIHOA_00314	CDS	399				hypothetical protein
+AOMBIHOA_00315	CDS	1206				hypothetical protein
+AOMBIHOA_00316	CDS	942				hypothetical protein
+AOMBIHOA_00317	CDS	867				hypothetical protein
+AOMBIHOA_00318	CDS	1254				hypothetical protein
+AOMBIHOA_00319	CDS	603				hypothetical protein
+AOMBIHOA_00320	CDS	1077				hypothetical protein
+AOMBIHOA_00321	CDS	495				hypothetical protein
+AOMBIHOA_00322	CDS	1638				hypothetical protein
+AOMBIHOA_00323	CDS	588	drdA	4.1.2.-		5-deoxy-D-ribulose 1-phosphate aldolase
+AOMBIHOA_00324	CDS	171				hypothetical protein
+AOMBIHOA_00325	CDS	249				hypothetical protein
+AOMBIHOA_00326	CDS	1020	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+AOMBIHOA_00327	CDS	1044	cobD		COG1270	Cobalamin biosynthesis protein CobD
+AOMBIHOA_00328	CDS	486				hypothetical protein
+AOMBIHOA_00329	CDS	1152				hypothetical protein
+AOMBIHOA_00330	CDS	951	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+AOMBIHOA_00331	CDS	492				hypothetical protein
+AOMBIHOA_00332	CDS	861	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+AOMBIHOA_00333	CDS	210				hypothetical protein
+AOMBIHOA_00334	CDS	1308	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+AOMBIHOA_00335	CDS	1650	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+AOMBIHOA_00336	CDS	375				hypothetical protein
+AOMBIHOA_00337	CDS	681	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+AOMBIHOA_00338	CDS	426				hypothetical protein
+AOMBIHOA_00339	CDS	1521	cobB_1	6.3.5.11		Hydrogenobyrinate a,c-diamide synthase
+AOMBIHOA_00340	CDS	1371	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+AOMBIHOA_00341	CDS	795				hypothetical protein
+AOMBIHOA_00342	CDS	720	nfo_1	3.1.21.2		endonuclease 4
+AOMBIHOA_00343	CDS	435				hypothetical protein
+AOMBIHOA_00344	CDS	1059	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AOMBIHOA_00345	CDS	1218	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+AOMBIHOA_00346	CDS	1236	bamB			Outer membrane protein assembly factor BamB
+AOMBIHOA_00347	CDS	1536	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+AOMBIHOA_00348	CDS	279				hypothetical protein
+AOMBIHOA_00349	CDS	660				hypothetical protein
+AOMBIHOA_00350	CDS	1035				hypothetical protein
+AOMBIHOA_00351	CDS	1302	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+AOMBIHOA_00352	CDS	777	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+AOMBIHOA_00353	CDS	726				hypothetical protein
+AOMBIHOA_00354	CDS	1101				hypothetical protein
+AOMBIHOA_00355	CDS	1275	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+AOMBIHOA_00356	CDS	1650	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+AOMBIHOA_00357	CDS	1320	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+AOMBIHOA_00358	CDS	1209			COG2081	putative protein
+AOMBIHOA_00359	CDS	630	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+AOMBIHOA_00360	CDS	1272	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+AOMBIHOA_00361	CDS	423				hypothetical protein
+AOMBIHOA_00362	CDS	1728	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+AOMBIHOA_00363	CDS	447	hpr			HTH-type transcriptional regulator Hpr
+AOMBIHOA_00364	CDS	1371				hypothetical protein
+AOMBIHOA_00365	CDS	462				hypothetical protein
+AOMBIHOA_00366	CDS	372				hypothetical protein
+AOMBIHOA_00367	CDS	753				hypothetical protein
+AOMBIHOA_00368	CDS	1365	mepA_1		COG0534	Multidrug export protein MepA
+AOMBIHOA_00369	CDS	1311	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+AOMBIHOA_00370	CDS	906	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+AOMBIHOA_00371	CDS	1692	ilvB_2	2.2.1.6	COG0028	Acetolactate synthase large subunit
+AOMBIHOA_00372	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+AOMBIHOA_00373	CDS	528	csh	3.13.1.5		Carbon disulfide hydrolase
+AOMBIHOA_00374	CDS	993	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+AOMBIHOA_00375	CDS	1005				hypothetical protein
+AOMBIHOA_00376	CDS	198				hypothetical protein
+AOMBIHOA_00377	CDS	144				hypothetical protein
+AOMBIHOA_00378	CDS	777	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+AOMBIHOA_00379	CDS	909				hypothetical protein
+AOMBIHOA_00380	CDS	1098				hypothetical protein
+AOMBIHOA_00381	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+AOMBIHOA_00382	CDS	1827				hypothetical protein
+AOMBIHOA_00383	CDS	1227	ulaD	4.1.1.85		3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+AOMBIHOA_00384	CDS	279				hypothetical protein
+AOMBIHOA_00385	CDS	786				hypothetical protein
+AOMBIHOA_00386	CDS	1545	qacA		COG0477	Antiseptic resistance protein
+AOMBIHOA_00387	CDS	588				hypothetical protein
+AOMBIHOA_00388	CDS	1557	murJ_1		COG2244	Lipid II flippase MurJ
+AOMBIHOA_00389	CDS	693				hypothetical protein
+AOMBIHOA_00390	CDS	579	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+AOMBIHOA_00391	CDS	636				hypothetical protein
+AOMBIHOA_00392	CDS	828				hypothetical protein
+AOMBIHOA_00393	tRNA	73				tRNA-Val(tac)
+AOMBIHOA_00394	CDS	1143	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+AOMBIHOA_00395	CDS	924	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+AOMBIHOA_00396	CDS	834	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+AOMBIHOA_00397	CDS	1068				hypothetical protein
+AOMBIHOA_00398	CDS	462				hypothetical protein
+AOMBIHOA_00399	CDS	1608	OSGEPL1	2.3.1.234		tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial
+AOMBIHOA_00400	CDS	210				hypothetical protein
+AOMBIHOA_00401	CDS	1068				hypothetical protein
+AOMBIHOA_00402	CDS	549		3.6.1.66		dITP/XTP pyrophosphatase
+AOMBIHOA_00403	CDS	399				hypothetical protein
+AOMBIHOA_00404	CDS	1335				hypothetical protein
+AOMBIHOA_00405	CDS	1197				hypothetical protein
+AOMBIHOA_00406	CDS	1383	murD_1	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+AOMBIHOA_00407	CDS	1536	murE	6.3.2.7		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+	repeat_region	638				
+AOMBIHOA_00408	CDS	2319	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+AOMBIHOA_00409	CDS	1134	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+AOMBIHOA_00410	CDS	510	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+AOMBIHOA_00411	CDS	747	frlC	5.1.3.41	COG1082	Fructoselysine 3-epimerase
+AOMBIHOA_00412	CDS	1866				hypothetical protein
+AOMBIHOA_00413	CDS	399	hisI	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase
+AOMBIHOA_00414	CDS	1296	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+AOMBIHOA_00415	CDS	807				hypothetical protein
+AOMBIHOA_00416	CDS	846	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+AOMBIHOA_00417	CDS	684				hypothetical protein
+AOMBIHOA_00418	CDS	1479	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+AOMBIHOA_00419	CDS	948				hypothetical protein
+AOMBIHOA_00420	CDS	378				hypothetical protein
+AOMBIHOA_00421	CDS	960	htpX	3.4.24.-	COG0501	Protease HtpX 
+AOMBIHOA_00422	CDS	726	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+AOMBIHOA_00423	CDS	2856	valS_1	6.1.1.9		Valine--tRNA ligase
+AOMBIHOA_00424	CDS	801	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+AOMBIHOA_00425	CDS	1008	arsA	7.3.2.7		Arsenical pump-driving ATPase
+AOMBIHOA_00426	CDS	219				hypothetical protein
+AOMBIHOA_00427	CDS	3168				hypothetical protein
+AOMBIHOA_00428	CDS	639		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+AOMBIHOA_00429	CDS	2142				hypothetical protein
+AOMBIHOA_00430	CDS	888				hypothetical protein
+AOMBIHOA_00431	CDS	1191	OLA1			Obg-like ATPase 1
+AOMBIHOA_00432	CDS	177				hypothetical protein
+AOMBIHOA_00433	CDS	399				hypothetical protein
+AOMBIHOA_00434	CDS	948				hypothetical protein
+AOMBIHOA_00435	CDS	1068				hypothetical protein
+AOMBIHOA_00436	CDS	597	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+AOMBIHOA_00437	CDS	1365	thiL_2	2.7.4.16		Thiamine-monophosphate kinase
+AOMBIHOA_00438	CDS	432				hypothetical protein
+AOMBIHOA_00439	tRNA	74				tRNA-Arg(gcg)
+AOMBIHOA_00440	CDS	1263	truD	5.4.99.27		tRNA pseudouridine synthase D
+AOMBIHOA_00441	CDS	390				hypothetical protein
+AOMBIHOA_00442	CDS	1224			COG1228	putative protein
+AOMBIHOA_00443	CDS	2448	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+AOMBIHOA_00444	CDS	852				hypothetical protein
+AOMBIHOA_00445	CDS	1353	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+AOMBIHOA_00446	CDS	204				hypothetical protein
+AOMBIHOA_00447	CDS	729				hypothetical protein
+AOMBIHOA_00448	CDS	747				hypothetical protein
+AOMBIHOA_00449	CDS	399				hypothetical protein
+AOMBIHOA_00450	CDS	1509	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+AOMBIHOA_00451	CDS	582	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+AOMBIHOA_00452	CDS	1008	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+AOMBIHOA_00453	CDS	777	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+AOMBIHOA_00454	CDS	1782	trpB_2	4.2.1.20		Tryptophan synthase beta chain
+AOMBIHOA_00455	CDS	774	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+AOMBIHOA_00456	CDS	804				hypothetical protein
+AOMBIHOA_00457	CDS	1350	murT_1	6.3.5.13		Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+AOMBIHOA_00458	CDS	732	gatD	6.3.5.13		Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+AOMBIHOA_00459	CDS	735				hypothetical protein
+AOMBIHOA_00460	CDS	846				hypothetical protein
+AOMBIHOA_00461	CDS	279				hypothetical protein
+AOMBIHOA_00462	CDS	180				hypothetical protein
+AOMBIHOA_00463	CDS	798	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+AOMBIHOA_00464	CDS	177				hypothetical protein
+AOMBIHOA_00465	CDS	771				hypothetical protein
+AOMBIHOA_00466	CDS	600				hypothetical protein
+AOMBIHOA_00467	CDS	1188				hypothetical protein
+AOMBIHOA_00468	CDS	435				hypothetical protein
+AOMBIHOA_00469	CDS	2046	cadA_1	3.6.3.3		Cadmium-transporting ATPase
+AOMBIHOA_00470	CDS	357	ziaR			Transcriptional repressor SmtB 
+AOMBIHOA_00471	tRNA	76				tRNA-Arg(cct)
+AOMBIHOA_00472	tRNA	74				tRNA-Arg(tct)
+AOMBIHOA_00473	CDS	534				hypothetical protein
+AOMBIHOA_00474	CDS	1218	hoxH_1	1.12.1.2		NAD-reducing hydrogenase HoxS subunit beta
+AOMBIHOA_00475	CDS	474				hypothetical protein
+AOMBIHOA_00476	CDS	831				hypothetical protein
+AOMBIHOA_00477	CDS	858				hypothetical protein
+AOMBIHOA_00478	CDS	921		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+AOMBIHOA_00479	CDS	402				hypothetical protein
+AOMBIHOA_00480	CDS	525				hypothetical protein
+AOMBIHOA_00481	tRNA	76				tRNA-Met(cat)
+AOMBIHOA_00482	CDS	2223				hypothetical protein
+AOMBIHOA_00483	CDS	2574				hypothetical protein
+AOMBIHOA_00484	CDS	4476				hypothetical protein
+AOMBIHOA_00485	CDS	5751				hypothetical protein
+AOMBIHOA_00486	CDS	6285				hypothetical protein
+AOMBIHOA_00487	CDS	5826				hypothetical protein
+AOMBIHOA_00488	CDS	1149	dnaJ			Chaperone protein DnaJ
+AOMBIHOA_00489	CDS	1881	dnaK		COG0443	Chaperone protein DnaK
+AOMBIHOA_00490	CDS	558	grpE			Protein GrpE
+AOMBIHOA_00491	CDS	585				hypothetical protein
+AOMBIHOA_00492	CDS	2250	hypF	6.2.-.-	COG0068	Carbamoyltransferase HypF
+AOMBIHOA_00493	CDS	762	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+AOMBIHOA_00494	CDS	570				hypothetical protein
+AOMBIHOA_00495	CDS	291	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+AOMBIHOA_00496	CDS	801	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AOMBIHOA_00497	CDS	1350	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+AOMBIHOA_00498	CDS	333				hypothetical protein
+AOMBIHOA_00499	CDS	990		1.8.-.-	COG0502	[FeFe] hydrogenase maturase subunit HydE
+AOMBIHOA_00500	tRNA	74				tRNA-Asn(gtt)
+AOMBIHOA_00501	tRNA	76				tRNA-Met(cat)
+AOMBIHOA_00502	tRNA	77				tRNA-Glu(ttc)
+AOMBIHOA_00503	tRNA	83				tRNA-Leu(tag)
+AOMBIHOA_00504	tRNA	76				tRNA-His(gtg)
+AOMBIHOA_00505	CDS	408				hypothetical protein
+AOMBIHOA_00506	CDS	609	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+AOMBIHOA_00507	CDS	651	trkA		COG0569	Trk system potassium uptake protein TrkA
+AOMBIHOA_00508	CDS	1437	trkG		COG0168	Trk system potassium uptake protein TrkG
+AOMBIHOA_00509	CDS	1053				hypothetical protein
+AOMBIHOA_00510	CDS	891	fhcD_1	2.3.1.101	COG2037	Formyltransferase/hydrolase complex subunit D
+AOMBIHOA_00511	CDS	1518	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+AOMBIHOA_00512	CDS	729	sfsA		COG1489	Sugar fermentation stimulation protein A
+AOMBIHOA_00513	CDS	723	cobB_2	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+AOMBIHOA_00514	CDS	1500				hypothetical protein
+AOMBIHOA_00515	CDS	771	aqpZ		COG0580	Aquaporin Z
+AOMBIHOA_00516	CDS	1176	argG	6.3.4.5		Argininosuccinate synthase
+AOMBIHOA_00517	CDS	720				hypothetical protein
+AOMBIHOA_00518	CDS	720				hypothetical protein
+AOMBIHOA_00519	CDS	1977	recD	3.1.11.5		RecBCD enzyme subunit RecD
+AOMBIHOA_00520	CDS	747				hypothetical protein
+AOMBIHOA_00521	CDS	717				hypothetical protein
+AOMBIHOA_00522	CDS	948	acr3		COG0798	Arsenical-resistance protein Acr3
+AOMBIHOA_00523	CDS	315				hypothetical protein
+AOMBIHOA_00524	CDS	264				hypothetical protein
+AOMBIHOA_00525	CDS	432				hypothetical protein
+AOMBIHOA_00526	CDS	234				hypothetical protein
+AOMBIHOA_00527	CDS	387				hypothetical protein
+AOMBIHOA_00528	CDS	1458	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+AOMBIHOA_00529	CDS	336				hypothetical protein
+AOMBIHOA_00530	CDS	279				hypothetical protein
+AOMBIHOA_00531	CDS	474				hypothetical protein
+AOMBIHOA_00532	CDS	249				hypothetical protein
+AOMBIHOA_00533	CDS	1416	rsxB_3	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AOMBIHOA_00534	CDS	486	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+AOMBIHOA_00535	CDS	447	hycG_1		COG3260	Formate hydrogenlyase subunit 7
+AOMBIHOA_00536	CDS	1128	hyfG	1.-.-.-	COG3261	Hydrogenase-4 component G
+AOMBIHOA_00537	CDS	999	ndhA_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+AOMBIHOA_00538	CDS	228				hypothetical protein
+AOMBIHOA_00539	CDS	660				hypothetical protein
+AOMBIHOA_00540	CDS	795				hypothetical protein
+AOMBIHOA_00541	CDS	1074				hypothetical protein
+AOMBIHOA_00542	CDS	594				hypothetical protein
+AOMBIHOA_00543	CDS	522				hypothetical protein
+AOMBIHOA_00544	CDS	699	queE_2	4.3.99.3		7-carboxy-7-deazaguanine synthase
+AOMBIHOA_00545	CDS	939	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AOMBIHOA_00546	CDS	819	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AOMBIHOA_00547	CDS	807	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+AOMBIHOA_00548	CDS	672				hypothetical protein
+AOMBIHOA_00549	CDS	570				hypothetical protein
+AOMBIHOA_00550	CDS	507	coaBC_2	6.3.2.5		Coenzyme A biosynthesis bifunctional protein CoaBC
+AOMBIHOA_00551	CDS	615	coaBC_3		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+AOMBIHOA_00552	CDS	642				hypothetical protein
+AOMBIHOA_00553	CDS	1164				hypothetical protein
+AOMBIHOA_00554	CDS	558				hypothetical protein
+AOMBIHOA_00555	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+AOMBIHOA_00556	CDS	807	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+AOMBIHOA_00557	CDS	1047				hypothetical protein
+AOMBIHOA_00558	CDS	1788				hypothetical protein
+AOMBIHOA_00559	CDS	1029	allD	1.1.1.350	COG2055	Ureidoglycolate dehydrogenase (NAD(+))
+AOMBIHOA_00560	CDS	1020	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+AOMBIHOA_00561	CDS	1911	rnj	3.1.-.-		Ribonuclease J
+AOMBIHOA_00562	CDS	615	prcB	3.4.25.1	COG0638	Proteasome subunit beta
+AOMBIHOA_00563	CDS	738				hypothetical protein
+AOMBIHOA_00564	CDS	1083	fbiC_1		COG1060	FO synthase
+AOMBIHOA_00565	CDS	441				hypothetical protein
+AOMBIHOA_00566	CDS	936	folE2	3.5.4.16	COG1469	GTP cyclohydrolase FolE2
+AOMBIHOA_00567	CDS	477	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+AOMBIHOA_00568	CDS	1167	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+AOMBIHOA_00569	CDS	1107	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+AOMBIHOA_00570	CDS	306				hypothetical protein
+AOMBIHOA_00571	CDS	867	ttuA_2	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+AOMBIHOA_00572	CDS	942	yrbG		COG0530	Inner membrane protein YrbG
+AOMBIHOA_00573	CDS	1332				hypothetical protein
+AOMBIHOA_00574	CDS	213				hypothetical protein
+AOMBIHOA_00575	CDS	1179				hypothetical protein
+AOMBIHOA_00576	CDS	693	comB	3.1.3.71	COG2045	putative 2-phosphosulfolactate phosphatase
+AOMBIHOA_00577	CDS	516				hypothetical protein
+AOMBIHOA_00578	CDS	921				hypothetical protein
+AOMBIHOA_00579	CDS	1248				hypothetical protein
+AOMBIHOA_00580	CDS	1332				hypothetical protein
+AOMBIHOA_00581	CDS	453				hypothetical protein
+AOMBIHOA_00582	CDS	600				hypothetical protein
+AOMBIHOA_00583	CDS	762				hypothetical protein
+AOMBIHOA_00584	CDS	1656				hypothetical protein
+AOMBIHOA_00585	CDS	879				hypothetical protein
+AOMBIHOA_00586	CDS	702				hypothetical protein
+AOMBIHOA_00587	CDS	813				hypothetical protein
+AOMBIHOA_00588	CDS	330				hypothetical protein
+AOMBIHOA_00589	CDS	717				hypothetical protein
+AOMBIHOA_00590	CDS	207				hypothetical protein
+AOMBIHOA_00591	CDS	246				hypothetical protein
+AOMBIHOA_00592	CDS	939	mtgA_2	2.1.1.-	COG1962	Methylcorrinoid:tetrahydrofolate methyltransferase
+AOMBIHOA_00593	CDS	1470				hypothetical protein
+AOMBIHOA_00594	CDS	618	ispD	2.7.7.60		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+AOMBIHOA_00595	CDS	267				hypothetical protein
+AOMBIHOA_00596	CDS	759	sufC		COG0396	Vegetative protein 296
+AOMBIHOA_00597	CDS	1236				hypothetical protein
+AOMBIHOA_00598	CDS	426				hypothetical protein
+AOMBIHOA_00599	CDS	927				hypothetical protein
+AOMBIHOA_00600	CDS	1425	hoxH_2	1.12.1.2		NAD-reducing hydrogenase HoxS subunit beta
+AOMBIHOA_00601	CDS	1242	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+AOMBIHOA_00602	CDS	1245	lhyD	3.5.2.-		L-hydantoinase
+AOMBIHOA_00603	CDS	2391				hypothetical protein
+AOMBIHOA_00604	CDS	2853				hypothetical protein
+AOMBIHOA_00605	CDS	1083	tmcAL	6.3.4.-		tRNA(Met) cytidine acetate ligase
+AOMBIHOA_00606	CDS	1350				hypothetical protein
+AOMBIHOA_00607	CDS	234				hypothetical protein
+AOMBIHOA_00608	CDS	93				hypothetical protein
+AOMBIHOA_00609	CDS	1545				hypothetical protein
+AOMBIHOA_00610	CDS	750	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+AOMBIHOA_00611	CDS	483				hypothetical protein
+AOMBIHOA_00612	CDS	2283	ppsA	2.7.9.2	COG0574	Phosphoenolpyruvate synthase
+AOMBIHOA_00613	CDS	1158	hdc	4.1.1.22		Histidine decarboxylase
+AOMBIHOA_00614	CDS	951	cbh	3.5.1.24		Choloylglycine hydrolase
+AOMBIHOA_00615	CDS	1203				hypothetical protein
+AOMBIHOA_00616	CDS	846				hypothetical protein
+AOMBIHOA_00617	CDS	387				hypothetical protein
+AOMBIHOA_00618	CDS	369				hypothetical protein
+AOMBIHOA_00619	CDS	723				hypothetical protein
+AOMBIHOA_00620	CDS	1173				hypothetical protein
+AOMBIHOA_00621	CDS	699				hypothetical protein
+AOMBIHOA_00622	CDS	636				hypothetical protein
+AOMBIHOA_00623	CDS	1074	mreB			Cell shape-determining protein MreB
+AOMBIHOA_00624	CDS	624	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+AOMBIHOA_00625	CDS	840	tolQ			Tol-Pal system protein TolQ
+AOMBIHOA_00626	CDS	417				hypothetical protein
+AOMBIHOA_00627	CDS	627				hypothetical protein
+AOMBIHOA_00628	CDS	765	fbiB		COG0778	Bifunctional F420 biosynthesis protein FbiB
+AOMBIHOA_00629	CDS	906	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+AOMBIHOA_00630	CDS	765				hypothetical protein
+AOMBIHOA_00631	CDS	711	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+AOMBIHOA_00632	CDS	1596	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+AOMBIHOA_00633	CDS	315				hypothetical protein
+AOMBIHOA_00634	CDS	483				hypothetical protein
+AOMBIHOA_00635	CDS	627	sirC	1.3.1.76	COG1648	Precorrin-2 dehydrogenase
+AOMBIHOA_00636	CDS	1200	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+AOMBIHOA_00637	CDS	1125	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+AOMBIHOA_00638	CDS	759	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+AOMBIHOA_00639	CDS	117				hypothetical protein
+AOMBIHOA_00640	CDS	1071	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+AOMBIHOA_00641	CDS	822	nfo_2	3.1.21.2		endonuclease 4
+AOMBIHOA_00642	CDS	1017				hypothetical protein
+AOMBIHOA_00643	CDS	213	copZ			Copper chaperone CopZ
+AOMBIHOA_00644	CDS	1827	cadA_2	3.6.3.3		putative cadmium-transporting ATPase
+AOMBIHOA_00645	CDS	261	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+AOMBIHOA_00646	CDS	426				hypothetical protein
+AOMBIHOA_00647	CDS	1863				hypothetical protein
+AOMBIHOA_00648	CDS	1101	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+AOMBIHOA_00649	CDS	1701	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+AOMBIHOA_00650	CDS	621				hypothetical protein
+AOMBIHOA_00651	CDS	900				hypothetical protein
+AOMBIHOA_00652	CDS	774				hypothetical protein
+AOMBIHOA_00653	CDS	345				hypothetical protein
+AOMBIHOA_00654	CDS	1230	moeA_2	2.10.1.1		Molybdopterin molybdenumtransferase
+AOMBIHOA_00655	CDS	462				hypothetical protein
+AOMBIHOA_00656	CDS	255				hypothetical protein
+AOMBIHOA_00657	CDS	1311	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+AOMBIHOA_00658	CDS	705	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+AOMBIHOA_00659	CDS	1047	hypD		COG0409	Hydrogenase maturation factor HypD
+AOMBIHOA_00660	CDS	1668	kdsB_1	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+AOMBIHOA_00661	CDS	1521				hypothetical protein
+AOMBIHOA_00662	CDS	1578				hypothetical protein
+AOMBIHOA_00663	CDS	852	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+AOMBIHOA_00664	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+AOMBIHOA_00665	CDS	1710	oadA	7.2.4.2	COG0511	Oxaloacetate decarboxylase alpha chain
+AOMBIHOA_00666	CDS	105				hypothetical protein
+AOMBIHOA_00667	CDS	201				hypothetical protein
+AOMBIHOA_00668	CDS	492				hypothetical protein
+AOMBIHOA_00669	CDS	684	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+AOMBIHOA_00670	CDS	1182	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+AOMBIHOA_00671	CDS	1101				hypothetical protein
+AOMBIHOA_00672	CDS	774	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+AOMBIHOA_00673	CDS	543				hypothetical protein
+AOMBIHOA_00674	CDS	156				hypothetical protein
+AOMBIHOA_00675	CDS	1497				hypothetical protein
+AOMBIHOA_00676	CDS	1470				hypothetical protein
+AOMBIHOA_00677	CDS	1095				hypothetical protein
+AOMBIHOA_00678	CDS	732				hypothetical protein
+AOMBIHOA_00679	CDS	492	ttdB_1	4.2.1.32	COG1838	L(+)-tartrate dehydratase subunit beta
+AOMBIHOA_00680	CDS	210				hypothetical protein
+AOMBIHOA_00681	CDS	1128	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+AOMBIHOA_00682	CDS	873				hypothetical protein
+AOMBIHOA_00683	CDS	543				hypothetical protein
+AOMBIHOA_00684	CDS	1116	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+AOMBIHOA_00685	CDS	663				hypothetical protein
+AOMBIHOA_00686	CDS	915				hypothetical protein
+AOMBIHOA_00687	CDS	747				hypothetical protein
+AOMBIHOA_00688	CDS	348				hypothetical protein
+AOMBIHOA_00689	CDS	669	tpiA			Triosephosphate isomerase
+AOMBIHOA_00690	CDS	1230	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+AOMBIHOA_00691	CDS	630	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+AOMBIHOA_00692	CDS	864	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+AOMBIHOA_00693	CDS	747				hypothetical protein
+AOMBIHOA_00694	CDS	327				hypothetical protein
+AOMBIHOA_00695	CDS	651				hypothetical protein
+AOMBIHOA_00696	CDS	129				hypothetical protein
+AOMBIHOA_00697	CDS	273				hypothetical protein
+AOMBIHOA_00698	tRNA	74				tRNA-Thr(tgt)
+AOMBIHOA_00699	tRNA	77				tRNA-Pro(tgg)
+AOMBIHOA_00700	tRNA	76				tRNA-Tyr(gta)
+AOMBIHOA_00701	tRNA	73				tRNA-Asp(gtc)
+AOMBIHOA_00702	tRNA	74				tRNA-Lys(ttt)
+AOMBIHOA_00703	CDS	234				hypothetical protein
+AOMBIHOA_00704	CDS	1545	rpoB_1	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+AOMBIHOA_00705	CDS	1812	rpoB_2	2.7.7.6		DNA-directed RNA polymerase subunit beta
+AOMBIHOA_00706	CDS	2685	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+AOMBIHOA_00707	CDS	1212	rpoC2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+AOMBIHOA_00708	CDS	297				hypothetical protein
+AOMBIHOA_00709	CDS	432	nusA			Transcription termination/antitermination protein NusA
+AOMBIHOA_00710	CDS	426				hypothetical protein
+AOMBIHOA_00711	CDS	561				hypothetical protein
+AOMBIHOA_00712	CDS	2175	fusA		COG0480	Elongation factor G
+AOMBIHOA_00713	CDS	1242	tuf		COG0050	Elongation factor Tu
+AOMBIHOA_00714	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+AOMBIHOA_00715	tRNA	85				tRNA-Ser(tga)
+AOMBIHOA_00716	CDS	795	cbiJ	1.3.1.106	COG2099	Cobalt-precorrin-6A reductase
+AOMBIHOA_00717	CDS	2457		7.2.2.10		Calcium-transporting ATPase 1
+AOMBIHOA_00718	CDS	387				hypothetical protein
+AOMBIHOA_00719	CDS	438				hypothetical protein
+AOMBIHOA_00720	CDS	528				hypothetical protein
+AOMBIHOA_00721	CDS	1239				hypothetical protein
+AOMBIHOA_00722	CDS	288				hypothetical protein
+AOMBIHOA_00723	CDS	1335	gdh	1.4.1.4	COG0334	NADP-specific glutamate dehydrogenase
+AOMBIHOA_00724	CDS	420			COG0589	Universal stress protein
+AOMBIHOA_00725	CDS	471				hypothetical protein
+AOMBIHOA_00726	CDS	5193				hypothetical protein
+AOMBIHOA_00727	CDS	2268				hypothetical protein
+AOMBIHOA_00728	CDS	606	pyrE_2	2.4.2.10		Orotate phosphoribosyltransferase
+AOMBIHOA_00729	CDS	957	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+AOMBIHOA_00730	CDS	870	hemC	2.5.1.61		Porphobilinogen deaminase
+AOMBIHOA_00731	CDS	1416	murC_1	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+AOMBIHOA_00732	CDS	1839	nadK	2.7.1.23		NAD kinase
+AOMBIHOA_00733	CDS	462	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+AOMBIHOA_00734	CDS	390				hypothetical protein
+AOMBIHOA_00735	CDS	876	speB	3.5.3.11	COG0010	Agmatinase
+AOMBIHOA_00736	CDS	1224				hypothetical protein
+AOMBIHOA_00737	CDS	1716	ade	3.5.4.2	COG1001	Adenine deaminase
+AOMBIHOA_00738	CDS	627				hypothetical protein
+AOMBIHOA_00739	CDS	1008	frlB	3.5.-.-	COG2222	Fructoselysine 6-phosphate deglycase
+AOMBIHOA_00740	CDS	591				hypothetical protein
+AOMBIHOA_00741	CDS	1008	der			GTPase Der
+AOMBIHOA_00742	CDS	468				hypothetical protein
+AOMBIHOA_00743	CDS	93				hypothetical protein
+AOMBIHOA_00744	CDS	2577	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+AOMBIHOA_00745	CDS	558				hypothetical protein
+AOMBIHOA_00746	CDS	1371	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+AOMBIHOA_00747	CDS	1200				hypothetical protein
+AOMBIHOA_00748	CDS	480	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+AOMBIHOA_00749	CDS	495				hypothetical protein
+AOMBIHOA_00750	CDS	1020	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+AOMBIHOA_00751	CDS	462	hldE_1	2.7.7.70		Bifunctional protein HldE
+AOMBIHOA_00752	CDS	738	hisA_1	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+AOMBIHOA_00753	CDS	705			COG1136	putative ABC transporter ATP-binding protein
+AOMBIHOA_00754	CDS	2268				hypothetical protein
+AOMBIHOA_00755	CDS	867	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+AOMBIHOA_00756	CDS	249				hypothetical protein
+AOMBIHOA_00757	CDS	1323	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+AOMBIHOA_00758	CDS	1098				hypothetical protein
+AOMBIHOA_00759	CDS	1023				hypothetical protein
+AOMBIHOA_00760	CDS	567				hypothetical protein
+AOMBIHOA_00761	CDS	1497	moaA_2			GTP 3',8-cyclase
+AOMBIHOA_00762	CDS	990				hypothetical protein
+AOMBIHOA_00763	CDS	486	DmdB_2	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+AOMBIHOA_00764	CDS	627				hypothetical protein
+AOMBIHOA_00765	CDS	1281	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+AOMBIHOA_00766	CDS	201				hypothetical protein
+AOMBIHOA_00767	tRNA	72				tRNA-Val(gac)
+AOMBIHOA_00768	tRNA	75				tRNA-Phe(gaa)
+AOMBIHOA_00769	CDS	723	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+AOMBIHOA_00770	CDS	1665		2.3.1.-		tRNA uridine(34) acetyltransferase
+AOMBIHOA_00771	CDS	279				hypothetical protein
+AOMBIHOA_00772	CDS	297				hypothetical protein
+AOMBIHOA_00773	CDS	2082				hypothetical protein
+AOMBIHOA_00774	CDS	261				hypothetical protein
+AOMBIHOA_00775	CDS	1086	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+AOMBIHOA_00776	CDS	1080	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+AOMBIHOA_00777	CDS	870	thrB	2.7.1.39		Homoserine kinase
+AOMBIHOA_00778	CDS	336				hypothetical protein
+AOMBIHOA_00779	CDS	198				hypothetical protein
+AOMBIHOA_00780	CDS	1221	ask	2.7.2.4	COG0527	Aspartokinase
+AOMBIHOA_00781	CDS	894	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+AOMBIHOA_00782	CDS	822	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+AOMBIHOA_00783	CDS	1050	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+AOMBIHOA_00784	CDS	852				hypothetical protein
+AOMBIHOA_00785	CDS	621	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+AOMBIHOA_00786	CDS	1620	groL_1		COG0459	60 kDa chaperonin
+AOMBIHOA_00787	CDS	1023				hypothetical protein
+AOMBIHOA_00788	CDS	465				hypothetical protein
+AOMBIHOA_00789	CDS	2649				hypothetical protein
+AOMBIHOA_00790	CDS	234				hypothetical protein
+AOMBIHOA_00791	CDS	525	pyrE_3	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+AOMBIHOA_00792	CDS	507	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+AOMBIHOA_00793	CDS	291				hypothetical protein
+AOMBIHOA_00794	CDS	810				hypothetical protein
+AOMBIHOA_00795	CDS	792				hypothetical protein
+AOMBIHOA_00796	CDS	501				hypothetical protein
+AOMBIHOA_00797	CDS	1134				hypothetical protein
+AOMBIHOA_00798	CDS	1005	thiL_3	2.7.4.16		Thiamine-monophosphate kinase
+AOMBIHOA_00799	CDS	1542				hypothetical protein
+AOMBIHOA_00800	CDS	477				hypothetical protein
+AOMBIHOA_00801	CDS	444				hypothetical protein
+AOMBIHOA_00802	CDS	1242				hypothetical protein
+AOMBIHOA_00803	CDS	561				hypothetical protein
+AOMBIHOA_00804	CDS	867	nifB	4.-.-.-	COG0535	FeMo cofactor biosynthesis protein NifB
+AOMBIHOA_00805	CDS	822	fliY		COG0834	L-cystine-binding protein FliY
+AOMBIHOA_00806	CDS	651	tcyB		COG0765	L-cystine transport system permease protein TcyB
+AOMBIHOA_00807	CDS	684	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+AOMBIHOA_00808	CDS	930	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+AOMBIHOA_00809	CDS	816				hypothetical protein
+AOMBIHOA_00810	CDS	1008	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+AOMBIHOA_00811	CDS	813				hypothetical protein
+AOMBIHOA_00812	CDS	156				hypothetical protein
+AOMBIHOA_00813	CDS	924				hypothetical protein
+AOMBIHOA_00814	CDS	426				hypothetical protein
+AOMBIHOA_00815	CDS	753				hypothetical protein
+AOMBIHOA_00816	CDS	1026				hypothetical protein
+AOMBIHOA_00817	CDS	897	sdhE_1	1.3.5.-	COG2048	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+AOMBIHOA_00818	CDS	267				hypothetical protein
+AOMBIHOA_00819	CDS	525				hypothetical protein
+AOMBIHOA_00820	CDS	690	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+AOMBIHOA_00821	CDS	933				hypothetical protein
+AOMBIHOA_00822	CDS	390	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AOMBIHOA_00823	tRNA	86				tRNA-Ser(gct)
+AOMBIHOA_00824	CDS	906			COG0053	putative cation efflux system protein
+AOMBIHOA_00825	CDS	1113	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+AOMBIHOA_00826	CDS	1545				hypothetical protein
+AOMBIHOA_00827	CDS	3339				hypothetical protein
+AOMBIHOA_00828	CDS	459				hypothetical protein
+AOMBIHOA_00829	CDS	192				hypothetical protein
+AOMBIHOA_00830	CDS	1008	ndhI_4	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+AOMBIHOA_00831	CDS	174				hypothetical protein
+AOMBIHOA_00832	CDS	210				hypothetical protein
+AOMBIHOA_00833	CDS	1128				hypothetical protein
+AOMBIHOA_00834	CDS	720				hypothetical protein
+AOMBIHOA_00835	CDS	2007	rqcH		COG1293	Rqc2 RqcH
+AOMBIHOA_00836	CDS	273				hypothetical protein
+AOMBIHOA_00837	CDS	1821				hypothetical protein
+AOMBIHOA_00838	CDS	975	rhaR			HTH-type transcriptional activator RhaR
+AOMBIHOA_00839	CDS	984				hypothetical protein
+AOMBIHOA_00840	CDS	855	irtA	3.6.3.-	COG1132	Iron import ATP-binding/permease protein IrtA
+AOMBIHOA_00841	CDS	1746			COG1132	putative ABC transporter ATP-binding protein
+AOMBIHOA_00842	CDS	582				hypothetical protein
+AOMBIHOA_00843	CDS	720	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+AOMBIHOA_00844	CDS	1302	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+AOMBIHOA_00845	CDS	522	ttdB_2	4.2.1.32	COG1838	L(+)-tartrate dehydratase subunit beta
+AOMBIHOA_00846	CDS	327				hypothetical protein
+AOMBIHOA_00847	CDS	1155				hypothetical protein
+AOMBIHOA_00848	CDS	918	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+AOMBIHOA_00849	CDS	1494	accC	6.3.4.14	COG0439	Biotin carboxylase
+AOMBIHOA_00850	CDS	615				hypothetical protein
+AOMBIHOA_00851	CDS	828				hypothetical protein
+AOMBIHOA_00852	CDS	1011	rplC			50S ribosomal protein L3
+AOMBIHOA_00853	CDS	765				hypothetical protein
+AOMBIHOA_00854	CDS	261				hypothetical protein
+AOMBIHOA_00855	CDS	726				hypothetical protein
+AOMBIHOA_00856	CDS	411				hypothetical protein
+AOMBIHOA_00857	CDS	465	rplV		COG0091	50S ribosomal protein L22
+AOMBIHOA_00858	CDS	753				hypothetical protein
+AOMBIHOA_00859	CDS	207				hypothetical protein
+AOMBIHOA_00860	CDS	342				hypothetical protein
+AOMBIHOA_00861	CDS	279				hypothetical protein
+AOMBIHOA_00862	CDS	318				hypothetical protein
+AOMBIHOA_00863	CDS	399				hypothetical protein
+AOMBIHOA_00864	CDS	354				hypothetical protein
+AOMBIHOA_00865	CDS	729				hypothetical protein
+AOMBIHOA_00866	CDS	513				hypothetical protein
+AOMBIHOA_00867	CDS	393	rpsH			30S ribosomal protein S8
+AOMBIHOA_00868	CDS	537	rplF		COG0097	50S ribosomal protein L6
+AOMBIHOA_00869	CDS	330				hypothetical protein
+AOMBIHOA_00870	CDS	447				hypothetical protein
+AOMBIHOA_00871	CDS	582				hypothetical protein
+AOMBIHOA_00872	CDS	642				hypothetical protein
+AOMBIHOA_00873	CDS	459				hypothetical protein
+AOMBIHOA_00874	CDS	438				hypothetical protein
+AOMBIHOA_00875	CDS	1365	secY		COG0201	Protein translocase subunit SecY
+AOMBIHOA_00876	CDS	561				hypothetical protein
+AOMBIHOA_00877	CDS	576				hypothetical protein
+AOMBIHOA_00878	CDS	267				hypothetical protein
+AOMBIHOA_00879	CDS	519	cmk_1	2.7.4.25		Cytidylate kinase
+AOMBIHOA_00880	CDS	222				hypothetical protein
+AOMBIHOA_00881	CDS	963	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+AOMBIHOA_00882	CDS	7401	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+AOMBIHOA_00883	CDS	1785				hypothetical protein
+AOMBIHOA_00884	CDS	564	lemA		COG1704	Protein LemA
+AOMBIHOA_00885	CDS	906	ppx1	3.6.1.11	COG0248	Exopolyphosphatase 1
+AOMBIHOA_00886	CDS	2142	ppk	2.7.4.1		Polyphosphate kinase
+AOMBIHOA_00887	tRNA	87				tRNA-Ser(gga)
+AOMBIHOA_00888	CDS	444				hypothetical protein
+AOMBIHOA_00889	CDS	537				hypothetical protein
+AOMBIHOA_00890	CDS	393	rpsK		COG0100	30S ribosomal protein S11
+AOMBIHOA_00891	CDS	825				hypothetical protein
+AOMBIHOA_00892	CDS	366				hypothetical protein
+AOMBIHOA_00893	CDS	423				hypothetical protein
+AOMBIHOA_00894	CDS	402	rpsI		COG0103	30S ribosomal protein S9
+AOMBIHOA_00895	CDS	171				hypothetical protein
+AOMBIHOA_00896	CDS	183				hypothetical protein
+AOMBIHOA_00897	CDS	1245	eno2	4.2.1.11	COG0148	Enolase 2
+AOMBIHOA_00898	CDS	195				hypothetical protein
+AOMBIHOA_00899	CDS	597	rpsB			30S ribosomal protein S2
+AOMBIHOA_00900	CDS	849				hypothetical protein
+AOMBIHOA_00901	CDS	963	galK	2.7.1.6		Galactokinase
+AOMBIHOA_00902	CDS	807	proB	2.7.2.11		Glutamate 5-kinase
+AOMBIHOA_00903	CDS	1047	fni	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+AOMBIHOA_00904	CDS	1365	rnj1	3.1.-.-		Ribonuclease J 1
+AOMBIHOA_00905	CDS	993		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+AOMBIHOA_00906	CDS	1518				hypothetical protein
+AOMBIHOA_00907	CDS	786				hypothetical protein
+AOMBIHOA_00908	CDS	1296	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+AOMBIHOA_00909	CDS	330				hypothetical protein
+AOMBIHOA_00910	CDS	819	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+AOMBIHOA_00911	CDS	1080				hypothetical protein
+AOMBIHOA_00912	CDS	1029				hypothetical protein
+AOMBIHOA_00913	CDS	1008				hypothetical protein
+AOMBIHOA_00914	CDS	1668	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+AOMBIHOA_00915	CDS	459				hypothetical protein
+AOMBIHOA_00916	CDS	1716				hypothetical protein
+AOMBIHOA_00917	CDS	1236	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+AOMBIHOA_00918	CDS	696				hypothetical protein
+AOMBIHOA_00919	CDS	585				hypothetical protein
+AOMBIHOA_00920	CDS	585				hypothetical protein
+AOMBIHOA_00921	CDS	1383	ribZ_1			Riboflavin transporter RibZ
+AOMBIHOA_00922	CDS	1392	ribZ_2			Riboflavin transporter RibZ
+AOMBIHOA_00923	CDS	615				hypothetical protein
+AOMBIHOA_00924	CDS	1023	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+AOMBIHOA_00925	CDS	951	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+AOMBIHOA_00926	CDS	450				hypothetical protein
+AOMBIHOA_00927	CDS	2097	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+AOMBIHOA_00928	CDS	921				hypothetical protein
+AOMBIHOA_00929	CDS	921	rbn	3.1.26.11		Ribonuclease BN
+AOMBIHOA_00930	CDS	1095	aroC	4.2.3.5	COG0082	Chorismate synthase
+AOMBIHOA_00931	CDS	711	nth	4.2.99.18		Endonuclease III
+AOMBIHOA_00932	CDS	1002	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+AOMBIHOA_00933	CDS	885	citG	2.4.2.52		2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+AOMBIHOA_00934	CDS	1545				hypothetical protein
+AOMBIHOA_00935	CDS	774	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+AOMBIHOA_00936	CDS	702	yjjG	3.1.3.5	COG1011	Pyrimidine 5'-nucleotidase YjjG
+AOMBIHOA_00937	CDS	684				hypothetical protein
+AOMBIHOA_00938	CDS	348				hypothetical protein
+AOMBIHOA_00939	CDS	939	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+AOMBIHOA_00940	CDS	1155				hypothetical protein
+AOMBIHOA_00941	CDS	387				hypothetical protein
+AOMBIHOA_00942	CDS	378				hypothetical protein
+AOMBIHOA_00943	CDS	504				hypothetical protein
+AOMBIHOA_00944	CDS	621	cbiM_1			Cobalt transport protein CbiM
+AOMBIHOA_00945	CDS	2844				hypothetical protein
+AOMBIHOA_00946	CDS	486				hypothetical protein
+AOMBIHOA_00947	CDS	1020	hypE	4.2.1.-	COG0309	Carbamoyl dehydratase HypE
+AOMBIHOA_00948	CDS	405				hypothetical protein
+AOMBIHOA_00949	CDS	642				hypothetical protein
+AOMBIHOA_00950	CDS	486	nucH	3.1.31.1		Thermonuclease
+AOMBIHOA_00951	CDS	684				hypothetical protein
+AOMBIHOA_00952	CDS	1335	pqqE	1.21.98.4		PqqA peptide cyclase
+AOMBIHOA_00953	CDS	1290	cshA	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshA
+AOMBIHOA_00954	CDS	804				hypothetical protein
+AOMBIHOA_00955	CDS	1422				hypothetical protein
+AOMBIHOA_00956	CDS	270				hypothetical protein
+AOMBIHOA_00957	CDS	1095	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+AOMBIHOA_00958	CDS	1104				hypothetical protein
+AOMBIHOA_00959	CDS	774				hypothetical protein
+AOMBIHOA_00960	CDS	150				hypothetical protein
+AOMBIHOA_00961	CDS	177				hypothetical protein
+AOMBIHOA_00962	CDS	1023	arnC_4	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+AOMBIHOA_00963	CDS	252				hypothetical protein
+AOMBIHOA_00964	CDS	378				hypothetical protein
+AOMBIHOA_00965	CDS	234				hypothetical protein
+AOMBIHOA_00966	CDS	585				hypothetical protein
+AOMBIHOA_00967	CDS	720				hypothetical protein
+AOMBIHOA_00968	CDS	327				hypothetical protein
+AOMBIHOA_00969	CDS	186				hypothetical protein
+AOMBIHOA_00970	CDS	462				hypothetical protein
+AOMBIHOA_00971	CDS	300				hypothetical protein
+AOMBIHOA_00972	CDS	240				hypothetical protein
+AOMBIHOA_00973	CDS	720	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+AOMBIHOA_00974	CDS	1044				hypothetical protein
+AOMBIHOA_00975	CDS	1074		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+AOMBIHOA_00976	CDS	1320	hldE_2	2.7.7.70		Bifunctional protein HldE
+AOMBIHOA_00977	CDS	852				hypothetical protein
+AOMBIHOA_00978	CDS	723				hypothetical protein
+AOMBIHOA_00979	CDS	1296	prpB	4.1.3.30		2-methylisocitrate lyase
+AOMBIHOA_00980	CDS	1131				hypothetical protein
+AOMBIHOA_00981	CDS	1119	gbsB	1.1.1.-	COG1454	Choline dehydrogenase
+AOMBIHOA_00982	CDS	972				hypothetical protein
+AOMBIHOA_00983	CDS	648				hypothetical protein
+AOMBIHOA_00984	CDS	663				hypothetical protein
+AOMBIHOA_00985	CDS	1287				hypothetical protein
+AOMBIHOA_00986	CDS	348				hypothetical protein
+AOMBIHOA_00987	CDS	729				hypothetical protein
+AOMBIHOA_00988	CDS	537				hypothetical protein
+AOMBIHOA_00989	CDS	1497				hypothetical protein
+AOMBIHOA_00990	CDS	1491				hypothetical protein
+AOMBIHOA_00991	CDS	2589				hypothetical protein
+AOMBIHOA_00992	CDS	12309				hypothetical protein
+AOMBIHOA_00993	CDS	996	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+AOMBIHOA_00994	CDS	1152	pseC	2.6.1.92	COG0399	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+AOMBIHOA_00995	CDS	831	kdsB_2	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+AOMBIHOA_00996	CDS	1398				hypothetical protein
+AOMBIHOA_00997	CDS	1050	pseI	2.5.1.97	COG2089	Pseudaminic acid synthase
+AOMBIHOA_00998	CDS	966	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+AOMBIHOA_00999	CDS	372				hypothetical protein
+AOMBIHOA_01000	CDS	696	tarI2	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase 2
+AOMBIHOA_01001	CDS	1296				hypothetical protein
+AOMBIHOA_01002	CDS	834				hypothetical protein
+AOMBIHOA_01003	CDS	1044	arnC_5	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+AOMBIHOA_01004	CDS	297				hypothetical protein
+AOMBIHOA_01005	CDS	1284				hypothetical protein
+AOMBIHOA_01006	CDS	741				hypothetical protein
+AOMBIHOA_01007	CDS	1002				hypothetical protein
+AOMBIHOA_01008	CDS	732	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+AOMBIHOA_01009	CDS	267	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+AOMBIHOA_01010	CDS	645	purQ	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurQ
+AOMBIHOA_01011	CDS	711	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+AOMBIHOA_01012	CDS	1782	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+AOMBIHOA_01013	CDS	309				hypothetical protein
+AOMBIHOA_01014	CDS	1884				hypothetical protein
+AOMBIHOA_01015	CDS	1224	mnmC	2.1.1.61		tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+AOMBIHOA_01016	CDS	1059	wecH	2.3.1.-		O-acetyltransferase WecH
+AOMBIHOA_01017	CDS	1980	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+AOMBIHOA_01018	CDS	663	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+AOMBIHOA_01019	CDS	1431	murJ_2			lipid II flippase MurJ
+AOMBIHOA_01020	CDS	1428	murJ_3			lipid II flippase MurJ
+AOMBIHOA_01021	tRNA	76				tRNA-Gly(gcc)
+AOMBIHOA_01022	tRNA	76				tRNA-Gly(tcc)
+AOMBIHOA_01023	CDS	1038	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+AOMBIHOA_01024	CDS	1161	pcaF	2.3.1.174		Beta-ketoadipyl-CoA thiolase
+AOMBIHOA_01025	CDS	267				hypothetical protein
+AOMBIHOA_01026	CDS	732	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+AOMBIHOA_01027	CDS	1581	cobQ			Cobyric acid synthase
+AOMBIHOA_01028	CDS	6558				hypothetical protein
+AOMBIHOA_01029	CDS	279				hypothetical protein
+AOMBIHOA_01030	CDS	1980	lon	3.4.21.53		Lon protease
+AOMBIHOA_01031	CDS	1428	murT_2	6.3.5.13		Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+AOMBIHOA_01032	CDS	483				hypothetical protein
+AOMBIHOA_01033	CDS	972	tri1	3.2.2.19	COG1397	ADP-ribosylarginine hydrolase Tri1
+AOMBIHOA_01034	CDS	525				hypothetical protein
+AOMBIHOA_01035	CDS	531	nfrA2_1	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+AOMBIHOA_01036	CDS	369				hypothetical protein
+AOMBIHOA_01037	CDS	492				hypothetical protein
+AOMBIHOA_01038	CDS	897	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+AOMBIHOA_01039	CDS	300				hypothetical protein
+AOMBIHOA_01040	CDS	1968	uvrB_2			UvrABC system protein B
+AOMBIHOA_01041	CDS	861				hypothetical protein
+AOMBIHOA_01042	CDS	2892	uvrA			UvrABC system protein A
+AOMBIHOA_01043	CDS	819				hypothetical protein
+AOMBIHOA_01044	CDS	2592	rhlB	3.6.4.13		ATP-dependent RNA helicase RhlB
+AOMBIHOA_01045	CDS	405				hypothetical protein
+AOMBIHOA_01046	CDS	3777				hypothetical protein
+AOMBIHOA_01047	CDS	5490				hypothetical protein
+AOMBIHOA_01048	CDS	5115				hypothetical protein
+AOMBIHOA_01049	CDS	5601				hypothetical protein
+AOMBIHOA_01050	CDS	1353				IS1182 family transposase ISArch2
+AOMBIHOA_01051	CDS	201				hypothetical protein
+AOMBIHOA_01052	CDS	414				hypothetical protein
+AOMBIHOA_01053	CDS	1080	btuD_5	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AOMBIHOA_01054	CDS	780	kpsM_2		COG1682	Polysialic acid transport protein KpsM
+AOMBIHOA_01055	CDS	3582	arnC_6	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+AOMBIHOA_01056	CDS	1041				hypothetical protein
+AOMBIHOA_01057	CDS	105				hypothetical protein
+AOMBIHOA_01058	CDS	600				hypothetical protein
+AOMBIHOA_01059	CDS	606				hypothetical protein
+AOMBIHOA_01060	CDS	813				hypothetical protein
+AOMBIHOA_01061	CDS	489				hypothetical protein
+AOMBIHOA_01062	CDS	2526				hypothetical protein
+AOMBIHOA_01063	tRNA	85				tRNA-Leu(gag)
+AOMBIHOA_01064	CDS	306				hypothetical protein
+AOMBIHOA_01065	CDS	852	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+AOMBIHOA_01066	CDS	201				hypothetical protein
+AOMBIHOA_01067	CDS	1131		1.8.98.-	COG0641	Anaerobic sulfatase-maturating enzyme
+AOMBIHOA_01068	CDS	210				hypothetical protein
+AOMBIHOA_01069	CDS	1215				hypothetical protein
+AOMBIHOA_01070	CDS	804	modA		COG0725	Molybdate-binding protein ModA
+AOMBIHOA_01071	CDS	675	modB		COG4149	Molybdenum transport system permease protein ModB
+AOMBIHOA_01072	CDS	1038	btuD_6	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AOMBIHOA_01073	CDS	1305	ywqF	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase YwqF
+AOMBIHOA_01074	CDS	2028	cadA_3	3.6.3.3		Cadmium-transporting ATPase
+AOMBIHOA_01075	CDS	903	IMPDH_5	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AOMBIHOA_01076	CDS	915		2.5.-.-		Deoxyhypusine synthase-like protein
+AOMBIHOA_01077	CDS	498				hypothetical protein
+AOMBIHOA_01078	CDS	642	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+AOMBIHOA_01079	CDS	666	cbiM_2		COG0310	Cobalt transport protein CbiM
+AOMBIHOA_01080	CDS	291	cbiN		COG1930	Cobalt transport protein CbiN
+AOMBIHOA_01081	CDS	699	cbiQ		COG0619	Cobalt transport protein CbiQ
+AOMBIHOA_01082	CDS	837	ecfA3_2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA3
+AOMBIHOA_01083	CDS	459	ribH_2	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+AOMBIHOA_01084	CDS	723	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+AOMBIHOA_01085	CDS	348				hypothetical protein
+AOMBIHOA_01086	CDS	660	fadF	1.-.-.-	COG0247	putative iron-sulfur-binding oxidoreductase FadF
+AOMBIHOA_01087	CDS	1194	lutB		COG1139	Lactate utilization protein B
+AOMBIHOA_01088	CDS	957	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+AOMBIHOA_01089	CDS	714				hypothetical protein
+AOMBIHOA_01090	CDS	1482	guaB	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AOMBIHOA_01091	CDS	270				hypothetical protein
+AOMBIHOA_01092	CDS	483				hypothetical protein
+AOMBIHOA_01093	CDS	267				hypothetical protein
+AOMBIHOA_01094	CDS	351				hypothetical protein
+AOMBIHOA_01095	CDS	285				hypothetical protein
+AOMBIHOA_01096	CDS	690	hisA_2	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+AOMBIHOA_01097	CDS	396				hypothetical protein
+AOMBIHOA_01098	CDS	183				hypothetical protein
+AOMBIHOA_01099	CDS	849	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+AOMBIHOA_01100	CDS	882	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+AOMBIHOA_01101	CDS	846				hypothetical protein
+AOMBIHOA_01102	CDS	6681				hypothetical protein
+AOMBIHOA_01103	CDS	1752	uvrC		COG0322	UvrABC system protein C
+AOMBIHOA_01104	CDS	597				hypothetical protein
+AOMBIHOA_01105	CDS	300				hypothetical protein
+AOMBIHOA_01106	CDS	1707	btuD_7	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+AOMBIHOA_01107	CDS	426				hypothetical protein
+AOMBIHOA_01108	CDS	168				hypothetical protein
+AOMBIHOA_01109	CDS	1182				hypothetical protein
+AOMBIHOA_01110	CDS	969	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+AOMBIHOA_01111	CDS	879				hypothetical protein
+AOMBIHOA_01112	CDS	1422	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+AOMBIHOA_01113	CDS	1239				hypothetical protein
+AOMBIHOA_01114	CDS	513				hypothetical protein
+AOMBIHOA_01115	CDS	798	nifH1	1.18.6.1		Nitrogenase iron protein 1
+AOMBIHOA_01116	CDS	2388				hypothetical protein
+AOMBIHOA_01117	CDS	1278	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+AOMBIHOA_01118	CDS	441				hypothetical protein
+AOMBIHOA_01119	CDS	537				hypothetical protein
+AOMBIHOA_01120	CDS	111				hypothetical protein
+AOMBIHOA_01121	CDS	516	ftnA	1.16.3.2		Bacterial non-heme ferritin
+AOMBIHOA_01122	CDS	438				hypothetical protein
+AOMBIHOA_01123	CDS	1302		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+AOMBIHOA_01124	CDS	5016				hypothetical protein
+AOMBIHOA_01125	CDS	3036				hypothetical protein
+AOMBIHOA_01126	CDS	711				hypothetical protein
+AOMBIHOA_01127	CDS	645				hypothetical protein
+AOMBIHOA_01128	CDS	339				hypothetical protein
+AOMBIHOA_01129	CDS	315				hypothetical protein
+AOMBIHOA_01130	CDS	1563	clcA			H(+)/Cl(-) exchange transporter ClcA
+AOMBIHOA_01131	CDS	498	nox	1.6.99.3	COG0778	NADH dehydrogenase
+AOMBIHOA_01132	CDS	972	mch	3.5.4.27	COG3252	Methenyltetrahydromethanopterin cyclohydrolase
+AOMBIHOA_01133	CDS	774				hypothetical protein
+AOMBIHOA_01134	CDS	753				hypothetical protein
+AOMBIHOA_01135	CDS	921				hypothetical protein
+AOMBIHOA_01136	CDS	540	ywqN	1.-.-.-	COG0655	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+AOMBIHOA_01137	CDS	357				hypothetical protein
+AOMBIHOA_01138	CDS	213				hypothetical protein
+AOMBIHOA_01139	CDS	492				hypothetical protein
+AOMBIHOA_01140	CDS	816				hypothetical protein
+AOMBIHOA_01141	CDS	765	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+AOMBIHOA_01142	CDS	702				hypothetical protein
+AOMBIHOA_01143	CDS	546	rbr1	1.11.1.1	COG1592	Rubrerythrin-1
+AOMBIHOA_01144	CDS	699				hypothetical protein
+AOMBIHOA_01145	CDS	4362				hypothetical protein
+AOMBIHOA_01146	CDS	1401	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+AOMBIHOA_01147	CDS	288				hypothetical protein
+AOMBIHOA_01148	CDS	312				hypothetical protein
+AOMBIHOA_01149	CDS	2160				hypothetical protein
+AOMBIHOA_01150	CDS	918				hypothetical protein
+AOMBIHOA_01151	CDS	375				hypothetical protein
+AOMBIHOA_01152	CDS	615				hypothetical protein
+AOMBIHOA_01153	CDS	2370		3.1.-.-	COG1353	CRISPR system single-strand-specific deoxyribonuclease Cas10/Csm1 (subtype III-A)
+AOMBIHOA_01154	CDS	408				hypothetical protein
+AOMBIHOA_01155	CDS	759	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+AOMBIHOA_01156	CDS	963				hypothetical protein
+AOMBIHOA_01157	CDS	1092				hypothetical protein
+AOMBIHOA_01158	CDS	1365				hypothetical protein
+AOMBIHOA_01159	CDS	666				hypothetical protein
+AOMBIHOA_01160	CDS	279	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+AOMBIHOA_01161	CDS	1008	cas1-1_1	3.1.-.-		CRISPR-associated endonuclease Cas1 1
+	repeat_region	6454				
+AOMBIHOA_01162	CDS	1278				hypothetical protein
+AOMBIHOA_01163	CDS	1884				hypothetical protein
+AOMBIHOA_01164	CDS	315				hypothetical protein
+AOMBIHOA_01165	CDS	1002				hypothetical protein
+AOMBIHOA_01166	CDS	165				hypothetical protein
+AOMBIHOA_01167	CDS	267				hypothetical protein
+AOMBIHOA_01168	CDS	150				hypothetical protein
+AOMBIHOA_01169	CDS	189				hypothetical protein
+AOMBIHOA_01170	CDS	1050				hypothetical protein
+AOMBIHOA_01171	CDS	1170				hypothetical protein
+AOMBIHOA_01172	CDS	186				hypothetical protein
+AOMBIHOA_01173	CDS	2424				hypothetical protein
+AOMBIHOA_01174	CDS	1281				hypothetical protein
+AOMBIHOA_01175	CDS	783				hypothetical protein
+AOMBIHOA_01176	CDS	3270				hypothetical protein
+AOMBIHOA_01177	CDS	1893				hypothetical protein
+AOMBIHOA_01178	CDS	2562				hypothetical protein
+AOMBIHOA_01179	CDS	132				hypothetical protein
+AOMBIHOA_01180	CDS	624				hypothetical protein
+AOMBIHOA_01181	CDS	1407				hypothetical protein
+AOMBIHOA_01182	CDS	873	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+AOMBIHOA_01183	CDS	387				hypothetical protein
+AOMBIHOA_01184	CDS	246				hypothetical protein
+AOMBIHOA_01185	CDS	252				hypothetical protein
+AOMBIHOA_01186	CDS	465				hypothetical protein
+AOMBIHOA_01187	CDS	2562				hypothetical protein
+AOMBIHOA_01188	CDS	1170				hypothetical protein
+AOMBIHOA_01189	CDS	240				hypothetical protein
+AOMBIHOA_01190	CDS	882				hypothetical protein
+AOMBIHOA_01191	CDS	780	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+AOMBIHOA_01192	CDS	108				hypothetical protein
+AOMBIHOA_01193	CDS	453				hypothetical protein
+AOMBIHOA_01194	CDS	333				hypothetical protein
+AOMBIHOA_01195	CDS	333				hypothetical protein
+AOMBIHOA_01196	CDS	1836	helD	3.6.4.12	COG0210	DNA helicase IV
+AOMBIHOA_01197	CDS	753				hypothetical protein
+AOMBIHOA_01198	CDS	378				hypothetical protein
+AOMBIHOA_01199	CDS	144				hypothetical protein
+AOMBIHOA_01200	CDS	918				hypothetical protein
+AOMBIHOA_01201	CDS	990				hypothetical protein
+AOMBIHOA_01202	CDS	270				hypothetical protein
+AOMBIHOA_01203	CDS	546				hypothetical protein
+AOMBIHOA_01204	CDS	927				hypothetical protein
+AOMBIHOA_01205	CDS	1044				hypothetical protein
+AOMBIHOA_01206	CDS	555				hypothetical protein
+AOMBIHOA_01207	CDS	477				hypothetical protein
+AOMBIHOA_01208	CDS	159				hypothetical protein
+AOMBIHOA_01209	CDS	1308				hypothetical protein
+AOMBIHOA_01210	CDS	939				hypothetical protein
+AOMBIHOA_01211	CDS	201				hypothetical protein
+AOMBIHOA_01212	CDS	924				hypothetical protein
+AOMBIHOA_01213	CDS	522				hypothetical protein
+AOMBIHOA_01214	CDS	1245				hypothetical protein
+AOMBIHOA_01215	CDS	654				hypothetical protein
+AOMBIHOA_01216	CDS	1440				hypothetical protein
+AOMBIHOA_01217	CDS	1434				hypothetical protein
+AOMBIHOA_01218	CDS	885				hypothetical protein
+AOMBIHOA_01219	CDS	1413				hypothetical protein
+AOMBIHOA_01220	CDS	351				hypothetical protein
+AOMBIHOA_01221	CDS	924				hypothetical protein
+AOMBIHOA_01222	CDS	174				hypothetical protein
+AOMBIHOA_01223	CDS	162				hypothetical protein
+AOMBIHOA_01224	CDS	201	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+AOMBIHOA_01225	CDS	1584	xseA	3.1.11.6		Exodeoxyribonuclease 7 large subunit
+AOMBIHOA_01226	CDS	1080	xerC_1			Tyrosine recombinase XerC
+AOMBIHOA_01227	CDS	432				hypothetical protein
+AOMBIHOA_01228	CDS	543	yvdD		COG1611	LOG family protein YvdD
+AOMBIHOA_01229	CDS	366				hypothetical protein
+AOMBIHOA_01230	CDS	819				hypothetical protein
+AOMBIHOA_01231	CDS	576				hypothetical protein
+AOMBIHOA_01232	CDS	312				hypothetical protein
+AOMBIHOA_01233	CDS	807				hypothetical protein
+AOMBIHOA_01234	CDS	171				hypothetical protein
+AOMBIHOA_01235	CDS	171				hypothetical protein
+AOMBIHOA_01236	CDS	810				hypothetical protein
+AOMBIHOA_01237	CDS	141				hypothetical protein
+AOMBIHOA_01238	CDS	348				hypothetical protein
+AOMBIHOA_01239	CDS	402				hypothetical protein
+AOMBIHOA_01240	CDS	1005	cas1-1_2	3.1.-.-		CRISPR-associated endonuclease Cas1 1
+AOMBIHOA_01241	CDS	285				hypothetical protein
+AOMBIHOA_01242	CDS	1647	fadD3	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+AOMBIHOA_01243	CDS	582				hypothetical protein
+AOMBIHOA_01244	CDS	1638				hypothetical protein
+AOMBIHOA_01245	CDS	603	COQ5_4	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+AOMBIHOA_01246	CDS	660				hypothetical protein
+AOMBIHOA_01247	CDS	555	mntP		COG1971	putative manganese efflux pump MntP
+AOMBIHOA_01248	CDS	1065				hypothetical protein
+AOMBIHOA_01249	CDS	951				hypothetical protein
+AOMBIHOA_01250	CDS	336				hypothetical protein
+AOMBIHOA_01251	CDS	579				hypothetical protein
+AOMBIHOA_01252	CDS	705				hypothetical protein
+AOMBIHOA_01253	CDS	429				hypothetical protein
+AOMBIHOA_01254	CDS	489				hypothetical protein
+AOMBIHOA_01255	CDS	444				hypothetical protein
+AOMBIHOA_01256	CDS	273				hypothetical protein
+AOMBIHOA_01257	CDS	276				hypothetical protein
+AOMBIHOA_01258	CDS	180				hypothetical protein
+AOMBIHOA_01259	CDS	786	msrAB1		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB 1
+AOMBIHOA_01260	CDS	1155	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+AOMBIHOA_01261	CDS	873	apbC		COG0489	Iron-sulfur cluster carrier protein
+AOMBIHOA_01262	CDS	1335	cdr	1.8.1.14		Coenzyme A disulfide reductase
+AOMBIHOA_01263	CDS	627				hypothetical protein
+AOMBIHOA_01264	CDS	681				hypothetical protein
+AOMBIHOA_01265	CDS	549				hypothetical protein
+AOMBIHOA_01266	CDS	2991				hypothetical protein
+AOMBIHOA_01267	CDS	7593				hypothetical protein
+AOMBIHOA_01268	CDS	1371				hypothetical protein
+AOMBIHOA_01269	CDS	558	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+AOMBIHOA_01270	CDS	1131	aroB'	1.4.1.24		3-dehydroquinate synthase
+AOMBIHOA_01271	CDS	795	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+AOMBIHOA_01272	CDS	2985	rep_3	3.6.4.12		ATP-dependent DNA helicase Rep
+AOMBIHOA_01273	CDS	540				hypothetical protein
+AOMBIHOA_01274	CDS	855				hypothetical protein
+AOMBIHOA_01275	CDS	1188				hypothetical protein
+AOMBIHOA_01276	CDS	507				hypothetical protein
+AOMBIHOA_01277	CDS	666	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+AOMBIHOA_01278	CDS	468				hypothetical protein
+AOMBIHOA_01279	CDS	672	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+AOMBIHOA_01280	CDS	1017	mraY_1	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+AOMBIHOA_01281	CDS	864				hypothetical protein
+AOMBIHOA_01282	CDS	129				hypothetical protein
+AOMBIHOA_01283	CDS	477				hypothetical protein
+AOMBIHOA_01284	CDS	1578				hypothetical protein
+AOMBIHOA_01285	CDS	1983	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+AOMBIHOA_01286	CDS	1557				hypothetical protein
+AOMBIHOA_01287	CDS	1326				hypothetical protein
+AOMBIHOA_01288	CDS	519				hypothetical protein
+AOMBIHOA_01289	CDS	975				hypothetical protein
+AOMBIHOA_01290	CDS	258				hypothetical protein
+AOMBIHOA_01291	CDS	561	tmk_1	2.7.4.9	COG0125	Thymidylate kinase
+AOMBIHOA_01292	CDS	663	vte5	2.7.1.182		Phytol kinase
+AOMBIHOA_01293	CDS	1152	fbiC_2		COG1060	FO synthase
+AOMBIHOA_01294	CDS	492				hypothetical protein
+AOMBIHOA_01295	CDS	537				hypothetical protein
+AOMBIHOA_01296	CDS	2307	ndhI_5	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+AOMBIHOA_01297	CDS	939	sdhE_2	1.3.5.-	COG2048	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+AOMBIHOA_01298	CDS	609				hypothetical protein
+AOMBIHOA_01299	CDS	1248				hypothetical protein
+AOMBIHOA_01300	CDS	771	yitD	4.4.1.19	COG1809	Phosphosulfolactate synthase
+AOMBIHOA_01301	CDS	717				hypothetical protein
+AOMBIHOA_01302	CDS	780	proC	1.5.1.2		Pyrroline-5-carboxylate reductase
+AOMBIHOA_01303	CDS	288				hypothetical protein
+AOMBIHOA_01304	CDS	1377	cpgS	6.5.-.-		Cyclic 2,3-diphosphoglycerate synthetase
+AOMBIHOA_01305	CDS	612				hypothetical protein
+AOMBIHOA_01306	CDS	1266				hypothetical protein
+AOMBIHOA_01307	CDS	591	slmA			Nucleoid occlusion factor SlmA
+AOMBIHOA_01308	CDS	717				hypothetical protein
+AOMBIHOA_01309	CDS	765		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+AOMBIHOA_01310	CDS	762	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+AOMBIHOA_01311	CDS	369				hypothetical protein
+AOMBIHOA_01312	CDS	495				hypothetical protein
+AOMBIHOA_01313	CDS	393				hypothetical protein
+AOMBIHOA_01314	CDS	753	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+AOMBIHOA_01315	CDS	945	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+AOMBIHOA_01316	CDS	306				hypothetical protein
+AOMBIHOA_01317	CDS	453				hypothetical protein
+AOMBIHOA_01318	CDS	1095				hypothetical protein
+AOMBIHOA_01319	tRNA	75				tRNA-Ala(ggc)
+AOMBIHOA_01320	CDS	1032				hypothetical protein
+AOMBIHOA_01321	CDS	654	hypB			Hydrogenase maturation factor HypB
+AOMBIHOA_01322	CDS	378	hybF		COG0375	Hydrogenase maturation factor HybF
+AOMBIHOA_01323	CDS	210				hypothetical protein
+AOMBIHOA_01324	CDS	2601	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+AOMBIHOA_01325	CDS	2460	addA	3.6.4.12		ATP-dependent helicase/nuclease subunit A
+AOMBIHOA_01326	CDS	1227				hypothetical protein
+AOMBIHOA_01327	CDS	675				hypothetical protein
+AOMBIHOA_01328	CDS	660	mocA	2.7.7.76	COG2068	Molybdenum cofactor cytidylyltransferase
+AOMBIHOA_01329	CDS	1185				hypothetical protein
+AOMBIHOA_01330	CDS	1281	murD_2	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+AOMBIHOA_01331	CDS	402				hypothetical protein
+AOMBIHOA_01332	CDS	2754	smc			Chromosome partition protein Smc
+AOMBIHOA_01333	CDS	1224	cpdA_3	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+AOMBIHOA_01334	CDS	1512				hypothetical protein
+AOMBIHOA_01335	CDS	1059				hypothetical protein
+AOMBIHOA_01336	CDS	753		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+AOMBIHOA_01337	CDS	147				hypothetical protein
+AOMBIHOA_01338	CDS	516				hypothetical protein
+AOMBIHOA_01339	CDS	675				hypothetical protein
+AOMBIHOA_01340	CDS	717				hypothetical protein
+AOMBIHOA_01341	CDS	540				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+AOMBIHOA_01342	CDS	438				hypothetical protein
+AOMBIHOA_01343	CDS	210	mopII			Molybdenum-pterin-binding protein 2
+AOMBIHOA_01344	CDS	486				hypothetical protein
+AOMBIHOA_01345	CDS	420				hypothetical protein
+AOMBIHOA_01346	CDS	1032	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC
+AOMBIHOA_01347	CDS	1080				hypothetical protein
+AOMBIHOA_01348	CDS	777				hypothetical protein
+AOMBIHOA_01349	CDS	1524				hypothetical protein
+AOMBIHOA_01350	CDS	1056				hypothetical protein
+AOMBIHOA_01351	CDS	384				hypothetical protein
+AOMBIHOA_01352	CDS	735				hypothetical protein
+AOMBIHOA_01353	CDS	543	cmk_2	2.7.4.25		Cytidylate kinase
+AOMBIHOA_01354	CDS	681				hypothetical protein
+AOMBIHOA_01355	CDS	807				hypothetical protein
+AOMBIHOA_01356	CDS	750				hypothetical protein
+AOMBIHOA_01357	CDS	429				hypothetical protein
+AOMBIHOA_01358	CDS	870				hypothetical protein
+AOMBIHOA_01359	CDS	1617	pyrG	6.3.4.2		CTP synthase
+AOMBIHOA_01360	CDS	1131				hypothetical protein
+AOMBIHOA_01361	CDS	792	frmB	3.1.2.12	COG0627	S-formylglutathione hydrolase FrmB
+AOMBIHOA_01362	CDS	183				hypothetical protein
+AOMBIHOA_01363	CDS	2721				hypothetical protein
+AOMBIHOA_01364	CDS	2481				hypothetical protein
+AOMBIHOA_01365	CDS	1365	yeeO		COG0534	putative FMN/FAD exporter YeeO
+AOMBIHOA_01366	CDS	1233	apgM_2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+AOMBIHOA_01367	CDS	1020				hypothetical protein
+AOMBIHOA_01368	CDS	486				hypothetical protein
+AOMBIHOA_01369	CDS	216				hypothetical protein
+AOMBIHOA_01370	CDS	741				hypothetical protein
+AOMBIHOA_01371	CDS	3231				hypothetical protein
+AOMBIHOA_01372	CDS	1428	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+AOMBIHOA_01373	CDS	111				hypothetical protein
+AOMBIHOA_01374	CDS	2313				hypothetical protein
+AOMBIHOA_01375	CDS	2199	xerC_2			Tyrosine recombinase XerC
+AOMBIHOA_01376	CDS	1146				hypothetical protein
+AOMBIHOA_01377	CDS	1545				hypothetical protein
+AOMBIHOA_01378	CDS	474				hypothetical protein
+AOMBIHOA_01379	CDS	822				hypothetical protein
+AOMBIHOA_01380	CDS	2709	hsdR	3.1.21.3		Type-1 restriction enzyme R protein
+AOMBIHOA_01381	CDS	9246				hypothetical protein
+AOMBIHOA_01382	CDS	1287		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+AOMBIHOA_01383	CDS	1476	metXA_1	2.3.1.46		Homoserine O-acetyltransferase
+AOMBIHOA_01384	CDS	672	rnc	3.1.26.3		Ribonuclease 3
+AOMBIHOA_01385	CDS	351				hypothetical protein
+AOMBIHOA_01386	CDS	759	rsxB_4	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AOMBIHOA_01387	CDS	393				hypothetical protein
+AOMBIHOA_01388	CDS	411				hypothetical protein
+AOMBIHOA_01389	CDS	231				hypothetical protein
+AOMBIHOA_01390	CDS	483				hypothetical protein
+AOMBIHOA_01391	CDS	693				hypothetical protein
+AOMBIHOA_01392	CDS	369				hypothetical protein
+AOMBIHOA_01393	CDS	603				hypothetical protein
+AOMBIHOA_01394	CDS	120			COG1773	Rubredoxin
+AOMBIHOA_01395	CDS	159			COG1773	Rubredoxin
+AOMBIHOA_01396	CDS	615	lpxD	2.3.1.191		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+AOMBIHOA_01397	CDS	1032				hypothetical protein
+AOMBIHOA_01398	CDS	222				hypothetical protein
+AOMBIHOA_01399	CDS	1419	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+AOMBIHOA_01400	CDS	156				hypothetical protein
+AOMBIHOA_01401	CDS	309				hypothetical protein
+AOMBIHOA_01402	CDS	510				hypothetical protein
+AOMBIHOA_01403	CDS	177				hypothetical protein
+AOMBIHOA_01404	CDS	567	rnr	3.1.13.1		Ribonuclease R
+AOMBIHOA_01405	CDS	528	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+AOMBIHOA_01406	CDS	393				hypothetical protein
+AOMBIHOA_01407	CDS	1215	selB		COG3276	Selenocysteine-specific elongation factor
+AOMBIHOA_01408	CDS	387				hypothetical protein
+AOMBIHOA_01409	CDS	1791	infB		COG0532	Translation initiation factor IF-2
+AOMBIHOA_01410	CDS	453	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+AOMBIHOA_01411	CDS	162				hypothetical protein
+AOMBIHOA_01412	CDS	207				hypothetical protein
+AOMBIHOA_01413	CDS	372				hypothetical protein
+AOMBIHOA_01414	CDS	525				hypothetical protein
+AOMBIHOA_01415	CDS	288				hypothetical protein
+AOMBIHOA_01416	CDS	180				Ferredoxin-3
+AOMBIHOA_01417	CDS	351				hypothetical protein
+AOMBIHOA_01418	CDS	921				hypothetical protein
+AOMBIHOA_01419	CDS	198				hypothetical protein
+AOMBIHOA_01420	CDS	1197	thrC	4.2.3.1	COG0498	Threonine synthase
+AOMBIHOA_01421	CDS	660				hypothetical protein
+AOMBIHOA_01422	CDS	1089	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+AOMBIHOA_01423	CDS	516				hypothetical protein
+AOMBIHOA_01424	CDS	711	ideR		COG1321	Iron-dependent repressor IdeR
+AOMBIHOA_01425	CDS	4506				hypothetical protein
+AOMBIHOA_01426	CDS	1653	groL_2			60 kDa chaperonin
+AOMBIHOA_01427	CDS	1011				hypothetical protein
+AOMBIHOA_01428	CDS	1224	fprA_2	1.-.-.-	COG0426	Nitric oxide reductase
+AOMBIHOA_01429	CDS	156				hypothetical protein
+AOMBIHOA_01430	CDS	453				hypothetical protein
+AOMBIHOA_01431	CDS	642				hypothetical protein
+AOMBIHOA_01432	CDS	201				hypothetical protein
+AOMBIHOA_01433	CDS	1203				hypothetical protein
+AOMBIHOA_01434	CDS	861	sucD	6.2.1.5		Succinate--CoA ligase [ADP-forming] subunit alpha
+AOMBIHOA_01435	CDS	726				hypothetical protein
+AOMBIHOA_01436	CDS	675	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+AOMBIHOA_01437	CDS	615				hypothetical protein
+AOMBIHOA_01438	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+AOMBIHOA_01439	CDS	1218	amt			Ammonia channel
+AOMBIHOA_01440	CDS	315				hypothetical protein
+AOMBIHOA_01441	CDS	1227				hypothetical protein
+AOMBIHOA_01442	CDS	549	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+AOMBIHOA_01443	CDS	564	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+AOMBIHOA_01444	CDS	756				hypothetical protein
+AOMBIHOA_01445	CDS	615	mobA	2.7.7.77	COG0746	putative molybdenum cofactor guanylyltransferase
+AOMBIHOA_01446	CDS	789	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+AOMBIHOA_01447	CDS	705	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+AOMBIHOA_01448	CDS	897				hypothetical protein
+AOMBIHOA_01449	CDS	702				hypothetical protein
+AOMBIHOA_01450	CDS	753	prcA			Proteasome subunit alpha
+AOMBIHOA_01451	CDS	363				hypothetical protein
+AOMBIHOA_01452	CDS	705				hypothetical protein
+AOMBIHOA_01453	CDS	276				hypothetical protein
+AOMBIHOA_01454	CDS	720				hypothetical protein
+AOMBIHOA_01455	CDS	609				hypothetical protein
+AOMBIHOA_01456	CDS	588				hypothetical protein
+AOMBIHOA_01457	CDS	1365	mepA_2		COG0534	Multidrug export protein MepA
+AOMBIHOA_01458	CDS	294				hypothetical protein
+AOMBIHOA_01459	CDS	264				hypothetical protein
+AOMBIHOA_01460	CDS	288				hypothetical protein
+AOMBIHOA_01461	CDS	975				hypothetical protein
+AOMBIHOA_01462	CDS	906				hypothetical protein
+AOMBIHOA_01463	CDS	510				hypothetical protein
+AOMBIHOA_01464	CDS	2259				hypothetical protein
+AOMBIHOA_01465	CDS	498				hypothetical protein
+AOMBIHOA_01466	CDS	393	dfx	1.15.1.2	COG2033	Desulfoferrodoxin
+AOMBIHOA_01467	CDS	369	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+AOMBIHOA_01468	CDS	1188	iscS	2.8.1.7		Cysteine desulfurase IscS
+AOMBIHOA_01469	CDS	1299		2.5.1.-	COG2873	O-acetyl-L-homoserine sulfhydrylase
+AOMBIHOA_01470	CDS	6195				hypothetical protein
+AOMBIHOA_01471	CDS	525				hypothetical protein
+AOMBIHOA_01472	CDS	1347	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+AOMBIHOA_01473	tRNA	72				tRNA-Cys(gca)
+AOMBIHOA_01474	CDS	384				hypothetical protein
+AOMBIHOA_01475	CDS	714	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+AOMBIHOA_01476	CDS	948	cysK1	2.5.1.47	COG0031	O-acetylserine sulfhydrylase
+AOMBIHOA_01477	CDS	627	pdg			Ultraviolet N-glycosylase/AP lyase
+AOMBIHOA_01478	CDS	1317	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+AOMBIHOA_01479	CDS	2718	valS_2	6.1.1.9		Valine--tRNA ligase
+AOMBIHOA_01480	CDS	360				hypothetical protein
+AOMBIHOA_01481	CDS	1662	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+AOMBIHOA_01482	CDS	183				hypothetical protein
+AOMBIHOA_01483	CDS	414				hypothetical protein
+AOMBIHOA_01484	CDS	1455				hypothetical protein
+AOMBIHOA_01485	CDS	1779				hypothetical protein
+AOMBIHOA_01486	CDS	3150				hypothetical protein
+AOMBIHOA_01487	CDS	219				hypothetical protein
+AOMBIHOA_01488	CDS	666	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+AOMBIHOA_01489	CDS	438				hypothetical protein
+AOMBIHOA_01490	CDS	1047	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+AOMBIHOA_01491	CDS	1410	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+AOMBIHOA_01492	CDS	675	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+AOMBIHOA_01493	CDS	741	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+AOMBIHOA_01494	CDS	759	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+AOMBIHOA_01495	CDS	741	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+AOMBIHOA_01496	CDS	936				hypothetical protein
+AOMBIHOA_01497	CDS	2124	ctpC	3.6.3.-	COG2217	Manganese-exporting P-type ATPase
+AOMBIHOA_01498	CDS	261				hypothetical protein
+AOMBIHOA_01499	CDS	393	fdhD_2			Sulfur carrier protein FdhD
+AOMBIHOA_01500	CDS	375	fdhD_3		COG1526	Sulfur carrier protein FdhD
+AOMBIHOA_01501	CDS	327				hypothetical protein
+AOMBIHOA_01502	CDS	939				hypothetical protein
+AOMBIHOA_01503	CDS	330				hypothetical protein
+AOMBIHOA_01504	CDS	543				hypothetical protein
+AOMBIHOA_01505	CDS	729				hypothetical protein
+AOMBIHOA_01506	CDS	240				hypothetical protein
+AOMBIHOA_01507	CDS	216				hypothetical protein
+AOMBIHOA_01508	CDS	540				hypothetical protein
+AOMBIHOA_01509	CDS	756				hypothetical protein
+AOMBIHOA_01510	CDS	327				hypothetical protein
+AOMBIHOA_01511	CDS	195				hypothetical protein
+AOMBIHOA_01512	CDS	390				hypothetical protein
+AOMBIHOA_01513	CDS	366				hypothetical protein
+AOMBIHOA_01514	CDS	123				hypothetical protein
+AOMBIHOA_01515	CDS	663				hypothetical protein
+AOMBIHOA_01516	CDS	942				hypothetical protein
+AOMBIHOA_01517	CDS	426				hypothetical protein
+AOMBIHOA_01518	CDS	555				hypothetical protein
+AOMBIHOA_01519	CDS	399				hypothetical protein
+AOMBIHOA_01520	CDS	1620				hypothetical protein
+AOMBIHOA_01521	CDS	996	dppB		COG0601	Dipeptide transport system permease protein DppB
+AOMBIHOA_01522	CDS	849	gsiD		COG1173	Glutathione transport system permease protein GsiD
+AOMBIHOA_01523	CDS	933	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+AOMBIHOA_01524	CDS	615	nikE	7.2.2.11	COG4608	Nickel import system ATP-binding protein NikE
+AOMBIHOA_01525	CDS	636	IMPDH_6	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AOMBIHOA_01526	CDS	825	rsxB_5	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AOMBIHOA_01527	CDS	960	rbsK	2.7.1.15		Ribokinase
+AOMBIHOA_01528	CDS	891	fhcD_2	2.3.1.101	COG2037	Formyltransferase/hydrolase complex subunit D
+AOMBIHOA_01529	CDS	1047				hypothetical protein
+AOMBIHOA_01530	CDS	1371	rsxB_6	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AOMBIHOA_01531	CDS	1044	rsxB_7	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AOMBIHOA_01532	CDS	1125	hycE		COG3261	Formate hydrogenlyase subunit 5
+AOMBIHOA_01533	CDS	450	hycG_2		COG3260	Formate hydrogenlyase subunit 7
+AOMBIHOA_01534	CDS	393				hypothetical protein
+AOMBIHOA_01535	CDS	300				hypothetical protein
+AOMBIHOA_01536	CDS	255				hypothetical protein
+AOMBIHOA_01537	CDS	852	ndhA_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+AOMBIHOA_01538	CDS	216				hypothetical protein
+AOMBIHOA_01539	CDS	672				hypothetical protein
+AOMBIHOA_01540	CDS	696				hypothetical protein
+AOMBIHOA_01541	CDS	594				hypothetical protein
+AOMBIHOA_01542	CDS	261				hypothetical protein
+AOMBIHOA_01543	CDS	270				hypothetical protein
+AOMBIHOA_01544	CDS	252				hypothetical protein
+AOMBIHOA_01545	CDS	498				hypothetical protein
+AOMBIHOA_01546	CDS	378				hypothetical protein
+AOMBIHOA_01547	CDS	930	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+AOMBIHOA_01548	CDS	375				hypothetical protein
+AOMBIHOA_01549	CDS	552				hypothetical protein
+AOMBIHOA_01550	CDS	1671	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+AOMBIHOA_01551	CDS	240				hypothetical protein
+AOMBIHOA_01552	CDS	1113	padG	1.2.1.58		NADH-dependent phenylglyoxylate dehydrogenase subunit alpha
+AOMBIHOA_01553	CDS	1461				hypothetical protein
+AOMBIHOA_01554	CDS	1311				hypothetical protein
+AOMBIHOA_01555	CDS	1866	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+AOMBIHOA_01556	CDS	687				hypothetical protein
+AOMBIHOA_01557	CDS	915	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+AOMBIHOA_01558	CDS	489				hypothetical protein
+AOMBIHOA_01559	CDS	573	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+AOMBIHOA_01560	CDS	267				hypothetical protein
+AOMBIHOA_01561	CDS	927	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+AOMBIHOA_01562	CDS	1176				hypothetical protein
+AOMBIHOA_01563	CDS	1032				hypothetical protein
+AOMBIHOA_01564	CDS	489				hypothetical protein
+AOMBIHOA_01565	CDS	1473	leuA_2	2.3.3.13	COG0119	2-isopropylmalate synthase
+AOMBIHOA_01566	CDS	1038				hypothetical protein
+AOMBIHOA_01567	CDS	1050				hypothetical protein
+AOMBIHOA_01568	CDS	1254	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+AOMBIHOA_01569	CDS	483				hypothetical protein
+AOMBIHOA_01570	CDS	435				hypothetical protein
+AOMBIHOA_01571	CDS	1224				hypothetical protein
+AOMBIHOA_01572	CDS	441				hypothetical protein
+AOMBIHOA_01573	CDS	1437	murC_2	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+AOMBIHOA_01574	CDS	1083	mraY_2	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+AOMBIHOA_01575	CDS	1104	ddl	6.3.2.4		D-alanine--D-alanine ligase
+AOMBIHOA_01576	CDS	426	hycI	3.4.23.51	COG0680	Hydrogenase 3 maturation protease
+AOMBIHOA_01577	CDS	798				hypothetical protein
+AOMBIHOA_01578	CDS	444				Putative nickel-responsive regulator
+AOMBIHOA_01579	CDS	468				hypothetical protein
+AOMBIHOA_01580	CDS	228				hypothetical protein
+AOMBIHOA_01581	CDS	333				hypothetical protein
+AOMBIHOA_01582	CDS	426				hypothetical protein
+AOMBIHOA_01583	CDS	552				hypothetical protein
+AOMBIHOA_01584	CDS	1497				hypothetical protein
+AOMBIHOA_01585	CDS	675				hypothetical protein
+AOMBIHOA_01586	CDS	918	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+AOMBIHOA_01587	CDS	588	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+AOMBIHOA_01588	CDS	465				hypothetical protein
+AOMBIHOA_01589	CDS	1002	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+AOMBIHOA_01590	CDS	1479	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+AOMBIHOA_01591	CDS	879	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+AOMBIHOA_01592	CDS	102				hypothetical protein
+AOMBIHOA_01593	CDS	1020	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase 1
+AOMBIHOA_01594	CDS	711	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+AOMBIHOA_01595	CDS	603	COQ5_5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+AOMBIHOA_01596	CDS	105				hypothetical protein
+AOMBIHOA_01597	CDS	1221	argJ		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+AOMBIHOA_01598	CDS	270				hypothetical protein
+AOMBIHOA_01599	CDS	1203				hypothetical protein
+AOMBIHOA_01600	CDS	1026				hypothetical protein
+AOMBIHOA_01601	CDS	744	cpdA_4	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+AOMBIHOA_01602	CDS	351				hypothetical protein
+AOMBIHOA_01603	CDS	1425	bchE	1.21.98.3	COG1032	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+AOMBIHOA_01604	CDS	111				hypothetical protein
+AOMBIHOA_01605	CDS	1614	putP			Sodium/proline symporter
+AOMBIHOA_01606	CDS	1302		6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+AOMBIHOA_01607	CDS	432				hypothetical protein
+AOMBIHOA_01608	CDS	324				hypothetical protein
+AOMBIHOA_01609	CDS	279				hypothetical protein
+AOMBIHOA_01610	CDS	585				hypothetical protein
+AOMBIHOA_01611	CDS	1899				hypothetical protein
+AOMBIHOA_01612	CDS	1482	lutA			Lactate utilization protein A
+AOMBIHOA_01613	CDS	906	trmH	2.1.1.34		tRNA (guanosine(18)-2'-O)-methyltransferase
+AOMBIHOA_01614	CDS	822	rsxB_8	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+AOMBIHOA_01615	CDS	1347	pyrP			Uracil permease
+AOMBIHOA_01616	CDS	627	upp	2.4.2.9		Uracil phosphoribosyltransferase
+AOMBIHOA_01617	CDS	789				hypothetical protein
+AOMBIHOA_01618	CDS	1374				hypothetical protein
+AOMBIHOA_01619	CDS	594	dcd_2	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+AOMBIHOA_01620	CDS	1695				hypothetical protein
+AOMBIHOA_01621	CDS	771				hypothetical protein
+AOMBIHOA_01622	CDS	756				hypothetical protein
+AOMBIHOA_01623	CDS	450				hypothetical protein
+AOMBIHOA_01624	CDS	1050				hypothetical protein
+AOMBIHOA_01625	CDS	945				hypothetical protein
+AOMBIHOA_01626	CDS	582				hypothetical protein
+AOMBIHOA_01627	CDS	444				hypothetical protein
+AOMBIHOA_01628	CDS	4245				hypothetical protein
+AOMBIHOA_01629	CDS	1131				hypothetical protein
+AOMBIHOA_01630	CDS	480				hypothetical protein
+AOMBIHOA_01631	CDS	1386				hypothetical protein
+AOMBIHOA_01632	CDS	417				hypothetical protein
+AOMBIHOA_01633	CDS	369				hypothetical protein
+AOMBIHOA_01634	CDS	678	pyrH			Uridylate kinase
+AOMBIHOA_01635	CDS	792	tatD	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+AOMBIHOA_01636	CDS	192				hypothetical protein
+AOMBIHOA_01637	CDS	324				hypothetical protein
+AOMBIHOA_01638	CDS	855				hypothetical protein
+AOMBIHOA_01639	CDS	813				hypothetical protein
+AOMBIHOA_01640	CDS	1083				hypothetical protein
+AOMBIHOA_01641	CDS	1905				hypothetical protein
+AOMBIHOA_01642	CDS	933				hypothetical protein
+AOMBIHOA_01643	CDS	288				hypothetical protein
+AOMBIHOA_01644	CDS	738	rraA			Regulator of ribonuclease activity A
+AOMBIHOA_01645	CDS	1260				hypothetical protein
+AOMBIHOA_01646	CDS	909	xerC_3			Tyrosine recombinase XerC
+AOMBIHOA_01647	CDS	606				hypothetical protein
+AOMBIHOA_01648	CDS	390				hypothetical protein
+AOMBIHOA_01649	tRNA	74				tRNA-Gln(ttg)
+AOMBIHOA_01650	CDS	1176	carB_1			Carbamoyl-phosphate synthase large chain
+AOMBIHOA_01651	CDS	153				hypothetical protein
+AOMBIHOA_01652	CDS	696	ntpD			V-type sodium ATPase subunit D
+AOMBIHOA_01653	CDS	1389	ntpB			V-type sodium ATPase subunit B
+AOMBIHOA_01654	CDS	1755	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+AOMBIHOA_01655	CDS	318	atpF			V-type ATP synthase subunit F
+AOMBIHOA_01656	CDS	1155	atpC			V-type ATP synthase subunit C
+AOMBIHOA_01657	CDS	627	atpE			V-type proton ATPase subunit E
+AOMBIHOA_01658	CDS	486	ntpK			V-type sodium ATPase subunit K
+AOMBIHOA_01659	CDS	2004				hypothetical protein
+AOMBIHOA_01660	CDS	315				hypothetical protein
+AOMBIHOA_01661	CDS	348				hypothetical protein
+AOMBIHOA_01662	CDS	336				hypothetical protein
+AOMBIHOA_01663	CDS	339				hypothetical protein
+AOMBIHOA_01664	CDS	507	nfrA2_2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+AOMBIHOA_01665	CDS	807	citZ	2.3.3.16	COG0372	Citrate synthase 2
+AOMBIHOA_01666	CDS	873				hypothetical protein
+AOMBIHOA_01667	CDS	903				hypothetical protein
+AOMBIHOA_01668	CDS	1398				hypothetical protein
+AOMBIHOA_01669	CDS	492				hypothetical protein
+AOMBIHOA_01670	CDS	912				hypothetical protein
+AOMBIHOA_01671	CDS	1266				hypothetical protein
+AOMBIHOA_01672	CDS	942				hypothetical protein
+AOMBIHOA_01673	CDS	399				hypothetical protein
+AOMBIHOA_01674	CDS	750				hypothetical protein
+AOMBIHOA_01675	CDS	342				hypothetical protein
+AOMBIHOA_01676	CDS	1575	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+AOMBIHOA_01677	CDS	345				hypothetical protein
+AOMBIHOA_01678	CDS	711				hypothetical protein
+AOMBIHOA_01679	CDS	720				hypothetical protein
+AOMBIHOA_01680	CDS	765	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+AOMBIHOA_01681	CDS	408				hypothetical protein
+AOMBIHOA_01682	CDS	723				hypothetical protein
+AOMBIHOA_01683	CDS	1413	gapN	1.2.1.9	COG1012	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+AOMBIHOA_01684	CDS	603				Potassium channel
+AOMBIHOA_01685	CDS	564				Potassium channel
+AOMBIHOA_01686	CDS	186				hypothetical protein
+AOMBIHOA_01687	CDS	921				hypothetical protein
+AOMBIHOA_01688	CDS	1029		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+AOMBIHOA_01689	CDS	201				hypothetical protein
+AOMBIHOA_01690	CDS	753				hypothetical protein
+AOMBIHOA_01691	CDS	759				hypothetical protein
+AOMBIHOA_01692	CDS	228				hypothetical protein
+AOMBIHOA_01693	CDS	639				hypothetical protein
+AOMBIHOA_01694	CDS	1200				hypothetical protein
+AOMBIHOA_01695	CDS	654				hypothetical protein
+AOMBIHOA_01696	CDS	1011	tilS	6.3.4.19		tRNA(Ile)-lysidine synthase
+AOMBIHOA_01697	CDS	465				hypothetical protein
+AOMBIHOA_01698	CDS	840	IMPDH_7	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+AOMBIHOA_01699	CDS	426	teaD		COG0589	TRAP-T-associated universal stress protein TeaD
+AOMBIHOA_01700	CDS	1158	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+AOMBIHOA_01701	CDS	759				hypothetical protein
+AOMBIHOA_01702	CDS	3177	carB_2	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+AOMBIHOA_01703	CDS	1083	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+AOMBIHOA_01704	CDS	663	cmoA	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+AOMBIHOA_01705	CDS	831	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+AOMBIHOA_01706	CDS	903	rnz	3.1.26.11	COG1234	Ribonuclease Z
+AOMBIHOA_01707	CDS	744				hypothetical protein
+AOMBIHOA_01708	CDS	954	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+AOMBIHOA_01709	CDS	279				hypothetical protein
+AOMBIHOA_01710	CDS	990	metXA_2	2.3.1.46		Homoserine O-acetyltransferase
+AOMBIHOA_01711	CDS	783	nucS	3.1.-.-		Endonuclease NucS
+AOMBIHOA_01712	CDS	480				hypothetical protein
+AOMBIHOA_01713	CDS	699				hypothetical protein
+AOMBIHOA_01714	CDS	825	nit1	3.5.1.128		Deaminated glutathione amidase
+AOMBIHOA_01715	CDS	852				hypothetical protein
+AOMBIHOA_01716	CDS	2601	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+AOMBIHOA_01717	CDS	468				hypothetical protein
+AOMBIHOA_01718	CDS	369				hypothetical protein
+AOMBIHOA_01719	CDS	408				hypothetical protein
+AOMBIHOA_01720	CDS	1092				hypothetical protein
+AOMBIHOA_01721	CDS	531				hypothetical protein
+AOMBIHOA_01722	CDS	618	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+AOMBIHOA_01723	CDS	423				hypothetical protein
+AOMBIHOA_01724	CDS	2001				hypothetical protein
+AOMBIHOA_01725	CDS	408				hypothetical protein
+AOMBIHOA_01726	CDS	1044				hypothetical protein
+AOMBIHOA_01727	CDS	960				hypothetical protein
+AOMBIHOA_01728	CDS	210				hypothetical protein
+AOMBIHOA_01729	CDS	1386				hypothetical protein
+AOMBIHOA_01730	CDS	828				hypothetical protein
+AOMBIHOA_01731	CDS	1605				hypothetical protein
+AOMBIHOA_01732	CDS	1005	hemE	4.1.1.37		Uroporphyrinogen decarboxylase
+AOMBIHOA_01733	CDS	552				hypothetical protein
+AOMBIHOA_01734	CDS	579	tmk_2	2.7.4.9	COG0125	Thymidylate kinase
+AOMBIHOA_01735	CDS	1479				hypothetical protein
+AOMBIHOA_01736	CDS	2514				hypothetical protein
+AOMBIHOA_01737	CDS	2376				hypothetical protein
+AOMBIHOA_01738	CDS	1926	mutS2	3.1.-.-		Endonuclease MutS2
+AOMBIHOA_01739	CDS	1653	ubiB	2.7.-.-		protein kinase UbiB
+AOMBIHOA_01740	CDS	1452				hypothetical protein
+AOMBIHOA_01741	CDS	345				hypothetical protein
+AOMBIHOA_01742	CDS	237				hypothetical protein
+AOMBIHOA_01743	CDS	198				hypothetical protein
+AOMBIHOA_01744	CDS	132				hypothetical protein
+AOMBIHOA_01745	CDS	147				hypothetical protein
+AOMBIHOA_01746	CDS	600				hypothetical protein
+AOMBIHOA_01747	CDS	687				hypothetical protein
+AOMBIHOA_01748	CDS	891				hypothetical protein
+AOMBIHOA_01749	CDS	600				hypothetical protein
+AOMBIHOA_01750	CDS	1740				hypothetical protein
+AOMBIHOA_01751	CDS	312				hypothetical protein
+AOMBIHOA_01752	CDS	729				hypothetical protein
+AOMBIHOA_01753	CDS	354				hypothetical protein
+AOMBIHOA_01754	CDS	792				hypothetical protein
+AOMBIHOA_01755	CDS	1728				IS1634 family transposase ISSeq4
+AOMBIHOA_01756	CDS	420				hypothetical protein

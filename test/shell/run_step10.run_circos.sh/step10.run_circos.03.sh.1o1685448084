@@ -1,0 +1,43 @@
+debuggroup summary 0.28s welcome to circos v0.69-8 15 Jun 2019 on Perl 5.032001
+debuggroup summary 0.29s current working directory /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__Anaerobutyricum_hallii
+debuggroup summary 0.29s command /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/circos -conf circos.conf
+debuggroup summary 0.29s loading configuration from file circos.conf
+debuggroup summary 0.29s found conf file circos.conf
+debuggroup summary 0.57s debug will appear for these features: output,summary
+debuggroup summary 0.58s bitmap output image ./sample.png
+debuggroup summary 0.58s SVG output image ./sample.svg
+debuggroup summary 0.58s parsing karyotype and organizing ideograms
+debuggroup summary 0.61s karyotype has 212 chromosomes of total size 3,328,410
+
+  *** CIRCOS ERROR ***
+
+      cwd:
+      /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/result_stat/circos/s__Anaerobutyricum_hallii
+
+      command: /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/circos -conf
+      circos.conf
+
+  You have asked to draw [212] ideograms, but the maximum is currently set at
+  [200]. To increase this number change max_ideograms in etc/housekeeping.conf.
+  Keep in mind that drawing that many ideograms may create an image that is too
+  busy and uninterpretable.
+
+  If you are having trouble debugging this error, first read the best practices
+  tutorial for helpful tips that address many common problems
+
+      http://www.circos.ca/documentation/tutorials/reference/best_practices
+
+  The debugging facility is helpful to figure out what's happening under the
+  hood
+
+      http://www.circos.ca/documentation/tutorials/configuration/debugging
+
+  If you're still stumped, get support in the Circos Google Group.
+
+      http://groups.google.com/group/circos-data-visualization
+
+  Please include this error, all your configuration, data files and the version
+  of Circos you're running (circos -v). Do not email me directly -- please use
+  the group.
+
+  Stack trace:

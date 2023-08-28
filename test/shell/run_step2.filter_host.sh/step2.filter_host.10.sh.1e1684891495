@@ -1,0 +1,32 @@
+[M::main::12.905*1.00] loaded/built the index for 297 target sequence(s)
+[M::mm_mapopt_update::14.560*1.00] mid_occ = 632
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 297
+[M::mm_idx_stat::15.565*1.00] distinct minimizers: 100072682 (37.75% are singletons); average occurrences: 5.634; average spacing: 5.738; total length: 3234834689
+[M::worker_pipeline::63.917*2.40] mapped 50386 sequences
+[M::worker_pipeline::100.245*2.71] mapped 50108 sequences
+[M::worker_pipeline::137.777*2.87] mapped 50445 sequences
+[M::worker_pipeline::174.881*2.96] mapped 50247 sequences
+[M::worker_pipeline::211.557*3.01] mapped 50416 sequences
+[M::worker_pipeline::248.243*3.05] mapped 50172 sequences
+[M::worker_pipeline::284.525*3.08] mapped 49963 sequences
+[M::worker_pipeline::321.793*3.11] mapped 49820 sequences
+[M::worker_pipeline::358.310*3.10] mapped 50191 sequences
+[M::worker_pipeline::358.360*3.10] mapped 1708 sequences
+[M::main] Version: 2.24-r1122
+[M::main] CMD: minimap2 -a /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/GRCh37_latest_genomic.fna.gz.min /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//qc/Samp10/ONT_Samp10.fastq.gz
+[M::main] Real time: 359.173 sec; CPU: 1110.380 sec; Peak RSS: 9.530 GB
+27931896 reads; of these:
+  27931896 (100.00%) were paired; of these:
+    27881855 (99.82%) aligned concordantly 0 times
+    41332 (0.15%) aligned concordantly exactly 1 time
+    8709 (0.03%) aligned concordantly >1 times
+    ----
+    27881855 pairs aligned concordantly 0 times; of these:
+      599 (0.00%) aligned discordantly 1 time
+    ----
+    27881256 pairs aligned 0 times concordantly or discordantly; of these:
+      55762512 mates make up the pairs; of these:
+        55758962 (99.99%) aligned 0 times
+        1388 (0.00%) aligned exactly 1 time
+        2162 (0.00%) aligned >1 times
+0.19% overall alignment rate

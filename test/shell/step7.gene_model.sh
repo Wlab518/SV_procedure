@@ -1,0 +1,1 @@
+mkdir -p /opt/project//gene_model && cd /opt/project//gene_model && source /data/liyuejuan/miniconda3//etc/profile.d/conda.sh && conda activate mySVenv_python3 && for i in `ls /opt/project//drep_bins/dereplicated_genomes/*.fa`; do file=`basename $i`; prokka $i --outdir $file --prefix $file; done && conda deactivate

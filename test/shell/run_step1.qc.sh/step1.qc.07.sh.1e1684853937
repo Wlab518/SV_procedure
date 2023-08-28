@@ -1,0 +1,457 @@
+No quality encoding type selected. Assuming that the data provided uses Sanger encoded Phred scores (default)
+
+Path to Cutadapt set as: 'cutadapt' (default)
+Cutadapt seems to be working fine (tested command 'cutadapt --version')
+
+
+AUTO-DETECTING ADAPTER TYPE
+===========================
+Attempting to auto-detect adapter type from the first 1 million sequences of the first file (>> /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R1.fastq.gz <<)
+
+Found perfect matches for the following adapter sequences:
+Adapter type	Count	Sequence	Sequences analysed	Percentage
+Nextera	10	CTGTCTCTTATA	1000000	0.00
+smallRNA	6	TGGAATTCTCGG	1000000	0.00
+Illumina	2	AGATCGGAAGAGC	1000000	0.00
+Using Nextera adapter for trimming (count: 10). Second best hit was smallRNA (count: 6)
+
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R1.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.5.0
+Cutadapt version: 1.18
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'CTGTCTCTTATA' (Nextera Transposase sequence; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Writing final adapter and quality trimmed output to NGS_Samp7_R1_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff 20) and adapter trimming in a single pass for the adapter sequence: 'CTGTCTCTTATA' from file /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R1.fastq.gz <<< 
+10000000 sequences processed
+20000000 sequences processed
+This is cutadapt 1.18 with Python 2.7.15
+Command line parameters: -f fastq -e 0.1 -q 20 -O 1 -a CTGTCTCTTATA /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R1.fastq.gz
+Processing reads on 1 core in single-end mode ...
+Finished in 809.24 s (31 us/read; 1.94 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              26,170,460
+Reads with adapters:                 8,211,976 (31.4%)
+Reads written (passing filters):    26,170,460 (100.0%)
+
+Total basepairs processed: 3,925,569,000 bp
+Quality-trimmed:               1,366,349 bp (0.0%)
+Total written (filtered):  3,911,978,627 bp (99.7%)
+
+=== Adapter 1 ===
+
+Sequence: CTGTCTCTTATA; Type: regular 3'; Length: 12; Trimmed: 8211976 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-12 bp: 1
+
+Bases preceding removed adapters:
+  A: 21.7%
+  C: 24.0%
+  G: 27.0%
+  T: 27.3%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	6196970	6542615.0	0	6196970
+2	1425019	1635653.8	0	1425019
+3	441724	408913.4	0	441724
+4	99850	102228.4	0	99850
+5	23724	25557.1	0	23724
+6	5650	6389.3	0	5650
+7	1131	1597.3	0	1131
+8	363	399.3	0	363
+9	627	99.8	0	129 498
+10	732	25.0	1	15 717
+11	317	6.2	1	3 314
+12	147	1.6	1	0 147
+13	106	1.6	1	1 105
+14	106	1.6	1	0 106
+15	125	1.6	1	1 124
+16	142	1.6	1	2 140
+17	135	1.6	1	2 133
+18	99	1.6	1	1 98
+19	128	1.6	1	0 128
+20	102	1.6	1	1 101
+21	115	1.6	1	1 114
+22	136	1.6	1	2 134
+23	124	1.6	1	2 122
+24	103	1.6	1	3 100
+25	129	1.6	1	2 127
+26	123	1.6	1	1 122
+27	117	1.6	1	2 115
+28	119	1.6	1	0 119
+29	141	1.6	1	1 140
+30	117	1.6	1	3 114
+31	115	1.6	1	2 113
+32	98	1.6	1	3 95
+33	121	1.6	1	0 121
+34	123	1.6	1	1 122
+35	95	1.6	1	0 95
+36	115	1.6	1	1 114
+37	136	1.6	1	2 134
+38	121	1.6	1	1 120
+39	118	1.6	1	1 117
+40	103	1.6	1	1 102
+41	116	1.6	1	1 115
+42	113	1.6	1	0 113
+43	95	1.6	1	0 95
+44	126	1.6	1	5 121
+45	123	1.6	1	4 119
+46	132	1.6	1	1 131
+47	117	1.6	1	0 117
+48	100	1.6	1	0 100
+49	130	1.6	1	1 129
+50	121	1.6	1	0 121
+51	116	1.6	1	3 113
+52	113	1.6	1	2 111
+53	109	1.6	1	1 108
+54	117	1.6	1	5 112
+55	117	1.6	1	0 117
+56	104	1.6	1	2 102
+57	118	1.6	1	1 117
+58	119	1.6	1	2 117
+59	126	1.6	1	0 126
+60	102	1.6	1	1 101
+61	111	1.6	1	0 111
+62	108	1.6	1	0 108
+63	104	1.6	1	2 102
+64	96	1.6	1	0 96
+65	111	1.6	1	0 111
+66	109	1.6	1	1 108
+67	104	1.6	1	2 102
+68	115	1.6	1	0 115
+69	125	1.6	1	0 125
+70	112	1.6	1	0 112
+71	100	1.6	1	3 97
+72	98	1.6	1	2 96
+73	129	1.6	1	0 129
+74	111	1.6	1	1 110
+75	109	1.6	1	1 108
+76	108	1.6	1	1 107
+77	131	1.6	1	2 129
+78	91	1.6	1	1 90
+79	103	1.6	1	0 103
+80	127	1.6	1	2 125
+81	127	1.6	1	1 126
+82	112	1.6	1	0 112
+83	87	1.6	1	0 87
+84	114	1.6	1	1 113
+85	115	1.6	1	0 115
+86	122	1.6	1	5 117
+87	113	1.6	1	3 110
+88	127	1.6	1	1 126
+89	110	1.6	1	0 110
+90	120	1.6	1	1 119
+91	118	1.6	1	2 116
+92	102	1.6	1	0 102
+93	109	1.6	1	2 107
+94	101	1.6	1	0 101
+95	126	1.6	1	0 126
+96	111	1.6	1	0 111
+97	125	1.6	1	0 125
+98	97	1.6	1	0 97
+99	106	1.6	1	0 106
+100	118	1.6	1	0 118
+101	156	1.6	1	2 154
+102	144	1.6	1	0 144
+103	99	1.6	1	2 97
+104	92	1.6	1	1 91
+105	111	1.6	1	0 111
+106	124	1.6	1	1 123
+107	116	1.6	1	2 114
+108	96	1.6	1	0 96
+109	106	1.6	1	0 106
+110	101	1.6	1	2 99
+111	121	1.6	1	1 120
+112	90	1.6	1	0 90
+113	116	1.6	1	0 116
+114	127	1.6	1	1 126
+115	133	1.6	1	4 129
+116	95	1.6	1	2 93
+117	123	1.6	1	3 120
+118	125	1.6	1	0 125
+119	95	1.6	1	0 95
+120	110	1.6	1	2 108
+121	106	1.6	1	1 105
+122	108	1.6	1	1 107
+123	103	1.6	1	0 103
+124	130	1.6	1	2 128
+125	95	1.6	1	2 93
+126	107	1.6	1	0 107
+127	118	1.6	1	2 116
+128	92	1.6	1	4 88
+129	105	1.6	1	0 105
+130	95	1.6	1	3 92
+131	108	1.6	1	2 106
+132	129	1.6	1	0 129
+133	117	1.6	1	1 116
+134	96	1.6	1	0 96
+135	135	1.6	1	1 134
+136	114	1.6	1	1 113
+137	102	1.6	1	1 101
+138	107	1.6	1	0 107
+139	115	1.6	1	2 113
+140	111	1.6	1	0 111
+141	119	1.6	1	2 117
+142	142	1.6	1	1 141
+143	115	1.6	1	0 115
+144	100	1.6	1	0 100
+145	116	1.6	1	0 116
+146	119	1.6	1	2 117
+147	110	1.6	1	1 109
+148	124	1.6	1	3 121
+149	118	1.6	1	3 115
+150	98	1.6	1	0 98
+
+
+RUN STATISTICS FOR INPUT FILE: /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R1.fastq.gz
+=============================================
+26170460 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R2.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.5.0
+Cutadapt version: 1.18
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'CTGTCTCTTATA' (Nextera Transposase sequence; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Writing final adapter and quality trimmed output to NGS_Samp7_R2_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff 20) and adapter trimming in a single pass for the adapter sequence: 'CTGTCTCTTATA' from file /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R2.fastq.gz <<< 
+10000000 sequences processed
+20000000 sequences processed
+This is cutadapt 1.18 with Python 2.7.15
+Command line parameters: -f fastq -e 0.1 -q 20 -O 1 -a CTGTCTCTTATA /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R2.fastq.gz
+Processing reads on 1 core in single-end mode ...
+Finished in 831.52 s (32 us/read; 1.89 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              26,170,460
+Reads with adapters:                 8,196,013 (31.3%)
+Reads written (passing filters):    26,170,460 (100.0%)
+
+Total basepairs processed: 3,925,569,000 bp
+Quality-trimmed:               1,798,302 bp (0.0%)
+Total written (filtered):  3,911,557,074 bp (99.6%)
+
+=== Adapter 1 ===
+
+Sequence: CTGTCTCTTATA; Type: regular 3'; Length: 12; Trimmed: 8196013 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-12 bp: 1
+
+Bases preceding removed adapters:
+  A: 21.8%
+  C: 23.9%
+  G: 27.0%
+  T: 27.2%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	6167300	6542615.0	0	6167300
+2	1436085	1635653.8	0	1436085
+3	442823	408913.4	0	442823
+4	101172	102228.4	0	101172
+5	24021	25557.1	0	24021
+6	5622	6389.3	0	5622
+7	1113	1597.3	0	1113
+8	351	399.3	0	351
+9	645	99.8	0	131 514
+10	764	25.0	1	17 747
+11	370	6.2	1	3 367
+12	161	1.6	1	0 161
+13	136	1.6	1	2 134
+14	97	1.6	1	0 97
+15	132	1.6	1	3 129
+16	111	1.6	1	3 108
+17	122	1.6	1	4 118
+18	142	1.6	1	0 142
+19	123	1.6	1	3 120
+20	102	1.6	1	0 102
+21	112	1.6	1	2 110
+22	148	1.6	1	2 146
+23	150	1.6	1	3 147
+24	93	1.6	1	1 92
+25	109	1.6	1	1 108
+26	128	1.6	1	1 127
+27	128	1.6	1	0 128
+28	93	1.6	1	1 92
+29	127	1.6	1	3 124
+30	119	1.6	1	1 118
+31	110	1.6	1	0 110
+32	114	1.6	1	0 114
+33	120	1.6	1	0 120
+34	98	1.6	1	2 96
+35	99	1.6	1	1 98
+36	109	1.6	1	0 109
+37	114	1.6	1	0 114
+38	136	1.6	1	1 135
+39	142	1.6	1	0 142
+40	104	1.6	1	0 104
+41	118	1.6	1	4 114
+42	98	1.6	1	0 98
+43	125	1.6	1	0 125
+44	134	1.6	1	3 131
+45	123	1.6	1	1 122
+46	111	1.6	1	1 110
+47	98	1.6	1	1 97
+48	119	1.6	1	1 118
+49	103	1.6	1	0 103
+50	118	1.6	1	1 117
+51	125	1.6	1	0 125
+52	111	1.6	1	2 109
+53	120	1.6	1	1 119
+54	85	1.6	1	1 84
+55	107	1.6	1	4 103
+56	110	1.6	1	0 110
+57	131	1.6	1	1 130
+58	111	1.6	1	0 111
+59	100	1.6	1	2 98
+60	99	1.6	1	3 96
+61	114	1.6	1	3 111
+62	114	1.6	1	0 114
+63	105	1.6	1	0 105
+64	126	1.6	1	3 123
+65	105	1.6	1	1 104
+66	108	1.6	1	0 108
+67	97	1.6	1	0 97
+68	116	1.6	1	1 115
+69	117	1.6	1	0 117
+70	104	1.6	1	0 104
+71	112	1.6	1	6 106
+72	99	1.6	1	1 98
+73	97	1.6	1	0 97
+74	110	1.6	1	0 110
+75	96	1.6	1	0 96
+76	92	1.6	1	1 91
+77	95	1.6	1	0 95
+78	114	1.6	1	1 113
+79	143	1.6	1	1 142
+80	122	1.6	1	0 122
+81	105	1.6	1	1 104
+82	120	1.6	1	0 120
+83	120	1.6	1	3 117
+84	115	1.6	1	0 115
+85	140	1.6	1	2 138
+86	136	1.6	1	3 133
+87	106	1.6	1	2 104
+88	110	1.6	1	4 106
+89	104	1.6	1	3 101
+90	124	1.6	1	1 123
+91	123	1.6	1	2 121
+92	128	1.6	1	0 128
+93	114	1.6	1	0 114
+94	122	1.6	1	2 120
+95	104	1.6	1	3 101
+96	86	1.6	1	1 85
+97	118	1.6	1	0 118
+98	83	1.6	1	2 81
+99	109	1.6	1	2 107
+100	110	1.6	1	0 110
+101	132	1.6	1	1 131
+102	125	1.6	1	2 123
+103	101	1.6	1	0 101
+104	102	1.6	1	1 101
+105	113	1.6	1	2 111
+106	111	1.6	1	1 110
+107	112	1.6	1	3 109
+108	111	1.6	1	1 110
+109	122	1.6	1	1 121
+110	109	1.6	1	0 109
+111	121	1.6	1	2 119
+112	126	1.6	1	0 126
+113	87	1.6	1	1 86
+114	102	1.6	1	2 100
+115	107	1.6	1	1 106
+116	124	1.6	1	0 124
+117	126	1.6	1	0 126
+118	92	1.6	1	0 92
+119	133	1.6	1	1 132
+120	105	1.6	1	0 105
+121	100	1.6	1	0 100
+122	106	1.6	1	1 105
+123	113	1.6	1	2 111
+124	110	1.6	1	1 109
+125	98	1.6	1	2 96
+126	109	1.6	1	0 109
+127	96	1.6	1	0 96
+128	110	1.6	1	0 110
+129	99	1.6	1	0 99
+130	96	1.6	1	5 91
+131	104	1.6	1	0 104
+132	117	1.6	1	4 113
+133	132	1.6	1	2 130
+134	125	1.6	1	1 124
+135	121	1.6	1	0 121
+136	136	1.6	1	1 135
+137	77	1.6	1	0 77
+138	104	1.6	1	2 102
+139	94	1.6	1	0 94
+140	116	1.6	1	1 115
+141	126	1.6	1	0 126
+142	136	1.6	1	0 136
+143	103	1.6	1	0 103
+144	115	1.6	1	3 112
+145	107	1.6	1	2 105
+146	121	1.6	1	1 120
+147	108	1.6	1	1 107
+148	94	1.6	1	2 92
+149	124	1.6	1	1 123
+150	101	1.6	1	2 99
+
+
+RUN STATISTICS FOR INPUT FILE: /data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp7_R2.fastq.gz
+=============================================
+26170460 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Validate paired-end files NGS_Samp7_R1_trimmed.fq.gz and NGS_Samp7_R2_trimmed.fq.gz
+file_1: NGS_Samp7_R1_trimmed.fq.gz, file_2: NGS_Samp7_R2_trimmed.fq.gz
+
+
+>>>>> Now validing the length of the 2 paired-end infiles: NGS_Samp7_R1_trimmed.fq.gz and NGS_Samp7_R2_trimmed.fq.gz <<<<<
+Writing validated paired-end read 1 reads to NGS_Samp7_R1_val_1.fq.gz
+Writing validated paired-end read 2 reads to NGS_Samp7_R2_val_2.fq.gz
+
+Total number of sequences analysed: 26170460
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 4565 (0.02%)
+
+Deleting both intermediate output files NGS_Samp7_R1_trimmed.fq.gz and NGS_Samp7_R2_trimmed.fq.gz
+
+====================================================================================================
+
+mv: cannot stat '/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//qc/Samp7/NGS_Samp7_1_val_1.fq': No such file or directory
+mv: cannot stat '/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//qc/Samp7/NGS_Samp7_2_val_2.fq': No such file or directory
+
+real	50m29.153s
+user	107m16.606s
+sys	2m29.969s

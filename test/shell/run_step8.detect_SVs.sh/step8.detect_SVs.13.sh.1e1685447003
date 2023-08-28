@@ -1,0 +1,210 @@
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp10.bin.15.orig.fa_run_ref.ntref" of length 4659922
+# construct suffix tree for sequence of length 4659922
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 46599 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp10.bin.15.orig.fa_run_ref.ntref 2.56
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp10.bin.15.orig.fa" of length 4790261
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp10.bin.15.orig.fa"
+# against subject-file "query_Samp10.bin.15.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp10.bin.15.orig.fa_run_ref.ntref 8.44
+# SPACE /usr/bin/mummer query_Samp10.bin.15.orig.fa_run_ref.ntref 9.16
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp10.bin.15.orig.fa_run_query.ntref" of length 4790262
+# construct suffix tree for sequence of length 4790262
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 47902 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp10.bin.15.orig.fa_run_query.ntref 2.80
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa" of length 4659921
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa"
+# against subject-file "query_Samp10.bin.15.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp10.bin.15.orig.fa_run_query.ntref 7.79
+# SPACE /usr/bin/mummer query_Samp10.bin.15.orig.fa_run_query.ntref 9.16
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp2.bin.1.orig.fa_run_ref.ntref" of length 4659922
+# construct suffix tree for sequence of length 4659922
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 46599 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp2.bin.1.orig.fa_run_ref.ntref 2.95
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp2.bin.1.orig.fa" of length 4308683
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp2.bin.1.orig.fa"
+# against subject-file "query_Samp2.bin.1.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp2.bin.1.orig.fa_run_ref.ntref 7.33
+# SPACE /usr/bin/mummer query_Samp2.bin.1.orig.fa_run_ref.ntref 8.70
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp2.bin.1.orig.fa_run_query.ntref" of length 4308684
+# construct suffix tree for sequence of length 4308684
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 43086 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp2.bin.1.orig.fa_run_query.ntref 2.35
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa" of length 4659921
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa"
+# against subject-file "query_Samp2.bin.1.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp2.bin.1.orig.fa_run_query.ntref 8.80
+# SPACE /usr/bin/mummer query_Samp2.bin.1.orig.fa_run_query.ntref 8.70
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp3.bin.6.orig.fa_run_ref.ntref" of length 4659922
+# construct suffix tree for sequence of length 4659922
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 46599 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp3.bin.6.orig.fa_run_ref.ntref 2.09
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp3.bin.6.orig.fa" of length 3526646
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp3.bin.6.orig.fa"
+# against subject-file "query_Samp3.bin.6.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp3.bin.6.orig.fa_run_ref.ntref 6.11
+# SPACE /usr/bin/mummer query_Samp3.bin.6.orig.fa_run_ref.ntref 7.94
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp3.bin.6.orig.fa_run_query.ntref" of length 3526647
+# construct suffix tree for sequence of length 3526647
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 35266 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp3.bin.6.orig.fa_run_query.ntref 2.19
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa" of length 4659921
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa"
+# against subject-file "query_Samp3.bin.6.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp3.bin.6.orig.fa_run_query.ntref 7.55
+# SPACE /usr/bin/mummer query_Samp3.bin.6.orig.fa_run_query.ntref 7.94
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp4.bin.37.orig.fa_run_ref.ntref" of length 4659922
+# construct suffix tree for sequence of length 4659922
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 46599 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp4.bin.37.orig.fa_run_ref.ntref 2.87
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp4.bin.37.orig.fa" of length 3353509
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp4.bin.37.orig.fa"
+# against subject-file "query_Samp4.bin.37.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp4.bin.37.orig.fa_run_ref.ntref 6.63
+# SPACE /usr/bin/mummer query_Samp4.bin.37.orig.fa_run_ref.ntref 7.77
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp4.bin.37.orig.fa_run_query.ntref" of length 3353510
+# construct suffix tree for sequence of length 3353510
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 33535 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp4.bin.37.orig.fa_run_query.ntref 1.81
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa" of length 4659921
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa"
+# against subject-file "query_Samp4.bin.37.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp4.bin.37.orig.fa_run_query.ntref 7.52
+# SPACE /usr/bin/mummer query_Samp4.bin.37.orig.fa_run_query.ntref 7.77
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp7.bin.26.orig.fa_run_ref.ntref" of length 4659922
+# construct suffix tree for sequence of length 4659922
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 46599 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp7.bin.26.orig.fa_run_ref.ntref 1.93
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp7.bin.26.orig.fa" of length 4551639
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp7.bin.26.orig.fa"
+# against subject-file "query_Samp7.bin.26.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp7.bin.26.orig.fa_run_ref.ntref 7.17
+# SPACE /usr/bin/mummer query_Samp7.bin.26.orig.fa_run_ref.ntref 8.93
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp7.bin.26.orig.fa_run_query.ntref" of length 4551640
+# construct suffix tree for sequence of length 4551640
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 45516 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp7.bin.26.orig.fa_run_query.ntref 2.62
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa" of length 4659921
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa"
+# against subject-file "query_Samp7.bin.26.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp7.bin.26.orig.fa_run_query.ntref 7.62
+# SPACE /usr/bin/mummer query_Samp7.bin.26.orig.fa_run_query.ntref 8.93
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp8.bin.22.orig.fa_run_ref.ntref" of length 4659922
+# construct suffix tree for sequence of length 4659922
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 46599 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp8.bin.22.orig.fa_run_ref.ntref 2.04
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp8.bin.22.orig.fa" of length 4965093
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp8.bin.22.orig.fa"
+# against subject-file "query_Samp8.bin.22.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp8.bin.22.orig.fa_run_ref.ntref 7.11
+# SPACE /usr/bin/mummer query_Samp8.bin.22.orig.fa_run_ref.ntref 9.33
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp8.bin.22.orig.fa_run_query.ntref" of length 4965094
+# construct suffix tree for sequence of length 4965094
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 49650 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp8.bin.22.orig.fa_run_query.ntref 2.41
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa" of length 4659921
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa"
+# against subject-file "query_Samp8.bin.22.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp8.bin.22.orig.fa_run_query.ntref 8.57
+# SPACE /usr/bin/mummer query_Samp8.bin.22.orig.fa_run_query.ntref 9.33
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp9.bin.41.orig.fa_run_ref.ntref" of length 4659922
+# construct suffix tree for sequence of length 4659922
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 46599 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp9.bin.41.orig.fa_run_ref.ntref 2.19
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp9.bin.41.orig.fa" of length 8699957
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/query_Samp9.bin.41.orig.fa"
+# against subject-file "query_Samp9.bin.41.orig.fa_run_ref.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp9.bin.41.orig.fa_run_ref.ntref 12.60
+# SPACE /usr/bin/mummer query_Samp9.bin.41.orig.fa_run_ref.ntref 12.97
+4: FINISHING DATA
+1: PREPARING DATA
+2,3: RUNNING mummer AND CREATING CLUSTERS
+# reading input file "query_Samp9.bin.41.orig.fa_run_query.ntref" of length 8699958
+# construct suffix tree for sequence of length 8699958
+# (maximum reference length is 536870908)
+# (maximum query length is 4294967295)
+# process 86999 characters per dot
+#....................................................................................................
+# CONSTRUCTIONTIME /usr/bin/mummer query_Samp9.bin.41.orig.fa_run_query.ntref 4.75
+# reading input file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa" of length 4659921
+# matching query-file "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test/SVs/s__Phocaeicola_vulgatus/ref_Samp6.bin.15.orig.fa"
+# against subject-file "query_Samp9.bin.41.orig.fa_run_query.ntref"
+# COMPLETETIME /usr/bin/mummer query_Samp9.bin.41.orig.fa_run_query.ntref 9.94
+# SPACE /usr/bin/mummer query_Samp9.bin.41.orig.fa_run_query.ntref 12.95
+4: FINISHING DATA
