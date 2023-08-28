@@ -1,6 +1,0 @@
-Error in file(file, "rt") : cannot open the connection
-Calls: read.table -> file
-In addition: Warning message:
-In file(file, "rt") :
-  cannot open file 'reads_distribution.txt': No such file or directory
-Execution halted

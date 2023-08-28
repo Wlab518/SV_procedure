@@ -1,2 +1,0 @@
-file                                                                                                   format  type    num_seqs        sum_len  min_len  avg_len  max_len   Q1   Q2   Q3  sum_gap  N50  Q20(%)  Q30(%)
-/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/test//rawdata_10ge/NGS_Samp8_R1.fastq.gz  FASTQ   DNA   26,526,602  3,978,990,300      150      150      150  150  150  150        0  150   97.89   93.63

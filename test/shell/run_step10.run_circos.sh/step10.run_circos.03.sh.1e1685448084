@@ -1,3 +1,0 @@
- at /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../lib/Circos/Error.pm line 425, <F> line 212.
-	Circos::Error::fatal_error("ideogram", "max_number", 212, 200) called at /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/../lib/Circos.pm line 342
-	Circos::run("Circos", "_cwd", "/data/liyuejuan/miniconda3/envs/mySVenv_python3/SV_procedure/"..., "_argv", "-conf circos.conf", "configfile", "circos.conf") called at /data/liyuejuan/miniconda3/envs/mySVenv_python2/bin/circos line 536
