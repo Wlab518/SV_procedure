@@ -110,6 +110,20 @@ when the program failure occurs due to a variety of corruption or bugs (such as 
 
 By now, the program will be able to recover from the nearest checkpoint rather than overwrite otherwise usable intermediate files, obviating the need to restart from the beginning of a process.
 
+# Dependencies
+Near Essential
+[metawrap](https://github.com/bxlab/metaWRAP)-(tested with version 1.3.2)
+minimap2-(tested with version 2.1)
+dRep-(tested with version 3.4.3)
+gtdbtk-(tested with version 1.7.0)
+prokka-(tested with version 1.13)
+mumandco-(tested with version 2.4.2)
+Optional
+SPAdes-(tested with version 3.13.0)
+Flye-(tested with version 2.9)
+OPERA-MS-(tested with version 0.9.0)
+
+
 # Examples
 
 The example data is deposited in NCBI SRA database (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA820119) and the example project can be found in the following directory: SV_procedure/test. You can download the example data from the NCBI SRA database according to "SV_procedure/test/sample_info.txt" file. 
