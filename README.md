@@ -111,17 +111,28 @@ when the program failure occurs due to a variety of corruption or bugs (such as 
 By now, the program will be able to recover from the nearest checkpoint rather than overwrite otherwise usable intermediate files, obviating the need to restart from the beginning of a process.
 
 # Dependencies
-Near Essential
+
+Essential
+
 [metawrap](https://github.com/bxlab/metaWRAP)-(tested with version 1.3.2)
-minimap2-(tested with version 2.1)
-dRep-(tested with version 3.4.3)
-gtdbtk-(tested with version 1.7.0)
-prokka-(tested with version 1.13)
-mumandco-(tested with version 2.4.2)
+
+[minimap2](https://github.com/lh3/minimap2)-(tested with version 2.1)
+
+[dRep](https://github.com/MrOlm/drep)-(tested with version 3.4.3)
+
+[gtdbtk](https://github.com/Ecogenomics/GTDBTk)-(tested with version 1.7.0)
+
+[prokka](https://github.com/tseemann/prokka)-(tested with version 1.13)
+
+[mumandco](https://github.com/SAMtoBAM/MUMandCo)-(tested with version 2.4.2)
+
 Optional
-SPAdes-(tested with version 3.13.0)
-Flye-(tested with version 2.9)
-OPERA-MS-(tested with version 0.9.0)
+
+[SPAdes](https://github.com/ablab/spades)-(tested with version 3.13.0)
+
+[Flye](https://github.com/fenderglass/Flye)-(tested with version 2.9)
+
+[OPERA-MS](https://github.com/CSB5/OPERA-MS)-(tested with version 0.9.0)
 
 
 # Examples
