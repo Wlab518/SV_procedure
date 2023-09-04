@@ -4,6 +4,17 @@ MetaSVs is a pipeline combining Nanopore long reads and Illumina short reads to 
 
 ![image](https://github.com/Wlab518/SV_procedure/blob/main/fig/fig1.png)
 
+
+# Installation
+
+To install with Docker, run:
+
+`# Docker installation`
+
+`docker pull wanglab518/metasvs:latest`
+
+![image](https://github.com/Wlab518/SV_procedure/blob/main/fig/fig2.png)
+
 # Databases
 
 In addition to the Docker installation, you will need to configure the paths to some databases that you downloaded onto your system according to the following guide.
@@ -45,17 +56,6 @@ In addition to the Docker installation, you will need to configure the paths to 
 `tar xvzf sqlite3.tar.gz  && tar xvzf seq_pep.tar.gz`
 
 `rm sqlite3.tar.gz seq_pep.tar.gz`
-
-
-# Installation
-
-To install with Docker, run:
-
-`# Docker installation`
-
-`docker pull wanglab518/metasvs:latest`
-
-![image](https://github.com/Wlab518/SV_procedure/blob/main/fig/fig2.png)
 
 
 # Usage
