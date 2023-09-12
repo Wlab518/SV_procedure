@@ -1,0 +1,7 @@
+library(ggplot2)
+data<-read.table("reads_distribution.txt",header=T)
+#png("raeds_distribution.png",height=600,width=700)
+pdf("raeds_distribution.pdf")
+data$distribute=factor(data$distribute,levels=c("0-500","500-800","800-1000","1000-1200","1200-1400","1400-1600","1600-1800","1800-2000","2000-2200","2200-2400","2400-2600","2600-2800","2800-3000",">3000"))
+ggplot(data,aes(x=distribute,y=reads))+geom_bar(stat="identity",colour="blue3",fill="blue3",)+xlab("Length of reads")+ylab("Num of reads")+theme_bw()+labs(title="Reads distribution")+theme(axis.text.x  = element_text(angle=45, vjust=0.5))
+dev.off()
